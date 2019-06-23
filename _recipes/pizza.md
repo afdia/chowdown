@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Pizza"
-image: pizza.jpg
+image: pizza.webp
 tags: Hauptgericht
 
 ingredients:
