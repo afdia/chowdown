@@ -2,6 +2,8 @@
 
 hosted using github pages: https://afdia.github.io/chowdown/
 
+before uploading, compress images using https://squoosh.app/ with WebP output and 2000px width
+
 # Writing a Recipe
 
 The recipes are stored in the collection "Recipes" (the folder /_recipes).
