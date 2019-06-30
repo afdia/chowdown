@@ -20,6 +20,6 @@ directions:
 - Wenn es eine chremige Masse ist, Mehl und Milch hinzufügen und weiter mixen
 - Wenn Teig chremig ist, mit Teigkarte auf Backblech (mit Backpapier) dünn aufstreichen (ca 0,5-1cm hoch)
 - Beliebiges Obst in Hälften Schneiden und gleichmäßig verteilen
-- Ofen auf 180°C vorheizen und Kuchen für 35 Minuten backen
+- Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 35 Minuten backen
 
 ---
