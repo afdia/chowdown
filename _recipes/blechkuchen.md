@@ -11,7 +11,7 @@ ingredients:
 - 3 Eier
 - 1 Pkg Vanillezucker
 - 1 Pkg Backpulver
-- 280g Dinkel Vollkorn Mehl
+- 280g Mehl (Dinkel VK)
 - 100ml Milch
 - Zwetschken/Marillen/Erdbeeren/Kirschen
 
