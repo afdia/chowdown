@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Blechkuchen mit Zwetschken"
+title:  "Blechkuchen mit Obst"
 image: blechkuchen.webp
 tags: Süßsspeise
 
