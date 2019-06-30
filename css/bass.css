@@ -1188,7 +1188,7 @@ input[type=range] {
 .black, .dark-gray   { color: #111 }
 .gray, .mid-gray     { color: #aaa }
 .silver, .light-gray { color: #ddd }
-.white { color: #fff }
+.white { color: #fff; text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray }
 
 .aqua  { color: #7fdbff }
 .blue  { color: #007FFF }
