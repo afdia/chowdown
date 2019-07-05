@@ -69,7 +69,7 @@ layout: default
 <!--section to add more images to recipe -->
 {% if page.images %}
   {% for image in page.images %}
-  <figure class="image" style="margin-top: 5em;">
+  <figure class="image" style="margin-top: 2.5em;margin-bottom: 2.5em;">
     <img src="{{ image.image }}" alt="{{ image.description }}">
     <figcaption>{{ image.description }}</figcaption>
   </figure>
@@ -127,7 +127,7 @@ layout: default
 <!-- end components -->
   
   {% for category in page.categories %}
-    <p class="clearfix">Category: <span itemprop="recipeCategory">{{ category }}</span></p>
+    <p class="clearfix" style="font-weight: bold">Category: <span itemprop="recipeCategory">{{ category }}</span></p>
   {% endfor %}
 
   </article>
