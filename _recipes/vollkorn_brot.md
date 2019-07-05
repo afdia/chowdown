@@ -19,7 +19,9 @@ directions:
 - Kamut sowie Hirse mahlen, danach weißes Mehl, Salz und Germ dazugeben
 - Zum Schluss Wasser dazugeben und mit der Küchenmaschine kneten
 - Brotform mit Butter ausstreichen und mit Sesam/Sonnenblumenkerne auslegen
-- Den gekneteten Teig mit einer Teigkarte in die Brotform putzen und 1h rasten lassen
+- Den gekneteten Teig mit einer Teigkarte in die Brotform putzen und 1h rasten lassen (optional, macht Brot aber luftiger)
 - 45min bei 200°C Ober/Unterhitze ins nicht vorgeheizte Backrohr geben
 
 ---
+
+Nach 1h gehen lassen sieht das Brot so aus: ![Brot nach 1h rasten](../images/vollkorn_brot_gehenlassen.webp){:class="img-responsive"}
