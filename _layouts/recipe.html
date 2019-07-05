@@ -44,7 +44,7 @@ layout: default
       {% endif %}
 
       {% if page.ingredients %}
-      <h4 class="blue mt0 mb2 xs-center">Ingredients</h4>
+      <h4 class="blue mt0 mb2 xs-center">Zutaten</h4>
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
@@ -55,7 +55,7 @@ layout: default
     </div>
     
     <div class="sm-col sm-col-6 lg-col-6">
-      <h4 class="blue mt0 mb2 xs-center">Directions</h4>
+      <h4 class="blue mt0 mb2 xs-center">Zubereitung</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
         <li>{{ direction | markdownify }}</li>
