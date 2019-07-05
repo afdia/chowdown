@@ -66,6 +66,15 @@ layout: default
   </div>
 <!-- end recipe and directions -->
 
+{% if page.images %}
+  {% for image in page.images %}
+  <figure class="image">
+    <img src="{{ image.image }}" alt="{{ image.description }}">
+    <figcaption>{{ image.description }}</figcaption>
+  </figure>
+  {% endfor %}
+{% endif %}
+
 <!-- check if it's a component-based recipe, render it -->
   {% if page.components %}
   

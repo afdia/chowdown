@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Gebackener Reis"
-tags: dessert
+category: Süßspeise
 
 components:
 - Milchreis

@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Blechkuchen mit Obst"
 image: blechkuchen.webp
-tags: Süßsspeise
+category: Süßsspeise
 
 ingredients:
 - 130g Butter

@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Burger mit Halloumi"
 image: burger.webp
-tags: Hauptgericht
+category: Hauptgericht
 
 ingredients:
 - 4 Stk Ölz Burgerbrötchen

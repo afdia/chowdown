@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Pizza"
 image: pizza.webp
-tags: Hauptgericht
+category: Hauptgericht
 
 ingredients:
 - 400g Mehl, glatt

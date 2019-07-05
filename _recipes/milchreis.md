@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Milchreis"
-tags: desserts
+category: Süßspeise
 
 components:
 - Milchreis

@@ -3,7 +3,14 @@
 layout: recipe
 title:  "Vollkorn Brot"
 image: vollkorn_brot.webp
-tags: Hauptgericht
+category: Hauptgericht
+
+images:
+  - image: ../images/vollkorn_brot_gehenlassen.webp
+    description: Nach 1h gehen lassen sieht das Brot so aus
+  - image: ../images/vollkorn_brot_gehenlassen.webp
+    description: Nach 1h gehen lassen sieht das Brot so aus
+
 
 ingredients:
 - 250g Kamut
@@ -23,5 +30,3 @@ directions:
 - 45min bei 200°C Ober/Unterhitze ins nicht vorgeheizte Backrohr geben
 
 ---
-
-Nach 1h gehen lassen sieht das Brot so aus: ![Brot nach 1h rasten](../images/vollkorn_brot_gehenlassen.webp){:class="img-responsive"}
