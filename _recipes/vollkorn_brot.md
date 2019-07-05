@@ -8,9 +8,6 @@ category: Hauptgericht
 images:
   - image: ../images/vollkorn_brot_gehenlassen.webp
     description: Nach 1h gehen lassen sieht das Brot so aus
-  - image: ../images/vollkorn_brot_gehenlassen.webp
-    description: Nach 1h gehen lassen sieht das Brot so aus
-
 
 ingredients:
 - 250g Kamut
