@@ -66,9 +66,10 @@ layout: default
   </div>
 <!-- end recipe and directions -->
 
+<!--section to add more images to recipe -->
 {% if page.images %}
   {% for image in page.images %}
-  <figure class="image">
+  <figure class="image" style="margin-top: 5em;">
     <img src="{{ image.image }}" alt="{{ image.description }}">
     <figcaption>{{ image.description }}</figcaption>
   </figure>
