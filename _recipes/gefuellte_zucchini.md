@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Gefüllte Zucchini"
+image: gefuellte_zucchini.webp
 category: Hauptspeise
 
 images:
