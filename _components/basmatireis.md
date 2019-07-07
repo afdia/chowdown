@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Basmatireis"
+image: basmatireis.webp
 
 ingredients:
 - 1 Häferl Basmatireis
