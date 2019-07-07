@@ -4,6 +4,10 @@ layout: recipe
 title:  "Gefüllte Zucchini"
 category: Hauptspeise
 
+images:
+  - image: ../images/gefuellte_zucchini_saft.webp
+    description: Besonders gut schmeckt es wenn man den Saft aus der Form drübergiest
+
 components:
 - Basmatireis
 
@@ -11,7 +15,8 @@ ingredients:
 - 2 große Zucchini
 - 1 Zwiebel (oder Frühlingszwiebel)
 - 2 Knoblauchzehen
-- 1 Glas Tomatensauce
+- 1 Glas Tomatensauce (evtl etwas Ketchup dazu)
+- 1 Jalapeno
 - 200g Mozarella
 
 directions:
