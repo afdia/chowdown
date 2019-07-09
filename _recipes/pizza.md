@@ -5,6 +5,10 @@ title:  "Pizza"
 image: pizza.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/pizza_stangerl.webp
+    description: Pizzastangerl - Teig 1h rasten, formen, 15min rasten, etwas Wasser drauf, 10min 250°C vorgeheizt
+
 ingredients:
 - 400g Mehl, glatt
 - 240ml Wasser, lauwarm
