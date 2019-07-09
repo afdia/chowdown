@@ -5,6 +5,10 @@ title:  "Blechkuchen mit Obst"
 image: blechkuchen.webp
 category: Süßsspeise
 
+images:
+  - image: ../images/blechkuchen_erdbeer.webp
+    description: Variante mit Erdbeeren
+
 ingredients:
 - 130g Butter
 - 80g Zucker
