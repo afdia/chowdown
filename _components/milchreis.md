@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Milchreis"
+image: milchreis_pur.webp
 
 ingredients:
 - 150g Milchreis
