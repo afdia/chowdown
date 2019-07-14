@@ -11,7 +11,7 @@ images:
   - image: ../images/marmelade_schwarzeribisel_heidelbeer.webp
     description: Schwarze Ribisel&Heidelbeeren - Schwarze Ribisel zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. Heidelbeeren zerkleinern und direkt dazu
   - image: ../images/marmelade_roteribisel_himbeer.webp
-    description: Rote Ribisel&Himbeeren - Rote Ribisel und Himbeeren zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben
+    description: Rote Ribisel&Himbeeren - Rote Ribisel und Himbeeren zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. (Ergebnis war sehr Gelee-artig, besser mit Heidelbeeren weil die flüssiger sind)
 
 ingredients:
 - 1kg Früchte (zb Marillen)
