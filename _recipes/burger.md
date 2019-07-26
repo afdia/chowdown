@@ -5,8 +5,11 @@ title:  "Burger mit Halloumi"
 image: burger.webp
 category: Hauptgericht
 
+components:
+- Burger Buns
+
 ingredients:
-- 4 Stk Ölz Burgerbrötchen
+- 4 Stk Ölz Burgerbrötchen (oder Buns selbst machen)
 - Eisbergsalat
 - Tomatenscheiben
 - Gurkenscheiben
