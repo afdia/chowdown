@@ -11,7 +11,7 @@ images:
 
 ingredients:
 - 250g Topfen
-- 80g Nockerlgries (Recheis)
+- 80g Nockerlgries (von Recheis)
 - 2 Eier (bzw 1 großes Ei)
 - 2EL Butter und Vollkornbrösel
 
