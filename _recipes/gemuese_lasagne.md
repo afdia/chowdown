@@ -14,10 +14,10 @@ ingredients:
 - Butter zum Anschwitzen
 - 400g Mozarella (fein schneiden)
 - 2 Packungen Lasagneblätter
-- Bechamel: 45g Vollkornmehl (bei nicht VK eher 60g)
-- Bechamel: 45g Butter
-- Bechamel: 600ml Milch
-- Bechamel: etwas Suppenwürze und Pfeffer
+- "Bechamel: 45g Vollkornmehl (bei nicht VK eher 60g)"
+- "Bechamel: 45g Butter"
+- "Bechamel: 600ml Milch"
+- "Bechamel: etwas Suppenwürze und Pfeffer"
 
 directions:
 - Zwiebel und Knoblauch schneiden und in etwas Butter anschwitzen
