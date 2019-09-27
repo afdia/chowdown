@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Gugelhupf"
 image: gugelhupf.webp
-category: Hauptgericht
+category: Süßspeise
 
 images:
   - image: ../images/muffins.webp
