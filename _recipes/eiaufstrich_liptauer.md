@@ -16,8 +16,8 @@ ingredients:
 - 1/2 Bund Schnittlauch (am besten Frisch geschnitten)
 - 15g Estragon Senf (bei Liptauer evtl 10g)
 - Salz, Pfeffer
-- Liptauer: 6g Paprikapulver süß, kleine Knoblauchzehe gepresst
-- Eiaufstrich: 3 Eier klein geschnitten, evtl 1 Gurkerl kleingeschnitten
+- "Liptauer: 6g Paprikapulver süß, kleine Knoblauchzehe gepresst"
+- "Eiaufstrich: 3 Eier klein geschnitten, evtl 1 Gurkerl kleingeschnitten"
 
 directions:
 - Butter einige Stunden draußen stehen lassen damit sie warm ist, dann mit Sauerrahm/Schlagobers sowie Estragon Senf vermischen
