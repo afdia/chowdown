@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Blechkuchen mit Obst"
 image: blechkuchen.webp
-category: Süßsspeise
+category: Süßspeise
 
 images:
   - image: ../images/blechkuchen_erdbeer.webp
