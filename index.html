@@ -14,18 +14,18 @@ layout: default
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
           <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
             <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
-            <h1 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h1>
+            <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
           </a>
       </div>
     {% endfor %}
       
-    <h1 class="title xs-px1">Süßspeise</h1>
+    <h1 class="title xs-px1">Süßspeisen</h1>
     {% assign filtered = sorted | where:"category", "Süßspeise" %}
     {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
           <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
             <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
-            <h1 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h1>
+            <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
           </a>
       </div>
     {% endfor %}
