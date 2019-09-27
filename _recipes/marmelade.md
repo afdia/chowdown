@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Marmelade"
 image: marmelade.webp
-category: Hauptgericht
+category: Süßspeise
 
 images:
   - image: ../images/marmelade_erdbeer.webp

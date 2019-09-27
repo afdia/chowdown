@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Topfenknödel"
 image: topfenknoedel.webp
-category: Hauptgericht
+category: Süßspeise
 
 images:
   - image: ../images/topfenknoedel_gefuellt.webp
