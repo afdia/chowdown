@@ -7,7 +7,6 @@ layout: default
   <div class="recipes xs-px1 xs-mt2">
     <div class="clearfix">
     {% assign sorted = site.recipes | sort:"date" %}
-    <div class="clearfix">
     {% assign hauptgerichte = sorted | where:"category", "Hauptgericht" %}
     {% for post in hauptgerichte %}
     <h1 class="title">Hauptgerichte</h1>
