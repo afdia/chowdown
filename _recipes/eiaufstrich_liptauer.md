@@ -15,8 +15,9 @@ ingredients:
 - 30g Sauerrahm (oder Schlagobers (war bei Eiaufstrich super), oder Mayonnaise; evtl einfach mehr Butter)
 - 1/2 Bund Schnittlauch (am besten Frisch geschnitten)
 - 15g Estragon Senf (bei Liptauer evtl 10g)
-- Salz, Pfeffer
-- "Liptauer: 6g Paprikapulver süß, kleine Knoblauchzehe gepresst"
+- VERBESSERUNGSIDEE: 1 kleines Gurkerl fein geschnitten hinzufügen
+- Salz, Pfeffer (TODO genau Menge notieren)
+- "Liptauer: 5g Paprikapulver süß, kleine Knoblauchzehe gepresst"
 - "Eiaufstrich: 3 Eier klein geschnitten, evtl 1 Gurkerl kleingeschnitten"
 
 directions:
