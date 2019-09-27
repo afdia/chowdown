@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Gefüllte Zucchini"
 image: gefuellte_zucchini.webp
-category: Hauptspeise
+category: Hauptgericht
 
 images:
   - image: ../images/gefuellte_zucchini_saft.webp

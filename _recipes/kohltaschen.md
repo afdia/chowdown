@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Kohltaschen"
 image: kohltaschen.webp
-category: Hauptspeise
+category: Hauptgericht
 
 components:
 - Basmatireis

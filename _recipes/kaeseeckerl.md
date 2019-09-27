@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Käse-Eckerl Toasts"
 image: kaeseeckerl.webp
-category: Hauptspeise
+category: Hauptgericht
 
 ingredients:
 - 200g Gouda/Emmentaler

@@ -7,6 +7,7 @@ layout: default
   <div class="recipes xs-px1 xs-mt2">
     <div class="clearfix">
     {% assign sorted = site.recipes | sort:"date" %}
+    <!-- where filter see https://stackoverflow.com/questions/24701557/why-doesnt-this-jekyll-liquid-where-filter-filter/24704168#24704168 -->
       
     <h1 class="title xs-px1">Hauptgerichte</h1>
     {% assign filtered = sorted | where:"category", "Hauptgericht" %}
