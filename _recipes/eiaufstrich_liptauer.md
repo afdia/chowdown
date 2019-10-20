@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Eiaufstrich/Liptauer"
 image: eiaufstrich_liptauer.webp
-category: Hauptgericht
+category: SalatAufstrich
 
 images:
   - image: ../images/topfen_kren_rollen.webp
