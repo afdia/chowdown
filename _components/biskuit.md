@@ -5,8 +5,8 @@ title:  "Biskuit"
 image: biskuit.webp
 
 ingredients:
-- 4 eier
-- 120ml Milch (lt rezept wären 100ml wasser)
+- 4 Eier
+- 120ml Milch (lt Rezept wären 100ml wasser)
 - 100g Butter
 - 90g Zucker (mit 110 wars besser)
 - 190g Mehl (evtl nur 180 wenn zucker 100?)
