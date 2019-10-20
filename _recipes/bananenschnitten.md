@@ -12,7 +12,7 @@ ingredients:
 - 1 Sackerl Flana Vanillepudding
 - 500ml Milch
 - 20g Zucker (d.h. -30g im Vergleich zu Rezept auf Pudding-Packung)
-- 60g Butter (besser mehr nehmen damit Creme fester ist)
+- 140g Butter (letzter Versuch waren 60g aber da war im Biskuit noch 100g Butter. durch 140g sollte die Creme hart werden, sonst evtl Schlagobers probieren)
 - 3 Bananen
 - Schokoglasur (Manner Schokoglasur für Sachertorte bleibt weich, besser Manner Schokoblock testen)
 
@@ -23,7 +23,7 @@ directions:
 - Danach auskühlen lassen (in Summe ca 1h später von Konsistenz streichbar aber recht fest)
 - Währenddessen Biskuit zubereiten
 - Wenn Biskuit ausgekühlt, etwas Marillenmarmelade drauf streichen, Bananen in Scheiben schneiden (quer ist einfacher) und darauf verteilen
-- Darauf die Puddingmasse geben und erneut auskühlen lassen (Pudding muss stocken also ca 1h)
+- Darauf die Puddingmasse geben und erneut auskühlen lassen (Pudding muss stocken also ca 1h, evtl im Kühlschrank)
 - Schokoglasur nach Packungsangabe zubereiten, dann drauf verteilen und abkühlen lassen bis die Glasur fest ist
 
 ---
