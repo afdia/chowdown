@@ -14,7 +14,7 @@ ingredients:
 - 20g Zucker (d.h. -30g im Vergleich zu Rezept auf Pudding-Packung)
 - 60g Butter (besser mehr nehmen damit Creme fester ist)
 - 3 Bananen
-- Schokoglasur (Manner Schokoglasur für Sachertorte ist ganz ok aber bleibt weich, besser Manner Schokoblock testen)
+- Schokoglasur (Manner Schokoglasur für Sachertorte bleibt weich, besser Manner Schokoblock testen)
 
 directions:
 - Für Pudding, etwas Milch von den 0,5l wegnehmen und mit Puddingpulver und 20g Zucker vermischen
@@ -27,3 +27,11 @@ directions:
 - Schokoglasur nach Packungsangabe zubereiten, dann drauf verteilen und abkühlen lassen bis die Glasur fest ist
 
 ---
+
+Tipp: Biskuit auf Blech machen; Form ist zum Abwaschen und ohne knusprigen Rand
+
+Biskuit ohne kaokao machen (ist üblicher weil oben eh schoko ist)
+
+Evtl mit Wasser probieren
+
+Problem: Pudding ist zu weich; evtl mit schlagobers oder mehr butter mischen damit er kühl fester wird (siehe tiramisu)
