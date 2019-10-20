@@ -34,4 +34,4 @@ Biskuit ohne kaokao machen (ist üblicher weil oben eh schoko ist)
 
 Evtl mit Wasser probieren
 
-Problem: Pudding ist zu weich; evtl mit schlagobers oder mehr butter mischen damit er kühl fester wird (siehe tiramisu)
+Problem: Pudding ist zu weich; evtl mit schlagobers oder mehr butter mischen damit er kühl fester wird (siehe tiramisu). oder wie https://www.ichkoche.at/bananenschnitten-rezept-21960 Quimiq dazumischen?
