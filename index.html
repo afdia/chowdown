@@ -5,7 +5,7 @@ layout: default
 <div class="home"> 
 
 <!-- SEARCH BAR -->
-<div class="search container max-width-2">
+<div class="search container max-width-2 xs-mt2">
 		<div id="search-container">
 		  <input type="text" id="search-input" placeholder="search titles or ingredients...">
 		</div>
@@ -38,7 +38,7 @@ SimpleJekyllSearch({
 </script>
 
 <!-- RECIPES LIST -->
-<div class="recipes xs-px1 xs-mt2">
+<div class="recipes xs-px1">
     <div class="clearfix">
     {% assign sorted = site.recipes | sort:"date" %}
     <!-- where filter see https://stackoverflow.com/questions/24701557/why-doesnt-this-jekyll-liquid-where-filter-filter/24704168#24704168 -->
