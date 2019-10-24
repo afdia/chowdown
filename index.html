@@ -4,23 +4,16 @@ layout: default
 
 <div class="home"> 
 
-  
+<!-- SEARCH BAR -->
 <div class="search container max-width-2">
 		<div id="search-container">
-			<h3 class="center mb3 blue">Chowdown Search</h3>
-		<input type="text" id="search-input" placeholder="search titles or ingredients...">
+		  <input type="text" id="search-input" placeholder="search titles or ingredients...">
 		</div>
 </div>
-
 <div class="clearfix">
 <div class="recipes xs-px1 xs-mt2 center" id="results-container">
-
 </div>
 </div>
-
-
-
-
 
 <!-- Script pointing to search-script.js -->
 <script src="{{site.baseurl}}/plugins/simple-jekyll-search.min.js" type="text/javascript"></script>
@@ -42,10 +35,10 @@ SimpleJekyllSearch({
       $('.search').addClass('used').css('height', currentHeight);
 	});
 	});
-	
 </script>
 
-  <div class="recipes xs-px1 xs-mt2">
+<!-- RECIPES LIST -->
+<div class="recipes xs-px1 xs-mt2">
     <div class="clearfix">
     {% assign sorted = site.recipes | sort:"date" %}
     <!-- where filter see https://stackoverflow.com/questions/24701557/why-doesnt-this-jekyll-liquid-where-filter-filter/24704168#24704168 -->
