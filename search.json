@@ -6,7 +6,7 @@
     
 	    "title"    : "{{ post.title | escape }}",
       {% if post.ingredients %}"ingredients"    : "{% for ingredient in post.ingredients %}{{ ingredient | escape }}, {% endfor %}",{% endif %}
-      "content"	 : "{{ post.content }}",
+      "content"	 : "{{ post.content | escape }}",
       "image"	   : "{{ post.image }}",
 	    "url"      : "{{ site.baseurl }}{{ post.url }}"
       
