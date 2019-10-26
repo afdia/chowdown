@@ -7,7 +7,7 @@ category: Hauptgericht
 
 images:
   - image: ../images/tortillas_weizenmehl_trocknen.webp
-    description: Zum Trocknen auf Gitter legen (bis nächste in Pfanne fertig ist, danach auf Teller stapeln)
+    description: Zum Trocknen auf Gitter legen (bis nächste Flade in Pfanne fertig ist, danach auf Teller stapeln)
   - image: ../images/tortillas_weizenmehl_pfanne.webp
     description: Tortilla in Pfanne bei Stufe 7 mit Luftpolster
 
@@ -27,4 +27,4 @@ directions:
 
 ---
 
-Das Rezept ergibt 6 Fladen
+Das Rezept ergibt 6 Fladen bzw Wraps
