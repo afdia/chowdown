@@ -18,7 +18,7 @@ directions:
 - Zucker, Dotter, Wasser vermischen (bei Küchenmaschine großer Rührhaken).
 - Mehl, darauf Backpulver (und Kaokao) dazugeben und weitermixen.
 - Am Schluss Schaum händisch unterheben. Teig sollte jetzt sehr luftig, flüssig aber "klebrig" sein.
-- Masse auf Backblech (oder in flache Backform) mit Backpapier gießen und im vorgeheizten Backrohr bei 180°C ca 15-20min Ober-Unterhitze backen (180° 20min war für Roulade zu hart).
+- Masse auf Backblech (oder in flache Backform) mit Backpapier gießen und im vorgeheizten Backrohr bei 180°C 18min Ober-Unterhitze backen (für Bananenschnitten gut, für Roulade evtl zu hart?).
 - Wenn es etwas ausgekühlt ist, das Biskuit auf ein neues Backpapier kippen (die Unterseite ist glatter und so löst man den Kuchen vom Boden)
 
 ---
