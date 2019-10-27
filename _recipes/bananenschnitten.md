@@ -9,7 +9,9 @@ images:
   - image: ../images/bananenschnitten_belegt.webp
     description: Den Rand vom Backpapier hochklappen damit Vanillesauce nicht herausrinnt
   - image: ../images/bananenschnitten_in_form_mit_vanillesauce.webp
-    description: "Um die Schnitten zum Kühlen des Vanillepuddings in den Kühlschrank zu stellen, müssen sie in eine Form gegeben werden. ACHTUNG: Vorher Ränder abschneiden damit es sich in der Form ausgeht!"
+    description: "Um die Schnitten zum Kühlen des Vanillepuddings in den Kühlschrank zu stellen, müssen sie in eine Form gegeben werden. Wenn nötig etwas Rand wegschneiden damit es in die Form geht
+  - image: ../images/bananenschnitten_fertig_noch_zuschneiden.webp
+    description: "Die Schokosauce wird gleichmäßig verteilt und einige Zeit im Kühlschrank gehärtet, damit man am Schluss die Ränder abschneiden kann"
   - image: ../images/bananenschnitten_zugeschnitten.webp
     description: "Wenn die Schokoglasur leicht fest ist (ca 15min im Kühlschrank) lässt sie sich gut schneiden"
   - image: ../images/bananenschnitten_kaokao.webp
