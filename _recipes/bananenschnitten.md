@@ -10,8 +10,10 @@ images:
     description: Den Rand vom Backpapier hochklappen damit Vanillesauce nicht herausrinnt
   - image: ../images/bananenschnitten_in_form_mit_vanillesauce.webp
     description: "Um die Schnitten zum Kühlen des Vanillepuddings in den Kühlschrank zu stellen, müssen sie in eine Form gegeben werden. ACHTUNG: Vorher Ränder abschneiden damit es sich in der Form ausgeht!"
-  - image: ../images/bananenschnitten_fertig_noch_zuschneiden.webp
-    description: "Die Schokosauce wird gleichmäßig verteilt und einige Zeit im Kühlschrank gehärtet, damit man am Schluss die Ränder abschneiden kann"
+  - image: ../images/bananenschnitten_zugeschnitten.webp
+    description: "Wenn die Schokoglasur leicht fest ist (ca 15min im Kühlschrank) lässt sie sich gut schneiden"
+  - image: ../images/bananenschnitten_kaokao.webp
+    description: "Variante mit Kaokao im Teig"
 
 components:
 - Biskuit
@@ -32,12 +34,10 @@ directions:
 - Währenddessen Biskuit zubereiten
 - Wenn Biskuit ausgekühlt, etwas Marillenmarmelade drauf streichen, Bananen in Scheiben schneiden (quer ist einfacher) und darauf verteilen
 - Darauf die Puddingmasse geben und erneut auskühlen lassen (Pudding muss stocken also ca 1h, evtl im Kühlschrank)
-- Schokoglasur nach Packungsangabe zubereiten, dann drauf verteilen und abkühlen lassen bis die Glasur fest ist
+- Schokoglasur zubereiten, dünn verteilen und abkühlen lassen bis die Glasur fest ist
 
 ---
 
 Tipp: Biskuit auf Blech machen; Form ist zum Abwaschen und ohne knusprigen Rand
-
-Biskuit ohne kaokao machen (ist üblicher weil oben eh schoko ist)
 
 [Lösungen falls Pudding ausflockt](https://www.chefkoch.de/forum/2,10,18142/Buttercreme-flockt.html)
