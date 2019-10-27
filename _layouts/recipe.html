@@ -66,16 +66,6 @@ layout: default
   </div>
 <!-- end recipe and directions -->
 
-<!--section to add more images to recipe -->
-{% if page.images %}
-  {% for image in page.images %}
-  <figure class="image" style="margin-top: 2.5em;margin-bottom: 2.5em;">
-    <img src="{{ image.image }}" alt="[IMAGE MISSING]">
-    <figcaption>{{ image.description }}</figcaption>
-  </figure>
-  {% endfor %}
-{% endif %}
-
 <!-- check if it's a component-based recipe, render it -->
   {% if page.components %}
   
@@ -128,6 +118,17 @@ layout: default
   {% endif %}
 <!-- end components -->
   
+<!--section to add more images to recipe -->
+{% if page.images %}
+{% for image in page.images %}
+<figure class="image" style="margin-top: 2.5em;margin-bottom: 2.5em;">
+  <img src="{{ image.image }}" alt="[IMAGE MISSING]">
+  <figcaption>{{ image.description }}</figcaption>
+</figure>
+{% endfor %}
+{% endif %}
+
+<!-- Kategorien -->
   {% for category in page.categories %}
     <p class="blue clearfix" style="font-weight: bold; margin-top: 5em;">Kategorien: <span itemprop="recipeCategory">{{ category }}</span></p>
   {% endfor %}
