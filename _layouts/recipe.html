@@ -70,7 +70,7 @@ layout: default
   {% if page.components %}
   
   <div class="components bg-darken-2 p2 mt3 mb3 center">
-    &darr; Das Rezept verwendet folgende Komponenten &darr;
+    Das Rezept verwendet folgende Komponenten
   </div>
   
   <div class="clearfix mxn2">
@@ -120,6 +120,11 @@ layout: default
   
 <!--section to add more images to recipe -->
 {% if page.images %}
+  
+<div class="components bg-darken-2 p2 mt3 mb3 center">
+  Weitere Bilder zum Rezept
+</div>
+
 {% for image in page.images %}
 <figure class="image" style="margin-top: 2.5em;margin-bottom: 2.5em;">
   <img src="{{ image.image }}" alt="[IMAGE MISSING]">
