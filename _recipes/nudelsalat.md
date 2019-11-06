@@ -13,7 +13,7 @@ ingredients:
 - evtl Gurkerl
 - 1 Frühlingszwiebel oder etwas Lauch
 - 50g Ketchup
-- 50g Mayonnaise
+- 50g Mayonnaise (Kuner 50%)
 - 20g Estragon Senf
 - 20g Dunkler Balsamicoessig
 
