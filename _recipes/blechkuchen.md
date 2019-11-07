@@ -12,7 +12,7 @@ images:
 ingredients:
 - 130g Butter
 - 80g Zucker
-- 3 Eier
+- 4 Eier
 - 1 Pkg Vanillezucker
 - 1 Pkg Backpulver
 - 280g Mehl (Dinkel VK)
