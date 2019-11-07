@@ -2,17 +2,17 @@
 
 layout: recipe
 title:  "Süßkartoffel überbacken"
-image: suesskartoffel ueberbacken.webp
+image: suesskartoffel_ueberbacken.webp
 category: Hauptgericht
 
 images:
-  - image: ../images/suesskartoffel ueberbacken1.webp
+  - image: ../images/suesskartoffel_ueberbacken1.webp
     description: Mit Bürste reinigen oder beser schälen
-  - image: ../images/suesskartoffel ueberbacken2.webp
+  - image: ../images/suesskartoffel_ueberbacken2.webp
     description: Nach 40min Backzeit aufgeschnitten mit vorbereiter Sauce
-  - image: ../images/suesskartoffel ueberbacken3.webp
+  - image: ../images/suesskartoffel_ueberbacken3.webp
     description: Belegt bevor sie nochmal ins Backrohr kommen
-  - image: ../images/suesskartoffel ueberbacken4.webp
+  - image: ../images/suesskartoffel_ueberbacken4.webp
     description: Fertige Süßkartoffeln
 
 ingredients:
