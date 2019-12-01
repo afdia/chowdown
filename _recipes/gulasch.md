@@ -20,6 +20,7 @@ ingredients:
 - 1TL Kümmel
 - 1EL Suppenwürze
 - 1TL Pfeffer
+- 1EL Sauerrahm oder Schlagobers
 
 directions:
 - Zwiebel und Knoblauch fein schneiden und in Butter anrösten
@@ -28,5 +29,6 @@ directions:
 - Kartoffeln kochen, in Würfel schneiden und dazugeben
 - Gurkerl, Kidneybohnen, Paprika ebenfalls fein schneiden und dazugeben
 - Wenn alles im Topf ist nochmal etwas aufkochen lassen
+- Am Schluss evtl 1EL Sauerrahm oder Schlagobers dazugeben, damit es cremiger ist
 
 ---
