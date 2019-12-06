@@ -5,6 +5,12 @@ title:  "Burger mit Halloumi"
 image: burger.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/burger_buns_sandwitchlike.webp
+    description: Ohne Ei werden die Buns eher weißbrotartig, ist aber auch gut (vorige Revision von Burger Buns Komponente)
+  - image: ../images/burger_gekauft.webp
+    description: Gekaufte Buns sind notfalls auch gut
+
 components:
 - Burger Buns
 
