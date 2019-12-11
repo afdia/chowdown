@@ -20,7 +20,7 @@ directions:
 - Teig in 8 gleichgroße Stücke teilen und Kugeln 1h rasten lassen (viele Rezepte empfehlen den Teig in eine geölte Schüssel zu geben, mit Plastikfolie zudecken und 1h rasten lassen bevor die Kugeln geformt werden; evtl ausprobieren)
 - in hohler Hand mit kreisförmigen Bewegungen über Tisch rund formen [siehe Video](https://www.youtube.com/watch?v=HuNGR9Oxvug)
 - Aufs Blech legen, etwas flach drüchen und im Ofen min 1h (letztes mal 2h und ist super aufgegangen) auf doppeltes Volumen gehen lassen (Ziel sind ca 9cm Durchmesser). Evtl ein Glas lauwarmes Wasser in den Ofen stellen damit der Teig weicher bleibt (Teig war weich aber ich weiß nicht 100%ig ob es vom Glas Wasser war)
-- Beliebig viele Brötchen einfrieren (vorm Backen auf Zimmertemperatur aufwärmen lassen!)
+- Beliebig viele Brötchen einfrieren (vorm Backen auf Zimmertemperatur aufwärmen lassen!) > GEHT NICHT!!!! STATTDESSEN VORBACKEN U EINFRIEREN PROBIEREN
 - Den Rest mit Ei+Wasser-Gemisch (ca 10% von Ei-Menge) bestreichen und etwas Sesam darauf verteilen.
 - Ofen auf 190°C Ober-Unterhitze vorheizen und ca 15min backen (bis Goldbraun)
 
