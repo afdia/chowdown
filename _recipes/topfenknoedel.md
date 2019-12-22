@@ -18,7 +18,7 @@ ingredients:
 directions:
 - Ei schaumig schlagen und mit Topfen und Gries vermischen
 - Den Teig 1h im Kühlschrank rasten lassen
-- Mit einem Löffel Knödel formen und 15min in leicht gesalzenem Wasser kochen lassen
+- Mit einem Löffel Knödel formen und 15min in Wasser kochen lassen
 - Die Vollkornbrösel mit 2EL Butter in einer Pfanne vermischen und etwas anrösten
 - Die fertigen Knödel in den Bröseln schwenken und servieren
 
