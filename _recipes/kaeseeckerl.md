@@ -6,6 +6,7 @@ image: kaeseeckerl.webp
 category: Hauptgericht
 
 ingredients:
+- 10 Scheiben Toastbrot
 - 200g Gouda/Emmentaler
 - 40g Butter
 - 40g Sauerrahm
