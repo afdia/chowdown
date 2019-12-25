@@ -5,6 +5,10 @@ title:  "Kartoffel-Spinat Strudel"
 image: kartoffel_spinat_strudel.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/kartoffel_spinat_strudel_suesskartoffel_brokoli.webp
+    description: Variante mit Brokkoli statt Spinat und 50% Kartoffel 50% Süßkartoffel
+
 ingredients:
 - Blätterteig
 - ca 700g Kartoffeln
