@@ -5,6 +5,10 @@ title:  "Weihnachtskekse"
 image: weihnachtskekse.webp
 category: Süßspeise
 
+images:
+  - image: ../images/weihnachtskekse_teller.webp
+    description: Kekse vor Verzierung
+
 ingredients:
 - 300g Dinkel-Vollkornmehl
 - 75g Staubzucker (inkl. 1 Packung Vanillezucker)
