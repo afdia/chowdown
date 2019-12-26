@@ -5,6 +5,10 @@ title:  "Süßkartoffelcurry mit Kokosmilch und Brokkoli"
 image: curry_suesskartoffel.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/curry_kohl_karotten_zucchini.webp
+    description: Alternatives Kokosmilch Curry mit Kohl, Zucchini, Karotten, angerösteten Casheykernen
+
 components:
 - Basmatireis
 
