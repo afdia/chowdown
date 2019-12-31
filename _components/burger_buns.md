@@ -5,24 +5,23 @@ title:  "Burger Buns"
 image: burger_buns.webp
 
 ingredients:
-- 400g Mehl (wegen Ei +20 bis +40g)
+- 440g Mehl (wird gut aber Teig ist anfangs sehr klebrig, evtl 10-20g mehr?)
 - 30g Zucker
 - 7g Salz
 - 1 Sackerl Trockenhefe
 - 250g Milch
 - 40g Butter (schmelzen lassen)
-- 1 Ei (etwas vom Eiklar wegnehmen für später zum Bestreichen)
+- 1 Ei (etwas vom verquirlten Ei wegnehmen für später zum Bestreichen)
 - Sesam
 
 directions:
 - Ei verquirlen und 80% davon für Teig nutzen, 20% fürs Bestreichen aufheben
-- Restliche Zutaten zum Ei geben und Alles in der Küchenmaschine vermischen (letztes Mal hab ich Mehl dazugegeben bis Teig formbare Konsistenz hatte)
+- Restliche Zutaten zum Ei geben und Alles in der Küchenmaschine vermischen
 - Teig in 8 gleichgroße Stücke teilen und Kugeln 1h rasten lassen (viele Rezepte empfehlen den Teig in eine geölte Schüssel zu geben, mit Plastikfolie zudecken und 1h rasten lassen bevor die Kugeln geformt werden; evtl ausprobieren)
 - in hohler Hand mit kreisförmigen Bewegungen über Tisch rund formen [siehe Video](https://www.youtube.com/watch?v=HuNGR9Oxvug)
-- Aufs Blech legen, etwas flach drüchen und im Ofen min 1h (letztes mal 2h und ist super aufgegangen) auf doppeltes Volumen gehen lassen (Ziel sind ca 9cm Durchmesser). Evtl ein Glas lauwarmes Wasser in den Ofen stellen damit der Teig weicher bleibt (Teig war weich aber ich weiß nicht 100%ig ob es vom Glas Wasser war)
-- Beliebig viele Brötchen einfrieren (vorm Backen auf Zimmertemperatur aufwärmen lassen!) > GEHT NICHT!!!! STATTDESSEN VORBACKEN U EINFRIEREN PROBIEREN
-- Den Rest mit Ei+Wasser-Gemisch (ca 10% von Ei-Menge) bestreichen und etwas Sesam darauf verteilen.
-- Ofen auf 190°C Ober-Unterhitze vorheizen und ca 15min backen (bis Goldbraun)
+- Aufs Blech legen, etwas flach drüchen und im Ofen min 1h (letztes mal 2h und ist super aufgegangen) auf doppeltes Volumen gehen lassen (Ziel sind ca 9cm Durchmesser). Evtl ein Glas lauwarmes Wasser in den Ofen stellen damit der Teig weicher bleibt (Teig war weich aber ich weiß nicht 100%ig ob es vom Glas Wasser war, beim nächsten Versuch ohne Wasser war Teig etwas zu hart bzw trocken also evtl hilfts)
+- den Rest vom verquirlten Ei auf Brötchen streichen und etwas Sesam darauf verteilen.
+- Ofen auf 190°C Ober-Unterhitze vorheizen und ca 15min backen (bis Goldbraun) (letztes mal nach ca 12min 4 Brötchen zum Einfrieren rausgenommen > vmtl blöd weil dann Dampf weg ist, besser fertig machen und dann 4 Stk einfrieren)
 
 ---
 
