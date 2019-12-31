@@ -30,4 +30,6 @@ Verbesserungsideen: lauwarmes Wasser beim Gehen lassen, 1 Ei aufschlagen und ver
 
 nach 2. Versuch: durch das Ei braucht man mehr Mehl (vmtl +20-40g) sonst waren alle Verbesserungsideen sinnvoll und sind jetzt Teil vom Rezept. Ergebnis war super, evtl etwas trocken, aber sonst perfekt
 
+nach 3. Versuch: 440 ist gut aber schlecht formbar, daher evtl etwas mehr Mehl. Ergebnis wie vorher sehr gut aber etwas trocken > evtl ketchup etc oben auf brötchen schmieren?
+
 Alternativrezepte: https://www.tasteoftravel.at/selbstgemachte-burgerbroetchen/ bzw links in dem Text
