@@ -13,7 +13,7 @@ ingredients:
 - 300g Dinkel-Vollkornmehl
 - 75g Staubzucker (inkl. 1 Packung Vanillezucker)
 - 140g Butter (kalt!)
-- 1Pkg Backpulver
+- 1/2 Pkg Backpulver
 - 1 Ei
 
 directions:
