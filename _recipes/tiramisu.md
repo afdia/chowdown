@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Tiramisu"
+title: "Tiramisu"
 image: tiramisu.webp
 category: Süßspeise
 

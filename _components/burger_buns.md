@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Burger Buns"
+title: "Burger Buns"
 image: burger_buns.webp
 
 ingredients:

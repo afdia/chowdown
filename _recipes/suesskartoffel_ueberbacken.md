@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Süßkartoffel überbacken"
+title: "Süßkartoffel überbacken"
 image: suesskartoffel_ueberbacken.webp
 category: Hauptgericht
 

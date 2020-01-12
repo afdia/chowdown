@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Weihnachtskekse"
+title: "Weihnachtskekse"
 image: weihnachtskekse.webp
 category: Süßspeise
 

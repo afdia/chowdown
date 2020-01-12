@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Topfenknödel"
+title: "Topfenknödel"
 image: topfenknoedel.webp
 category: Süßspeise
 

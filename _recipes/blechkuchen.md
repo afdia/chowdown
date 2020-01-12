@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Blechkuchen mit Obst"
+title: "Blechkuchen mit Obst"
 image: blechkuchen.webp
 category: Süßspeise
 

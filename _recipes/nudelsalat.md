@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Nudelsalat"
+title: "Nudelsalat"
 image: nudelsalat.webp
 category: SalatAufstrich
 

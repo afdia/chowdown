@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Palatschinken"
+title: "Palatschinken"
 image: palatschinken.webp
 category: Süßspeise
 

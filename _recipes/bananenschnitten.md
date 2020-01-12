@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Bananenschnitten"
+title: "Bananenschnitten"
 image: bananenschnitten.webp
 category: Süßspeise
 

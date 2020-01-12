@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Käse-Eckerl Toasts"
+title: "Käse-Eckerl Toasts"
 image: kaeseeckerl.webp
 category: Hauptgericht
 

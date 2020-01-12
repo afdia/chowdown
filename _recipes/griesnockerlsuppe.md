@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Griesnockerlsuppe"
+title: "Griesnockerlsuppe"
 image: griesnockerlsuppe.webp
 category: Hauptgericht
 

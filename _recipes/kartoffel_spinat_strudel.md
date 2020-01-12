@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Kartoffel-Spinat Strudel"
+title: "Kartoffel-Spinat Strudel"
 image: kartoffel_spinat_strudel.webp
 category: Hauptgericht
 

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Kartoffelpuffer"
+title: "Kartoffelpuffer"
 image: kartoffelpuffer.webp
 category: Hauptgericht
 

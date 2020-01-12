@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Eiaufstrich/Liptauer"
+title: "Eiaufstrich/Liptauer"
 image: eiaufstrich_liptauer.webp
 category: SalatAufstrich
 

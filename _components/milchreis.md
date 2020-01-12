@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Milchreis"
+title: "Milchreis"
 image: milchreis_pur.webp
 
 ingredients:

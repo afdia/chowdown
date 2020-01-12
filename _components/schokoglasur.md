@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Schokoglasur"
+title: "Schokoglasur"
 image: schokoglasur.webp
 
 ingredients:

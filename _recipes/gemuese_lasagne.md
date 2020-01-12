@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Gemüselasagne"
+title: "Gemüselasagne"
 image: gemuese_lasagne.webp
 category: Hauptgericht
 

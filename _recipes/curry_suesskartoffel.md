@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Süßkartoffelcurry mit Kokosmilch und Brokkoli"
+title: "Süßkartoffelcurry mit Kokosmilch und Brokkoli"
 image: curry_suesskartoffel.webp
 category: Hauptgericht
 

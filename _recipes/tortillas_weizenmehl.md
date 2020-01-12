@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Tortillas aus Weizenmehl"
+title: "Tortillas aus Weizenmehl"
 image: tortillas_weizenmehl.webp
 category: Hauptgericht
 

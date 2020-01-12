@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Roulade"
+title: "Roulade"
 image: roulade.webp
 category: Süßspeise
 

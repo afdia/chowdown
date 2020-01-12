@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Pizza Zopf"
+title: "Pizza Zopf"
 image: pizza_zopf.webp
 category: Hauptgericht
 

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Vollkorn Brot"
+title: "Vollkorn Brot"
 image: vollkorn_brot.webp
 category: Hauptgericht
 

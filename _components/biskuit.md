@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Biskuit"
+title: "Biskuit"
 image: biskuit.webp
 
 ingredients:

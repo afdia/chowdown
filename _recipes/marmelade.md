@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Marmelade"
+title: "Marmelade"
 image: marmelade.webp
 category: Süßspeise
 

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Gebackener Reis"
+title: "Gebackener Reis"
 category: Süßspeise
 
 components:

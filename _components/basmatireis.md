@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Basmatireis"
+title: "Basmatireis"
 image: basmatireis.webp
 
 ingredients:

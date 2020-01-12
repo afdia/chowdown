@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Gugelhupf"
+title: "Gugelhupf"
 image: gugelhupf.webp
 category: Süßspeise
 

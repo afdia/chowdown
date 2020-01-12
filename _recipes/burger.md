@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Burger mit Halloumi"
+title: "Burger mit Halloumi"
 image: burger.webp
 category: Hauptgericht
 

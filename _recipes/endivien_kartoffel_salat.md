@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Endivien-Kartoffel Salat"
+title: "Endivien-Kartoffel Salat"
 image: endivien_kartoffel_salat.webp
 category: SalatAufstrich
 

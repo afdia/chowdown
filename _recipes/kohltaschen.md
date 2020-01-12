@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Kohltaschen"
+title: "Kohltaschen"
 image: kohltaschen.webp
 category: Hauptgericht
 

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Tsatsiki"
+title: "Tsatsiki"
 image: tsatsiki.webp
 category: SalatAufstrich
 

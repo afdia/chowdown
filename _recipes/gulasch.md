@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Gulasch"
+title: "Gulasch"
 image: gulasch.webp
 category: Hauptgericht
 
