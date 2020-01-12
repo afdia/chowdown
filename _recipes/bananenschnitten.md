@@ -43,3 +43,4 @@ directions:
 Tipp: Biskuit auf Blech machen; Form ist zum Abwaschen und ohne knusprigen Rand
 
 [Lösungen falls Pudding ausflockt](https://www.chefkoch.de/forum/2,10,18142/Buttercreme-flockt.html)
+- zb in der Abwasch heißes Wasser einlassen, Topf reinstellen und umrühren bis es eine cremige Konsistenz ist
