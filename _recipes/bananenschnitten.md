@@ -33,6 +33,7 @@ directions:
 - Für Pudding, etwas Milch von den 0,5l wegnehmen und mit Puddingpulver und 20g Zucker vermischen
 - Restliche Milch aufkochen und wenn sie kocht Gemisch dazugeben, dann ca 1min kochen lassen während man umrührt und Pudding auskühlen lassen
 - Wenn Pudding und Butter ca dieselbe Temperatur haben, miteinander vermischen (ansonsten flockt die Butter von der Puddingcreme aus)
+- Wenn durch den festen Pudding trotzdem Flocken entstanden sind, zb in der Abwasch heißes Wasser einlassen, Topf reinstellen und umrühren bis es eine cremige Konsistenz ist [(Quelle)](https://www.chefkoch.de/forum/2,10,18142/Buttercreme-flockt.html)
 - Währenddessen Biskuit zubereiten
 - Wenn Biskuit ausgekühlt, etwas Marillenmarmelade drauf streichen, Bananen in Scheiben schneiden (quer ist einfacher) und darauf verteilen
 - Darauf die Puddingmasse geben und erneut auskühlen lassen (Pudding muss stocken also ca 1h, evtl im Kühlschrank)
@@ -41,6 +42,3 @@ directions:
 ---
 
 Tipp: Biskuit auf Blech machen; Form ist zum Abwaschen und ohne knusprigen Rand
-
-[Lösungen falls Pudding ausflockt](https://www.chefkoch.de/forum/2,10,18142/Buttercreme-flockt.html)
-- zb in der Abwasch heißes Wasser einlassen, Topf reinstellen und umrühren bis es eine cremige Konsistenz ist

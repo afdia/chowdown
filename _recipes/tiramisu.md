@@ -21,7 +21,7 @@ directions:
 - ca 1/4 des Puddings wegnehmen (man benötigt nur 3/4 der Puddingmasse für das Tiramisu)
 - 100g Schlagobers aufschlagen
 - Wenn Pudding, Butter, Schlagobers ca dieselbe Temperatur haben, miteinander vermischen (ansonsten flockt die Butter von der Puddingcreme aus)
-- Wenn durch den festen Pudding trotzdem Flocken entstanden sind, zb in der Abwasch heißes Wasser einlassen, Topf reinstellen und umrühren bis es eine cremige Konsistenz ist
+- Wenn durch den festen Pudding trotzdem Flocken entstanden sind, zb in der Abwasch heißes Wasser einlassen, Topf reinstellen und umrühren bis es eine cremige Konsistenz ist [(Quelle)](https://www.chefkoch.de/forum/2,10,18142/Buttercreme-flockt.html)
 - Espresso und Rum vermischen
 - 1 Packung Vollkornbiskotten jeweils kurz in das Rum-Kaffee Gemisch tunken und in eine Form schlichten. Ganz unten Biskotten, darauf Puddinggemisch, 2-3x wiederholen.
 - 125g Schlagobers schlagen und oben auf dem Tiramisu verteilen
