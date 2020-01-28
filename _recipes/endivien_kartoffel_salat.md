@@ -5,6 +5,9 @@ title: "Endivien-Kartoffel Salat"
 image: endivien_kartoffel_salat.webp
 category: SalatAufstrich
 
+components:
+- Kartoffeln
+
 ingredients:
 - 150g Suppe
 - Olivenöl
