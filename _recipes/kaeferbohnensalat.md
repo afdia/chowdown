@@ -5,6 +5,10 @@ title: "Käferbohnensalat"
 image: kaeferbohnensalat.webp
 category: SalatAufstrich
 
+images:
+  - image: ../images/kaeferbohnensalat_schinkenrollen.webp
+    description: Fol Epi dazugeschnitten, Eier, grüner Salat und Schinkenrollen (Rezept siehe Eiaufstrich)
+
 ingredients:
 - 250g Käferbohnen
 - 1 Zwiebel
