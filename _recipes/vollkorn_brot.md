@@ -9,7 +9,7 @@ images:
   - image: ../images/vollkorn_brot_gehenlassen.webp
     description: Nach 1h gehen lassen sieht das Brot so aus
   - image: ../images/vollkorn_hirse.webp
-    description: Variante mit 320ml Wasser, 375g Dinkel, 125g Hirse (mit 250g Wasser aufkochen und bei Stufe 3 10min gehen lassen). Sehr saftig und gut.
+    description: Variante mit 320ml Wasser, 375g Dinkel, 125g Hirse (mit 250g Salzwasser (TODO genau Salzmenge aufschreiben, evtl weniger Salz ins Brot?) aufkochen und bei Stufe 3 10min gehen lassen). Sehr saftig und gut.
 
 ingredients:
 - 250g Kamut
@@ -19,7 +19,7 @@ ingredients:
 - 10g Salz
 - 1 Pkg Trockengerm
 - Butter für Brotform
-- Sesam/Sonnenblumenkerne
+- Sesam/Sonnenblumenkerne/Chiasamen
 
 directions:
 - Kamut sowie Hirse mahlen, danach weißes Mehl, Salz und Germ dazugeben

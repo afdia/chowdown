@@ -10,16 +10,17 @@ ingredients:
 - 1/2 Gurke
 - 1 Paprika
 - 3 Tomaten
-- evtl Gurkerl
+- 3 Gurkerl
+- etwas Mais
 - 1 Frühlingszwiebel oder etwas Lauch
 - 50g Ketchup
 - 50g Mayonnaise (Kuner 50%)
 - 20g Estragon Senf
-- 20g Dunkler Balsamicoessig
+- 20g Heller Balsamicoessig (dunkler macht Salat bräunlich)
 
 directions:
 - Nudeln kochen und auskühlen lassen (am Besten vom Vortag)
-- Gurke, Paprika, Tomaten, Gurkerl würfelig schneiden und mit Nudeln in Schüssel geben
+- Gurke, Paprika, Tomaten, Gurkerl würfelig schneiden und gemeinsam mit Mais und Nudeln in Schüssel geben
 - Frühlingszwiebel oder Lauch in feine Stücke schneiden und dazugeben
 - Schüssel auf Waage stellen und Ketchup, Mayonnaise, Senf, Essig dazugeben
 - Deckel draufgeben und gut durchschütteln
