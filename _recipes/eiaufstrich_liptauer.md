@@ -14,8 +14,8 @@ ingredients:
 - 50g Butter (zimmerwarm) (alternativ 25g Butter + 30g Schlagobers oder Sauerrahm)
 - 1/2 Bund Schnittlauch (am besten Frisch geschnitten)
 - 15g Estragon Senf (bei Liptauer evtl 10g)
-- 1 Gurkerl fein geschnitten hinzufügen
-- "Salz, Pfeffer (letztes mal: 1g salz, 0,5g pfeffer > eher beides ca +0,5g)"
+- 1 Gurkerl sehr fein geschnitten
+- 1,5g Salz und 1g Pfeffer
 - "Liptauer: 5g Paprikapulver süß, 1 Knoblauchzehe gepresst, 2 Tropfen End of Sanity Schärfungssauce"
 - "Eiaufstrich: 3 Eier klein geschnitten,  etwas extra Salz"
 
@@ -27,4 +27,4 @@ directions:
 
 ---
 
-Die Zutaten sind für Eiaufstrich oder Liptauer gedacht. Will man beides machen kann man die Mengenangaben verdoppeln
+Die Zutaten sind für Eiaufstrich oder Liptauer gedacht. Will man beides machen kann man die Mengenangaben verdoppeln (bei nur Liptauer ca 25g Senf nehmen)
