@@ -6,12 +6,14 @@ image: burger.webp
 category: Hauptgericht
 
 images:
-  - image: ../images/burger_buns_sandwitchlike.webp
-    description: Ohne Ei werden die Buns eher weißbrotartig, ist aber auch gut (vorige Revision von Burger Buns Komponente)
-  - image: ../images/burger_gekauft.webp
-    description: Gekaufte Buns sind notfalls auch gut
   - image: ../images/burger_buns_gefrohren.webp
     description: 4 der 8 selbstgemachten Buns kann man fertig einfrieren. Später auftauen lassen und für 10min ohne Vorheizen bei 100°C ins Rohr geben damit sie etwas warm sind
+  - image: ../images/burger_buns_sandwitchlike.webp
+    description: Ohne Ei werden die Buns eher weißbrotartig, ist aber auch gut (vorige Revision von Burger Buns Komponente)
+  - image: ../images/burger_suesskartoffeln.webp
+    description: Aufgetaute Buns mit Iglo Süßkartoffellaichen sind sehr gut aber etwas trocken
+  - image: ../images/burger_gekauft.webp
+    description: Erster Versuch mit gekauften Burger Buns
 
 components:
 - Burger Buns
