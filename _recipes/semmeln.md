@@ -5,6 +5,12 @@ title: "Semmeln"
 image: semmeln.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/semmeln_wasser_oel.webp
+    description: Versuch mit Wasser+Öl, etwas zu lang im Rohr darum dunkel
+  - image: ../images/semmeln_wasser_milch.webp
+    description: Nächster Versuch mit Wasser+Milch. Sehr gut, Teig etwas weicher
+
 ingredients:
 - 250g Mehl
 - "150ml lauwarmes Wasser + 10g Olivenöl ODER 75ml Milch + 75ml heißes Wasser"
