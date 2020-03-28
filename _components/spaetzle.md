@@ -1,7 +1,8 @@
 ---
 
 layout: recipe
-title: "Spaetzle"
+title: "Spätzle"
+compTitle: "Spaetzle"
 image: spaetzle.webp
 
 ingredients:

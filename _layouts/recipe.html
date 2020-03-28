@@ -77,7 +77,7 @@ layout: default
   {% for component in page.components %}
     <div class="sm-col px2">
     {% for recipe in site.components %}
-    {% if recipe.title == component %}
+    {% if recipe.title == component or recipe.compTitle == component %}
       <h4 class="blue center">{{recipe.title}}</h4>
       
       {% for image in recipe.image %}
