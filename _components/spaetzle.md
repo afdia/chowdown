@@ -6,7 +6,7 @@ compTitle: "Spaetzle"
 image: spaetzle.webp
 
 ingredients:
-- 200g Mehl
+- 200g Mehl (weißes Mehl, selbst 1/3 VK ist nicht wirklich passend)
 - 2 Eier
 - 100ml lauwarmes Wasser
 - 5g Salz
