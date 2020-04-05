@@ -5,10 +5,6 @@ title: "Eiaufstrich/Liptauer"
 image: eiaufstrich_liptauer.webp
 category: SalatAufstrich
 
-images:
-  - image: ../images/topfen_kren_rollen.webp
-    description: Passend dazu Salat mit gefüllen Schinkenrollen (125g Topfen, 1-2EL Kren, 1/2 Knoblauchzehe, Salz+Pfeffer)
-
 ingredients:
 - 125g Topfen
 - 50g Butter (zimmerwarm) (alternativ 25g Butter + 30g Schlagobers oder Sauerrahm)
