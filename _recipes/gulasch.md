@@ -13,7 +13,7 @@ ingredients:
 - 750g Kartoffeln
 - Einige Gurkerl
 - 1 Dose Kidneybohnen
-- evtl Paprika oder Pfefferoni (zb Habanero)
+- evtl Paprika (mit Zerkleinerer fein schneiden) oder Pfefferoni (zb Habanero)
 - 1 Glas DM Tomatensauce Klassik
 - 3EL Paprikapulver süß
 - 1EL Mayoran

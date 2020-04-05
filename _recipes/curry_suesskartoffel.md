@@ -31,3 +31,5 @@ directions:
 - Am Schluss mit Sojasauce, Schärfungssauce und Sweet Chili Sauce würzen und mit Basmatireis servieren
 
 ---
+
+IDEE: Evtl anderes Gemüse testen wie Fisolen, Erbsenschoten und aufschreiben (evtl auch ohne Kokosmilch) - Rezept zu "Asiatische Gemüsereispfanne" umbenennen und Kokos als Variante?

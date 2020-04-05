@@ -27,3 +27,4 @@ directions:
 - Letzter Versuch war mit 600ml Milch weil der frische Dinkel sehr schnell eingedickt ist. Hat Gesamtdauer aber stark verlängert daher eher bei 500ml bleiben oder sogar etwas weniger (bzw etwas mehr Grieß) nehmen
 - war sehr fettig, daher zb -40g Butter in Flüssigkeit geben. Oder gar keine Butter in Flüssigkeit weil man eh etwas in der Pfanne hat
 - selbstgeriebener Dinkel ist gut aber es geht damit in Richtung Kaiserschmarrn. Vmtl bekommt man den klassischen Geschmack mit nicht-VK-Grieß
+- evtl nochmal mit Rezept von Oma abgleichen (42. Grießschmarren.txt)

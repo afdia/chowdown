@@ -28,4 +28,3 @@ directions:
 
 ---
 
-"Perfekter" Pizzateig nach einigen Iterationen
