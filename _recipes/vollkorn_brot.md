@@ -3,7 +3,7 @@
 layout: recipe
 title: "Vollkorn Brot"
 image: vollkorn_brot.webp
-category: Hauptgericht
+category: BrotGebaeck
 
 images:
   - image: ../images/vollkorn_brot_gehenlassen.webp

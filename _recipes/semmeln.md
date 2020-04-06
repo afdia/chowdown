@@ -3,7 +3,7 @@
 layout: recipe
 title: "Semmeln"
 image: semmeln.webp
-category: Hauptgericht
+category: BrotGebaeck
 
 images:
   - image: ../images/semmeln_wasser_oel.webp

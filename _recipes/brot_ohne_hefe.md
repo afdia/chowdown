@@ -3,7 +3,7 @@
 layout: recipe
 title: "Brot ohne Hefe"
 image: brot_ohne_hefe.webp
-category: Hauptgericht
+category: BrotGebaeck
 
 ingredients:
 - 250g Vollkornmehl
