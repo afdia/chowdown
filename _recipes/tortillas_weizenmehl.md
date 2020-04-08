@@ -3,7 +3,7 @@
 layout: recipe
 title: "Tortillas aus Weizenmehl"
 image: tortillas_weizenmehl.webp
-category: Hauptgericht
+category: BrotGebaeck
 
 images:
   - image: ../images/tortillas_weizenmehl_trocknen.webp
