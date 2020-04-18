@@ -8,8 +8,8 @@ category: Süßspeise
 ingredients:
 - 190g Dinkel frisch gemahlen (oder Dinkelgrieß)
 - 500ml Milch
-- 80g Butter
-- 30g Staubzucker
+- 40g Butter
+- 30g Staubzucker (kann man weglassen und nur den fertigen Schmarren zuckern)
 - 8g (1Pkg) Vanillezucker
 - 1EL Butterschmalz
 
@@ -24,7 +24,6 @@ directions:
 
 ---
 
-- Letzter Versuch war mit 600ml Milch weil der frische Dinkel sehr schnell eingedickt ist. Hat Gesamtdauer aber stark verlängert daher eher bei 500ml bleiben oder sogar etwas weniger (bzw etwas mehr Grieß) nehmen
-- war sehr fettig, daher zb -40g Butter in Flüssigkeit geben. Oder gar keine Butter in Flüssigkeit weil man eh etwas in der Pfanne hat
+- schauen ob man beim Einrühren des Grieß auf etwas aufpassen muss. das gemahlene Mehl wirkt als ob es leicht verklumpen würde beim Einrühren.
 - selbstgeriebener Dinkel ist gut aber es geht damit in Richtung Kaiserschmarrn. Vmtl bekommt man den klassischen Geschmack mit nicht-VK-Grieß
-- evtl nochmal mit Rezept von Oma abgleichen (42. Grießschmarren.txt)
+- evtl wie Oma Rezept machen: 250ml Milch (350ml bei VK Grieß); 1-2 Eier; 0,5TL Salz; 2EL Zucker; 250g Grieß. Zubereitung: Eiklar und Dotter trennen; Milch, Zucker und Eidotter verrühren;Grieß in die Milch einrühren;ca 15min rasten lassen;Schnee schlagen + unterheben
