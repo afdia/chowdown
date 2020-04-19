@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Vollkorn Brot"
+title: "Vollkorn Brot v1"
 image: vollkorn_brot.webp
 category: BrotGebaeck
 
