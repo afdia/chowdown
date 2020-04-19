@@ -25,3 +25,4 @@ directions:
 Verbesserungsideen
 - Baguette war perfekt, Teig ist aber recht patzig, daher nachher relativ viel Mehl nehmen - fürs Formen (damit er nicht auf den Fingern klebt)
 evtl nur 220°C einstellen
+- Verwendetes Mehl war [Fini's Feinstes Weizenmehl Universal](https://www.finis-feinstes.at/de/sortiment/mehle/index.aspx?detail=66&hl=Fini%E2%80%99s%20Feinstes%20Weizenmehl%20universal). Evtl war es dadurch so gut? Auch anderes Mehl testen.
