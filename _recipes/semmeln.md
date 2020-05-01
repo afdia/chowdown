@@ -6,6 +6,8 @@ image: semmeln.webp
 category: BrotGebaeck
 
 images:
+  - image: ../images/semmeln_vollkorn.webp
+    description: Variante mit 150g Vollkorn Weizenmehl, 100g normales Weizenmehl
   - image: ../images/semmeln_wasser_oel.webp
     description: Versuch mit Wasser+Öl, etwas zu lang im Rohr darum dunkel
   - image: ../images/semmeln_wasser_milch.webp
