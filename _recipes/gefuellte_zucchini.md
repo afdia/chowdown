@@ -18,7 +18,7 @@ ingredients:
 - 2 Knoblauchzehen
 - 1 Glas Tomatensauce (evtl etwas Ketchup dazu)
 - 1 Jalapeno
-- 200g Mozarella
+- 200g Mozarella (oder 125g Mozarella und 50g geriebener Parmesan (unter Tomatensauce!))
 
 directions:
 - Zwiebel, Knoblauch in der Pfanne mit etwas Butter anrösten
