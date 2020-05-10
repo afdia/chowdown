@@ -16,7 +16,7 @@ ingredients:
 - 4 Eier
 - 2Pkg Vanillezucker
 - 1Pkg Backpulver
-- 200ml Milch (oder 250g Joghurt oder Sauerrahm)
+- 200ml Milch (oder 250g Joghurt/Sauerrahm/Topfen. Bei Topfen etwas (50ml?) Milch dazu)
 - 1EL Kaokaopulver
 
 directions:
