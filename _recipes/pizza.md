@@ -8,6 +8,8 @@ category: Hauptgericht
 images:
   - image: ../images/pizza_stangerl.webp
     description: Pizzastangerl - Teig machen, 1h rasten, formen, 15min rasten, etwas Wasser drauf, 10min 250°C (vorgeheizt)
+  - image: ../images/pizza_roulade.webp
+    description: Pizzaroulade - Tomatensauce mit geschnittenem Gemüse köcheln, verteilen, zusammenrollen, dann bei 250°C 17min ins Rohr. Probleme - beim Rollen wegen warmen Gemüse kleben geblieben, Tomatensauce rinnt raus (evtl weglassen?), am Rand zuviel Teig, oben und unten zu resch (besser zb 200°C 25min?)
 
 ingredients:
 - 400g Mehl, glatt
