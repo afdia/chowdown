@@ -27,3 +27,7 @@ directions:
 - Backrohr auf 200°C Ober-/Unterhitze vorheizen und Gebäck für 20min ins vorgeheizte Backrohr geben
 
 ---
+
+Verbesserungsideen:
+
+- evtl nur 200ml Wasser für Lauge aber Bestreichen statt Eintauchen
