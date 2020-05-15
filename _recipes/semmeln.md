@@ -27,3 +27,5 @@ directions:
 - Backrohr auf 220°C vorheizen, Teigkugeln mit Messer jeweils 5x einschneiden, etwas Wasser darauf verteilen und für 9-10min ins Backrohr geben
 
 ---
+
+Den Teig kann man auch gut am Vortag vorbereiten und über Nacht im Kühlschrank lassen. Dazu direkt nach dem ersten Kneten herausnehmen, rund formen, mit etwas Mehl bestäuben und wieder in Schüssel geben. Mit Frischhaltefolie zudecken. Am nächsten Tag herausnehmen (Teig ist ca doppelt-dreifach so groß) und Kugeln formen etc.
