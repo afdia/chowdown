@@ -27,3 +27,5 @@ directions:
 - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 35 Minuten backen
 
 ---
+
+Vorschlag Schnee schlagen! Evtl sollte er etwas flüssiger sein (andere Rezepete schauen)
