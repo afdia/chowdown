@@ -9,7 +9,7 @@ images:
   - image: ../images/roulade_marmelade.webp
     description: Roulade mit 1 Glas Marillenmarmelade kann enger gerollt werden (Teig war hier zu lang im Rohr ist darum gebrochen)
   - image: ../images/roulade_vorgerollt.webp
-    description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen
+    description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
 
 components:
 - Biskuit
