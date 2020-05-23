@@ -7,25 +7,26 @@ category: Süßspeise
 
 images:
   - image: ../images/blechkuchen_erdbeer.webp
-    description: Variante mit Erdbeeren
+    description: Variante mit Erdbeeren (30min im Rohr sind genug)
 
 ingredients:
 - 130g Butter
-- 80g Zucker
+- 100g Zucker
 - 4 Eier
 - 1 Pkg Vanillezucker
 - 1 Pkg Backpulver
-- 280g Mehl (Dinkel VK)
-- 100ml Milch
+- 300g Mehl (Dinkel VK)
+- 150g Milch
 - Zwetschken/Marillen/Erdbeeren/Kirschen
 
 directions:
-- Butter, Zucker, Eier, Vanillezucker und Backpulver mit Küchenmaschine mixen
+- Eier trennen und Schnee schlagen
+- Butter, Zucker, Dotter, Vanillezucker und Backpulver mit Küchenmaschine mixen
 - Wenn es eine chremige Masse ist, Mehl und Milch hinzufügen und weiter mixen
-- Wenn Teig chremig ist, mit Teigkarte auf Backblech (mit Backpapier) dünn aufstreichen (ca 0,5-1cm hoch)
+- Wenn Teig chremig ist, Schnee dazugeben, weiter mixen bis er vermischt ist und mit Teigkarte auf Backblech (mit Backpapier) dünn aufstreichen (ca 0,5-1cm hoch)
 - Beliebiges Obst in Hälften Schneiden und gleichmäßig verteilen
 - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 35 Minuten backen
 
 ---
 
-Vorschlag Schnee schlagen! Evtl sollte er etwas flüssiger sein (andere Rezepete schauen)
+Schnee passt super und macht Kuchen lockerer. Evtl noch mehr Milch probieren? Masse ist eh noch recht kompakt (speziell vor Schnee)
