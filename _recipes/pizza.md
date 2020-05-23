@@ -6,6 +6,8 @@ image: pizza.webp
 category: Hauptgericht
 
 images:
+  - image: ../images/pizza_margerita.webp
+    description: Pizza Margerita mit viel Käse und einem schmalen Rand
   - image: ../images/pizza_stangerl.webp
     description: Pizzastangerl - Teig machen, 1h rasten, formen, 15min rasten, etwas Wasser drauf, 10min 250°C (vorgeheizt)
   - image: ../images/pizza_roulade.webp
@@ -30,3 +32,4 @@ directions:
 
 ---
 
+Letzter Versuch war mit frischem Germ und 2x rasten (1h in Schüssel, danach Kugeln formen und nochmal 1h). Danach geformt ausbreiten und nochmal 15min gehen lassen (man sieht dass der Rand größer wird). war super weil hoher Rand die Flüssigkeit gut hält!
