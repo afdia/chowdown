@@ -19,3 +19,7 @@ directions:
 - Alles zusammen mit Joghurt, Sauerrahm, Dille, Salz Pfeffer vermischen und abschmecken
 
 ---
+
+verbesserung:
+knoblauch mit olivenöl in zerkleinerer
+weißweinessig dazugeben
