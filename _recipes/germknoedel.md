@@ -8,6 +8,10 @@ category: Süßspeise
 images:
   - image: ../images/germknoedel_gegangen.webp
     description: Germknödel nach der Rastzeit. Wie man sieht fehlt unten das Mehl weshalb man sie nicht gut lösen konnte
+  - image: ../images/germknoedel_plastikbox.webp
+    description: In der Plastikbox vor dem Gehen im Wasserbad
+  - image: ../images/germknoedel_plastikbox_gegangen.webp
+    description: Und nach dem Gehen. So wird die Box direkt eingefrohren
 
 ingredients:
 - 250g Weizenmehl
@@ -39,4 +43,4 @@ Probleme bei 1. Versuch:
 
 Einfrierversuch:
 - halbe Größe machen und direkt in Plastikboxen gehen lassen (bemehlter Boden und deckel draugelegt damit sie nicht austrocknen, dafür nur 1x anfangs bewässern und Boxen in warmes Wasserbad in Abwasch geben), nach Gehzeit einfrieren
-- beim zubereiten aus Plastikbox nehmen und in kochendes Wasser geben. Iglo Knödel sind zb einfach 15min im Kochtopf
+- beim zubereiten aus Plastikbox nehmen und in kochendes Wasser geben. Iglo Knödel sind zb einfach 16-18min im Kochtopf
