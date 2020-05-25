@@ -21,6 +21,7 @@ ingredients:
 - 25g Zucker
 - 3g Salz
 - 15g frische Hefe
+- Für Mohnzucker zum Bestreuen ca 60g gemahlener Mohn und 20g Zucker (gesiebt) vermischen
 
 directions:
 - Milch in Topf etwas aufwärmen (ca 2min Stufe 6), Butter auftauen lassen
@@ -37,10 +38,9 @@ directions:
 
 Probleme bei 1. Versuch:
 - Mehl auf Backpapier vergessen, dadurch sind Knödel festgeklebt und haben eine "zerrissene" Unterseite gehabt
-- Die Knödel waren perfekt durch aber etwas zusammengefallen, evtl sollte man nicht nach 7min umdrehen (nach den ersten 7min war es noch nicht zusammengegangen!)
-- Mohn Zucker Gemisch war in Summe zuviel aber zuwenig Zuckeranteil. Genaues Mischverhältnis in Gramm notieren und Zucker sieben (sonst sieht man Zuckerklumpen wie hier)
-- wie man am Bild sieht hab ich auf die Butter vergessen, daher neues Bild mit Butter machen
+- Die Knödel waren perfekt durch aber etwas zusammengefallen, evtl sollte man nicht nach 7min umdrehen (nach den ersten 7min war es noch nicht zusammengegangen!) - Tiefgekühlte waren nicht umgedreht und trotzdem durch also sollts passen
 
-Einfrierversuch:
-- halbe Größe machen und direkt in Plastikboxen gehen lassen (bemehlter Boden und deckel draugelegt damit sie nicht austrocknen, dafür nur 1x anfangs bewässern und Boxen in warmes Wasserbad in Abwasch geben), nach Gehzeit einfrieren
-- beim zubereiten aus Plastikbox nehmen und in kochendes Wasser geben. Iglo Knödel sind zb einfach 16-18min im Kochtopf
+Einfrierversuch 1:
+- halbe Größe machen und direkt in Plastikboxen gehen lassen (Boden STARK bemehlen weil sie sonst ankleben und Deckel draugelegt damit sie nicht austrocknen, dafür nur 1x anfangs bewässern und Boxen in warmes Wasserbad in Abwasch geben), nach Gehzeit einfrieren
+- beim Zubereiten aus Plastikbox nehmen und 16min bei Stufe 5 in kochendes Wasser geben.
+- Ergebnis war geschmacklich gut aber Knödel sind in Boxen geklebt, daher STARK bemehlen damit sie nicht ankleben
