@@ -8,7 +8,7 @@
       {% if post.ingredients %}"ingredients"    : "{% for ingredient in post.ingredients %}{{ ingredient | escape }}, {% endfor %}",{% endif %}
       "content"	 : "{{ post.content | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
       {% if post.tags %}"tags"    : "{% for tag in post.tags %}{{ tag | escape }} {% endfor %}",{% endif %}
-      "image"	   : "{{ post.image }}",
+      "image"	   : "{{ site.baseurl }}/images_resized/{{ post.image }}",
 	    "url"      : "{{ site.baseurl }}{{ post.url }}"
       
     } {% unless forloop.last %},{% endunless %}
