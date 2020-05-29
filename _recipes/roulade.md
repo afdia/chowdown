@@ -31,3 +31,4 @@ directions:
 Verbesserungsideen:
 - Füllung war geschmacklich sehr gut aber flüssig und ist rausgeronnen. Evtl statt Joghurt Schlagobers aufschlagen damit die Füllung weniger rinnt
 - war zuviel Füllung gemeinsam mit dem Schaum der Erdbeermarmelade, evtl von allem etwas weniger nehmen
+- Nächster Versuch mit Füllung aus nur 250g Topfen + 300g Erdbeeren war zu trocken. Vmtl wirds besser wenn man darunter Erdbeermarmelade aufs Biskuit streicht oder geschlagenes Schlagobers dazu gibt
