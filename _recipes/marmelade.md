@@ -21,10 +21,10 @@ ingredients:
 - 7 Darbo Marmelade Gläser (1 davon als Reserve)
 
 directions:
-- Früchte waschen (und falls nötig entkernen), die Masse danach mit Zerkleinerer zerkleinern (macht Masse sehr fein und einfach zum Einfüllen). Bei Erdbeeren testen ob sich mit Pürierstab weniger Schaum bildet oder nach dem Zerkleinern stehen lassen und Schaum abschöpfen.
-- Die Masse im größten Topf aufkochen und Gelierzucker dazugeben
-- 3min auf Stufe 8 (spritzt weniger als 9) kochen lassen.
-- Mit Kochlöffel statt Schneebesen rühren um Schaum zu verringern. Falls sich dennoch Schaum bildet, vorm Kochen warten oder kurz aufkochen und warten, dann Schaum abschöpfen
+- Früchte waschen (und falls nötig entkernen), die Masse danach mit Zerkleinerer zerkleinern (macht Masse sehr fein und einfach zum Einfüllen). Bei Erdbeeren besser zerstampfen und dann kurz mit Pürierstab pürieren um Schaum zu vermeiden.
+- Falls sich Schaum gebildet hat diesen etwas abschöpfen, dann die Masse im größten Topf aufkochen und Gelierzucker dazugeben
+- 3-4min auf Stufe 8 (spritzt weniger als 9) kochen lassen.
+- Mit Kochlöffel statt Schneebesen rühren um Schaum zu verringern. Falls sich Schaum bildet, am Ende mit Löffel schnell abschöpfen bevor man die Gläser befüllt. Die Schaummasse passt perfekt für Roulade oder zu Germknödel.
 - ausgekochte Gläser möglichst bis zum Rand voll machen, zuschrauben und auf den Kopf stellen
 - Falls beim einfüllen Marmelade außen aufs Glas geronnen ist, jetzt mit Küchenrolle abwischen (geht noch leichter solange die Marmelade flüssig ist)
 

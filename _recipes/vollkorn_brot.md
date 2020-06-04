@@ -35,3 +35,4 @@ directions:
 
 Verbesserungsvorschläge:
 - Nächstes mal evtl 450 oder 500ml Wasser probieren. Ist in manchen Rezepten und machts evtl saftiger
+- letzter Versuch war mit ca 430ml Wasser und 1/2 Packung Al Natura Sauerteig (400g WeizenVK 100g Hirse). War sehr gut und saftig!
