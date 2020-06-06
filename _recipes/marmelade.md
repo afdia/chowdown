@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Marmelade"
 image: marmelade.webp
@@ -16,16 +15,15 @@ images:
     description: So sieht es aus wenn man bei Erdbeermarmelade Schaum einfüllt und die Gläser nicht randvoll macht. Beides verringert die Haltbarkeit!
 
 ingredients:
-- 1kg Früchte (zb Erdbeeren oder Marillen)
-- 2:1 Gelierzucker (bevorzugt von Alnatura)
-- 7 Darbo Marmelade Gläser (1 davon als Reserve)
+  - 1kg Früchte (zb Erdbeeren oder Marillen)
+  - 2:1 Gelierzucker (bevorzugt von Alnatura)
+  - 7 Darbo Marmelade Gläser (1 davon als Reserve)
 
 directions:
-- Früchte waschen (und falls nötig entkernen), die Masse danach mit Zerkleinerer zerkleinern (macht Masse sehr fein und einfach zum Einfüllen). Bei Erdbeeren besser zerstampfen und dann kurz mit Pürierstab pürieren um Schaum zu vermeiden.
-- Falls sich Schaum gebildet hat diesen etwas abschöpfen, dann die Masse im größten Topf aufkochen und Gelierzucker dazugeben
-- 3-4min auf Stufe 8 (spritzt weniger als 9) kochen lassen.
-- Mit Kochlöffel statt Schneebesen rühren um Schaum zu verringern. Falls sich Schaum bildet, am Ende mit Löffel schnell abschöpfen bevor man die Gläser befüllt. Die Schaummasse passt perfekt für Roulade oder zu Germknödel.
-- ausgekochte Gläser möglichst bis zum Rand voll machen, zuschrauben und auf den Kopf stellen
-- Falls beim einfüllen Marmelade außen aufs Glas geronnen ist, jetzt mit Küchenrolle abwischen (geht noch leichter solange die Marmelade flüssig ist)
-
+  - Früchte waschen (und falls nötig entkernen), die Masse danach mit Zerkleinerer zerkleinern (macht Masse sehr fein, locker und einfach zum Einfüllen). Bei Erdbeeren wird es aber sehr schäumig, daher besser zerstampfen und dann kurz mit Pürierstab pürieren um Schaum zu vermeiden.
+  - Falls sich Schaum gebildet hat diesen etwas abschöpfen, dann die Masse im größten Topf aufkochen und Gelierzucker dazugeben
+  - 3-4min auf Stufe 8 (spritzt weniger als 9) kochen lassen.
+  - Mit Kochlöffel statt Schneebesen rühren um Schaum zu verringern. Falls sich Schaum bildet, am Ende mit Löffel schnell abschöpfen bevor man die Gläser befüllt. Die Schaummasse passt perfekt für Roulade oder zu Germknödel.
+  - ausgekochte Gläser möglichst bis zum Rand voll machen, zuschrauben und auf den Kopf stellen
+  - Falls beim einfüllen Marmelade außen aufs Glas geronnen ist, jetzt mit Küchenrolle abwischen (geht noch leichter solange die Marmelade flüssig ist)
 ---
