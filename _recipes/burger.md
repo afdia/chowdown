@@ -6,7 +6,7 @@ category: Hauptgericht
 
 images:
   - image: ../images/burger_mit_ei.webp
-    description: Variante mit Spiegelei ohne Salat war OK aber Salat fehlt definitiv und Eis ist gut aber nicht unbedingt notwendig
+    description: Variante mit Spiegelei ohne Salat war OK aber Salat fehlt definitiv und Ei ist gut aber nicht unbedingt notwendig
   - image: ../images/burger_buns_gefrohren.webp
     description: 4 der 8 selbstgemachten Buns kann man fertig einfrieren. Später auftauen lassen und für 10min ohne Vorheizen bei 100°C ins Rohr geben damit sie etwas warm sind
   - image: ../images/burger_buns_sandwitchlike.webp
