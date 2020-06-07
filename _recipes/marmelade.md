@@ -7,6 +7,8 @@ category: Süßspeise
 images:
   - image: ../images/marmelade_marille.webp
     description: Marillenmarmelade - Marillen können in Zerkleinerer zerkleinert werden ohne dass sich Schaum bildet
+  - image: ../images/marmelade_erdbeer_rhabarber.webp
+    description: "Erdbeer Rhabarber Marmelade - Rhabarber schälen, in kleine Stücke schneiden und mit Erdbeeren im Topf mit Pürierstab zerkleinern. +1 Sackerl Vanillezucker und 1:2 Zucker nehmen"
   - image: ../images/marmelade_schwarzeribisel_heidelbeer.webp
     description: Schwarze Ribisel&Heidelbeeren - Schwarze Ribisel zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. Heidelbeeren zerkleinern und direkt dazu
   - image: ../images/marmelade_roteribisel_himbeer.webp
