@@ -18,8 +18,8 @@ images:
 
 ingredients:
   - 1kg Früchte (zb Erdbeeren oder Marillen)
-  - 2:1 Gelierzucker (bevorzugt von Alnatura)
-  - 7 Darbo Marmelade Gläser (1 davon als Reserve)
+  - 2:1 Gelierzucker (oder 3:1)
+  - 7 Darbo Marmelade Gläser (bzw 9 bei 3:1) (1 davon ist Reserve)
 
 directions:
   - Früchte waschen (und falls nötig entkernen), die Masse danach mit Zerkleinerer zerkleinern (macht Masse sehr fein, locker und einfach zum Einfüllen). Bei Erdbeeren wird es aber sehr schäumig, daher besser zerstampfen und dann kurz mit Pürierstab pürieren um Schaum zu vermeiden.
