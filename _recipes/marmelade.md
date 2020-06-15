@@ -8,11 +8,13 @@ images:
   - image: ../images/marmelade_marille.webp
     description: Marillenmarmelade - Marillen können in Zerkleinerer zerkleinert werden ohne dass sich Schaum bildet
   - image: ../images/marmelade_erdbeer_rhabarber.webp
-    description: "Erdbeer Rhabarber Marmelade - Rhabarber schälen, in kleine Stücke schneiden und mit Erdbeeren im Topf mit Pürierstab zerkleinern. +1 Sackerl Vanillezucker und 1:2 Zucker nehmen"
+    description: "Erdbeer Rhabarber Marmelade - Rhabarber schälen, in kleine Stücke schneiden und mit Erdbeeren im Topf mit Pürierstab zerkleinern. +1 Sackerl Vanillezucker und 1:2 Zucker nehmen. Nächstes Mal ohne Vanillezucker und mit 1:3 testen weil sehr süß"
   - image: ../images/marmelade_schwarzeribisel_heidelbeer.webp
     description: Schwarze Ribisel&Heidelbeeren - Schwarze Ribisel zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. Heidelbeeren zerkleinern und direkt dazu
   - image: ../images/marmelade_roteribisel_himbeer.webp
     description: Rote Ribisel&Himbeeren - Rote Ribisel und Himbeeren zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. (Ergebnis war sehr Gelee-artig, besser mit Heidelbeeren weil die flüssiger sind)
+  - image: ../images/marmelade_kiwi_erdbeer_rhabarber.webp
+    description: "Halber 1:3 Zucker, 300g Erdbeeren, 250g Rhabarber, 200g Erdbeeren - schwer zuzubereiten weil sehr dickflüssig, relativ sauer und Farbe nicht so schön. Daraus gelernt: Großteil muss Erdbeer sein, dann Kiwi ODER Rhabarber dazu"
   - image: ../images/marmelade_erdbeer_zuwenig.webp
     description: So sieht es aus wenn man bei Erdbeermarmelade Schaum einfüllt und die Gläser nicht randvoll macht. Beides verringert die Haltbarkeit!
 
