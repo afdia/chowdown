@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Semmeln"
 image: semmeln.webp
@@ -16,18 +15,17 @@ images:
     description: Alternative mit 80ml Milch + 80ml heißes Wasser (statt 150ml Wasser und 10g Olivenöl). Schmeckt auch gut aber Teig ist weicher und nicht so resch.
 
 ingredients:
-- 250g Mehl
-- 150ml lauwarmes Wasser
-- 10g Olivenöl (evtl warme Butter probieren?)
-- 5g Zucker
-- 6g Salz
-- 1/2 Sackerl Trockenhefe
+  - 250g Mehl (ergibt 4 Semmeln. Für 8 Stk Mengen verdoppeln)
+  - 150ml lauwarmes Wasser
+  - 10g Olivenöl (evtl warme Butter probieren?)
+  - 5g Zucker
+  - 6g Salz
+  - 1/2 Sackerl Trockenhefe
 
 directions:
-- Alle Zutaten in Küchenmaschine vermischen und den Teig in der Schüssel 30min im Backrohr gehen lassen
-- Danach nochmal mit Küchenmaschine durchkneten, 4 Kugeln formen (falten und mit Hand kreisförmig schwenken wie bei Burger Buns), auf Backpapier auslegen und 20min rasten lassen
-- Backrohr auf 220°C vorheizen und ein Häferl Wasser reinstellen, Teigkugeln mit Messer jeweils 5x einschneiden, etwas Wasser darauf verteilen (Sprühflasche) und für ca 10min ins Backrohr geben (anderer Tipp - wenn fertig oder 2min vorm Backende noch etwas mit Sprühflasche besprühen)
-
+  - Alle Zutaten in Küchenmaschine vermischen und den Teig in der Schüssel 30min zugedeckt gehen lassen
+  - Danach nochmal mit Küchenmaschine durchkneten, 4 Kugeln formen (falten und mit Hand kreisförmig schwenken wie bei Burger Buns), auf Backpapier auslegen und 20min rasten lassen
+  - Backrohr auf 220°C vorheizen und ein Häferl Wasser reinstellen, Teigkugeln mit Messer jeweils 5x einschneiden, etwas Wasser darauf verteilen (Sprühflasche) und für ca 10min ins Backrohr geben (1min vor Ende etwas mit Sprühflasche besprühen damit sie glänzen)
 ---
 
 Evtl längere Knetdauer kneten: 2-3min langsam rühren, danach 6-7min intensiver kneten
