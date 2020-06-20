@@ -24,7 +24,7 @@ ingredients:
 
 directions:
   - Alle Zutaten in Küchenmaschine vermischen und den Teig in der Schüssel 30min zugedeckt gehen lassen
-  - Danach nochmal mit Küchenmaschine durchkneten, 4 Kugeln formen (falten und mit Hand kreisförmig schwenken wie bei Burger Buns), auf Backpapier auslegen und 20min rasten lassen
+  - Danach nochmal mit Küchenmaschine durchkneten, 4 Kugeln formen (falten und mit Hand kreisförmig schwenken wie bei Burger Buns), auf Backpapier auslegen und 20min rasten lassen (nicht viel länger weil sie sonst fladenartig "auseinanderrinnen")
   - Backrohr auf 220°C vorheizen und ein Häferl Wasser reinstellen, Teigkugeln mit Messer jeweils 5x einschneiden, etwas Wasser darauf verteilen (Sprühflasche) und für ca 10min ins Backrohr geben (1min vor Ende etwas mit Sprühflasche besprühen damit sie glänzen)
 ---
 

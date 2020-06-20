@@ -6,7 +6,7 @@ category: Hauptgericht
 
 images:
   - image: ../images/gnocchi_einfrieren.webp
-    description: Gnocchi in 3 Etagen geschichtet mit Backpapier getrennt zum Einfrieren (TODO beschreiben ob es erfolgreich war!)
+    description: Gnocchi in 3 Etagen geschichtet mit Backpapier getrennt zum Einfrieren. Beim Auftauen vorsichtig lösen und auch ca 7min kochen. Waren sehr gut aber etwas weich nach dem Kochen (hat die Tomatensauce schön cremig gemacht)
   - image: ../images/gnocchi_geformt.webp
     description: Geformte Gnocchi (einige davon mit Gabel eingedrückt). Man muss aufpassen dass sie nicht zusammenpicken, daher sind sie auf einem Backpapier verteilt
 
