@@ -6,7 +6,7 @@ category: Hauptgericht
 
 images:
   - image: ../images/kohltaschen_auflauf.webp
-    description: Wenn Kohl zu weich, unten in die Auflaufform geben, darauf 150g geriebener Gouda, darauf mit Olivenöl angerösteter Zwiebel in Tomatensauce + Spar Paprika-Chili-Salsa + Paprika geschnitten + Thunfisch, darauf 125g Mozarella
+    description: Wenn Kohl zu weich, unten in die Auflaufform geben, darauf 150g geriebener Gouda, darauf mit Olivenöl angerösteter Zwiebel + 1 Dose Tomatensauce + 1/2 Spar Paprika-Chili-Salsa + Paprika geschnitten + große Dose Thunfisch, darauf 125g Mozarella
 
 components:
   - Basmatireis
@@ -16,7 +16,7 @@ ingredients:
   - 1 große Zwiebel (oder Frühlingszwiebel)
   - 700g Tomatensauce
   - 2-3 Packungen Mozarella (125g)
-  - 140gThunfisch
+  - 140g Thunfisch
   - 1 Jalapeno oder Paprika
   - etwas Butter zum anrösten
   - Salz, Pfeffer
