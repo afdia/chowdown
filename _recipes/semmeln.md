@@ -5,6 +5,8 @@ image: semmeln.webp
 category: BrotGebaeck
 
 images:
+  - image: ../images/semmeln_handsemmeln.webp
+    description: Versuch 1 Handsemmeln. geformte Teigkugeln 15min rasten lassen, dann formen, nochmal 25min im Backrohr rasten lassen, rausnehmen, vorheizen, einsprühen, backen
   - image: ../images/semmeln_vollkorn.webp
     description: Variante mit 150g Vollkorn Weizenmehl, 100g normales Weizenmehl
   - image: ../images/semmeln_teig_kuehschrank.webp
@@ -17,7 +19,7 @@ images:
 ingredients:
   - 500g Mehl (ergibt 8 Semmeln)
   - 300ml lauwarmes Wasser
-  - 20g Olivenöl (VORSCHLAG - warme Butter probieren wie Ofner)
+  - 20g warme Butter oder Olivenöl
   - 10g Zucker
   - 12g Salz
   - 1/2 Hefewürfel oder 1 Sackerl Trockengerm
@@ -28,6 +30,7 @@ directions:
   - Backrohr auf 220°C vorheizen und ein Häferl Wasser reinstellen, Teigkugeln mit Messer jeweils 5x einschneiden (oder kreuzweise wenn es schnell gehen soll), mit Wasser besprühen und für ca 14min ins Backrohr geben. Nach dem Rausnehmen nochmal mit Wasser besprühen
 ---
 
+[Ofner zeigt wie man Handsemmeln formt](https://www.youtube.com/watch?v=jAFSIyQ_Ppo). Mein Versuch waren sehr "schlampige" Semmeln und sie sind nach 25min gehen lassen recht flach geworden. Evtl besser formen und nur 15min verkehrt rasten lassen? Langsemmeln einfach formbar aber auch "auseinandergelaufen". Außerdem vmtl etwas zuviel Menge für 8 Semmeln. Evtl auf 400g Mehl runterrechnen?
 Evtl Ofner Mengen probieren [Quelle](https://www.derbackprofi.at/rezept/rezeptsammlung/detail/handkaisersemmel-2017.html), trotzdem 8 Stk formen weil gut teilbar
 Handsemmel formen probieren (ACHTUNG muss vor Rasten der Semmel geformt werden! danach verkehrt rasten lassen)
 Evtl Langsemmeln probieren
