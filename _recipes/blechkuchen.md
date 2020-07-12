@@ -17,7 +17,7 @@ ingredients:
   - 1 Pkg Vanillezucker
   - 1 Pkg Backpulver
   - 300g Mehl (Dinkel VK)
-  - 170g Milch
+  - 185g Milch
   - Zwetschken/Marillen/Erdbeeren/Kirschen
 
 directions:
@@ -26,7 +26,7 @@ directions:
   - Wenn es eine chremige Masse ist, Mehl und Milch hinzufügen und weiter mixen
   - Wenn Teig chremig ist, Schnee dazugeben, weiter mixen bis er vermischt ist und mit Teigkarte auf Backblech (mit Backpapier) dünn aufstreichen (ca 0,5-1cm hoch)
   - Beliebiges Obst in Hälften Schneiden und gleichmäßig verteilen
-  - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 35 Minuten backen (bei Erdbeeren evtl etwas kürzer)
+  - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 30-35 Minuten backen (bei Erdbeeren evtl etwas kürzer)
 ---
 
 Schnee passt super und macht Kuchen lockerer. Evtl noch mehr Milch probieren? Masse ist eh noch recht kompakt (speziell vor Schnee)
