@@ -26,8 +26,11 @@ ingredients:
 
 directions:
   - Alle Zutaten in Küchenmaschine geben und ca 2min langsam kneten, danach 6min intensiver kneten. Anschließend den Teig auf ein bemehltes Backpapier fallen lassen, wieder in die Schüssel legen, auch oben etwas bemehlen und 30min zugedeckt gehen lassen
-  - Danach nochmal mit Küchenmaschine durchkneten bis sich der Teig ablöst (nicht länger weil er sonst den Haken "hochwandert"), 4 Kugeln formen (falten und mit Hand kreisförmig schwenken wie bei Burger Buns), auf Backpapier auslegen und 20min rasten lassen (nicht viel länger weil sie sonst fladenartig "auseinanderrinnen")
-  - Backrohr auf 220°C vorheizen und ein Häferl Wasser reinstellen, Teigkugeln mit Messer jeweils 5x einschneiden (oder kreuzweise wenn es schnell gehen soll), mit Wasser besprühen und für ca 14min ins Backrohr geben. Nach dem Rausnehmen nochmal mit Wasser besprühen
+  - Teig mit Teigkarte aus Schüssel auf Backpapier fallen lassen und 8 Kugeln formen (falten und mit Hand kreisförmig schwenken wie bei Burger Buns).
+  - Macht man Langsemmeln werden die Kugeln länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
+  - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln.
+  - Anschließend lässt man die geformten Semmeln verkehrt 15min am Blech im Rohr rasten.
+  - Danach heizt man das Backrohr auf 220°C vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 14min ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
 
 [Ofner zeigt wie man Handsemmeln formt](https://www.youtube.com/watch?v=jAFSIyQ_Ppo). Mein Versuch waren sehr "schlampige" Semmeln und sie sind nach 25min gehen lassen recht flach geworden. Evtl besser formen und nur 15min verkehrt rasten lassen? Langsemmeln einfach formbar aber auch "auseinandergelaufen". Außerdem vmtl etwas zuviel Menge für 8 Semmeln. Evtl auf 400g Mehl runterrechnen?
