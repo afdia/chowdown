@@ -7,6 +7,8 @@ category: BrotGebaeck
 images:
   - image: ../images/semmeln_handsemmeln.webp
     description: Versuch 1 Handsemmeln. geformte Teigkugeln 15min rasten lassen, dann formen, nochmal 25min im Backrohr rasten lassen, rausnehmen, vorheizen, einsprühen, backen
+  - image: ../images/semmeln_langsemmeln.webp
+    description: Versuch 1 Langsemmeln. sehr gut, evtl noch fester mit Messergriff reindrücken oder danach stärker bemehlen, damit Spalt besser erhalten bleibt
   - image: ../images/semmeln_vollkorn.webp
     description: Variante mit 150g Vollkorn Weizenmehl, 100g normales Weizenmehl
   - image: ../images/semmeln_teig_kuehschrank.webp
