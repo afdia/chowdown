@@ -37,6 +37,42 @@ SimpleJekyllSearch({
 	});
 </script>
 
+<!-- WakeLock um Display aktiv zu halten (https://web.dev/wakelock/) -->
+<script>
+  window.onload = function() {
+    (async () => { // wrap in async function (https://stackoverflow.com/questions/46515764/how-can-i-use-async-await-at-the-top-level/46515787#46515787)
+        let wakeLock = null;
+
+        // Function that attempts to request a screen wake lock.
+        const requestWakeLock = async () => {
+          try {
+            wakeLock = await navigator.wakeLock.request('screen');
+            console.log('Screen Wake Lock is active');
+          } catch (err) {
+            console.error(`Cannot setup wakelock: ${err.name}, ${err.message}`);
+          }
+        };
+
+        // Request a screen wake lock…
+        await requestWakeLock();
+        // …and release it after a max of 1h (just to be safe)
+        window.setTimeout(() => {
+          wakeLock.release();
+          wakeLock = null;
+        }, 60 * 60 * 1000);
+        // wake lock is lost after tab is hidden, tehrefore reacquire it after tab is changed back
+        const handleVisibilityChange = () => {
+          if (wakeLock !== null && document.visibilityState === 'visible') {
+            requestWakeLock();
+          }
+        };
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+    })().catch(e => {
+        // Deal with the fact the chain failed
+    });
+  };
+</script>
+
 <!-- RECIPES LIST -->
 <div class="recipes xs-px1">
     <div class="clearfix">
