@@ -17,7 +17,7 @@ ingredients:
   - 1 Pkg Vanillezucker
   - 1 Pkg Backpulver
   - 300g Mehl (Dinkel VK)
-  - 185g Milch
+  - 190g Milch
   - Zwetschken/Marillen/Erdbeeren/Kirschen
 
 directions:
@@ -29,4 +29,4 @@ directions:
   - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 30-35 Minuten backen (bei Erdbeeren evtl etwas kürzer)
 ---
 
-Schnee passt super und macht Kuchen lockerer. Evtl noch mehr Milch probieren? Masse ist eh noch recht kompakt (speziell vor Schnee)
+Letzte Milchmenge war perfekt aber Marillen waren auch sehr saftig. Evtl nochmal auf 195 oder 200 erhöhen und testen aber 190 ist super!
