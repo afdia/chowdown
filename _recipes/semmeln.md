@@ -10,7 +10,7 @@ images:
   - image: ../images/semmeln_langsemmeln.webp
     description: Versuch 1 Langsemmeln. sehr gut, evtl noch fester mit Messergriff reindrücken oder danach stärker bemehlen, damit Spalt besser erhalten bleibt
   - image: ../images/semmeln_vollkorn.webp
-    description: Variante mit 150g Vollkorn Weizenmehl, 100g normales Weizenmehl
+    description: Variante mit 250g Vollkorn Weizenmehl, 250g normales Weizenmehl ist sehr gut
   - image: ../images/semmeln_teig_kuehschrank.webp
     description: Teig in Kühlschrank vorbereiten; direkt nach dem Kneten herausnehmen, rund formen, mit etwas Mehl bestäuben und wieder in Schüssel geben. Mit Frischhaltefolie zudecken. Am nächsten Tag herausnehmen (Teig ist ca doppelt-dreifach so groß) und Kugeln formen etc. wird sehr gut
   - image: ../images/semmeln_wasser_oel.webp
