@@ -6,7 +6,7 @@ category: Süßspeise
 
 images:
   - image: ../images/marmelade_marille.webp
-    description: Marillenmarmelade - Marillen können in Zerkleinerer zerkleinert werden ohne dass sich Schaum bildet
+    description: "Marillenmarmelade - Marillen können in Zerkleinerer zerkleinert werden ohne dass sich Schaum bildet (links 3:1, rechts 2:1)"
   - image: ../images/marmelade_erdbeer_rhabarber.webp
     description: "Erdbeer Rhabarber Marmelade - Rhabarber schälen, in kleine Stücke schneiden und mit Erdbeeren im Topf mit Pürierstab zerkleinern. +1 Sackerl Vanillezucker und 1:2 Zucker nehmen. Nächstes Mal ohne Vanillezucker und mit 1:3 testen weil sehr süß"
   - image: ../images/marmelade_schwarzeribisel_heidelbeer.webp
