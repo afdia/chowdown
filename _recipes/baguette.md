@@ -20,11 +20,11 @@ ingredients:
 directions:
   - 1/4 Hefewürfel, lauwarmes Wasser, Mehl, Salz und Zucker in Schüssel geben
   - Mit Küchenmaschine gut durchkneten (ca 2min Stufe 2, dann Teig in die Mitte putzen, danach 5min Stufe 3)
-  - Teig nochmal in die Mitte putzen und Schüssel zugedeckt 1,5h gehen lassen
+  - Teig mit Teigkarte auf Blech mit bemehltem Backpapier rausputzen, oben Mehl draufgeben und dann zurück in die Schüssel geben und zugedeckt 1h gehen lassen
   - Nach Rastzeit, Backrohr vorheizen und ein volles Häferl heißes Wasser ins Backrohr stellen
-  - Dann Teig mit Knethaken vorsichtig aus Schüssel auf bemehltes Blech kippen, darauf etwas Mehl verteilen, in 2 Stücke zerteilen und beide Baguettes langsam länglich ausziehen und spiralförmig drehen (dadurch behalten sie die Form)
-  - Wenn Backrohr vorgeheizt, Baguette mit dem Messer einige Mal schräg einschneiden, anschließend mit Wasser besprühen und ca 19min bei 240°C Ober/Unterhitze backen
+  - Dann Teig vorsichtig wieder auf bemehltes Backpapier putzen, darauf etwas Mehl verteilen, in 2 Stücke zerteilen und beide Baguettes langsam länglich ausziehen und spiralförmig drehen (dadurch behalten sie die Form)
+  - Wenn Backrohr vorgeheizt, Baguettes mit Wasser besprühen und ca 19min bei 240°C Ober/Unterhitze backen
+  - Nach dem Herausnehmen nochmal reichlich mit Wasser besprühen
 ---
 
-- Verbesserungsidee: Nach Kneten außen mit etwas Mehl bestäuben damit Teig leichter aus Schüssel geht
-- nach der Rastzeit von 1,5h das Baguette nicht (oder nur ganz kurz) kneten und sofort den Teig mit einer Teigkarte auf ein bemehltes Backblech herausputzen (so bleibt der Teig luftiger)
+- Verbesserungsidee: testen ob 1,5h Rastzeit besser werden. 1h war perfekt, teig könnte aber evtl etwas luftiger sein
