@@ -7,6 +7,8 @@ category: BrotGebaeck
 images:
   - image: ../images/fladenbrot_bestrichen.webp
     description: Fladenbrot bestrichen und eingeschnitten (Sesam fehlt hier noch)
+  - image: ../images/fladenbrot_mozarella.webp
+    description: Fertige Fladenbrote gefüllt mit Tomaten, Mozarella, Eisbergsalat
 
 ingredients:
   - 500g weißes Weizenmehl
