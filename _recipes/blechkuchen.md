@@ -9,6 +9,8 @@ images:
     description: Variante mit Erdbeeren (30min im Rohr sind genug)
   - image: ../images/blechkuchen_erdbeer_rhabarber.webp
     description: Variante mit Erdbeeren und Rhabarber schmeckt super (ca 35min im Rohr)
+  - image: ../images/blechkuchen_marillen.webp
+    description: Variante mit Marillen (hier 125g Topfen und ca 100g Milch, auch gut aber nur Milch ist besser)
 
 ingredients:
   - 130g Butter
