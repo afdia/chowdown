@@ -1,62 +1,17 @@
-const CACHE = "pwabuilder-offline";
+// use Workbox-SW to cache resources (see https://stackoverflow.com/questions/46830493/is-there-any-way-to-cache-all-files-of-defined-folder-path-in-service-worker/46891749#46891749)
+// I use Stale-while-revalidate to get updates e.g. for images in background while still using the cached img at the moment (see https://developers.google.com/web/tools/workbox/modules/workbox-strategies)
+importScripts('https://unpkg.com/workbox-sw@0.0.2/build/importScripts/workbox-sw.dev.v0.0.2.js');
+importScripts('https://unpkg.com/workbox-runtime-caching@1.3.0/build/importScripts/workbox-runtime-caching.prod.v1.3.0.js');
+importScripts('https://unpkg.com/workbox-routing@1.3.0/build/importScripts/workbox-routing.prod.v1.3.0.js');
 
-const offlineFallbackPage = "index.html";
-
-// Install stage sets up the index page (home page) in the cache and opens a new cache
-self.addEventListener("install", function (event) {
-  console.log("Install Event processing");
-
-  event.waitUntil(
-    caches.open(CACHE).then(function (cache) {
-      console.log("Cached offline page during install");
-
-      if (offlineFallbackPage === "ToDo-replace-this-name.html") {
-        return cache.add(new Response("Update the value of the offlineFallbackPage constant in the serviceworker."));
-      }
-
-      return cache.add(offlineFallbackPage);
-    })
-  );
+const assetRoute = new workbox.routing.RegExpRoute({
+    regExp: new RegExp('^https://afdia.github.io/chowdown/*'),
+    handler: new workbox.runtimeCaching.StaleWhileRevalidate()
 });
 
-// If any fetch fails, it will look for the request in the cache and serve it from there first
-self.addEventListener("fetch", function (event) {
-  if (event.request.method !== "GET") return;
-
-  event.respondWith(
-    fetch(event.request)
-      .then(function (response) {
-        console.log("Add page to offline cache: " + response.url);
-
-        // If request was success, add or update it in the cache
-        event.waitUntil(updateCache(event.request, response.clone()));
-
-        return response;
-      })
-      .catch(function (error) {        
-        console.log("Network request Failed. Serving content from cache: " + error);
-        return fromCache(event.request);
-      })
-  );
+const router = new workbox.routing.Router();
+//router.addFetchListener();
+router.registerRoutes({routes: [assetRoute]});
+router.setDefaultHandler({
+    handler: new workbox.runtimeCaching.StaleWhileRevalidate()
 });
-
-function fromCache(request) {
-  // Check to see if you have it in the cache
-  // Return response
-  // If not in the cache, then return error page
-  return caches.open(CACHE).then(function (cache) {
-    return cache.match(request).then(function (matching) {
-      if (!matching || matching.status === 404) {
-        return Promise.reject("no-match");
-      }
-
-      return matching;
-    });
-  });
-}
-
-function updateCache(request, response) {
-  return caches.open(CACHE).then(function (cache) {
-    return cache.put(request, response);
-  });
-}
