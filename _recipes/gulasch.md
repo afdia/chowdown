@@ -5,6 +5,9 @@ title: "Gulasch"
 image: gulasch.webp
 category: Hauptgericht
 
+components:
+  - Kartoffeln
+
 ingredients:
 - Einige Semmeln oder Baguette
 - 3 Zwiebel

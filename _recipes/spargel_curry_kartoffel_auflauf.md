@@ -5,6 +5,9 @@ title: "Spargel Curry Kartoffel Auflauf"
 image: spargel_curry_kartoffel_auflauf.webp
 category: Hauptgericht
 
+components:
+  - Kartoffeln
+
 ingredients:
 - 500g weißer Spargel
 - 500g Kartoffeln
