@@ -10,7 +10,7 @@ images:
   - image: ../images/vollkorn_hirse.webp
     description: Variante mit 320ml Wasser, 375g Dinkel, 125g Hirse (mit 250g Salzwasser (TODO genau Salzmenge aufschreiben, evtl weniger Salz ins Brot?) aufkochen und bei Stufe 3 10min gehen lassen). Sehr saftig und gut.
   - image: ../images/vollkorn_brot_aussen_nicht_gut.webp
-    description: 350g VK Weizen, 150g Hirse, 475ml Wasser, ohne Vorheizen - Rinde war zu blass und hart und Chiasamen haben sich mit Rinde verbunden und waren nicht gut. Vmtl ist das nicht-Vorheizen das Hauptproblem und/oder zuviel Wasser
+    description: 350g VK Weizen, 150g Hirse, 475ml Wasser, ohne Vorheizen - Rinde war zu blass und hart und Chiasamen haben sich mit Rinde verbunden und waren nicht gut. Vmtl ist das nicht-Vorheizen das Hauptproblem und/oder zuviel Wasser. 450ml Wasser und mit Vorheizen war zwar nicht zu hart aber Chiasamen sind auch "reingesunken", daher vmlt nur 400ml Wasser nehmen
   - image: ../images/vollkorn_brot_mehl.webp
     description: Form mit Sonnenblumenöl ausgefettet und Mehl draufgegeben (Problem - bildet "Mehlklumpen", besser Teig bemehlen!), Sonnenblumenkerne in Teig nicht so gut, 1h 200°C ohne vorheizen > Rinde zu dunkel und resch
 
