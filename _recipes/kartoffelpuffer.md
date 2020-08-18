@@ -19,6 +19,8 @@ ingredients:
 directions:
 - Die Kartoffeln schälen und mit der feinsten Scheibe der Küchenmaschine reiben
 - Eier und etwas Mehl dazugeben
-- Puffer in Mehl herausbacken, Pfanne mit Öl max. 3x befüllen weil sich bei jedem Durchgang mehr Reste ansammeln die dunkler werden
+- Puffer in Öl herausbacken, Pfanne mit Öl max. 3x befüllen weil sich bei jedem Durchgang mehr Reste ansammeln die dunkler werden
 
 ---
+
+Man kann übrig gebliebene Puffer sehr gut einfrieren und später im Backrohr aufwärmen. TODO genaue Zeit (vmtl 200°C 15min? schauen wie es zb bei Iglo Puffern ist)

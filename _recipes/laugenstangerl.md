@@ -16,15 +16,15 @@ ingredients:
 - 270g Wasser
 - 30g Butter (zimmerwarm)
 - 10g Salz
-- 7g Trockenhefe
-- Für die Lauge 400ml Wasser und 14g Natron (nächstes Mal nur 280ml Wasser nehmen und eintauchen, damit Laugengeschmack stärker rauskommt. Notfalls beide Mengen verdoppeln wenn zu wenig)
+- 1/2 Germwürfel (21g)
+- Für die Lauge 280ml Wasser und 14g Natron
 
 directions:
 - Butter warm werden lassen und mit Mehl, Wasser, Salz, Hefe mixen
-- Teig 1h zugedeckt in Schüssel rasten lassen und anschließend nochmal kurz durchkneten und in 8 Teile zerteilen
-- Laugenstangerl formen und schräg einschneiden. Währenddessen Wasser aufkochen, vom Herd nehmen und Natron hinzufügen
-- Die geformten Stangen werden jeweils 5-10sek pro Seite (oben/unten) in die Lauge getaucht, herausgenommen und sollten nochmal mindestens 10min rasten um aufzugehen
+- Teig 30min zugedeckt in Schüssel rasten lassen und anschließend nochmal kurz durchkneten und in 8 Teile zerteilen
+- Laugenstangerl formen und schräg einschneiden. Währenddessen Wasser aufkochen, vom Herd nehmen und Natron hinzufügen (letztes Mal mitgekocht und hat super Farbe ergeben, kA ob es einen Unterschied macht)
+- Die geformten Stangen werden jeweils 5-10sek pro Seite (oben/unten) in die Lauge getaucht, herausgenommen und sollten nochmal 5min rasten um aufzugehen
 - Bevor die Weckerl ins Backrohr gegeben werden können sie mit Sesam bestreut werden
-- Backrohr auf 200°C Ober-/Unterhitze vorheizen und Gebäck für 20min ins vorgeheizte Backrohr geben
+- Ein Häferl Wasser ins Backrohr stellen und auf 200°C Ober-/Unterhitze vorheizen und Gebäck für 20min ins vorgeheizte Backrohr geben
 
 ---
