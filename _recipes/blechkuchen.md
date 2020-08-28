@@ -24,8 +24,8 @@ ingredients:
 
 directions:
   - Eier trennen und Schnee schlagen
-  - Butter, Zucker, Dotter, Vanillezucker und Backpulver mit Küchenmaschine mixen
-  - Wenn es eine chremige Masse ist, Mehl und Milch hinzufügen und weiter mixen
+  - Butter, Zucker, Dotter und Vanillezucker mit Küchenmaschine mixen
+  - Wenn es eine chremige Masse ist, Mehl, Milch und Backpulver hinzufügen und weiter mixen
   - Wenn Teig chremig ist, Schnee dazugeben, weiter mixen bis er vermischt ist und mit Teigkarte auf Backblech (mit Backpapier) dünn aufstreichen (ca 0,5-1cm hoch)
   - Beliebiges Obst in Hälften Schneiden und gleichmäßig verteilen
   - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 30-35 Minuten backen (bei Erdbeeren evtl etwas kürzer)
