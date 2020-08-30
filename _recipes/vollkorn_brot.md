@@ -13,6 +13,8 @@ images:
     description: 350g VK Weizen, 150g Hirse, 475ml Wasser, ohne Vorheizen - Rinde war zu blass und hart und Chiasamen haben sich mit Rinde verbunden und waren nicht gut. Vmtl ist das nicht-Vorheizen das Hauptproblem und/oder zuviel Wasser. 450ml Wasser und mit Vorheizen war zwar nicht zu hart aber Chiasamen sind auch "reingesunken", daher vmlt nur 400ml Wasser nehmen
   - image: ../images/vollkorn_brot_mehl.webp
     description: Form mit Sonnenblumenöl ausgefettet und Mehl draufgegeben (Problem - bildet "Mehlklumpen", besser Teig bemehlen!), Sonnenblumenkerne in Teig nicht so gut, 1h 200°C ohne vorheizen > Rinde zu dunkel und resch
+  - image: ../images/vollkorn_brot_kastenform.webp
+    description: Kastenform funktioniert auch, man darf Brot aber nur ca 15min darin rasten lassen. Bei 30 min + weiteres Gehen in den ersten Backminuten ist es seitlich stark übergelaufen. Die Backzeit ist auch ca 5-10min kürzer (noch genau ermitteln), geschmacklich war es sehr gut
 
 ingredients:
   - 250g Vollkornmehl
@@ -30,11 +32,12 @@ directions:
   - Optional Schüssel mit Küchentuch abdecken und 1h rasten lassen, danach nochmal kurz mit Küchenmaschine kneten (dadurch geht Brot bis zu 2cm über Brotform auf)
   - Brotform mit Butter ausstreichen und mit Sesam/Sonnenblumenkerne auslegen
   - Den gekneteten Teig mit einer Teigkarte in die Brotform putzen und min. 30min rasten lassen
-  - Brot in Form oben mit etwas Wasser befeuchten, Backrohr auf 200°C Ober/Unterhitze vorheizen und 40min backen
+  - Brot in Form oben mit etwas Wasser befeuchten, Backrohr auf 200°C Ober/Unterhitze vorheizen und 40min backen (evtl Häferl Wasser in Backrohr stellen damit es saftiger wird)
 ---
 
-Verbesserungsvorschläge:
+Letzte Versuche:
 
 - vorvorletzter Versuch war mit 450ml Wasser und 1/2 (7,5g) Packung Al Natura Sauerteig (400g WeizenVK 100g Hirse bzw 500g 6korn mischung). War sehr gut und saftig!
 - vorletzter Versuch mit 475ml wasser, 350g vk mehl, 150g hirse, 1/3 spar sauerteig - siehe 3. Bild Chiasamen waren nicht gut und Rinde zu resch. Vmtl ist mit Vorheizen besser auch wenn das Brot zusammenfällt!
 - letzter Versuch mit Vorheizen 40min backen und 450ml Wasser + Häferl Wasser in Backrohr (vmlt zuviel Wasser weil sich Chiasamen wieder mit Teig vermischt hat)
+- dann Kastenformversuch
