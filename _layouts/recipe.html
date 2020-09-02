@@ -6,10 +6,12 @@ layout: default
   <!-- call up the image and image credit link -->
   {% for image in page.image %}
   <div class="xs-p2">
-    <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" />
+    <a href="#" onclick="document.location=window.location.href.substring(0,window.location.href.indexOf('/recipes'));return false;">
+      <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" />
+    </a>
     {% if page.imagecredit %} {% for imagecredit in page.imagecredit %}
     <a href="{{ imagecredit }}" class="right">
-      <svg class="js-geomicon geomicon" width="14" height="14" data-icon="camera" viewBox="0 0 32 32" style="fill: currentcolor;">
+      <svg class="js-geomicon geomicon" width="14" height="14" data-icon="camera" viewBox="0 0 32 32" style="fill: currentcolor">
         <title>camera icon</title>
         <path d="M0 6 L8 6 L10 2 L22 2 L24 6 L32 6 L32 28 L0 28 z M9 17 A7 7 0 0 0 23 17 A7 7 0 0 0 9 17"></path>
       </svg>
@@ -29,9 +31,7 @@ layout: default
     </div>
 
     <div class="mt3 clearfix">
-      <div class="sm-col sm-col-12 lg-col-12">
-        {% include nutritional-information.html %}
-      </div>
+      <div class="sm-col sm-col-12 lg-col-12">{% include nutritional-information.html %}</div>
     </div>
 
     <!-- call up recipe and directions -->
@@ -71,9 +71,7 @@ layout: default
     <!-- check if it's a component-based recipe, render it -->
     {% if page.components %}
 
-    <div class="components bg-darken-2 p2 mt3 mb3 center">
-      &darr; {{ site.translation[site.language].component_based }} &darr;
-    </div>
+    <div class="components bg-darken-2 p2 mt3 mb3 center">&darr; {{ site.translation[site.language].component_based }} &darr;</div>
 
     <div class="clearfix mxn2">
       {% for component in page.components %}
@@ -87,7 +85,7 @@ layout: default
         </div>
         {% if recipe.imagecredit %} {% for imagecredit in recipe.imagecredit %}
         <a href="{{ imagecredit }}" class="right">
-          <svg class="js-geomicon geomicon" width="14" height="14" data-icon="camera" viewBox="0 0 32 32" style="fill: currentcolor;">
+          <svg class="js-geomicon geomicon" width="14" height="14" data-icon="camera" viewBox="0 0 32 32" style="fill: currentcolor">
             <title>camera icon</title>
             <path d="M0 6 L8 6 L10 2 L22 2 L24 6 L32 6 L32 28 L0 28 z M9 17 A7 7 0 0 0 23 17 A7 7 0 0 0 9 17"></path>
           </svg>
@@ -119,12 +117,10 @@ layout: default
     <!--section to add more images to recipe -->
     {% if page.images %}
 
-    <div class="components bg-darken-2 p2 mt3 mb3 center">
-      Weitere Bilder zum Rezept
-    </div>
+    <div class="components bg-darken-2 p2 mt3 mb3 center">Weitere Bilder zum Rezept</div>
 
     {% for image in page.images %}
-    <figure class="image" style="margin-top: 2.5em; margin-bottom: 2.5em;">
+    <figure class="image" style="margin-top: 2.5em; margin-bottom: 2.5em">
       <img src="{{ image.image }}" alt="[IMAGE MISSING]" />
       <figcaption>{{ image.description }}</figcaption>
     </figure>
@@ -132,7 +128,7 @@ layout: default
 
     <!-- Kategorien -->
     {% for category in page.categories %}
-    <p class="blue clearfix" style="font-weight: bold; margin-top: 5em;">{{ site.translation[site.language].category }}: <span itemprop="recipeCategory">{{ category }}</span></p>
+    <p class="blue clearfix" style="font-weight: bold; margin-top: 5em">{{ site.translation[site.language].category }}: <span itemprop="recipeCategory">{{ category }}</span></p>
     {% endfor %}
   </article>
 </div>
