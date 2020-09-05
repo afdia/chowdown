@@ -4,6 +4,10 @@ title: "Erdäpfelsterz"
 image: erdaepfelsterz.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/erdaepfelsterz_in_pfanne.webp
+    description: Eine Hälfte des Teigs füllt die Pfanne ziemlich aus darum muss man es auf 2x machen
+
 components:
   - Kartoffeln
 
