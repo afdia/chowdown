@@ -19,15 +19,16 @@ ingredients:
   - 300g Spaghetti
   - 80g Parmesan gerieben
   - Viele Basilikumblätter
+  - 1EL dunkler Balsamicoessig
   - Olivenöl
   - Salz, Pfeffer
 
 directions:
   - Zwiebel und Knoblauch fein schneiden und in Pfanne in etwas Olivenöl leicht anschwitzen (oder Zwiebel vorher karamellisieren und erst später Knoblauch dazugeben)
-  - Tomaten in Stücke schneiden und inkl Saft dazugeben und ca 10min nicht zugedeckt kochen, währenddessen auch Spaghetti kochen
+  - Tomaten in Stücke schneiden, danach 1EL dunklen Balsamico und gewürfelte Tomaten (inkl Tomatensaft) dazugeben und ca 10min nicht zugedeckt kochen, währenddessen auch Spaghetti kochen
   - Basilikum in Stücke hacken und ebenfalls dazugeben
   - Parmesan mit feiner Küchenreibe reiben
-  - Spaghetti etwas vorzeitig rausnehmen, absieben (Kochwasser aufheben) und anschließend zur Tomatensauce dazugeben und nochmal ca 3-4min kochen lassen
+  - Spaghetti etwas vorzeitig rausnehmen, absieben und anschließend zur Tomatensauce dazugeben und nochmal ca 3-4min kochen lassen (evtl auch etwas Kochwasser zur Sacue geben)
   - 1min bevor das Gericht fertig ist, die Hälfe des Parmesan dazugeben und vermischen
   - Am Teller servieren, Parmesan darübergeben und etwas Olivenöl darauf verteilen
 ---
