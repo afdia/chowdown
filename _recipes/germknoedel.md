@@ -33,7 +33,7 @@ directions:
   - "Falls man sie füllen will: Die 2 Knödel mit Baumwolltuch zugedeckt 15min rasten lassen, danach nochmal rund formen, flach drücken, befüllen und die Enden zusammenklappen und erneut Knödel formen"
   - Backrohr kurz aufheizen damit es ca 40°C hat (100° für 1min ohne Schnellvorheizen!). Ein Backpapier bemehlen (evtl besser Öl nutzen) damit die Knödel nicht festkleben und die Knödel drauf legen. Mit Wasser besprühen und 30-45min (je nach gewünschter Größe, aber nicht länger sonst werden sie flach und man muss sie erneut formen) im Rohr gehen lassen (zwischendurch 1-2x erneut mit Wasser besprühen)
   - in 2 Töpfe ca 2cm hoch leicht gesalzenes Wasser aufkochen, danach auf Stufe 5 zurückdrehen und in jeden Topf ein Knödel geben. Zugedeckt 14min köcheln lassen
-  - Knödel auf Teller servieren, etwas Butter zergehen lassen und Mohn-Zucker Gemisch darauf verteilen. Marmelade passt auch sehr gut dazu.
+  - Knödel auf Teller servieren, etwas Butter zergehen lassen und Mohn-Zucker Gemisch (beides in Plastikbox geben und schütteln) darauf verteilen. Marmelade passt auch sehr gut dazu.
 ---
 
 Nächster Versuch: 4 Knödel und/oder 30min rasten, nur beim reingeben mit Wasser besprühen danach nicht mehr (vmtl unnötig)
