@@ -39,3 +39,4 @@ Verbesserungsvorschläge:
 - evtl mehr Spar Chili-Salsa dafür weniger oder keine Tomatensauce
 - evtl oben keine Tomatensauce sondern nur die 100g drinnen
 - war sehr gut aber etwas trocken, daher evtl Knoblauchdip oder Cocktailsauce dazumachen
+- evtl die Form mit 1EL Olivenöl auspinseln damit nichts anklebt

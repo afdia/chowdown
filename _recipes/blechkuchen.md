@@ -30,3 +30,5 @@ directions:
   - Beliebiges Obst in Hälften Schneiden und gleichmäßig verteilen
   - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 30-35 Minuten backen (bei Erdbeeren evtl etwas kürzer)
 ---
+
+Evtl noch mehr Milch testen damit noch saftiger ist? 220g zb?

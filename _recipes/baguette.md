@@ -15,7 +15,7 @@ ingredients:
   - 270ml lauwarmes Wasser
   - 8g Salz
   - 1g Zucker
-  - 1/4 Hefewürfel
+  - 1/4 Hefewürfel (war letztes mal etwas kleiner, evtl 1/2 nehmen?)
 
 directions:
   - 1/4 Hefewürfel, lauwarmes Wasser, Mehl, Salz und Zucker in Schüssel geben
