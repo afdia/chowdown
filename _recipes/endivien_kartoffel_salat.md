@@ -13,8 +13,8 @@ components:
 
 ingredients:
   - 150g Suppe
-  - Olivenöl
-  - weißer Balsamicoessig
+  - 15g Olivenöl
+  - 15g weißer Balsamicoessig
   - 1 Zwiebel
   - 1 Knoblauchzehe
   - ein Topf Kartoffeln
