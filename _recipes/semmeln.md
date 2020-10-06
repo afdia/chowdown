@@ -19,7 +19,7 @@ images:
     description: Alternative mit 80ml Milch + 80ml heißes Wasser (statt 150ml Wasser und 10g Olivenöl). Schmeckt auch gut aber Teig ist weicher und nicht so resch.
 
 ingredients:
-  - 500g Mehl (ergibt 8 Semmeln)
+  - 500g Mehl (ergibt 8 Semmeln) (evtl 10g oder besser 15g durch Gerstenmalzmehl ersetzen)
   - 300ml lauwarmes Wasser
   - 20g warme Butter oder Olivenöl
   - 10g Zucker
@@ -32,10 +32,8 @@ directions:
   - Macht man Langsemmeln werden die Kugeln länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln.
   - Anschließend lässt man die geformten Semmeln verkehrt 15min am Blech im Rohr rasten.
-  - Danach heizt man das Backrohr auf 220°C vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 14min ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
+  - Danach heizt man das Backrohr auf 220°C vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 14min (eher +2min sonst zu hell) ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
 
 [Ofner zeigt wie man Handsemmeln formt](https://www.youtube.com/watch?v=jAFSIyQ_Ppo). Mein Versuch waren sehr "schlampige" Semmeln und sie sind nach 25min gehen lassen recht flach geworden. Evtl besser formen und nur 15min verkehrt rasten lassen? Langsemmeln einfach formbar aber auch "auseinandergelaufen". Außerdem vmtl etwas zuviel Menge für 8 Semmeln. Evtl auf 400g Mehl runterrechnen?
 Evtl Ofner Mengen probieren [Quelle](https://www.derbackprofi.at/rezept/rezeptsammlung/detail/handkaisersemmel-2017.html), trotzdem 8 Stk formen weil gut teilbar
-Handsemmel formen probieren (ACHTUNG muss vor Rasten der Semmel geformt werden! danach verkehrt rasten lassen)
-Evtl Langsemmeln probieren

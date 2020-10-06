@@ -7,10 +7,10 @@ category: Hauptgericht
 ingredients:
   - 750g Hokkaido Kürbis
   - 1 mittelgroße Zwiebel
-  - 1-2 Knoblauchzehen
+  - 1-2 Knoblauchzehen (war letztes mal auch ohne super!)
   - etwas Butter zum Anschwitzen
   - ca 700ml Wasser + Suppenwürze (Gemüsebrühe)
-  - 150g Schlagobers
+  - optional 150g Schlagobers (war letztes mal auch ohne super!)
   - Salz, Pfeffer
   - Kürbiskernöl
 
