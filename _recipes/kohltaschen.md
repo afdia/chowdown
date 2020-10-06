@@ -6,9 +6,9 @@ category: Hauptgericht
 
 images:
   - image: ../images/kohltaschen_auflauf.webp
-    description: Wenn Kohl zu weich, unten in die Auflaufform geben, darauf 150g geriebener Gouda, darauf mit Olivenöl angerösteter Zwiebel + 1 Dose Tomatensauce + 1/2 Spar Paprika-Chili-Salsa + Paprika geschnitten + große Dose Thunfisch, darauf 125g Mozarella
+    description: Wenn Kohl zu weich, unten in die Auflaufform geben, darauf 150g geriebener Gouda, darauf mit Olivenöl angerösteter Zwiebel + 1 Dose Tomatensauce + 1/2 Spar Paprika-Chili-Salsa + Paprika geschnitten + große Dose Thunfisch, darauf 125g Mozzarella
   - image: ../images/kohltaschen_lasagne.webp
-    description: Wie üblich zubereiten aber in Form schichtweise einsortieren (unten etwas Tomatensauce, dann Kohl, Tomatensauce, Mozarella, Kohl, Tomatensauce, Mozarella)
+    description: Wie üblich zubereiten aber in Form schichtweise einsortieren (unten etwas Tomatensauce, dann Kohl, Tomatensauce, Mozzarella, Kohl, Tomatensauce, Mozzarella)
 
 components:
   - Basmatireis
@@ -17,7 +17,7 @@ ingredients:
   - 1 Kohlkopf
   - 1 große Zwiebel (oder Frühlingszwiebel)
   - 700g Tomatensauce
-  - 2-3 Packungen Mozarella (125g)
+  - 2-3 Packungen Mozzarella (125g)
   - 140g Thunfisch
   - 1 Jalapeno oder Paprika
   - etwas Butter zum anrösten
@@ -29,7 +29,7 @@ directions:
   - Tomatensauce und geschnittene Japaleno/Paprika dazugeben und nochmal kurz köcheln lassen
   - Thunfisch zerkleinern und dazugeben; Herd abdrehen
   - Den Kohl mit Sieb abtropfen und Brett richten um Taschen zu formen
-  - Kohlblätter auf Brett legen, etwas gewürfelten Mozarella draufgeben und etwas von der vorher zubereiteten Tomatensauce dazugeben
+  - Kohlblätter auf Brett legen, etwas gewürfelten Mozzarella draufgeben und etwas von der vorher zubereiteten Tomatensauce dazugeben
   - Kohlblätter zu einer Tasche formen und mit Pfannenwender von Brett in eine große Glasform heben (dabei umdrehen, damit der Käse oben ist)
   - Solange wiederholen bis die gesamte Auflaufform mit Kohltaschen befüllt ist (bei einem großen Kohl sollten sich 12 Taschen ausgehen)
   - Die restliche Tomatensauce und Käse über den Kohltaschen verteilen
@@ -37,4 +37,4 @@ directions:
   - In der Zwischenzeit Basmatireis als Beilage zubereiten
 ---
 
-Tipp: Knoblauch und Parmesan haben wir probiert, passen aber nicht ins Rezept. Gouda statt Mozarella ist möglich aber nicht so gut.
+Tipp: Knoblauch und Parmesan haben wir probiert, passen aber nicht ins Rezept. Gouda statt Mozzarella ist möglich aber nicht so gut.

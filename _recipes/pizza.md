@@ -24,7 +24,7 @@ ingredients:
   - 10g Salz
   - 1/4 Germwürfel (oder 1/2 Packung Trockengerm)
   - 1 Glas/Dose Tomatensauce (Spar Pizzasauce)
-  - 400g Mozarella
+  - 400g Mozzarella
 
 directions:
   - Mehl, Germ, Salz und lauwarmes Wasser in Schüssel geben und in der Küchenmaschine kneten
@@ -33,6 +33,6 @@ directions:
   - In 8 kleine Teigkugeln zerteilen, diese auf ein Blech mit Backpapier verteilen und 1h im Backrohr gehen lassen
   - 2 Blech mit bemehltem Backpapier vorbereiten (dann löst sich die Pizza besser und schmeckt leicht "rustikal" auf der Unterseite). Jede Teigkugel zu einer kleinen Pizza formen und auf die 2 Blech verteilen (4 Pizzas pro Blech)
   - Nochmal mindestens 15min gehen lassen damit der Pizzarand aufgeht (hält die Flüssigkeit gut. Man hat reschen Rand und saftiges Inneres)
-  - Tomatensauce und Mozarella verteilen (evtl weitere Zutaten verteilen)
+  - Tomatensauce und Mozzarella verteilen (evtl weitere Zutaten verteilen)
   - Backrohr auf 300°C vorheizen und wenn vorgeheizt, Pizza für ca 9-10min ins Backrohr geben
 ---

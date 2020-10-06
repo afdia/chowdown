@@ -12,7 +12,7 @@ components:
   - Tortillas
 
 ingredients:
-  - Ruccola oder Eisbergsalat, Mais, geriebene Karotten, Tomaten-, Paprika-, Gurken-, Mozarellawürfel, Thunfisch, gebratener Halloumi
+  - Ruccola oder Eisbergsalat, Mais, geriebene Karotten, Tomaten-, Paprika-, Gurken-, Mozzarellawürfel, Thunfisch, gebratener Halloumi
 
 directions:
   - Tortillas zubereiten und füllen

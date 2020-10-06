@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Süßkartoffel überbacken"
 image: suesskartoffel_ueberbacken.webp
@@ -16,21 +15,20 @@ images:
     description: Fertige Süßkartoffeln
 
 ingredients:
-- 2 Süßkartoffeln
-- ca 130g Spinat
-- 2 Jalapeno (ich hatte 1 + eingelegte)
-- 1 Esslöffel Sauerrahm
-- etwas Suppenwürze
-- 2 Knoblauchzehen
-- 125g Mozarella
+  - 2 Süßkartoffeln
+  - ca 130g Spinat
+  - 2 Jalapeno (ich hatte 1 + eingelegte)
+  - 1 Esslöffel Sauerrahm
+  - etwas Suppenwürze
+  - 2 Knoblauchzehen
+  - 125g Mozzarella
 
 directions:
-- 2 Sükartoffeln waschen, schälen und bei 200°C Ober/Unterhitze ca 40min (je nach Größe länger) ins Backrohr geben. Mit Stäbchen reinstechen um zu sehen ob sie durch sin
-- Knoblauch fein hacken und mit etwas Butter anbraten.
-- Spinat und etwas Suppenwürze dazugeben
-- Jalapenos klein schneiden und mit 1EL Sauerrahm vermischen, anschließend den fertig gedünsteten Spinat dazugeben
-- Wenn Süßkartoffeln fertig sind, herausnehmen, in 2 Hälften schneiden und das Innere auskratzen, zerkleinern und mit der Spinatsauce vermischen
-- Ausgekratzte Süßkartoffeln mit Sauce füllen und in Würfel geschnittenen Mozarella darüber verteilen
-- Bei 200°C Ober/Unterhitze ca 20min fertig backen
-
+  - 2 Sükartoffeln waschen, schälen und bei 200°C Ober/Unterhitze ca 40min (je nach Größe länger) ins Backrohr geben. Mit Stäbchen reinstechen um zu sehen ob sie durch sin
+  - Knoblauch fein hacken und mit etwas Butter anbraten.
+  - Spinat und etwas Suppenwürze dazugeben
+  - Jalapenos klein schneiden und mit 1EL Sauerrahm vermischen, anschließend den fertig gedünsteten Spinat dazugeben
+  - Wenn Süßkartoffeln fertig sind, herausnehmen, in 2 Hälften schneiden und das Innere auskratzen, zerkleinern und mit der Spinatsauce vermischen
+  - Ausgekratzte Süßkartoffeln mit Sauce füllen und in Würfel geschnittenen Mozzarella darüber verteilen
+  - Bei 200°C Ober/Unterhitze ca 20min fertig backen
 ---
