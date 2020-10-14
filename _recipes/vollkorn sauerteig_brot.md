@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "Vollkorn Brot (ohne Form)"
-image: vollkorn_brot ohne_form.webp
+title: "Vollkorn Sauerteig-Brot"
+image: vollkorn sauerteig_brot.webp
 category: BrotGebaeck
 
 ingredients:
