@@ -19,21 +19,22 @@ images:
     description: Alternative mit 80ml Milch + 80ml heißes Wasser (statt 150ml Wasser und 10g Olivenöl). Schmeckt auch gut aber Teig ist weicher und nicht so resch.
 
 ingredients:
-  - 500g Mehl (ergibt 8 Semmeln) (evtl 10g oder besser 15g durch Gerstenmalzmehl ersetzen)
-  - 300ml lauwarmes Wasser
-  - 20g warme Butter oder Olivenöl
-  - 10g Zucker
-  - 12g Salz
+  - 400g Mehl (ergibt 8 Semmeln)
+  - 10g Gerstenmalz
+  - 190ml lauwarmes Wasser
+  - 50ml kalte Milch
+  - 15g warme Butter oder Olivenöl
+  - 5g Zucker
+  - 8g Salz
   - 1/2 Hefewürfel oder 1 Sackerl Trockengerm
 
 directions:
-  - Alle Zutaten in Küchenmaschine geben und ca 2min langsam kneten, danach 6min intensiver kneten. Anschließend den Teig auf ein bemehltes Backpapier fallen lassen, wieder in die Schüssel legen, auch oben etwas bemehlen und 30min zugedeckt gehen lassen
-  - Teig mit Teigkarte aus Schüssel auf Backpapier fallen lassen und 8 Kugeln formen (falten und mit Hand kreisförmig schwenken wie bei Burger Buns).
+  - Alle Zutaten in Küchenmaschine geben und ca 2min langsam kneten, danach 6min intensiver kneten. Anschließend den Teig in der Schüsselmitte 20min zugedeckt gehen lassen
+  - Teig mit Teigkarte aus Schüssel auf Backpapier fallen lassen und 8 Kugeln formen.
   - Macht man Langsemmeln werden die Kugeln länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln.
-  - Anschließend lässt man die geformten Semmeln verkehrt 15min am Blech im Rohr rasten.
-  - Danach heizt man das Backrohr auf 220°C vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 14min (eher +2min sonst zu hell) ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
+  - Anschließend dreht man die geformten Semmeln um, besprüht sie mit Wasser und lässt sie 25min am Blech mit einem Tuch zugedeckt (oder im Rohr) rasten.
+  - Danach heizt man das Backrohr auf 220°C Umluft vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 15-16min ins Backrohr (wenn nicht resch sagt Ofner -10° dafür 2-3 min länger). Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
 
 [Ofner zeigt wie man Handsemmeln formt](https://www.youtube.com/watch?v=jAFSIyQ_Ppo). Mein Versuch waren sehr "schlampige" Semmeln und sie sind nach 25min gehen lassen recht flach geworden. Evtl besser formen und nur 15min verkehrt rasten lassen? Langsemmeln einfach formbar aber auch "auseinandergelaufen". Außerdem vmtl etwas zuviel Menge für 8 Semmeln. Evtl auf 400g Mehl runterrechnen?
-Evtl Ofner Mengen probieren [Quelle](https://www.derbackprofi.at/rezept/rezeptsammlung/detail/handkaisersemmel-2017.html), trotzdem 8 Stk formen weil gut teilbar
