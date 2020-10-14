@@ -243,7 +243,7 @@ input:focus{
     {% for post in sorted %}
       <div class="recipe sm-col sm-col-6 lg-col-4 py1 pb2">
           <a class="block relative mx1 text-decoration-none black" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="image ratio bg-primary bg-cover" {% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
+            <div class="image ratio bg-primary bg-cover" {% for image in post.image %} style="background-image:url(\'{{site.baseurl}}/images/{{ image }}\');"{% endfor %}></div>
             <h3 class="title pt1 m0 bold">{{ post.title }}</h3>
           </a>
       </div>
@@ -344,7 +344,7 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
-  searchResultTemplate: '<div class="recipe sm-col sm-col-6 lg-col-4 py1 pb2"><a class="block black relative mx1 text-decoration-none" href="{url}"><div class="image ratio bg-primary bg-cover" style="background-image:url({image});"></div><h3 class="title pt1 m0 bold">{title}</h3></a></div>'
+  searchResultTemplate: '<div class="recipe sm-col sm-col-6 lg-col-4 py1 pb2"><a class="block black relative mx1 text-decoration-none" href="{url}"><div class="image ratio bg-primary bg-cover" style="background-image:url(\'{image}\');"></div><h3 class="title pt1 m0 bold">{title}</h3></a></div>'
 })
 </script>
 
