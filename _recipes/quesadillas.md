@@ -32,7 +32,6 @@ directions:
 
 Verbesserungsvorschläge:
 
-- letzter Versuch mit zusammenklappen und direkt füllen anstatt rausnehmen und nochmal reingeben war VIEL besser
-- Champignonfüllung war etwas zu wenig, evtl noch Spinat dazugeben?
+- Champignonfüllung war etwas zu wenig, evtl noch Spinat dazugeben? > Haben wir versucht aber TK-Spinat ist VIEL zu flüssig. Evtl einfach mehr Champignons, Paprila, Mais oder überhaupt Bohnen statt Champignons damit es weniger flüssig ist!
 - Gemüsefüllung war sehr gut aber durch Bohnen etwas trocken. Vmtl besser wenn man Tomatensalsa dazumacht (hat bei Champignonfüllung super gepasst) oder weniger Bohnen nehmen
 - Gute Fertigsaucen sind vmtl die "Wrapsauce" bzw die Spar Tomaten-Chili-Salsa

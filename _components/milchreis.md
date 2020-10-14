@@ -6,7 +6,7 @@ image: milchreis_pur.webp
 ingredients:
   - 150g Milchreis (für 1 Portion Angaben halbieren)
   - 600ml Milch
-  - 20g Staubzucker
+  - 20g Staubzucker (Zuckermenge verdoppeln für süße Variante (zb nur mit Zimt))
 
 directions:
   - Milchreis waschen und mit der Milch und dem Zucker in einen Topf geben
