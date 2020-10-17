@@ -15,10 +15,10 @@ ingredients:
   - 270ml lauwarmes Wasser
   - 8g Salz
   - 1g Zucker
-  - 1/4 Hefewürfel (war letztes mal etwas kleiner, evtl 1/2 nehmen?)
+  - 1/2 Hefewürfel (1/4 reicht dann geht es aber weniger auf)
 
 directions:
-  - 1/4 Hefewürfel, lauwarmes Wasser, Mehl, Salz und Zucker in Schüssel geben
+  - Hefe, lauwarmes Wasser, Mehl, Salz und Zucker in Schüssel geben
   - Mit Küchenmaschine gut durchkneten (ca 2min Stufe 2, dann Teig in die Mitte putzen, danach 5min Stufe 3)
   - Teig mit Teigkarte auf Blech mit bemehltem Backpapier rausputzen, oben Mehl draufgeben und dann zurück in die Schüssel geben und zugedeckt 1,5h gehen lassen
   - Nach Rastzeit, Backrohr vorheizen und ein volles Häferl heißes Wasser ins Backrohr stellen
