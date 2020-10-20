@@ -18,7 +18,7 @@ images:
 
 ingredients:
   - "Champignonfüllung: 1kl Packung Champigons (250g?), 1 Spitzpaprika, 2EL Mais, 1EL Petersilie"
-  - "Gemüsefüllung: 1/4 Lauch 1 Zucchini, 1/2 Paprika, 1 Dose Kidney Bohnen, 1/2 Glas Mais, etwas Petersilie"
+  - "Gemüsefüllung: 1/4 Lauch, 1 Zucchini, 2 Paprika (oder einige Jalapeno), 1 Dose Kidney Bohnen, 1 Glas Mais, etwas Petersilie"
   - 200g Cheddar
   - Olivenöl
   - Salz, Pfeffer
