@@ -27,8 +27,8 @@ SimpleJekyllSearch({
   sortMiddleware: function(a, b) {
     let searchValue = document.getElementById('search-input').value.toLowerCase();
     let inf = 1000000;
-    let aTitleIdx = a.title.toLowerCase().indexOf(searchValue) > 0 ? a.title.toLowerCase().indexOf(searchValue) : inf;
-    let bTitleIdx = b.title.toLowerCase().indexOf(searchValue) > 0 ? b.title.toLowerCase().indexOf(searchValue) : inf;
+    let aTitleIdx = a.title.toLowerCase().indexOf(searchValue) >= 0 ? a.title.toLowerCase().indexOf(searchValue) : inf;
+    let bTitleIdx = b.title.toLowerCase().indexOf(searchValue) >= 0 ? b.title.toLowerCase().indexOf(searchValue) : inf;
     if (aTitleIdx == inf && bTitleIdx == inf) { // wenn der Suchstring in keinem Titel vorkommt wird das Objekt zuerst returniert welches den Suchstring früher in den Zutaten hat
       let aIngredientsIdx = a.ingredients.toLowerCase().indexOf(searchValue) > 0 ? a.ingredients.toLowerCase().indexOf(searchValue) : inf;
       let bIngredientsIdx = b.ingredients.toLowerCase().indexOf(searchValue) > 0 ? b.ingredients.toLowerCase().indexOf(searchValue) : inf;
