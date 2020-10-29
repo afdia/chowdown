@@ -8,6 +8,8 @@ category: Süßspeise
 images:
   - image: ../images/buchteln_gegangen.webp
     description: Nach 40min Gehen füllen die Buchteln die Form vollständig aus
+  - image: ../images/buchteln_vollkorn.webp
+    description: 500g Dinkel-Vollkornmehl, +20ml Milch, -2min Stufe 3 Knetzeit. VK-Teig bleibt leider sitzen bzw kompakt und schmeckt nicht wirklich gut. Nicht nochmal probieren.
 
 ingredients:
 - 500g Weizenmehl
@@ -19,7 +21,7 @@ ingredients:
 - 6EL Marillenmarmelade
 
 directions:
-- Zutaten 2min auf Stufe 2, dann 5min Stufe 5 kneten
+- Zutaten 2min auf Stufe 2, dann 5min Stufe 3 kneten
 - Teig in Schüssel zugedeckt 20min rasten lassen
 - Auf bemehlte Arbeitsfläche kippen und in 6 Zeile zu je 150g zerteilen
 - 6 Kugeln formen und mit Küchentuch zugedeckt 15min gehen lassen
@@ -31,7 +33,7 @@ directions:
 ---
 
 - Versuch 1 war nicht schlecht aber sie haben sich unten zu sehr angesaugt (war teilweise saftiger und "klebriger" als Germknödelteig). Wir hätten sie lieber "rescher" also auch unten trockener und fester wie oben.
-- Nächstes Mal evtl Glasform nutzen (weil unten mehr Platz ist) und in die unterste Eischubleiste ins Rohr geben (lt Sally Rezept) und/oder mehr kleinere Buchteln formen damit der Teig nicht so dick ist. Auch nochmal schauen wie sie geschlossen werden, ich habe evtl zu dicke "Teigklumpen" gemacht (besser nur Ränder leicht zusammendrücken?)
+- Nächstes Mal evtl Glasform nutzen (weil unten mehr Platz ist; Problem: zuviel Platz für 6 Riesenbuchteln, dadurch zu resch) und in die unterste Eischubleiste ins Rohr geben (lt Sally Rezept) und/oder mehr kleinere Buchteln formen damit der Teig nicht so dick ist. Auch nochmal schauen wie sie geschlossen werden, ich habe evtl zu dicke "Teigklumpen" gemacht (besser nur Ränder leicht zusammendrücken?)
 - Alternativ auch Metallauflaufform nutzen die die Hitze besser nach innen abgibt oder Ober/Unterhitze probieren und weiter runter stellen, evtl etwas länger im Rohr lassen oder nach dem Rausnehmen umdrehen damit die Unterseite "ausdunsten kann"
 - Evtl Dinkelmehl probieren (Vollkorn?)
 - Evtl Haselnusscreme einfüllen

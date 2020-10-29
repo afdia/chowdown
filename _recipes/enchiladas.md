@@ -7,36 +7,36 @@ category: BrotGebaeck
 images:
   - image: ../images/enchiladas_pfanne.webp
     description: Die Pfanne mit gemischtem Gemüse
+  - image: ../images/enchiladas_vor_backrohr.webp
+    description: Enchiladas fertig fürs Backrohr
 
 components:
   - Tortillas
+  - Tomatensalsa
 
 ingredients:
-  - 1 rote Zwiebel
+  - 2 Frühlingszwiebel
   - 3 Knoblauchzehen
   - 1 Zucchini
-  - 1-2 Paprika
+  - 2 Paprika + 2 Jalapeno
   - 1 Dose Kidney Bohnen
-  - 1/2 Glas Mais
-  - ca 200g Tomatensauce (1/2 Glas)
-  - etwas Spar Bio-Paprika-Chili-Salsa
-  - 100g Cheddar
+  - 1,5 Gläser Mais
+  - 1/4 Braunschweiger Weißkraut
+  - ca 340g (1 Glas) Tomatensauce
+  - 100ml Spar Bio-Paprika-Chili-Salsa
+  - 200g Cheddar
+  - 100g Gouda oder ähnlichen Käse
   - Olivenöl
   - Salz, Pfeffer
 
 directions:
-  - Während folgende Schritte gemacht werden, können in einer zweiten Pfanne die Tortillas zubereitet werden
+  - Vorher werden die Tomatensalsa zubereitet und Tortillas vorbereitet, damit sie beim Rollen bereits kalt sind. Wir haben die Tortillazutaten *1,5 genommen und 10 Fladen vorbereitet
   - Zwiebel und Knoblauchzehen schneiden und in Olivenöl glasig anschwitzen.
-  - Paprika und Zucchini in Würfel schneiden und gemeinsam mit Mais und Kidneybohnen dazugeben.
-  - Salzen und Pfeffern und zugedeckt gahren bis das Gemüse etwas weicher aber noch bissfest ist. Am Schluss 100g der Tomatensauce und Bio-Paprika-Chili-Salsa dazugeben
-  - Form vorbereiten, jeweils eine Tortilla mit dem Gemüse füllen, in Form legen und fest einrollen
-  - Wenn alle 6 Tortillas gefüllt in der Form sind, 100g Tomatensauce darauf verteilen und geriebenen Cheddar darauf verteilen
+  - Kraut in feine Scheiben schneiden und mit etwas Wasser dazugeben.
+  - Zucchini in Würfel schneiden und dazugeben. Paar min später Paprika schneiden und dazugeben. Am Schluss Mais und Kidneybohnen dazugeben.
+  - Salzen und Pfeffern und zugedeckt gahren bis das Gemüse etwas weicher aber noch bissfest ist. Am Schluss ca 200g Tomatensauce und 100ml Bio-Paprika-Chili-Salsa dazugeben
+  - Käse grob reiben und vermischen.
+  - Große Glasform vorbereiten und unten und am Rand mit etwas Olivenöl ausstreichen, jeweils eine Tortilla mit dem Gemüse füllen etwas Käse draufgeben, in Form legen und fest einrollen
+  - Wenn alle Tortillas gefüllt in der Form sind, restliche Tomatensauce und Käse darauf verteilen.
   - Backrohr bei 190°C Ober/Unterhitze vorheizen und 15min ins Backrohr geben
 ---
-
-Verbesserungsvorschläge:
-
-- evtl mehr Spar Chili-Salsa dafür weniger oder keine Tomatensauce
-- evtl oben keine Tomatensauce sondern nur die 100g drinnen
-- war sehr gut aber etwas trocken, daher evtl Knoblauchdip oder Cocktailsauce dazumachen
-- evtl die Form mit 1EL Olivenöl auspinseln damit nichts anklebt
