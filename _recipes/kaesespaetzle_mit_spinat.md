@@ -13,15 +13,16 @@ ingredients:
 - 1 Zwiebel
 - 4 Knoblauchzehen
 - Suppenwürze
-- 1/2 Becher Schlagobers
-- 125g Käse (zb Gouda)
+- 1/3 Becher Sauerrahm oder Schlagobers
+- 150g Gouda
+- 50g Parmesan
 
 directions:
 - Spätzle zubereiten
 - Zwiebel und Knoblauch schneiden und in etwas Butter anrösten
 - Spinat dazugeben und mit Suppenwürze würzen. Am Schluss Schlagobers dazugeben
 - 2/3 der Spätzle dazugeben und vermischen
-- Die Hälfte der Mischung in eine Auflaufform geben, Käse darüber verteilen, den Rest in die Auflaufform geben, den restlichen Käse drübergeben, die restlichen 1/3 Spätzle oben drauf.
+- Die Mischung in eine Auflaufform geben, Käse darüber verteilen, und die restlichen 1/3 Spätzle oben drauf.
 - Backrohr auf 200°C Ober-/Unterhitze vorheizen und Auflaufform 15min ins Backrohr geben
 
 ---

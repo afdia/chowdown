@@ -13,8 +13,8 @@ images:
 ingredients:
   - 400g Mehl [(Fini's Feinstes Weizenmehl Universal)](https://www.finis-feinstes.at/de/sortiment/mehle/index.aspx?detail=66&hl=Fini%E2%80%99s%20Feinstes%20Weizenmehl%20universal)
   - 270ml lauwarmes Wasser
-  - 8g Salz
-  - 1g Zucker
+  - 8,5g Salz
+  - 2g Zucker
   - 1/2 Hefewürfel (1/4 reicht dann geht es aber weniger auf)
 
 directions:
