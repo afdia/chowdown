@@ -5,6 +5,9 @@ title: "Griesnockerlsuppe"
 image: griesnockerlsuppe.webp
 category: Hauptgericht
 
+components:
+  - Gemüsebrühe
+
 ingredients:
 - 1 Ei (abwiegen und Gewicht*2 nehmen = 2E) [zb 50g]
 - 2E*0,33g Butter [zb 33g]
