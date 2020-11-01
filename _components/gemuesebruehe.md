@@ -21,3 +21,4 @@ war sehr gut, gemüse auch noch essbar wenn auch wenig geschmack, evtl noch län
 evtl mehr gemüse wie tomaten etc(im internet vorschläge schauen)
 evtl zwiebel statt mehr lauch für leicht scharfen geschmack
 2EL olivenöl statt 3EL
+anderes rezept zerkleinert Gemüse im Zerkleinerer (würd ich eher nicht machen aber holt vmtl mehr Geschmack aus Suppe)
