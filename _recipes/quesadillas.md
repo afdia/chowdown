@@ -9,7 +9,8 @@ components:
   - Tomatensalsa
 
 images:
-  - image: ../images/quesadillas_zubereitung1.webp
+  - image: ../images/quesadillas_mozzarella.webp
+    description: Mozzarella-Tomaten Füllung war sehr gut, Spar Chili Salsa passt dazu
     description: Champignonfüllung und Fladenzubereitung mit Pfannenwender um Druck auf Tortilla auszuüben
   - image: ../images/quesadillas_zubereitung2.webp
     description: Champignonfüllung nur auf die halbe Flade verteilen und dann zuklappen
@@ -19,6 +20,7 @@ images:
 ingredients:
   - "Champignonfüllung: 1kl Packung Champigons (250g?), 1 Spitzpaprika, 2EL Mais, 1EL Petersilie"
   - "Gemüsefüllung: 1/4 Lauch, 1 Zucchini, 2 Paprika (oder einige Jalapeno), 1 Dose Kidney Bohnen, 1 Glas Mais, etwas Petersilie"
+  - "Mozzarellafüllung: 200g Mozzarella, 50g Gouda, 300g Cocktailtomaten, etwas Basilikum, Olivenöl, Salz, Pfeffer"
   - 200g Cheddar
   - Olivenöl
   - Salz, Pfeffer
@@ -32,6 +34,8 @@ directions:
 
 Verbesserungsvorschläge:
 
+- Allgemein: evtl Herd Stufe 6 nutzen weil sie bei 7 fast zu schnell fertig/dunkel werden
 - Champignonfüllung war etwas zu wenig, evtl noch Spinat dazugeben? > Haben wir versucht aber TK-Spinat ist VIEL zu flüssig. Evtl einfach mehr Champignons, Paprila, Mais oder überhaupt Bohnen statt Champignons damit es weniger flüssig ist!
 - Gemüsefüllung war sehr gut aber durch Bohnen etwas trocken. Vmtl besser wenn man Tomatensalsa dazumacht (hat bei Champignonfüllung super gepasst) oder weniger Bohnen nehmen
+- Mozzarellafüllung war etwas zu wenig, evtl mehr Mozz+Tomaten, evtl Parmesan statt Gouda, evtl Pesto oder Sauerrahm dazugeben
 - Gute Fertigsaucen sind vmtl die "Wrapsauce" bzw die Spar Tomaten-Chili-Salsa
