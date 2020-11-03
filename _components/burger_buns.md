@@ -17,9 +17,9 @@ directions:
   - Ei verquirlen und 80% davon für Teig nutzen, 20% fürs Bestreichen aufheben
   - Restliche Zutaten (außer Sesam) zum Ei geben und Alles in der Küchenmaschine mit Brotknethaken vermischen
   - In Teigschüssel zugedeckt 40min rasten lassen (danach ist der Teig besser formbar)
-  - Teig nochmal kneten bis er sich gut ablöst, in 8 gleichgroße Stücke teilen und Kugeln weitere 40min auf einem mit etwas Mehl bestreuten Backpapier rasten lassen
-  - in hohler Hand mit kreisförmigen Bewegungen über Tisch rund formen und von außen nach innen falten ([siehe Video](https://www.youtube.com/watch?v=HuNGR9Oxvug))
-  - Aufs Blech legen, etwas flach drüchen und im Ofen 30min auf doppeltes Volumen gehen lassen (Ziel sind ca 9cm Durchmesser). Ein Glas lauwarmes Wasser in den Ofen stellen (und während des Backens drinnen lassen) damit der Teig weicher bleibt
+  - Blech mit leicht bemehltem Backpapier vorbereiten
+  - Teig nochmal kneten bis er sich gut ablöst, in 8 Stücke teilen, Kugeln formen (in Hand rund formen, dann von außen nach innen falten [siehe Video](https://www.youtube.com/watch?v=HuNGR9Oxvug))
+  - Ein Glas heißes Wasser in den Ofen stellen (und während des Backens drinnen lassen) und weitere 40min auf dem Backpapier im Ofen rasten lassen. Ziel ist ca doppeltes Volumen (ca 9cm Durchmesser). [ACHTUNG - waren früher 40min rasten dann nochmal formen und 30min rasten. wenn nicht so gut dann altes Rezept wiederherstellen, sonst diese Info löschen]
   - Den Rest vom verquirlten Ei auf Brötchen streichen und etwas Sesam darauf verteilen.
   - Ofen auf 190°C Ober-Unterhitze vorheizen und ca 15min backen (bis Goldbraun). Danach 4 der 8 Brötchen einfrieren.
 ---

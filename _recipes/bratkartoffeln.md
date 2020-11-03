@@ -10,6 +10,8 @@ images:
     description: Eingeölte Kartoffeln (zuviel Öl)
   - image: ../images/bratkartoffeln_fertig.webp
     description: Erster Versuch war sehr gut aber ziemlich fettig
+  - image: ../images/bratkartoffeln_roh.webp
+    description: Variante mit rohen, dünn geschnittenen Kartoffeln wird auch sehr gut. Auch hier etwas zuviel Öl
 
 components:
   - Kartoffeln
@@ -28,5 +30,4 @@ directions:
 
 ---
 
-- Letzter Versuch war sehr gut aber manche Scheiben waren nicht resch, andere etwas zu dunkel (evtl gleichmäßiger schneiden)
-- Es war etwas zuviel Öl auf den Kartoffeln
+- Es war etwas zuviel Öl auf den Kartoffeln. Evtl kartoffeln mit etwas Öl in Schüssel schütteln damit sie leicht bedeckt sind aber nicht im Öl schwimmen
