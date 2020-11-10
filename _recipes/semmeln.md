@@ -28,9 +28,11 @@ ingredients:
 
 directions:
   - Alle Zutaten in Küchenmaschine geben und ca 2min langsam kneten, danach 6min intensiver kneten. Anschließend den Teig in der Schüsselmitte 20min zugedeckt gehen lassen
-  - Teig mit Teigkarte aus Schüssel auf bemehltes Backpapier fallen lassen und 8 Kugeln formen.
+  - Teig mit Teigkarte aus Schüssel auf mit Roggenmehl bemehltes Backpapier fallen lassen und 8 Kugeln formen.
   - Macht man Langsemmeln werden die Kugeln länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln. [siehe Ofner Video](https://www.youtube.com/watch?v=jAFSIyQ_Ppo)
   - Anschließend rollt man die geformten Semmeln noch leicht in Mehl damit sie nicht zusammenkleben, dreht sie um, besprüht sie mit Wasser (NÄCHSTES MAL NICHT weil sie dadurch sehr klebrig und schwer umzudrehen sind) und lässt sie 25min am Blech mit einem Tuch zugedeckt (oder im Rohr) rasten.
   - Danach heizt man das Backrohr auf 210°C Umluft vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 15-16min ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
+
+VERBESSERUNG: nächstes mal in roggenmehl wälzen dann sollten sie rescher werden

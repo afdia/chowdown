@@ -6,7 +6,7 @@ category: SalatAufstrich
 
 ingredients:
   - 125g Topfen
-  - 25g Butter (zimmerwarm)
+  - 20g Butter (zimmerwarm) (vmtl gehen noch weniger!)
   - 1/2 Bund Schnittlauch oder Dille (am besten Frisch geschnitten)
   - 15g Estragon Senf (bei Liptauer evtl 10g)
   - 1 Gurkerl sehr fein geschnitten

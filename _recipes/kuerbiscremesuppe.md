@@ -4,6 +4,10 @@ title: "Kürbiscremesuppe"
 image: kuerbiscremesuppe.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/kuerbiscremesuppe_vor_puerieren.webp
+    description: Variante mit richtiger Gemüsebrühe (1,5h Suppengemüse gekocht) vor dem Pürieren. Schmeckt nach mehr (vom Gemüse) ist aber eine sehr gute Alternative
+
 ingredients:
   - 750g Hokkaido Kürbis
   - 1 mittelgroße Zwiebel
