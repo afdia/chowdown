@@ -16,17 +16,17 @@ images:
 
 ingredients:
   - 2 Süßkartoffeln
-  - ca 130g Spinat
+  - 150g Spinat (ca 4 Stück TK Salat)
   - 2 Jalapeno (ich hatte 1 + eingelegte)
-  - 1 Esslöffel Sauerrahm
+  - 35g Sauerrahm
   - etwas Suppenwürze
   - 2 Knoblauchzehen
   - 125g Mozzarella
 
 directions:
-  - 2 Sükartoffeln waschen, schälen und bei 200°C Ober/Unterhitze ca 40min (je nach Größe länger) ins Backrohr geben. Mit Stäbchen reinstechen um zu sehen ob sie durch sin
-  - Knoblauch fein hacken und mit etwas Butter anbraten.
-  - Spinat und etwas Suppenwürze dazugeben
+  - 2 Sükartoffeln waschen, schälen (große vorsichtig halbieren; Achtung bricht leicht) und bei 200°C Ober/Unterhitze mindestens 40min (je nach Größe länger) ins Backrohr geben
+  - Mit Stäbchen reinstechen um zu sehen ob sie durch sind (müssen ganz weich sein zum Auskratzen)
+  - Knoblauch fein hacken und mit etwas Butter anbraten. Spinat und etwas Suppenwürze dazugeben
   - Jalapenos klein schneiden und mit 1EL Sauerrahm vermischen, anschließend den fertig gedünsteten Spinat dazugeben
   - Wenn Süßkartoffeln fertig sind, herausnehmen, in 2 Hälften schneiden und das Innere auskratzen, zerkleinern und mit der Spinatsauce vermischen
   - Ausgekratzte Süßkartoffeln mit Sauce füllen und in Würfel geschnittenen Mozzarella darüber verteilen

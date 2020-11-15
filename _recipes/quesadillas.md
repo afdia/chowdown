@@ -29,13 +29,11 @@ directions:
   - Zuerst Tomatensalsa zubereiten (damit sie ziehen kann) und Tortilla-Fladen zubereiten (aber noch nicht in die Pfanne geben) - evtl Fladen auf Gitter sammeln damit die unterste nicht klebt
   - Gemüse für die Füllung in Scheiben oder Würfeln schneiden. Champigononfüllung nur kurz in der Pfanne anschwitzen (Champignons sollen noch kein Wasser abgeben). Gemüsefüllung muss etwas länger in der Pfanne sein bis die Zucchini weich ist, die restlichen Zutaten danach dazugeben und kurz dünsten.
   - Cheddar Käse grob reiben und zur Füllung dazugeben (sollte schon etwas ausgekühlt sein)
-  - Tortilla normal zubereiten (beidseitig anbraten), 1/6 der Füllung auf eine Seite geben, Tortilla zusammenklappen und mit etwas Druck (von Pfannenwender) 1-2min anbraten. Anschließend umdrehen und nochmal 1-2min anbraten, danach auf Teller servieren. Die nächsten 5 Fladen funktionieren genauso.
+  - Tortilla normal zubereiten (beidseitig anbraten) anfangs Stufe 9, dann 7. Dann 1/6 der Füllung auf eine Seite geben, Tortilla zusammenklappen und mit etwas Druck (von Pfannenwender) bei Stufe 6 1-2min anbraten. Anschließend umdrehen und nochmal 1-2min anbraten, danach auf Teller servieren. Die nächsten 5 Fladen funktionieren genauso.
 ---
 
 Verbesserungsvorschläge:
 
-- Allgemein: evtl Herd Stufe 6 nutzen weil sie bei 7 fast zu schnell fertig/dunkel werden
 - Champignonfüllung war etwas zu wenig, evtl noch Spinat dazugeben? > Haben wir versucht aber TK-Spinat ist VIEL zu flüssig. Evtl einfach mehr Champignons, Paprila, Mais oder überhaupt Bohnen statt Champignons damit es weniger flüssig ist!
-- Gemüsefüllung war sehr gut aber durch Bohnen etwas trocken. Vmtl besser wenn man Tomatensalsa dazumacht (hat bei Champignonfüllung super gepasst) oder weniger Bohnen nehmen
 - Mozzarellafüllung war etwas zu wenig, evtl mehr Mozz+Tomaten, evtl Parmesan statt Gouda, evtl Pesto oder Sauerrahm dazugeben
 - Gute Fertigsaucen sind vmtl die "Wrapsauce" bzw die Spar Tomaten-Chili-Salsa

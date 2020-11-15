@@ -9,6 +9,8 @@ images:
     description: Versuch 1 Handsemmeln. geformte Teigkugeln 15min rasten lassen, dann formen, nochmal 25min im Backrohr rasten lassen, rausnehmen, vorheizen, einsprühen, backen
   - image: ../images/semmeln_langsemmeln.webp
     description: Langsemmeln. sehr gut, man muss so tief wie möglich mit dem Messer reindrücken damit der Spalt erhalten bleibt
+  - image: ../images/semmeln_koerner.webp
+    description: Langsemmeln mit Chiasamen und Leinsamen belegt sind super
   - image: ../images/semmeln_vollkorn.webp
     description: Variante mit 250g Vollkorn Weizenmehl, 250g normales Weizenmehl ist sehr gut
   - image: ../images/semmeln_teig_kuehschrank.webp
@@ -31,8 +33,8 @@ directions:
   - Teig mit Teigkarte aus Schüssel auf mit Roggenmehl bemehltes Backpapier fallen lassen und 8 Kugeln formen.
   - Macht man Langsemmeln werden die Kugeln länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln. [siehe Ofner Video](https://www.youtube.com/watch?v=jAFSIyQ_Ppo)
-  - Anschließend rollt man die geformten Semmeln noch leicht in Mehl damit sie nicht zusammenkleben, dreht sie um, besprüht sie mit Wasser (NÄCHSTES MAL NICHT weil sie dadurch sehr klebrig und schwer umzudrehen sind) und lässt sie 25min am Blech mit einem Tuch zugedeckt (oder im Rohr) rasten.
+  - Anschließend rollt man die geformten Semmeln noch leicht in Mehl damit sie nicht zusammenkleben, dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt (oder im Rohr) rasten.
   - Danach heizt man das Backrohr auf 210°C Umluft vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 15-16min ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
 
-VERBESSERUNG: nächstes mal in roggenmehl wälzen dann sollten sie rescher werden
+VERBESSERUNG: nächstes mal in roggenmehl wälzen dann sollten sie rescher werden - evtl etwas aber noch nicht ganz. evtl am anfang heißer? oder wasser auf blech wie bei baguette testen
