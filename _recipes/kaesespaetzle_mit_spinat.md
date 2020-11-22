@@ -8,6 +8,10 @@ category: Hauptgericht
 components:
 - Spaetzle
 
+images:
+  - image: ../images/kaesespaetzle_mit_kuerbis.webp
+    description: Statt Spinat passt auch Hokkaidokürbis (bei dem Versuch war es aber etwas zuviel (halb halb). Besser ist vmtl 1/3 Kürbis, 2/3 Spätzle
+
 ingredients:
 - 400g Spinat
 - 1 Zwiebel

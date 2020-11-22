@@ -39,3 +39,4 @@ directions:
 
 Verbesserungsideen:
 - Evtl auf 2 Blech verteilen
+- beim 1. Versuch war nur ein Dotter drinnen, beim 2. 1/2 verquirlt aber 1/2 VK Mehl. Vmtl gingen sie darum nicht so gut auf aber evtl lag es auch am Dotter?

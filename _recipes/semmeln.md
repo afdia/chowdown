@@ -34,7 +34,7 @@ directions:
   - Macht man Langsemmeln werden die Kugeln länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln. [siehe Ofner Video](https://www.youtube.com/watch?v=jAFSIyQ_Ppo)
   - Anschließend rollt man die geformten Semmeln noch leicht in Mehl damit sie nicht zusammenkleben, dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt (oder im Rohr) rasten.
-  - Danach heizt man das Backrohr auf 210°C Umluft vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 15-16min ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
+  - Danach heizt man das Backrohr auf 220°C Umluft vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 14-15min ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
 
-VERBESSERUNG: nächstes mal in roggenmehl wälzen dann sollten sie rescher werden - evtl etwas aber noch nicht ganz. evtl am anfang heißer? oder wasser auf blech wie bei baguette testen
+VERBESSERUNG: nächstes mal in roggenmehl wälzen dann sollten sie rescher werden - evtl etwas aber noch nicht ganz. evtl am anfang heißer? oder wasser auf blech wie bei baguette testen. wobei seit 220° statt 210° sind sie relativ resch!
