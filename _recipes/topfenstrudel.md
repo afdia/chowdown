@@ -23,3 +23,5 @@ directions:
 ---
 
 Nächstes Mal einen EL Zitronensaft dazugeben und evtl Teig selbst machen (oder Germteig nehmen?)
+evtl mehr Füllung (Topfen+Vanillepulver) machen? 1,5pkg Topfen (und rest *1,5) zb
+Schmeckt auch kalt super
