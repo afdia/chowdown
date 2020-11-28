@@ -24,7 +24,7 @@ ingredients:
   - 125g Mozzarella
 
 directions:
-  - 2 Sükartoffeln waschen, schälen (große vorsichtig halbieren; Achtung bricht leicht) und bei 200°C Ober/Unterhitze mindestens 40min (je nach Größe länger) ins Backrohr geben
+  - 2 Sükartoffeln waschen, schälen, vorsichtig halbieren (Achtung bricht leicht) und bei 200°C Ober/Unterhitze mindestens 40min (je nach Größe länger) ins Backrohr geben
   - Mit Stäbchen reinstechen um zu sehen ob sie durch sind (müssen ganz weich sein zum Auskratzen)
   - Knoblauch fein hacken und mit etwas Butter anbraten. Spinat und etwas Suppenwürze dazugeben
   - Jalapenos klein schneiden und mit 1EL Sauerrahm vermischen, anschließend den fertig gedünsteten Spinat dazugeben

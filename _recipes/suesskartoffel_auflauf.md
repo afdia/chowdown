@@ -22,7 +22,7 @@ ingredients:
   - Suppenwürze, Salz, Pfeffer
 
 directions:
-  - Sükartoffel waschen, schälen (große vorsichtig halbieren; Achtung bricht leicht) und bei 200°C Ober/Unterhitze mindestens 40min (je nach Größe länger) ins Backrohr geben
+  - Sükartoffel waschen, schälen, vorsichtig halbieren (Achtung bricht leicht) und bei 200°C Ober/Unterhitze mindestens 40min (je nach Größe länger) ins Backrohr geben
   - Lauch schneiden, Knoblauch fein hacken und mit etwas Olivenöl anbraten. Spinat und etwas Suppenwürze dazugeben.
   - Zucchini und Süßkartoffeln in Scheiben schneiden und abwechselnd in Auflaufform schichten
   - Wenn Spinat fertig ist, Schlagobers dazugeben und Sauce über die Scheiben verteilen
