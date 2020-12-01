@@ -32,3 +32,5 @@ directions:
   - Ausgekratzte Süßkartoffeln mit Sauce füllen und in Würfel geschnittenen Mozzarella darüber verteilen
   - Bei 200°C Ober/Unterhitze ca 20min fertig backen
 ---
+
+Idee mit Olivenöl + Salz einreiben und mit Gabel Löcher vorm Backen reinstechen damit Saft austreten kann, nicht auseinanderschneiden und 1h reingeben, nachher auseinanderschneiden und nur mit Chili u Moz belegen (nicht nochmal backen)
