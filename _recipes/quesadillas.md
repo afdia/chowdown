@@ -21,7 +21,7 @@ ingredients:
   - "Champignonfüllung: 1kl Packung Champigons (250g?), 1 Spitzpaprika, 2EL Mais, 1EL Petersilie"
   - "Gemüsefüllung: 1/4 Lauch, 1 Zucchini, 2 Paprika (oder einige Jalapeno), 1 Dose Kidney Bohnen, 1 Glas Mais, etwas Petersilie"
   - "Mozzarellafüllung: 200g Mozzarella, 50g Gouda, 300g Cocktailtomaten, etwas Basilikum, Olivenöl, Salz, Pfeffer"
-  - 200g Cheddar
+  - 200g Cheddar (Gouda, Bergbaron oder Butterkäse passen NICHT)
   - Olivenöl
   - Salz, Pfeffer
 
@@ -37,3 +37,4 @@ Verbesserungsvorschläge:
 - Champignonfüllung war etwas zu wenig, evtl noch Spinat dazugeben? > Haben wir versucht aber TK-Spinat ist VIEL zu flüssig. Evtl einfach mehr Champignons, Paprila, Mais oder überhaupt Bohnen statt Champignons damit es weniger flüssig ist!
 - Mozzarellafüllung war etwas zu wenig, evtl mehr Mozz+Tomaten, evtl Parmesan statt Gouda, evtl Pesto oder Sauerrahm dazugeben
 - Gute Fertigsaucen sind vmtl die "Wrapsauce" bzw die Spar Tomaten-Chili-Salsa
+- Sauerrahm versucht; stört zwar nicht aber ist auch nicht nötig und flankt aus
