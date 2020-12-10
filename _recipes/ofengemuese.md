@@ -4,30 +4,23 @@ title: "Ofengemüse"
 image: ofengemuese.webp
 category: Hauptgericht
 
-components:
-  - Kartoffeln
-
 images:
-  - image: ../images/ofengemuese_blech.webp
-    description: Ofenbgemüse am Blech frisch aus dem Rohr
+  - image: ../images/ofengemuese_blech_vorher.webp
+    description: Ofengemüse am Blech gut eingeölt und gesalzen
+  - image: ../images/ofengemuese_blech_nachher.webp
+    description: Ofengemüse am Blech frisch aus dem Rohr
 
 ingredients:
-  - 1/2 großer Kürbis (oder 1 kleiner)
-  - 1 Topf vorgekochte, ausgekühlte Kartoffeln
+  - Süßkartoffeln, Kartoffeln, Zucchini, Kürbis
   - 4 Knoblauchzehen
-  - etwas Olivenöl
+  - etwas Olivenöl, Salz, Pfeffer
 
 directions:
-  - Kürbis waschen, entkernen und in 1cm dicke Scheiben schneiden
-  - Kartoffen in ca 1-2cm große Stücke schneiden
-  - Knoblauchzehen schälen
-  - Alles auf einem Blech verteilen und Olivenöl drübewr gießen, damit alles bedeckt ist
-  - Backrohr mit180°C Umluft vorheizen und Blech für 35min ins Rohr geben
+  - Süßkartoffen und Kartoffeln gut waschen und abbürsten (oder schälen), dann in 1cm dicke Scheiben schneiden. (Kartoffeln können roh oder vorgekocht und ausgekühlt sein)
+  - Knoblauchzehen schälen und mit Messer eindrücken
+  - Alles auf 2 Blech mit Backpapier verteilen, Olivenöl drüber gießen damit alles bedeckt ist, salzen, pfeffern und mit Händen gut vermischen
+  - Backrohr mit 180°C Umluft vorheizen und Blech für 30-35min ins Rohr geben
 ---
 
 - Gebratener Haloumi passt super (separat in Pfanne) - evtl gleich auf Blech geben?
 - Ruccola Salat passt super
-- Zucchini in Scheiben dazugeben?
-- Evtl 2 Blech machen weil 1 nicht so viel ist und man es weniger voll machen muss
-- Knoblauch vorher leicht zerdrücken damit er Säfte besser abgibt (dann spart man sich evtl auch das Schälen) - der fertige Knoblauch schmeckt leider eh nicht so es geht nur um den Saft beim Backen
-- evtl Joghurt Petersilie Dip dazuservieren
