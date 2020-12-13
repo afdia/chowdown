@@ -35,7 +35,7 @@ directions:
   - in 2 Töpfe ca 2cm hoch leicht gesalzenes Wasser aufkochen, danach auf Stufe 5 zurückdrehen und in jeden Topf ein Knödel geben. Zugedeckt 14min köcheln lassen. ACHTUNG Deckel darf nicht zu tief runtergehen sonst klebt ein Teil des Knödels daran (passiert zb beim zweitkleinsten Topf+Deckel)
   - Knödel auf Teller servieren, etwas Butter zergehen lassen und Mohn-Zucker Gemisch (beides in Plastikbox geben und schütteln) darauf verteilen. Marmelade passt auch sehr gut dazu.
 ---
-Nächstes Mal evtl Öl statt Mehl unter Knödel weil besser lösbar?
+Nächstes Mal evtl Öl statt Mehl unter Knödel weil besser lösbar? > hab ich versucht - knödel lösen sich super aber waren nach dem köcheln unten recht weich/wässrig. evtl lag das am öl
 
 Einfrierversuch 1:
 
