@@ -26,13 +26,15 @@ directions:
   - Körner mahlen und mit anderen Zutaten 6min Stufe 2, 2min Stufe 3 kneten (zwischendurch Teig mit Teigkarte in die Mitte putzen)
   - Auf bemehlte Fläche kippen, etwas rund formen und rundherum mit viel Mehl bedecken. Küchentuch darauf geben und 30min rasten lassen. Erneut zu Kugel formen und etwas kneten, dann auf Gitter mit kräftig bemehltem Backpapier geben, oben bemehlen und nochmal 45min mit Küchentuch zugedeckt gehen lassen.
   - Wenn es schnell gehen soll stattdessen gleich auf Backpapier und Gitter 45min rasten lassen, dann ins vorgeheizte Backrohr geben)
-  - Häferl Wasser in Backrohr stellen und bei 250°C Heißluft vorheizen.
-  - Brot für 7min in Ofen geben, danach Backrohrtür ca 15sek lang öffnen und Dampf entweichen lassen und noch 40min bei 180°C weiterbacken. (Früher 8min vorher, dann wird das Brot aber zu resch)
+  - Häferl Wasser in Backrohr stellen und bei 240°C Heißluft vorheizen.
+  - Brot für 7min in Ofen geben, danach Backrohrtür ca 15sek lang öffnen und Dampf entweichen lassen und noch 40min bei 180°C weiterbacken. (Früher 8min 250°C vorher, dann wird das Brot aber zu resch)
   - Auf einem Gitter auskühlen lassen und nach einiger Zeit mit einem Küchentuch abdecken damit die Rinde nicht zu hart ist (vermutlich hilft das)
 ---
 
 Letztes Mal perfekte Rinde mit 250°C vorheizen aber schon etwas früher reingegeben, nach 5min unabsichtlich zu früh geöffnet, dann nochmal auf 250° vorgeheizt und 2-3min später nochmal geöffnet. Rinde war super!
-Idee: 240°C vorheizen und nach 7min für 15sek Tür öffnen (durch weniger Hitze sollte Rinde weicher sein und somit besser sein)
+Idee: 240°C vorheizen und nach 7min für 15sek Tür öffnen (durch weniger Hitze sollte Rinde weicher sein und somit besser sein). Hat super funktioniert, evtl noch etwas zu hart? aber eigentlich ganz gut!
+
+
 
 Alternative Mischungen:
 
