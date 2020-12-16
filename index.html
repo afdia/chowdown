@@ -20,6 +20,10 @@ layout: default
 
 <!-- Configuration -->
 <script>
+function minOr(title, searchValue, alt) {
+  let matchesArray = title.toLowerCase().split(" ").map(x => x.indexOf(searchValue)).filter(x => x >= 0);
+  return matchesArray.length > 0 ? Math.min(... matchesArray) : alt;
+}
 // fetch search.json before init of jekyll search, then init search with current searchterm (using url directly wouldnt allow direct exec of search because search.json wouldnt be loaded)
 fetch('{{site.baseurl}}/search.json').then(resp => resp.json()).then(searchJson => {
   let search = SimpleJekyllSearch({
@@ -30,8 +34,8 @@ fetch('{{site.baseurl}}/search.json').then(resp => resp.json()).then(searchJson 
     sortMiddleware: function(a, b) {
       let searchValue = document.getElementById('search-input').value.toLowerCase();
       let inf = 1000000;
-      let aTitleIdx = a.title.toLowerCase().indexOf(searchValue) >= 0 ? a.title.toLowerCase().indexOf(searchValue) : inf;
-      let bTitleIdx = b.title.toLowerCase().indexOf(searchValue) >= 0 ? b.title.toLowerCase().indexOf(searchValue) : inf;
+      let aTitleIdx = minOr(a.title, searchValue, inf);
+      let bTitleIdx = minOr(b.title, searchValue, inf);
       if (aTitleIdx == inf && bTitleIdx == inf) { // wenn der Suchstring in keinem Titel vorkommt wird das Objekt zuerst returniert welches den Suchstring früher in den Zutaten hat
         let aIngredientsIdx = a.ingredients.toLowerCase().indexOf(searchValue) > 0 ? a.ingredients.toLowerCase().indexOf(searchValue) : inf;
         let bIngredientsIdx = b.ingredients.toLowerCase().indexOf(searchValue) > 0 ? b.ingredients.toLowerCase().indexOf(searchValue) : inf;
