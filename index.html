@@ -20,33 +20,39 @@ layout: default
 
 <!-- Configuration -->
 <script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '{{site.baseurl}}/search.json',
-  sortMiddleware: function(a, b) {
-    let searchValue = document.getElementById('search-input').value.toLowerCase();
-    let inf = 1000000;
-    let aTitleIdx = a.title.toLowerCase().indexOf(searchValue) >= 0 ? a.title.toLowerCase().indexOf(searchValue) : inf;
-    let bTitleIdx = b.title.toLowerCase().indexOf(searchValue) >= 0 ? b.title.toLowerCase().indexOf(searchValue) : inf;
-    if (aTitleIdx == inf && bTitleIdx == inf) { // wenn der Suchstring in keinem Titel vorkommt wird das Objekt zuerst returniert welches den Suchstring früher in den Zutaten hat
-      let aIngredientsIdx = a.ingredients.toLowerCase().indexOf(searchValue) > 0 ? a.ingredients.toLowerCase().indexOf(searchValue) : inf;
-      let bIngredientsIdx = b.ingredients.toLowerCase().indexOf(searchValue) > 0 ? b.ingredients.toLowerCase().indexOf(searchValue) : inf;
-      return aIngredientsIdx < bIngredientsIdx ? -1 : (bIngredientsIdx < aIngredientsIdx ? 1 : 0);
-    }
-    // kommt der String im Titel vor wird nach Position des Strings sortiert
-    return aTitleIdx < bTitleIdx ? -1 : (bTitleIdx < aTitleIdx ? 1 : 0);
-  },
-  searchResultTemplate: '<div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2 left-align"><a class="block relative bg-blue" href="{url}"><div class="image ratio bg-cover" style="background-image:url(\'{image}\');"></div><h1 class="title p2 m0 absolute bold white bottom-0 left-0">{title}</h1></a></div>'
-})
+// fetch search.json before init of jekyll search, then init search with current searchterm (using url directly wouldnt allow direct exec of search because search.json wouldnt be loaded)
+fetch('{{site.baseurl}}/search.json').then(resp => resp.json()).then(searchJson => {
+  let search = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: searchJson,
+    limit: 9999,
+    sortMiddleware: function(a, b) {
+      let searchValue = document.getElementById('search-input').value.toLowerCase();
+      let inf = 1000000;
+      let aTitleIdx = a.title.toLowerCase().indexOf(searchValue) >= 0 ? a.title.toLowerCase().indexOf(searchValue) : inf;
+      let bTitleIdx = b.title.toLowerCase().indexOf(searchValue) >= 0 ? b.title.toLowerCase().indexOf(searchValue) : inf;
+      if (aTitleIdx == inf && bTitleIdx == inf) { // wenn der Suchstring in keinem Titel vorkommt wird das Objekt zuerst returniert welches den Suchstring früher in den Zutaten hat
+        let aIngredientsIdx = a.ingredients.toLowerCase().indexOf(searchValue) > 0 ? a.ingredients.toLowerCase().indexOf(searchValue) : inf;
+        let bIngredientsIdx = b.ingredients.toLowerCase().indexOf(searchValue) > 0 ? b.ingredients.toLowerCase().indexOf(searchValue) : inf;
+        return aIngredientsIdx < bIngredientsIdx ? -1 : (bIngredientsIdx < aIngredientsIdx ? 1 : 0);
+      }
+      // kommt der String im Titel vor wird nach Position des Strings sortiert
+      return aTitleIdx < bTitleIdx ? -1 : (bTitleIdx < aTitleIdx ? 1 : 0);
+    },
+    searchResultTemplate: '<div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2 left-align"><a class="block relative bg-blue" href="{url}"><div class="image ratio bg-cover" style="background-image:url(\'{image}\');"></div><h1 class="title p2 m0 absolute bold white bottom-0 left-0">{title}</h1></a></div>'
+  })
+  search.search(document.getElementById('search-input').value);
+});
 </script>
 
 <script>
-	$( document ).ready(function() {
-    $('#search-input').on('input', function() {
+  function doSearch() {
     	currentHeight = $('#search-container').outerHeight();
       $('.search').addClass('used').css('height', currentHeight);
-	});
+  }
+	$( document ).ready(function() {
+    document.getElementById('search-input').addEventListener('input', doSearch());
 	});
 </script>
 
