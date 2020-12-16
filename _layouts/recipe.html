@@ -156,20 +156,22 @@ layout: default
     };
 
     $("ul li").append('<input type="checkbox">');
-    $("ul li").clickToggle(
-      function () {
-        $(this).children("input").prop("checked", true);
-        var height = $(this).height();
-        var y = $(window).scrollTop();
-        $("html, body").animate({ scrollTop: y + height + 16 }, 200);
-      },
-      function () {
-        $(this).children("input").prop("checked", false);
-        var height = $(this).height();
-        var y = $(window).scrollTop();
-        $("html, body").animate({ scrollTop: y - height - 16 }, 200);
-      }
-    );
+/**
+      $("ul li").clickToggle(
+        function () {
+          $(this).children("input").prop("checked", true);
+          var height = $(this).height();
+          var y = $(window).scrollTop();
+          $("html, body").animate({ scrollTop: y + height + 16 }, 200);
+        },
+        function () {
+          $(this).children("input").prop("checked", false);
+          var height = $(this).height();
+          var y = $(window).scrollTop();
+          $("html, body").animate({ scrollTop: y - height - 16 }, 200);
+        }
+      );
+*/
   });
 </script>
 
