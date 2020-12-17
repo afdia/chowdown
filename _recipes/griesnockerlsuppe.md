@@ -22,10 +22,10 @@ directions:
 - Stehen lassen bis die Masse zimmerwarm ist (Butter sollte leicht geschmolzen sein)
 - Masse 20min im Kühlschrank stehen lassen
 - Herausnehmen und aus Masse ca 8 Nockerl formen (zb mit Hand länglich rollen)
-- "Die Nockerl in leicht gesalzenem Wasser folgendermaßen kochen: 2min mit Deckel (wallend Stufe 8), danach 8min (evtl +2min probieren damit nicht kernig) Stufe 6 Deckel schräg, danach mindestens 10min abgedreht ziehen lassen)"
+- "Die Nockerl in leicht gesalzenem Wasser folgendermaßen kochen: 3min mit Deckel (wallend Stufe 8), danach 10min Stufe 6 Deckel schräg, danach mindestens 10min abgedreht ziehen lassen)"
 - Anschließend Nockerl aus Salzwasser heben, Salzwasser wegleeren und Suppe aufstellen
 - Die Nockerl nochmal kurz mit der Suppe mitkochen
 
 ---
 
-Letzter Versuch war fast perfekt. Nockerl sind aber noch 30min in der Suppe gelegen bevor wir sie gegessen haben. 2 Stk waren ganz leicht kernig daher testweise evtl Stufe 6 Phase auf 10min erhöhen
+neue zeit ist super aber noch vereinzelt klumpen. evtl ei und butter vorher vermischen, erst wenn cremig gries dazugeben
