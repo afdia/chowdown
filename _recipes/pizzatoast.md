@@ -6,7 +6,7 @@ category: Hauptgericht
 
 ingredients:
   - 8 Scheiben Toast
-  - 125g Mozzarella
+  - 125g Gouda (kein Mozzarella weil es Toast aufweicht)
   - 100g Schinken
   - 90g Mais
   - 60g Schlagobers
@@ -18,5 +18,4 @@ directions:
   - Mit Oregano und Salz würzen, vermischen und auf Toastscheiben verteilen
   - Bei 200°C Ober-/Unterhitze ca 10min ins vorgeheizte Backrohr geben
 ---
-
-Mozzarella macht die Toasts leider zu flüssig, besser Emmenthaler oder Gouda nehmen!
+Champignons und Zucchini passen sehr gut, die Kartoffeln waren aber nicht resch. Vmtl weil zuviel Dampf im Rohr war. Evtl alle paar min die Tür öffnen um Dampf zu entfernen
