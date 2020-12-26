@@ -8,6 +8,8 @@ category: Süßspeise
 images:
   - image: ../images/weihnachtskekse_teller.webp
     description: Kekse vor Verzierung
+  - image: ../images/weihnachtskekse_haselnuss.webp
+    description: Variante mit 225g Dinkel-VK und 75g geriebene Haselnüsse ist auch gut aber Teig reißt beim Ausrollen. Geschmack ist leicht nussig aber recht ähnlich zu purem Dinkel-VK
 
 ingredients:
 - 300g Dinkel-Vollkornmehl

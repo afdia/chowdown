@@ -19,7 +19,7 @@ ingredients:
   - 1/2 Hefewürfel
   - 210g lauwarmes Wasser
   - "Knoblauchpaste: 4 Knoblauchzehen gepresst (ca 22g), 30g Olivenöl, 2g Salz"
-  - 120g Emmentaler gerieben
+  - 120g Emmentaler gerieben (nicht mehr sonst rinnt er beim Backen raus)
   - Sesam zum Bestreuen
 
 directions:
