@@ -24,10 +24,10 @@ ingredients:
 
 directions:
   - Körner mahlen und mit anderen Zutaten 6min Stufe 2, 2min Stufe 3 kneten (zwischendurch Teig mit Teigkarte in die Mitte putzen)
-  - Auf bemehlte Fläche kippen, etwas rund formen und rundherum mit viel Mehl bedecken. Küchentuch darauf geben und 30min rasten lassen. Erneut zu Kugel formen und etwas kneten, dann auf Gitter mit kräftig bemehltem Backpapier geben, oben bemehlen und nochmal 45min mit Küchentuch zugedeckt gehen lassen.
-  - Wenn es schnell gehen soll stattdessen gleich auf Backpapier und Gitter 45min rasten lassen, dann ins vorgeheizte Backrohr geben)
+  - In Schüssel 30min zugedeckt rasten lassen (vorher mit etwas Mehl bedecken). Danach auf bemehltes Backpapier putzen, oben etwas Mehl draufgeben und rundformen (immer wieder zusammenklappen aber nicht zu fest weil es sonst klebt). Danach optional in einen bemehlten Gärkorb geben. Küchentuch darauf geben und 30min rasten lassen.
+  - Wenn es schnell gehen soll stattdessen gleich auf Backpapier und Gitter 45min rasten lassen, dann ins vorgeheizte Backrohr geben).
   - Häferl Wasser in Backrohr stellen und bei 240°C Heißluft vorheizen.
-  - Brot für 7min in Ofen geben, danach Backrohrtür ca 15sek lang öffnen und Dampf entweichen lassen und noch 40min bei 180°C weiterbacken. (Früher 8min 250°C vorher, dann wird das Brot aber zu resch)
+  - Optional vorher Brot mit Messer einschneiden bzw einige Löcher reinstechen, dann Brot für 7min in Ofen geben, danach Backrohrtür ca 15sek lang öffnen und Dampf entweichen lassen und noch 40min bei 180°C weiterbacken. (Früher 8min 250°C vorher, dann wird das Brot aber zu resch)
   - Auf einem Gitter auskühlen lassen und nach einiger Zeit mit einem Küchentuch abdecken damit die Rinde nicht zu hart ist (vermutlich hilft das)
 ---
 
