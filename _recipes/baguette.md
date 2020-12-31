@@ -10,7 +10,7 @@ images:
   - image: ../images/baguette_mehlig_eingedreht.webp
     description: Variante mit viel Roggenmehl außen, 220°C Umluft, Wasser auf Blech darunter, nicht angesprüht. Kruste war perfekt, alles beibehalten außer evtl ansprühen weil es recht staubig war
   - image: ../images/baguette_knoblauch.webp
-    description: Knoblauchpaste - 60g Butter, 9g Knoblauch (3 Zehen) - 2g Kräutersalz, 7g Petersilie (zuerst Knoblauch zerkleinern, dann Rest dazu und zerkleinern - Butter zimmerwarm). kurz vorm fertigbacken rausnbehmen und bestreichen und neu rein. Baguettes 15min machen, einschneiden, bestreichen und 4min fertig machen (auf Backpapier)
+    description: "Knoblauchpaste (50g Butter zimmerwarm, 9g Knoblauch (3 Zehen), 1g Kräutersalz, 5g Petersilie): zuerst Knoblauch in Zerkleinerer zerkleinern, dann Rest dazu und zerkleinern). Im Kühlschrank lagern und 30min vorm Einstreichen rausnehmen. Baguette 4min vor dem Ende rausnehmen, einschneiden, einstreichen, auf Backpapier legen und die restliche Zeit fertig backen"
   - image: ../images/baguette_breit.webp
     description: Einer der ersten Versuche mit einem großen Baguette (400g Mehl) war flach und ähnlich wie Weißbrot aber gut
 
