@@ -8,6 +8,8 @@ category: Süßspeise
 images:
   - image: ../images/gugelhupf_walnuss.webp
     description: -60g Mehl, +120g geriebene Walnüsse, 20g Schokostreusel statt Kakao. Nüsse passen sehr gut aber Schoko nicht. Wenn Walnüsse dann besser nur Nüsse und kein Schoko und kein Kakao
+  - image: ../images/gugelhupf_haselnuss.webp
+    description: -75g Mehl, +75g geriebene Haselnüsse, 270g Joghurt statt Milch, keine Schokolade/Kakao - sehr saftig und gut, schmeckt intensiv nach Haselnüssen
   - image: ../images/muffins.webp
     description: Für Muffins selbes Rezept aber 160°C Umluft (weil 2 Blech), 25min, dann 5-10min im Blech ruhen lassen
 
