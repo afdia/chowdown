@@ -11,6 +11,8 @@ images:
     description: Alternatives Kokosmilch Curry mit Kohl, Zucchini, Karotten, angerösteten Casheykernen
   - image: ../images/asiatisches_gemuese_mit_mie_nudeln.webp
     description: Keine Kokosmilch, dafür Mie-Nudeln, Kraut, Karotten, angerösteten Casheykernen
+  - image: ../images/asiatisches_gemuese_mit_reisnudeln.webp
+    description: Lauch, Iglo Erbsenschoten (mit Erbsen drinnen), Kraut, Karotten, angeröstete Casheykernen, Reisnudeln
   - image: ../images/asiatisches_gemuese_ingwer.webp
     description: Keine Kokosmilch und Curry und mit Ingwer, Kraut, Zucchini, Karotten, angerösteten Casheykernen
 
