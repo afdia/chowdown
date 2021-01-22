@@ -25,7 +25,7 @@ directions:
   - Für die Bechamel die Butter schmelzen, Mehl dazugeben und langsam Milch dazugießen während ständig umgerührt wird
   - "Wenn alles fertig ist 2 Formen bereit stellen und in folgender Reihenfolge schlichten: unten Bechamel, Lasagneblätter, Tomatensauce, Mozzarella, Lasagneblätter, Bechamel, Tomatensauce, ..."
   - Ganz oben die restliche Bechamel verteilen und die Lasagne die sofort gegessen wird mit Alufolie bedecken (spiegelnde Seite nach oben)
-  - Backrohr auf 200°C Ober/Unterhitze vorheizen und wenn vorgeheizt, 20min mit Alufolie ins Backrohr, dann Folie entfernen und nochmal 10min stellen
+  - Backrohr auf 200°C Ober/Unterhitze vorheizen und wenn vorgeheizt, 30min ins Backrohr geben (VORSCHLAG die ersten 10min nur mit unterhitze damit es oben nicht zu dunkel wird)
   - Andere Lasagne auskühlen lassen und mit Plastikfolie im Kühlschrank aufheben. Am Folgetag kann diese ohne Alufolie gleich für 30min ins Backrohr gegeben werden (weil sie oben flüssiger ist)
 ---
 

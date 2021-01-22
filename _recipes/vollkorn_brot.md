@@ -28,7 +28,7 @@ ingredients:
   - Chiasamen/Sesam/Sonnenblumenkerne für außen (drinnen nicht so gut)
 
 directions:
-  - Vollkornmehl und Hirse mahlen, danach weißes Mehl, Wasser, Zucker, Salz und Germ dazugeben (wenn Germwürfel dann vorher in Wasser auflösen)
+  - Körner und Hirse mahlen, danach weißes Mehl, Wasser, Zucker, Salz und Germ dazugeben (wenn Germwürfel dann vorher in Wasser auflösen)
   - Optional Schüssel mit Küchentuch abdecken und 1h rasten lassen, danach nochmal kurz mit Küchenmaschine kneten (dadurch geht Brot bis zu 2cm über Brotform auf)
   - Brotform mit Butter ausstreichen und mit Sesam/Sonnenblumenkerne auslegen
   - Den gekneteten Teig mit einer Teigkarte in die Brotform putzen und min. 30min rasten lassen

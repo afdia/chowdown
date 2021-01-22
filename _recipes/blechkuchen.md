@@ -13,6 +13,8 @@ images:
     description: Variante mit Marillen (hier 125g Topfen und ca 100g Milch, auch gut aber nur Milch ist besser)
   - image: ../images/blechkuchen_apfel.webp
     description: Variante mit Äpfel und Zimt. Passt auch sehr gut aber man sollte mehr Äpfel als am Bild nehmen damit der Kuchen saftiger ist
+  - image: ../images/blechkuchen_heidelbeeren.webp
+    description: Variante mit Heidelbeeren direkt im Teig (am Ende nach Schnee untergehoben) war auch sehr gut
 
 ingredients:
   - 130g Butter
@@ -21,7 +23,7 @@ ingredients:
   - 1 Pkg Vanillezucker
   - 1 Pkg Backpulver
   - 300g Mehl (Dinkel VK)
-  - 200g Milch
+  - 220g Milch
   - Zwetschken/Marillen/Erdbeeren/Kirschen
 
 directions:
@@ -33,4 +35,4 @@ directions:
   - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 30-35 Minuten backen (bei Erdbeeren evtl etwas kürzer)
 ---
 
-Evtl noch mehr Milch testen damit noch saftiger ist? 220g zb?
+Evtl noch mehr Milch testen damit noch saftiger ist? 230g zb? wobei 220 war beim heidelbeerkuchen sehr gut

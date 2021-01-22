@@ -16,7 +16,7 @@ images:
 
 ingredients:
   - 400g Mehl [(Fini's Feinstes Weizenmehl Universal)](https://www.finis-feinstes.at/de/sortiment/mehle/index.aspx?detail=66&hl=Fini%E2%80%99s%20Feinstes%20Weizenmehl%20universal)
-  - 270ml lauwarmes Wasser (bei Knoblauchbaguette +10ml genommen war super. evtl 300 testen?)
+  - 270ml lauwarmes Wasser (bei Knoblauchbaguette +10ml genommen war super. 290g getestet war sehr gut aber zu hell; evtl 230°C einstellen?)
   - 9,5g Salz
   - 2g Zucker
   - 1/4 Hefewürfel (nimmt man 1/2 reicht 1,5h Gehzeit aber es schmeckt etwas nach Hefe)
