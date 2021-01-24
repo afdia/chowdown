@@ -24,10 +24,10 @@ ingredients:
 directions:
 - Zwiebel und Knoblauch fein schneiden und in der Pfanne mit etwas Butter glasig anschwitzen
 - Danach Milch dazuleeren und lauwarm werden lassen
-- Käse fein oder grob reiben und in großer Schüssel mit 2 Eiern verrühren
+- Käse grob reiben und in großer Schüssel mit 2 Eiern verrühren
 - Semmelwürfel dazugeben und Milch-Zwiebel Gemisch drübergießen, salzen, pfeffern mit etwas fein geschnittener Petersilie gut vermischen und flach drücken
 - Teig mindestens 20min rasten lassen, dann mit nassen Händen ca 12 Knödel formen und etwas flach drücken (zuerst Hälfte auf Teller geben, dann in Pfanne geben und zweite Hälfte auf Teller)
 - etwas Öl in Pfanne geben (nur soviel dass Boden bedeckt ist) und heiß werden lassen
-- Wenn das Öl heiß ist 6 Knödel reingeben und auf Stufe 7 paar Minuten auf jeder Seite anbraten (mehrmals wenden). Danach rausgeben (zb auf Küchenrolle legen) und die nächsten 6 Knödel zubereiten (auf Stufe 6 zurückdrehen damit sie nicht zu schnell dunkel werden)
+- Wenn das Öl heiß ist 6 Knödel reingeben und auf Stufe 7 paar Minuten auf jeder Seite anbraten (mehrmals wenden). Danach rausgeben (zb auf Küchenrolle legen) und die nächsten 6 Knödel zubereiten (auf Stufe 6 zurückdrehen damit sie nicht zu schnell dunkel werden). Die ersten 6 Stk gehen sich ca aus bis man die zweiten geformt hat.
 
 ---

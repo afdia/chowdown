@@ -13,6 +13,8 @@ images:
     description: Keine Kokosmilch, dafür Mie-Nudeln, Kraut, Karotten, angerösteten Casheykernen
   - image: ../images/asiatisches_gemuese_mit_reisnudeln.webp
     description: Lauch, Iglo Erbsenschoten (mit Erbsen drinnen), Kraut, Karotten, angeröstete Casheykernen, Reisnudeln
+  - image: ../images/asiatisches_gemuese_mit_rotkraut.webp
+    description: Ähnlich wie das darüber aber mit Rotkraut. Passt gut wenn man nicht zuviel nimmt. Problem ist dass es auf alles abfärbt und alles nach Rotkraut schmeckt
   - image: ../images/asiatisches_gemuese_ingwer.webp
     description: Keine Kokosmilch und Curry und mit Ingwer, Kraut, Zucchini, Karotten, angerösteten Casheykernen
 

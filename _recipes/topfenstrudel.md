@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Topfenstrudel"
 image: topfenstrudel.webp
