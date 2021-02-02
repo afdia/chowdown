@@ -6,7 +6,7 @@ category: Hauptgericht
 
 ingredients:
   - 350g Mehl, glatt
-  - 205ml Wasser, lauwarm
+  - 200ml Wasser, lauwarm
   - 9g Salz
   - 1/4 Germwürfel
   - 20g Olivenöl (evtl mehr?)
