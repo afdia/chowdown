@@ -6,6 +6,8 @@ image: kartoffelpuffer.webp
 category: Hauptgericht
 
 images:
+  - image: ../images/kartoffelpuffer_unbeschichtet.webp
+    description: In einer unbeschichteten Pfanne kleben die Puffer beim Reingeben sofort an wenn man sie nicht bewegt, zerfallen (hinterlassen Reste die am Boden kleben) und werden sehr fettig, daher unbedingt beschichtete Pfanne nehmen! Mit wenig Fett in einer beschichteten müsste es aber gut gehen
   - image: ../images/kartoffelpuffer_mit_tsatsiki.webp
     description: "Tsatsiki passt perfekt zu Kartoffelpuffer. Alternativ: Karottensalat"
 
@@ -19,7 +21,7 @@ ingredients:
 directions:
 - Die Kartoffeln schälen und mit der feinsten Scheibe der Küchenmaschine reiben
 - Eier und etwas Mehl dazugeben
-- Puffer in Öl herausbacken, Pfanne mit Öl max. 3x befüllen weil sich bei jedem Durchgang mehr Reste ansammeln die dunkler werden
+- Puffer in beschichteter Pfanne in Öl herausbacken (Stufe 7 müsste reichen). Max. 3x Durchgänge weil immer mehr dunkle Reste in Pfanne bleiben.
 
 ---
 

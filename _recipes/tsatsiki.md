@@ -7,8 +7,8 @@ category: SalatAufstrich
 ingredients:
   - 1 Gurke
   - 250g Joghurt
-  - ca 2EL Olivenöl (früher war hier 125g Sauerrahm)
-  - 1EL weißer Balsamicoessig
+  - 15g Olivenöl (früher war hier 125g Sauerrahm)
+  - 10g weißer Balsamicoessig (evtl etwas mehr)
   - 2 Knoblauchzehen
   - etwas Dille
   - Salz, Pfeffer
@@ -16,5 +16,5 @@ ingredients:
 directions:
   - Gurke mit grober Stufe reiben, danach mit Hand ausdrücken
   - Knoblauchzehen fein schneiden
-  - Alles zusammen mit Joghurt, Sauerrahm, Dille, Salz Pfeffer vermischen und abschmecken
+  - Alles zusammen mit den restlichen Zutaten vermischen und abschmecken
 ---
