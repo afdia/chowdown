@@ -5,6 +5,8 @@ image: semmeln.webp
 category: BrotGebaeck
 
 images:
+  - image: ../images/semmeln_eingeschnitten.webp
+    description: Semmeln die 5x eingeschnitten wurden
   - image: ../images/semmeln_handsemmeln.webp
     description: Versuch 1 Handsemmeln. geformte Teigkugeln 15min rasten lassen, dann formen, nochmal 25min im Backrohr rasten lassen, rausnehmen, vorheizen, einsprühen, backen
   - image: ../images/semmeln_langsemmeln.webp
@@ -15,8 +17,6 @@ images:
     description: Variante mit 250g Vollkorn Weizenmehl, 250g normales Weizenmehl ist sehr gut
   - image: ../images/semmeln_teig_kuehschrank.webp
     description: Teig in Kühlschrank vorbereiten; direkt nach dem Kneten herausnehmen, rund formen, mit etwas Mehl bestäuben und wieder in Schüssel geben. Mit Frischhaltefolie zudecken. Am nächsten Tag herausnehmen (Teig ist ca doppelt-dreifach so groß) und Kugeln formen etc. wird sehr gut
-  - image: ../images/semmeln_wasser_oel.webp
-    description: Versuch mit Wasser+Öl, etwas zu lang im Rohr darum dunkel
 
 ingredients:
   - 400g Mehl (ergibt 8 Semmeln)
@@ -37,4 +37,6 @@ directions:
   - Danach heizt man das Backrohr auf 220°C Umluft vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser und gibt sie für ca 14-15min ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
 
-versuch 230° 11-12min war gut aber auch nicht resch sondern eher wie eine apfelschale und innen weich. geschmacklich gut aber nicht resch
+- vorletzter versuch 230° 11-12min war gut aber auch nicht resch sondern eher wie eine apfelschale und innen weich. geschmacklich gut aber nicht resch
+- letzter versuch (aktuelles Bild von Rezept) waren 50/50 Roggenmehl Kartoffelstärke Mischung zum Stauben. 220°C 14min waren schon recht braun, Kruste gut aber nicht ganz resch. Sonst gut nur unten etwas zuviel Mehl. Evtl resch wenn 230°C (oder evtl 250°C Ober/Unterhitze testen? ODER 5min vor Ende backrohrtür kurz öffnen!). Einige mit Semmelstempel gemacht; wird super aber nicht zu tief einstempeln!
+- "nächster Versuch testen: wieder Roggen+Stärke, 250°C Ober/Unterhitze und nach 10min Backrohrtür 10sek öffnen und dann noch paar Min fertig backen; evtl auch kein Häferl Wasser reingeben weil zu dampfig? - https://www.chefkoch.de/forum/2,37,421247/Kaisersemmeln-ca-10-St.html?page=1 dreht Temperatur auf 200 zurück und lässt dann nochmal 10min"
