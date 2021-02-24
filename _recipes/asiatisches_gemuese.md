@@ -17,6 +17,8 @@ images:
     description: Ähnlich wie das darüber aber mit Rotkraut. Passt gut wenn man nicht zuviel nimmt. Problem ist dass es auf alles abfärbt und alles nach Rotkraut schmeckt
   - image: ../images/asiatisches_gemuese_ingwer.webp
     description: Keine Kokosmilch und Curry und mit Ingwer, Kraut, Zucchini, Karotten, angerösteten Casheykernen
+  - image: ../images/asiatisches_gemuese_kohlsprossen.webp
+    description: Variante mit Kohlsprossen ist ganz OK aber wir haben sie zu weich gekocht (besser nur kurz kochen). Am nächsten Tag waren sie besser
   - image: ../images/asiatisches_gemuese_kichererbsten_geroestet.webp
     description: 100g Kichererbsen abtrocknen, in Schüssel mit Olivenöl vermischen und 30min bei 180°C Umluft ins Rohr geben (alle 10min schwenken). Dagmar mag es, ich eher nicht. Backrohr war danach voll mit "Hautfetzen" von den Kichererbsen. Eher nicht mehr machen
 

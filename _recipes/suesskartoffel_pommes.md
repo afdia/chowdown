@@ -9,6 +9,8 @@ images:
     description: Vor dem Backen
   - image: ../images/suesskartoffel_pommes_nachher.webp
     description: Nach dem Backen
+  - image: ../images/suesskartoffel_pommes_zu_viele.webp
+    description: 2 Blech eng belegter Pommes schmecken zwar gut aber werden nicht resch. Außerdem kann man keine Ober/Unterhitze nehmen sondern muss 230°C Umluft einstellen
 
 ingredients:
   - 1 Süßkartoffeln (ca für ein Backblech)

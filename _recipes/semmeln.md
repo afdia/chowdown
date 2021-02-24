@@ -15,6 +15,8 @@ images:
     description: Langsemmeln mit Chiasamen und Leinsamen belegt sind super
   - image: ../images/semmeln_vollkorn.webp
     description: Variante mit 250g Vollkorn Weizenmehl, 250g normales Weizenmehl ist sehr gut
+  - image: ../images/semmeln_vollkorn_rustikal.webp
+    description: Variante mit 400g frisch geriebener Weizen + 100g normales Weizenmehl. In 50/50 Kartoffelstärke/Roggenmehl gewälzt schmeckt sehr gut und "rustikal"
   - image: ../images/semmeln_teig_kuehschrank.webp
     description: Teig in Kühlschrank vorbereiten; direkt nach dem Kneten herausnehmen, rund formen, mit etwas Mehl bestäuben und wieder in Schüssel geben. Mit Frischhaltefolie zudecken. Am nächsten Tag herausnehmen (Teig ist ca doppelt-dreifach so groß) und Kugeln formen etc. wird sehr gut
 
