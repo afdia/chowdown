@@ -20,6 +20,8 @@ images:
     description: 2. Versuch mit 350g Mehl, 190g Wasser, 20g Öl, 8g Salz, ganzer Becher Sauerrahm - Ohne Hefe fehlt Geschmack, zuviel Sauerrahm der ausgeflankt ist, zu stark belegt, getrocknete Tomaten passen nicht. 1. Versuch war VIEL besser
   - image: ../images/flamkuchen_vor_backrohr_creme_fraiche.webp
     description: 3. Versuch mit Germ und Creme Fraiche. Hier am Bild roh. War sehr gut!
+  - image: ../images/flamkuchen_speck.webp
+    description: Speckstreifen passen sehr gut, allerdings muss man einige mehr nehmen als hier (Speck geht stark zusammen)
 
 directions:
   - Mehl, Wasser, Salz, Germ, Öl in Schüssel geben und in der Küchenmaschine kneten (7-8min). lt https://www.dasbackstuebchen.de/grundrezepte/flammkuchen-grundrezept-tipps-und-tricks lang kneten für elastischen teig
