@@ -20,12 +20,12 @@ ingredients:
 - 50ml Rum
 
 directions:
-- Butter auf Zimmertemperatur aufwärmen
+- Butter auf Zimmertemperatur aufwärmen (zb in leicht warmen Backrohr)
 - Für Pudding, etwas Milch von den 0,5l wegnehmen und mit Puddingpulver und 50g Zucker vermischen
 - Restliche Milch aufkochen und wenn sie kocht Gemisch dazugeben, dann ca 1min kochen lassen während man umrührt und Pudding auskühlen lassen
 - ca 1/4 des Puddings wegnehmen (man benötigt nur 3/4 der Puddingmasse für das Tiramisu)
 - Schlagobers aufschlagen (die Hälfte kommt in den Pudding, die andere Hälfte oben aufs Tiramisu)
-- Wenn Pudding, Butter und das Halbe Schlagobers ca dieselbe Temperatur haben, miteinander vermischen (ansonsten flockt die Butter von der Puddingcreme aus)
+- Wenn der Pudding fertig ist, Abwasch mit kaltem Wasser anfüllen und Topf reinstellen damit der Pudding schneller auskühlt. Kurz danach die zimmerwarme Butte einrühren und danach das Halbe Schlagobers einrühren (alles sollte ca dieselbe Temperatur haben damit die Butter nicht ausflockt, aber der Pudding sollte noch nicht fest werden)
 - Wenn durch den festen Pudding trotzdem Flocken entstanden sind, zb in der Abwasch heißes Wasser einlassen, Topf reinstellen und umrühren bis es eine cremige Konsistenz ist [(Quelle)](https://www.chefkoch.de/forum/2,10,18142/Buttercreme-flockt.html)
 - Espresso und Rum vermischen
 - 1 Packung Vollkornbiskotten jeweils kurz in das Rum-Kaffee Gemisch tunken und in eine Form schlichten. Ganz unten Biskotten, darauf Puddinggemisch, 2-3x wiederholen.

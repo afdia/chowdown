@@ -1,11 +1,11 @@
 ---
 layout: recipe
-title: "Spaghetti mit Tomatensauce und Melanzani"
-image: spaghetti_mit_tomatensauce_und_melanzani.webp
+title: "Melanzani Penne"
+image: melanzani_penne.webp
 category: Hauptgericht
 
 images:
-  - image: ../images/spaghetti_mit_tomatensauce_und_melanzani_aufgeschnitten.webp
+  - image: ../images/melanzani_penne_aufgeschnitten.webp
     description: Geschnittene Melanzani nach der Rastzeit. Man sieht dass viel Wasser ausgetreten ist.
 
 ingredients:
