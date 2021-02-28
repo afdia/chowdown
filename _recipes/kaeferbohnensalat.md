@@ -12,6 +12,7 @@ ingredients:
   - 250g Käferbohnen
   - 1 Zwiebel
   - 1 Paprika
+  - 4 Essiggurkerl
   - Kürbiskernöl, weißer Balsamicoessig
   - evtl Tomaten, Radischen, Fol Epi Käse, gekochte Eier
 
@@ -21,7 +22,7 @@ directions:
   - 1/2 Sackerl Natron (3g pro 1l Wasser) dazugeben damit sie bekömmlicher werden und die Farbe behalten, aufkochen und dann ohne Deckel 15min bei Stufe 8 kochen. Die ersten 5min davon daneben stehen und bei Bedarf Schaum abschöpfen!
   - Anschließend umrühren, Schaum abschöpfen, zurückdrehen und 20min bei Stufe 5 halb zugedeckt dünsten. 1 gestrichenen EL Salz dazugeben und weitere 10min bei Stufe 5 halb zugedeckt dünsten. Fertig sind sie wenn sie weich sind (alte Bohnen können 30min länger dauern)
   - Bohnen absieben, eine beliebige Menge der Bohnen einfrieren (sind nach dem Auftauen direkt verwendbar) und den Rest und mit fein geschnittenem Zwiebel vermengen.
-  - Mit reichlich Kürbiskernöl, Balsamicoessig, Salz, Pfeffer vermischen. Die Bohnen können noch warm sein damit sie sich gut ansaugen.
+  - Mit reichlich Kürbiskernöl, weißem Balsamicoessig, Salz, Pfeffer vermischen. Die Bohnen können noch warm sein damit sie sich gut ansaugen.
 ---
 
 Weitere Tipps:

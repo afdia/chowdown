@@ -7,16 +7,19 @@ category: BrotGebaeck
 images:
   - image: ../images/vollkorn_sauerteig_brot_misch.webp
     description: 500g DM 6-Korn-Mischung, 100g weißes Roggenmehl ergeben ähnliches Brot wie Almlaib. Durch den fehlenden Gährkorb ist es bei den 45min Rasten zwar etwas flach geworden, aber es hat nicht gestört
+  - image: ../images/vollkorn_sauerteig_dinkel.webp
+    description: 500g Dinkelkörner frisch gemahlen, 100g weißes Weizenmehl, 470ml Wasser, Dinkelsauerteig statt Roggensauerteig, einige Sonnenblumenkerne in Teig geben und wenn Teig am Backrohr ist mit Sonnenblumenkernen bestreuen. War perfekt und nicht übermäßig saftig wie andere Varianten. Teig klebt beim Schneiden nicht am Messer.
   - image: ../images/vollkorn_sauerteig_brot_misch_sieb.webp
     description: Gut bemehltes Brot auf Backpapier in Sieb geben damit es höher bleibt (hat nicht all zu viel gebracht; Sieb hat sich leicht durchgebogen; evtl was anderes probieren)
   - image: ../images/vollkorn_sauerteig_brot_misch_sieb_fertig.webp
     description: Brot aus Sieb fertig
+
   - image: ../images/vollkorn_sauerteig_brot_brett.webp
     description: 200g Weizen-VK 200g Dinkel-VK 100g Roggen-VK, 100g Roggen weiß werden super und schmeckt auch wie Bauernbrot
 
 ingredients:
   - 500g DM 6-Korn-Mischung, 100g weißes Roggenmehl (wie Bauernbrot)
-  - 480ml lauwarmes Wasser (letztes mal 470 war auch sehr gut)
+  - 470ml lauwarmes Wasser (evtl -10ml testen)
   - 12g Salz
   - 1/2 Germwürfel
   - 10g Gerstenmalzmehl
