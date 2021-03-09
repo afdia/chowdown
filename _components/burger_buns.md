@@ -7,7 +7,7 @@ ingredients:
   - 500g Mehl
   - 35g Zucker
   - 8,5g Salz
-  - 1 Pkg Trockengerm (oder 1/2 Germwürfel damit es besser aufgeht)
+  - 1/2 Germwürfel
   - 300g Milch
   - 45g Butter (schmelzen lassen; wenn in Topf dann +5g Verlust einrechnen)
   - 1 großes Ei (ca 20% vom verquirlten Ei wegnehmen für später zum Bestreichen)

@@ -24,13 +24,12 @@ images:
 
 ingredients:
   - Reisnudeln (alternativ Basmatireis oder Mie-Nudeln)
-  - Karotten
-  - Zucchini
+  - Kraut, Karotten, Zucchini
   - etwas Lauch
   - etwas Erdnussöl zum anrösten
   - etwas Suppenwürze
   - etwas Curry
-  - Sojasauce, Schärfungssauce, Marc's Sweet Chili Sauce bzw Spar Chili-Salsa zum Würzen
+  - Sojasauce, Schärfungssauce, Marc's Sweet Chili Sauce bzw Spar Chili-Salsa zum Würzen, Erdnussmuß passt auch gut
   - Cashewkerne
 
 directions:

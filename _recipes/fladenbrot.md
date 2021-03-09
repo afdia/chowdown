@@ -24,5 +24,5 @@ directions:
   - Backpapier auf Blech vorbereiten und stark bemehlen. Teig aus Schüssel auf Backpapier putzen und oben ebenfalls bemehlen (Teig ist sehr klebrig und luftig). In 2 Hälften zerteilen und oval formen. Danach 15min rasten lassen
   - Ei mit etwas Wasser verquirlen und auf Fladenbrote verstreichen (evtl ohne Wasser probieren?)
   - Mit einem großen Messer quadratförmig tief einschneiden, anschließend mit den Fingern tief eindrücken (für die typische Fladenbrotform). Anschließend Sesam oder Schwarzkümmel darauf verteilen und nochmal 15min rasten lassen
-  - 5min vor Ende der Rastzeit das Backrohr auf 250°C Ober/Unterhitze vorheizen und Fladenbrote für ca 9min ins Backrohr geben
+  - 5min vor Ende der Rastzeit das Backrohr auf 250°C Ober/Unterhitze vorheizen und Fladenbrote für ca 9min ins Backrohr geben (anderes rezept 250°C vorheizen dann auf 220 runterdrehen und dafür 15-20min)
 ---
