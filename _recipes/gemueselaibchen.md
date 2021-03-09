@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Gemüselaibchen (Sükartoffeln, Zucchini)"
+title: "Gemüselaibchen (Süßkartoffel, Zucchini)"
 image: gemueselaibchen.webp
 category: Hauptgericht
 
