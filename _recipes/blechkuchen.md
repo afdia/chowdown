@@ -15,6 +15,8 @@ images:
     description: Variante mit Äpfel, Birnen, Zimt und Mandelsplitter ist auch sehr gut (hier mit 220g Joghurt +20g Milch)
   - image: ../images/blechkuchen_heidelbeeren.webp
     description: Variante mit Heidelbeeren direkt im Teig (am Ende nach Schnee untergehoben) war auch sehr gut
+  - image: ../images/blechkuchen_himbeeren.webp
+    description: Variante mit Himbeeren oben aufgelegt war sehr gut nur Kerne sind etwas störend
 
 ingredients:
   - 130g Butter
