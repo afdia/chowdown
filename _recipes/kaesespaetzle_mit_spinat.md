@@ -11,6 +11,8 @@ components:
 images:
   - image: ../images/kaesespaetzle_mit_kuerbis.webp
     description: Statt Spinat passt auch Hokkaidokürbis (bei dem Versuch war es aber etwas zuviel (halb halb). Besser ist vmtl 1/3 Kürbis, 2/3 Spätzle
+  - image: ../images/kaesespaetzle_mit_pizzatoast_fuellung.webp
+    description: Wenn etwas von der Pizzatoast Masse übrig bleibt kann man sie in einer kleinen Form mit Spätzle vermischen. Schmeckt super, speziell in Kombination mit Spinatspätzle
 
 ingredients:
 - 400g Spinat
