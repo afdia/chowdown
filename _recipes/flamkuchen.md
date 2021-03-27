@@ -24,12 +24,12 @@ images:
     description: Speckstreifen passen sehr gut, allerdings muss man einige mehr nehmen als hier (Speck geht stark zusammen)
 
 directions:
-  - Mehl, Wasser, Salz, Germ, Öl in Schüssel geben und in der Küchenmaschine kneten (7-8min). lt https://www.dasbackstuebchen.de/grundrezepte/flammkuchen-grundrezept-tipps-und-tricks lang kneten für elastischen teig
+  - Mehl, Wasser, Salz, Germ, Öl in Schüssel geben und in der Küchenmaschine kneten (7-8min) damit Teig elastisch wird
   - Teig in Mitte der Schüssel als Kugel platzieren und 30min gehen lassen
   - Teig in 4 Portionen aufteilen und dünn ausrollen
   - Creme Fraiche mit etwas Salz und Pfeffer vermischen und auf den 4 ausgerollten Teigen verteilen
   - Beliebig belegen
-  - Backrohr auf 300°C vorheizen und wenn vorgeheizt, für ca 9-10min ins Backrohr geben (fertig wenn Rand goldbraun ist - eher 10min probieren bei 9 ist es noch etwas zu hell am Rand; speziell die unteren)
+  - Backrohr auf 300°C vorheizen und wenn vorgeheizt, für ca 10min ins Backrohr geben (fertig wenn Rand goldbraun ist, evtl die untere noch länger drinnen lassen)
 ---
 
 evtl etwas weniger creme fraiche oder andere marke nehmen? Sollte dünn aufgestrichen sein!

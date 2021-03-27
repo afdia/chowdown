@@ -6,27 +6,29 @@ category: Süßspeise
 
 images:
   - image: ../images/roulade_marmelade.webp
-    description: Roulade mit 1 Glas Marillenmarmelade kann enger gerollt werden (Teig war hier zu lang im Rohr ist darum gebrochen)
+    description: Roulade mit 1 Glas Marillenmarmelade kann enger gerollt werden
   - image: ../images/roulade_vorgerollt.webp
     description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
+  - image: ../images/roulade_gebrochen.webp
+    description: Wenn der Teig zu dick ist bzw evtl wenn man darunter Marmelade streicht (wird rutschig) schiebt sich die Füllung raus und die Rolle geht auf
 
 components:
   - Biskuit
 
 ingredients:
   - 250g Topfen
-  - 125g Schlagobers
-  - 300g Erdbeeren
+  - 75g Schlagobers
+  - 250g Erdbeeren
+  - 1/2 Glas Erdbeermarmelade
 
 directions:
-  - Erdbeeren schneiden und mit Topfen und aufgeschlagenen Schlagobers vermischen
-  - Biskuit zubereiten (15min 180°C Ober-/Unterhitze). Möglichst über das ganze Blech ausstreichen damit die Roulade dünn wird.
-  - Solange es noch warm ist und auf 2. Backpapier liegt, vorab etwas einrollen und Teig "an die Biegung gewöhnen" (alternativ 1cm vom Rand abschneiden)
-  - Ausrollen und mit Füllung bestreichen
+  - Erdbeeren zerstampfen oder schneiden und mit Topfen und aufgeschlagenen Schlagobers vermischen
+  - Biskuit zubereiten (14min 180°C Ober-/Unterhitze). Möglichst über das ganze Blech ausstreichen damit die Roulade dünn wird.
+  - Solange es noch warm ist und auf 2. Backpapier liegt, vorab etwas einrollen und Teig "an die Biegung gewöhnen"
+  - Ausrollen und mit Erdbeermarmelade bestreichen, dann Füllung gleichmäßig darüber verteilen
   - Erneut einrollen und 10min in gerollter Form auskühlen lassen (damit es die Form behält)
 ---
 
 Verbesserungsideen:
 
-- war etwas zuviel Füllung - evtl nur 100g Schlagobers?
-- Nächster Versuch mit Füllung aus nur 250g Topfen + 300g Erdbeeren war zu trocken. Vmtl wirds besser wenn man darunter Erdbeermarmelade aufs Biskuit streicht oder geschlagenes Schlagobers dazu gibt
+- beim Einrollen ist Füllung ausgeronnen. Evtl Biskuit dünner machen oder weniger Füllung bzw Marmelade reinmischen und nicht separat drunterstreichen (dadurch ist es evtl wie eine Rutsche)

@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/antipasti_tomate_mozzarella_tisch.webp
     description: Angerichtet mit selbstgemachten Baguettes
+  - image: ../images/antipasti_tomate_mozzarella_salat_japapeno_parmesan.webp
+    description: Eingelegte Japapeno, Grüner Salat und Jalapeno passen super dazu
 
 ingredients:
   - 2 große und 1 kleine Packung Mozzarella

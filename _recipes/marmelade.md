@@ -17,6 +17,8 @@ images:
     description: "Halber 1:3 Zucker, 300g Erdbeeren, 250g Rhabarber, 200g Erdbeeren - schwer zuzubereiten weil sehr dickflüssig, relativ sauer und Farbe nicht so schön. Daraus gelernt: Großteil muss Erdbeer sein, dann Kiwi ODER Rhabarber dazu"
   - image: ../images/marmelade_erdbeer_zuwenig.webp
     description: So sieht es aus wenn man bei Erdbeermarmelade Schaum einfüllt und die Gläser nicht randvoll macht. Beides verringert die Haltbarkeit!
+  - image: ../images/marmelade_kumquat.webp
+    description: 110g Kumquat (gewogen nach rollen, Kerne und bitteres bWeißes entfernen, in Stücke geschnitten), 58g Zucker + 8g Vanillezucker, 90g Wasser. 5min Stufe 8 Kochen wird sehr Geleeartig (Achtung karamellisiert schnell), am Schluss pürieren, schmeckt sehr orangig durch Schale
 
 ingredients:
   - 1kg Früchte (zb Erdbeeren oder Marillen)
