@@ -5,7 +5,7 @@ image: tomatensalsa.webp
 
 ingredients:
   - 4 große Tomaten
-  - 1 Frühlingszwiebel
+  - 1 Frühlingszwiebel (oder kleine rote Zwiebel)
   - 1 Jalapeno
   - 1 Minigurke (nicht im Originalrezept, passt aber gut)
   - 1/2 Zitrone (besser Limette)

@@ -9,6 +9,8 @@ images:
     description: Versuch mit 200ml 14g Lauge und Pinsel bestrichen (formen, 30min rasten, einschneiden, Lauge, Sesam). Sehr luftig und groß dank Gehzeit, aber ohne Eintauchen bleiben sie zu hell (obwohl Lauge konzentrierter ist)
   - image: ../images/laugenstangerl_vollkorn.webp
     description: Variante mit Vollkorn-Dinkel-Mehl schmeckt sehr "gesund" aber auch gut. Evtl nur 50% Vollkornmehl probieren
+  - image: ../images/laugenstangerl_vollkorn_wenig.webp
+    description: Variante mit 100g VK Dinkel und 400g Weizen und teilweise dunklen Sesam ist auch sehr gut. Ich hab nachträglich Natronlauge drübergeschüttet, dadurch haben sie eine schöne Farbe aber sind am Backpapier angeklebt (daher eher nicht machen)
 
 ingredients:
   - 500g Mehl
