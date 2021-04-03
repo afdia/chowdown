@@ -7,6 +7,8 @@ category: SalatAufstrich
 images:
   - image: ../images/nudelsalat_mayonnaise.webp
     description: Variante mit 50g Mayonnaise (Kuner 50%) statt Olivenöl und ohne Mozzarella (auch OK aber nicht so gut wie die aktuelle)
+  - image: ../images/nudelsalat_erbsennudeln.webp
+    description: Erbsennudeln passen auch ganz gut, sind gesünder aber etwas mehliger. Waren evtl etwas zu kurz gekocht, daher eher länger lassen
 
 ingredients:
   - 200g Nudeln (zb Penne)
