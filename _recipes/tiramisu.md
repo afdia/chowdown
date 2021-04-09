@@ -8,16 +8,18 @@ category: Süßspeise
 images:
   - image: ../images/tiramisu_topfen.webp
     description: 250g Schlagobers aufschlagen, 250g Topfen und 50g Zucker dazu, 1 Packung Maroni mit Löffel zerkleinern und dazu. Diese Masse abwechselnd mit getränkten Biskotten schlichten. Ergebnis war leider nicht gut. Maroni passen nicht und Topfen ist sehr sauer. Evtl könnte es mehr Zucker retten
+  - image: ../images/tiramisu_himbeer.webp
+    description: Vanillesauce normal machen (aber nur 40g Zucker und ganzes Schlagobers rein, fest schlagen!), 300g TK-Himbeeren auftauen und pürieren, 50g Rum und 30g Agavendicksaft dazu, in Form abwechseln Biskotten, Himbeer, Vanille. Ergebnis war gut aber zuviel Rum (besser nur 25g nehmen), Himbeersauce zu wenig süß und zu flüssig (evtl 30g Zucker statt Agaven; evtl 100g weggeben und oben drauf damit weniger flüssig)
 
 ingredients:
 - 200g Vollkorn Biskotten
 - 1 Sackerl Flana Vanillepudding
-- 500ml Milch
+- 500g Milch
 - 50g Zucker (d.h. genauso wie Rezept auf Pudding-Packung)
 - 90g Butter
 - 180g Schlagobers
-- 80ml Espresso
-- 50ml Rum
+- 80g Espresso
+- 50g Rum
 
 directions:
 - Butter auf Zimmertemperatur aufwärmen (zb in leicht warmen Backrohr)
