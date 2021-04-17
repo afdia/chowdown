@@ -19,10 +19,12 @@ images:
     description: Champignonfüllung nur auf die halbe Flade verteilen und dann zuklappen
   - image: ../images/quesadillas_ganz.webp
     description: Beim 1. Versuch haben wir 2 Tortillas übereinander gelegt. Ist auch gut aber mühsam zum umdrehen und Inhalt fällt beim Essen raus, daher besser umklappen.
+  - image: ../images/quesadillas_champignon_ruccola.webp
+    description: Champignonfüllung mit Ruccola schaut super aus aber geht geschmacklich leider komplett unter. Evtl besser frisch dazuessen
 
 ingredients:
-  - "Champignonfüllung: 1kl Packung Champigons (250g?), 1 Spitzpaprika, 2EL Mais, 1EL Petersilie, einige Zwiebelwürfel"
-  - "Gemüsefüllung: 1/4 Lauch, 1 Zucchini, 2 Paprika (oder einige Jalapeno), 1 Dose Kidney Bohnen, 1/2 Glas Mais, etwas Petersilie"
+  - "Champignonfüllung: 250g Champigons, 1,5 Spitzpaprika, 1/2 Glas Mais, einige Zwiebelwürfel, 1EL Petersilie, Salz, Pfeffer"
+  - "Gemüsefüllung: 1/4 Lauch, 1 Zucchini, 2 Paprika (oder einige Jalapeno), 1 Dose Kidney Bohnen, 1/2 Glas Mais, etwas Petersilie, Salz, Pfeffer"
   - "Mozzarellafüllung: 200g Mozzarella, 50g Gouda, 300g Cocktailtomaten, etwas Basilikum, Olivenöl, Salz, Pfeffer"
   - 200g Cheddar (Gouda, Bergbaron oder Butterkäse passen NICHT)
   - Olivenöl
@@ -31,10 +33,10 @@ ingredients:
 directions:
   - Zuerst Tomatensalsa zubereiten (damit sie ziehen kann) und Tortilla-Fladen zubereiten (aber noch nicht in die Pfanne geben) - evtl Fladen auf Gitter sammeln damit die unterste nicht klebt
   - Gemüse für die Füllung in Scheiben oder Würfeln schneiden.
-  - "Champigononfüllung: in Scheiben geschnitten in etwas vorher stark erhitztem Sonnenblumenöl stark anrösten (Stufe 9 dann 8). Wenn der starke Dampf nachlässt sind sie relativ klein geworden und leicht braun, dann Zwiebel mitrösten und den Rest dazugeben"
-  - "Gemüsefüllung: muss etwas länger in der Pfanne sein bis die Zucchini weich ist, die restlichen Zutaten danach dazugeben und kurz dünsten."
+  - "Champigononfüllung: in Scheiben geschnitten in etwas vorher stark erhitztem Sonnenblumenöl stark anrösten (Stufe 9 dann 8). Wenn der starke Dampf nachlässt sind sie relativ klein geworden und leicht braun, dann Zwiebel mitrösten und den Rest dazugeben und mit Salz und Pfeffer abschmecken"
+  - "Gemüsefüllung: muss etwas länger in der Pfanne sein bis die Zucchini weich ist, die restlichen Zutaten danach dazugeben, mit Salz und Pfeffer abschmecken und kurz dünsten."
   - Cheddar Käse grob reiben und zur Füllung dazugeben wenn diese etwas ausgekühlt ist
-  - Tortilla normal zubereiten (beidseitig anbraten) anfangs Stufe 9, dann 7. Dann 1/6 der Füllung auf eine Seite geben, Tortilla zusammenklappen und mit etwas Druck (von Pfannenwender) bei Stufe 6 1-2min anbraten. Anschließend umdrehen und nochmal 1-2min anbraten, danach auf Teller servieren. Die nächsten 5 Fladen funktionieren genauso.
+  - Tortilla normal zubereiten (beidseitig anbraten) anfangs Stufe 9, dann 7. Dann 1/6 der Füllung auf eine Seite geben, Tortilla zusammenklappen und mit etwas Druck (von Pfannenwender) bei Stufe 3-4 1-2min anbraten. Anschließend umdrehen und nochmal 1-2min anbraten, danach auf Teller servieren und wieder auf Stufe 7 drehen. Die nächsten 5 Fladen funktionieren genauso.
 ---
 
 Verbesserungsvorschläge:

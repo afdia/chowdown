@@ -5,7 +5,7 @@ image: guacamole.webp
 
 ingredients:
   - 2 Avocados (reif d.h. etwas weich beim Drücken und dunkle Haut)
-  - 1 Limette
+  - 1 Zitrone
   - 2 Tomaten
   - 1 kleine rote Zwiebel
   - 2 Knoblauchzehen

@@ -10,6 +10,8 @@ images:
     description: In einer unbeschichteten Pfanne kleben die Puffer beim Reingeben sofort an wenn man sie nicht bewegt, zerfallen (hinterlassen Reste die am Boden kleben) und werden sehr fettig, daher unbedingt beschichtete Pfanne nehmen! Mit wenig Fett in einer beschichteten müsste es aber gut gehen
   - image: ../images/kartoffelpuffer_mit_tsatsiki.webp
     description: "Tsatsiki passt perfekt zu Kartoffelpuffer. Alternativ: Karottensalat"
+  - image: ../images/kartoffelpuffer_mit_zucchini.webp
+    description: Zum Teig 1 Zucchini dazureiben passt sehr gut, wird aber weniger fest und nimmt etwas mehr Fett auf. Braucht mehr Mehl um zu halten schmeckt aber sehr gut
 
 ingredients:
 - 750g Kartoffeln

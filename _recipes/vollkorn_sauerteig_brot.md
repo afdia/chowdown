@@ -13,9 +13,10 @@ images:
     description: Gut bemehltes Brot auf Backpapier in Sieb geben damit es höher bleibt (hat nicht all zu viel gebracht; Sieb hat sich leicht durchgebogen; evtl was anderes probieren)
   - image: ../images/vollkorn_sauerteig_brot_misch_sieb_fertig.webp
     description: Brot aus Sieb fertig
-
   - image: ../images/vollkorn_sauerteig_brot_brett.webp
     description: 200g Weizen-VK 200g Dinkel-VK 100g Roggen-VK, 100g Roggen weiß werden super und schmeckt auch wie Bauernbrot
+  - image: ../images/vollkorn_sauerteig_brot_ohne_einfetten.webp
+    description: Versuch in der Form ohne Einfetten aber mit vielen Leinsamen rundherum - Ergebnis hat extrem in Form geklebt und nur Inneres ist herausgegangen. Daher immer gut einfetten (oder Backpapier einlegen?)
 
 ingredients:
   - 500g DM 6-Korn-Mischung, 100g weißes Roggenmehl (wie Bauernbrot)
