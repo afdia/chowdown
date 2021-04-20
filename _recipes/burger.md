@@ -25,7 +25,7 @@ components:
 
 ingredients:
   - 4 Stk Ölz Burgerbrötchen (oder Buns selbst machen)
-  - Eisbergsalat
+  - Eisbergsalat oder Ruccola
   - Tomatenscheiben
   - Gurkenscheiben
   - 1 kleine rote Zwiebel in dünne Scheiben geschnitten
