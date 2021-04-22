@@ -32,7 +32,7 @@ directions:
 - Auf Backpapier 50% Roggenmehl und 50% Kartoffelstärke verteilen (gut bemehlen)
 - Teig drauffallen lassen und in Mehl/Stärke Mischung wälzen bis es eine Rolle wird. Dann mehrmals mit Teigkarte in Summe 8 Dreiecke runterstechen und auf dem Backpapier zugedeckt 30min gehen lassen
 - Danach mit Wasser besprühen und mit Leinsamen bestreuen
-- Backrohr auf 250°C Ober Unterhitze vorheizen, Häferl Wasser reinstellen, auf 200°C (nächstes Mal 210 15min probieren. 220 war schon nach 14min zu dunkel!) zurückdrehen und Weckerl für ca 17min ins Rohr geben
+- Backrohr auf 250°C Ober Unterhitze vorheizen, Häferl Wasser reinstellen, auf 210°C (nächstes Mal 215 probieren oder nur 240 am anfang und 220) zurückdrehen und Weckerl für ca 15-17min ins Rohr geben
 ---
 
-Verbesserungsidee - Nächstes Mal 210 15min probieren und evtl paar min kürzer, waren zwar Resch aber noch zu hell. Wieder Sauerteig nehmen aber evtl nur 50g Roggen?
+Verbesserungsidee - auf 220 zurückdrehen war nach 14min zu dunkel (aber mit roggen), 210 war nach 17min noch etwas zu hell (aber ohne roggen)
