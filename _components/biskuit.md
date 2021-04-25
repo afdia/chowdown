@@ -10,7 +10,7 @@ ingredients:
   - 180g Dinkel-Vollkorn-Mehl
   - 1/2 Sackerl Backpulver
   - 1 Prise Salz (in Schnee)
-  - 9g Kaokao (optional wenn dunkler Teil gewünscht)
+  - 11g Kaokao (optional wenn dunkler Teil gewünscht)
 
 directions:
   - Ei trennen und Eiklar mit einer Prise Salz zu Schaum schlagen.

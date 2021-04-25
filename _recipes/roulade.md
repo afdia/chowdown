@@ -11,6 +11,8 @@ images:
     description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
   - image: ../images/roulade_gebrochen.webp
     description: Wenn der Teig zu dick ist bzw evtl wenn man darunter Marmelade streicht (wird rutschig) schiebt sich die Füllung raus und die Rolle geht auf
+  - image: ../images/roulade_kaokao.webp
+    description: Variante mit dunklem Teig (13g Kaokao) und statt Erdbeeren eingelegte Marillen + Marillenmarmelade. War ganz gut aber etwas zuviel Kaokao und Füllung hat nicht ganz gepasst. Evtl besser Butterchreme wie zb bei Tiramisu oder Bananenschnitten machen
 
 components:
   - Biskuit

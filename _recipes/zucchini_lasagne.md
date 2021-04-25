@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/zucchini_lasagne_duenne_scheiben.webp
     description: Mit einem Sparschäler und Zucchini auf einem Brett Scheiben runterhobeln (nicht mit der flachen Seite am Brett sonst sind die letzten Scheiben schwieriger)
+  - image: ../images/zucchini_lasagne_melanzani_teig.webp
+    description: Zusätzlich Melanzani in Scheiben (geht schlechter als Zucchini weil weicher) und statt Reis Lasagneblätter geschichtet. War auch sehr gut aber ähnlicher einer klassischen Lasagne und weniger flüssig
 
 components:
   - Basmatireis
