@@ -32,8 +32,8 @@ ingredients:
   - 1 Pkg (225g) Haloumi
 
 directions:
-  - Haloumi mit etwas Öl in der Pfanne anbraten
-  - Wenn leicht braun, herausnehmen und Zwiebel mit etwas Öl für ca 20sek anbraten
+  - Zwiebel mit etwas Öl für ca 20sek anbraten
+  - Wenn glasig, rausnehmen und Haloumi in der Pfanne anbraten
   - Anschließend die 4 Unterseiten der Burgerbrötchen mit der Innenseite nach unten in die Pfanne geben und anbraten bis sie leicht braun sind
   - Herausnehmen und die Oberseiten mit der Innenseite nach unten in der Pfanne anbraten
   - "Dann die Unterseiten folgendermaßen befüllen: Salat, Schärfungssauce, Gurke, Ketchup, Haloumi, Zwiebel, Senf, Tomaten"

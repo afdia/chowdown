@@ -7,6 +7,8 @@ category: BrotGebaeck
 images:
   - image: ../images/fladenbrot_bestrichen.webp
     description: Fladenbrote bevor sie ins Backrohr kommen (mit Wasser besprüht, mit Finger eingedrückt und mit Sesam bestreut)
+  - image: ../images/fladenbrot_mehr_sesam.webp
+    description: Fladenbrot mit "etwas mehr" Sesam schmeckt super!
   - image: ../images/fladenbrot_mozzarella.webp
     description: Fertige Fladenbrote gefüllt mit Tomaten, Mozzarella, Eisbergsalat
 

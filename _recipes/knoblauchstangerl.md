@@ -13,7 +13,7 @@ images:
     description: Putenschinken war zu kompakt weshalb Stangerl schwer auszurollen waren. Besser dünnen, leicht reißenden Schinken nehmen
 
 ingredients:
-  - 360g Weizenmehl Type 480 Universal
+  - 360g Weizenmehl
   - 8g Salz
   - 10g Olivenöl
   - 1/2 Hefewürfel
@@ -23,8 +23,8 @@ ingredients:
   - Sesam zum Bestreuen
 
 directions:
-  - Alle Zutaten in Küchenmaschine geben und ca 2min langsam kneten, danach 5min intensiver kneten.
-  - Teig in Schüssel zugedeckt 15min gehen lassen (Teigkugel etwas bemehlen damit sie nachher leichter aus der Schüssel geht)
+  - Alle Zutaten in Küchenmaschine geben und ca 2min Stufe2 kneten, danach 5min Stufe3 kneten.
+  - Teig in Schüssel zugedeckt 15min gehen lassen
   - Während man wartet, Knoblauchpaste vorbereiten (4 Knoblauchzehen pressen und mit Olivenöl und Salz vermischen) und Käse reiben
   - Teig auf bemehlte Arbeitsfläche rauskippen, in 6 Stk zerteilen und Kugeln formen (wie bei Semmeln etc) und 5min rasten lassen
   - Anschließend die Kugeln auf bemehlter Arbeitsfläche zu flachen Teigfladen ausrollen und zunächst die Knoblauchpaste, dann den Käse darauf verteilen

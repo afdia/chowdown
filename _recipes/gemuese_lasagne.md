@@ -4,6 +4,10 @@ title: "Gemüselasagne"
 image: gemuese_lasagne.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/gemuese_lasagne_bohnen_melanzani.webp
+    description: Halbierte Kidneybohnen statt Thunfisch passt super. Mit dem Messer geschnittene Melanzani in Scheiben geschlichtet war zu Kaugummiartig (speziell am Folgetag). Entweder direkt in Sauce würfeln oder nicht nehmen
+
 ingredients:
   - 1x Weißkraut (oder Kohl)
   - 1 großes Glas (700g) Tomatensauce
