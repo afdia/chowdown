@@ -10,7 +10,7 @@ ingredients:
   - 9g Salz
   - 1/4 Germwürfel
   - 20g Olivenöl (evtl mehr?)
-  - Zum Bestreichen 125g Clever Creme Fraiche Kräuter (Sauerrahm würde ausflanken) + Salz, Pfeffer
+  - 100-125g Clever Creme Fraiche (Sauerrahm würde ausflanken) + Salz, Pfeffer
   - Zum Belegen 1 rote Zwiebel, 1 große Dose Thunfisch, 1/2 roter Spitzpaprika, 1/2 Glas Mais
 
 images:
@@ -20,6 +20,8 @@ images:
     description: 2. Versuch mit 350g Mehl, 190g Wasser, 20g Öl, 8g Salz, ganzer Becher Sauerrahm - Ohne Hefe fehlt Geschmack, zuviel Sauerrahm der ausgeflankt ist, zu stark belegt, getrocknete Tomaten passen nicht. 1. Versuch war VIEL besser
   - image: ../images/flamkuchen_vor_backrohr_creme_fraiche.webp
     description: 3. Versuch mit Germ und Creme Fraiche. Hier am Bild roh. War sehr gut!
+  - image: ../images/flamkuchen_champignons.webp
+    description: Champignons statt Thunfisch passen super, gehen stark zusammen also nicht wundern dass man sehr viele drauflegen muss
   - image: ../images/flamkuchen_speck.webp
     description: Speckstreifen passen sehr gut, allerdings muss man einige mehr nehmen als hier (Speck geht stark zusammen)
 
@@ -31,5 +33,3 @@ directions:
   - Beliebig belegen
   - Backrohr auf 300°C vorheizen und wenn vorgeheizt, für ca 10min ins Backrohr geben (fertig wenn Rand goldbraun ist, evtl die untere noch länger drinnen lassen)
 ---
-
-evtl etwas weniger creme fraiche oder andere marke nehmen? Sollte dünn aufgestrichen sein!

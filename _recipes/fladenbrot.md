@@ -14,7 +14,7 @@ images:
 
 ingredients:
   - 500g weißes Weizenmehl
-  - 360g lauwarmes Wasser (wenn verfügbar dann 50g davon durch Joghurt ersetzen)
+  - 360g lauwarmes Wasser (wenn verfügbar dann 50-100g davon durch Joghurt ersetzen)
   - 10g Salz
   - 10g Olivenöl
   - 7,5g Zucker

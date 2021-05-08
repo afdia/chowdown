@@ -11,6 +11,8 @@ images:
     description: Variante mit Vollkorn-Dinkel-Mehl schmeckt sehr "gesund" aber auch gut. Evtl nur 50% Vollkornmehl probieren
   - image: ../images/laugenstangerl_vollkorn_wenig.webp
     description: Variante mit 100g VK Dinkel und 400g Weizen und teilweise dunklen Sesam ist auch sehr gut. Ich hab nachträglich Natronlauge drübergeschüttet, dadurch haben sie eine schöne Farbe aber sind am Backpapier angeklebt (daher eher nicht machen)
+  - image: ../images/laugenstangerl_kamut.webp
+    description: Variante mit 300g VK Kamut frisch gerieben und 200g Weizenmehl. War ziemlich trocken und nicht so gut wie mit nur weißem Mehl. Vmtl passt Natronlauge + VK einfach nicht wirklich zusammen
 
 ingredients:
   - 500g Mehl

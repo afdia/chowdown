@@ -22,7 +22,7 @@ ingredients:
   - 2 Paprika
   - 250g Mozzarella
   - ca 80g Parmesan
-  - etwas (1EL?) Paprikapulver
+  - 1EL Paprikapulver
   - 1TL Oregano
   - Pfeffer, Salz
 
