@@ -32,3 +32,4 @@ directions:
   - Tomatensauce dazugießen und mit Paprikapulver, Oregano, Pfeffer würzen und kurz aufkochen
   - In Auflaufform unten Tomatensauce, drauf Zucchinischeiben, etwas Salz, Parmesan bzw Mozarella, Tomatensauce, ... bis alle Zutaten aufgebraucht sind (ganz oben sind Zucchini und darauf Mozzarella)
   - 25min ins 200°C Ober/Unterhitze vorgeheizte Backrohr geben
+---
