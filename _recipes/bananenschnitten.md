@@ -40,5 +40,3 @@ directions:
 - Schokoglasur zubereiten, dünn verteilen und abkühlen lassen bis die Glasur fest ist
 
 ---
-
-Tipp: Biskuit auf Blech machen; Form ist zum Abwaschen und ohne knusprigen Rand

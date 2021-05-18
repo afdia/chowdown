@@ -29,7 +29,7 @@ ingredients:
 
 directions:
   - Kartoffeln am Vortag kochen damit sie wenig Wasser enthalten (oder 1h bei 200°C im Ofen (NOCH GENAU SCHAUEN MACHT ZB AUCH SALLY)), danach schälen und mit Kartoffelpresse pressen
-  - Ei, (anfangs wenige) Mehl, Salz dazugeben und gut vermischen
+  - Ei, Mehl (anfangs weniger, bei Bedarf nachgeben), Salz dazugeben und gut vermischen
   - Vorsichtig auf der Silikonmatte zu einem Teig kneten. Nicht zu fest oder lang kneten sonst wird der Teig zu patzig. Bei Bedarf Mehl ergänzen
   - Rollen mit 1-2cm Durchmesser formen, nochmal in etwas Mehl wälzen und 1-2cm dicke Gnocchi runterschneiden und auf Backpapier sammeln (bzw später direkt auf Silikonmatte)
   - Salzwasser aufkochen, auf 7 zurückdrehen und die Hälfte der Gnocchi darin kochen bis sie aufsteigen und nicht länger (sonst werden sie matschig) (lt anderem Rezept 2min; 7min versucht > war nur noch Gatsch)

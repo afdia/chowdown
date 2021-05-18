@@ -30,5 +30,5 @@ directions:
   - Flach ausbreiten und 1x von oben, dann 1x von unten in die Mitte falten
   - Den jetzt länglichen Teig mit dem Schluss nach unten in die ausgefettete Form geben
   - Mit Wasser besprühen und 30-40min im Backrohr gehen lassen. Ein Häferl Wasser dazugeben
-  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C Ober/Unterhitze für 30min ins vorgeheizte Backrohr geben (letztes Mal dritte Schiene von unten, besser evtl zweite nehmen)
+  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C (evtl nur 180 probieren?) Ober/Unterhitze für 30min ins vorgeheizte Backrohr auf die zweite Schiene von unten geben (evtl unterste Schiene probieren damit oben nicht so dunkel?)
 ---

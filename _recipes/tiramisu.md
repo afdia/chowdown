@@ -10,6 +10,8 @@ images:
     description: 250g Schlagobers aufschlagen, 250g Topfen und 50g Zucker dazu, 1 Packung Maroni mit Löffel zerkleinern und dazu. Diese Masse abwechselnd mit getränkten Biskotten schlichten. Ergebnis war leider nicht gut. Maroni passen nicht und Topfen ist sehr sauer. Evtl könnte es mehr Zucker retten
   - image: ../images/tiramisu_himbeer.webp
     description: Vanillesauce normal machen (aber nur 40g Zucker und ganzes Schlagobers rein, fest schlagen!), 300g TK-Himbeeren auftauen und pürieren, 50g Rum und 30g Agavendicksaft dazu, in Form abwechseln Biskotten, Himbeer, Vanille. Ergebnis war gut aber zuviel Rum (besser nur 25g nehmen), Himbeersauce zu wenig süß und zu flüssig (evtl 30g Zucker statt Agaven; evtl 100g weggeben und oben drauf damit weniger flüssig). Am nächsten Tag war es aber perfekt, kein Rumgeschmack und nicht mehr flüssig
+  - image: ../images/tiramisu_erdbeer.webp
+    description: Statt Vanillesauce 55g Schlagobers schlagen, dann 250g Topfen dazugeben und vermischen, dann 80g Joghurt und 60g Staubzucker (evtl 16g durch 2x Vanillezucker ersetzen) dazugeben und cremig mixen. 300g TK-Erdbeeren pürieren. Biskotten in Erdbeeren tunken und abwechselnd mit Creme schickten (unten Creme, oben Creme). Ganz oben Kaokao. Fazit gut aber +100g Schlagobers und -10g Zucker nehmen. Biskotten sind nach ca 1h noch nicht gut angesaugt, evtl Biskotten in Orangensaft tunken und Erdbeerpürree über Creme verteilen?
 
 ingredients:
 - 200g Vollkorn Biskotten
