@@ -21,6 +21,8 @@ images:
     description: Beim 1. Versuch haben wir 2 Tortillas übereinander gelegt. Ist auch gut aber mühsam zum umdrehen und Inhalt fällt beim Essen raus, daher besser umklappen.
   - image: ../images/quesadillas_champignon_ruccola.webp
     description: Champignonfüllung mit Ruccola schaut super aus aber geht geschmacklich leider komplett unter. Evtl besser frisch dazuessen
+  - image: ../images/quesadillas_gemuese_thunfisch.webp
+    description: Gemüsefüllung plus Thunfisch schmeckt sehr gut, Thunfisch sticht aber etwas hervor im Geschmack (aber nicht störend)
 
 ingredients:
   - "Champignonfüllung: 250g Champigons, 1,5 Spitzpaprika, 1/2 Glas Mais, einige Zwiebelwürfel, 1EL Petersilie, Salz, Pfeffer"

@@ -12,6 +12,8 @@ images:
     description: Erster Versuch war sehr gut aber ziemlich fettig
   - image: ../images/bratkartoffeln_roh.webp
     description: Variante mit rohen, dünn geschnittenen Kartoffeln wird auch sehr gut. Auch hier etwas zuviel Öl
+  - image: ../images/bratkartoffeln_haelften.webp
+    description: Geputzte haliberte Kartoffeln sind auch sehr gut. Vom Knoblauch hat man nichts gemerkt
 
 components:
   - Kartoffeln

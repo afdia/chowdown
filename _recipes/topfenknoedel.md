@@ -8,6 +8,8 @@ category: Süßspeise
 images:
   - image: ../images/topfenknoedel_gefuellt.webp
     description: Für gefüllte Knödel nur 1 Ei und 100g Vollkorngries nehmen damit der Teig fester ist
+  - image: ../images/topfenknoedel_marille.webp
+    description: Marillenknödel (1Ei + 100g Kamut frisch gerieben)
 
 ingredients:
 - 250g Topfen
