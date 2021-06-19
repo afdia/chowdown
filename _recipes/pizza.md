@@ -26,7 +26,7 @@ ingredients:
   - 10g Salz
   - 1/4 Germwürfel (oder 1/2 Packung Trockengerm)
   - 1 Glas/Dose Tomatensauce (Spar Pizzasauce)
-  - 400g Mozzarella
+  - 400g Mozzarella bzw Mozzarella Cucina (gut wenn Mutti Tomatensauce weil in Summe nicht zu flüssig)
 
 directions:
   - Mehl, Germ, Salz und lauwarmes Wasser in Schüssel geben und in der Küchenmaschine kneten

@@ -11,7 +11,7 @@ images:
   - image: ../images/tiramisu_himbeer.webp
     description: Vanillesauce normal machen (aber nur 40g Zucker und ganzes Schlagobers rein, fest schlagen!), 300g TK-Himbeeren auftauen und pürieren, 50g Rum und 30g Agavendicksaft dazu, in Form abwechseln Biskotten, Himbeer, Vanille. Ergebnis war gut aber zuviel Rum (besser nur 25g nehmen), Himbeersauce zu wenig süß und zu flüssig (evtl 30g Zucker statt Agaven; evtl 100g weggeben und oben drauf damit weniger flüssig). Am nächsten Tag war es aber perfekt, kein Rumgeschmack und nicht mehr flüssig
   - image: ../images/tiramisu_erdbeer.webp
-    description: Statt Vanillesauce 55g Schlagobers schlagen, dann 250g Topfen dazugeben und vermischen, dann 80g Joghurt und 60g Staubzucker (evtl 16g durch 2x Vanillezucker ersetzen) dazugeben und cremig mixen. 300g TK-Erdbeeren pürieren. Biskotten in Erdbeeren tunken und abwechselnd mit Creme schickten (unten Creme, oben Creme). Ganz oben Kaokao. Fazit gut aber +100g Schlagobers und -10g Zucker nehmen. Biskotten sind nach ca 1h noch nicht gut angesaugt, evtl Biskotten in Orangensaft tunken und Erdbeerpürree über Creme verteilen?
+    description: Statt Vanillesauce 150g Schlagobers schlagen, dann 250g Topfen dazugeben und vermischen, dann 80g Joghurt (und ca 40g? Staubzucker; letztes Mal Reste von Marmelade daher nicht klar) dazugeben und cremig mixen. 300g TK-Erdbeeren pürieren. Biskotten in Erdbeerpüree tunken und abwechselnd mit Creme schickten (unten Creme, oben Creme). Ganz oben halbierte Erdbeeren. Fazit sehr gut muss aber >1h stehen damit es sich ansaugt
 
 ingredients:
 - 200g Vollkorn Biskotten

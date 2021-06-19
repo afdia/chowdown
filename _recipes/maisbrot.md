@@ -10,9 +10,9 @@ ingredients:
 - 250g Maismehl
 - 275g lauwarmes Wasser
 - 150g Joghurt
-- 1 Ei
+- 1 Ei (nächstes Mal testweise weglassen, stört nicht aber nötig ist es vmtl nicht)
 - 7,5g Zucker
-- 10g Salz
+- 10g Salz (nächstes Mal etwas mehr zb +2g)
 - 1/2 Hefewürfel
 - Butter zum Ausfetten
 

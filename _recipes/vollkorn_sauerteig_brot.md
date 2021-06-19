@@ -33,7 +33,7 @@ directions:
   - In Schüssel 30min zugedeckt rasten lassen (vorher mit etwas Mehl bedecken). Danach auf bemehltes Backpapier putzen, oben etwas Mehl draufgeben und zu Kugel drehen. Danach optional in einen bemehlten Gärkorb geben. Küchentuch darauf geben und 30min rasten lassen.
   - Wenn es schnell gehen soll stattdessen gleich auf Backpapier und Gitter 45min rasten lassen, dann ins vorgeheizte Backrohr geben).
   - Häferl Wasser in Backrohr stellen und bei 240°C Heißluft vorheizen.
-  - Optional vorher Brot mit Messer einschneiden bzw einige Löcher reinstechen, dann Brot für 7min in Ofen geben, danach Backrohrtür ca 15sek lang öffnen und Dampf entweichen lassen und noch 40min bei 180°C weiterbacken. (Früher 8min 250°C vorher, dann wird das Brot aber zu resch)
+  - Optional vorher Brot mit Messer einschneiden bzw einige Löcher reinstechen (NICHT einsprühen aber evtl nochmal bemehlen), dann Brot für 7min in Ofen geben, danach Backrohrtür ca 15sek lang öffnen und Dampf entweichen lassen und noch 40min bei 180°C weiterbacken. (Früher 8min 250°C vorher, dann wird das Brot aber zu resch)
   - Auf einem Gitter auskühlen lassen und nach einiger Zeit mit einem Küchentuch abdecken damit die Rinde nicht zu hart ist (vermutlich hilft das)
 ---
 

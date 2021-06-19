@@ -5,7 +5,7 @@ image: gebackenes_gemuese.webp
 category: Hauptgericht
 
 ingredients:
-  - Zucchini, Champignons, Kürbis, Brokkoli, Karfiol
+  - Zucchini, Champignons (große wie Zucchinis in Scheiben), Kürbis, Brokkoli, Karfiol, Karotten (längliche Streifen in Mitte halbiert)
   - Mehl
   - 2 Eier
   - Vollkornbrösel
