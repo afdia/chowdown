@@ -13,6 +13,10 @@ images:
     description: In der Plastikbox vor dem Gehen im Wasserbad
   - image: ../images/germknoedel_plastikbox_gegangen.webp
     description: Und nach dem Gehen. So wird die Box direkt eingefrohren
+  - image: ../images/germknoedel_vier.webp
+    description: Man kann auch 4 Stück formen, dann sollte man 2 davon evtl einfrieren
+  - image: ../images/germknoedel_vier_fertig.webp
+    description: Macht man dann 2 Knödel in jeweils 2 Töpfen gehen sie nicht gut auf (beide am Teller waren in 1 Topf), daher besser nur 2 Stück formen wenn man alle sofort isst
 
 ingredients:
   - 250g Weizenmehl
@@ -29,9 +33,9 @@ directions:
   - Alle Zutaten in Schüssel geben (zuerst Mehl damit der Teig nicht an der Form klebt)
   - Mit Küchenmaschine und Brotknethaken 3min auf Stufe 2, danach 5min auf Stufe 3 kneten
   - Teig in die Mitte der Schüssel putzen und zugedeckt 20min gehen lassen
-  - Teig auf Backpapier fallen lassen, in 2 (oder 4) Teile zerteilen und kugelförmig Rollen bzw Teig nach innen falten (Ziel ist es runde Knödel zu haben).
-  - "Falls man sie füllen will: Die 2 Knödel mit Baumwolltuch zugedeckt 15min rasten lassen, danach nochmal rund formen, flach drücken, befüllen und die Enden zusammenklappen und erneut Knödel formen"
-  - Backrohr kurz aufheizen damit es ca 40°C hat (100° für 1min ohne Schnellvorheizen!). Ein Backpapier bemehlen damit die Knödel nicht festkleben und die Knödel drauf legen. Mit Wasser besprühen und 30-45min (je nach gewünschter Größe, aber nicht länger sonst werden sie flach und man muss sie erneut formen) im Rohr gehen lassen (zwischendurch 1-2x erneut mit Wasser besprühen)
+  - Teig auf Backpapier fallen lassen, in 2 Teile zerteilen und kugelförmig Rollen bzw Teig nach innen falten (Ziel ist es runde Knödel zu haben).
+  - "Zwischenschritt falls man sie füllen will: Die 2 Knödel mit Baumwolltuch zugedeckt 15min rasten lassen, danach nochmal rund formen, flach drücken, befüllen und die Enden zusammenklappen und erneut Knödel formen"
+  - Backrohr 100°C ohne Schnellvorheizen 1min aufheizen damit es ca 40°C hat. Ein Backpapier bemehlen damit die Knödel nicht festkleben und die Knödel drauf legen. Mit Wasser besprühen und 30-45min (je nach gewünschter Größe, aber nicht länger sonst werden sie flach und man muss sie erneut formen) im Rohr gehen lassen (zwischendurch 1-2x erneut mit Wasser besprühen)
   - in 2 Töpfe ca 2cm hoch leicht gesalzenes Wasser aufkochen, danach auf Stufe 5 zurückdrehen und in jeden Topf ein Knödel geben. Zugedeckt 14min köcheln lassen. ACHTUNG Deckel darf nicht zu tief runtergehen sonst klebt ein Teil des Knödels daran (passiert zb beim zweitkleinsten Topf+Deckel; perfekt passen die 2 alten Töpfe + Glasdeckel)
   - Knödel auf Teller servieren, etwas Butter zergehen lassen und Mohn-Zucker Gemisch (beides in Plastikbox geben und schütteln) darauf verteilen. Marmelade passt auch sehr gut dazu.
 ---

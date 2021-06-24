@@ -19,6 +19,8 @@ images:
     description: "1:3 Zucker + 1 Sackerl Vanillezucker + 1100g Erdbeeren + 200g Himbeeren (tiefgekühlt) + 200g Rhabarber (vorgeschnitten aus TK). Zuerst Himbeeren auftauen und gut zerkleinern damit keine Kerne spürbar sind, danach Rhabarba dazu und zerkleinern, dann Erdbeeren und zerkleinern, dann aufkochen. Schmeckt super und fast noch besser als Erdbeer+Rhabarber"
   - image: ../images/marmelade_erdbeer_zuwenig.webp
     description: So sieht es aus wenn man bei Erdbeermarmelade Schaum einfüllt und die Gläser nicht randvoll macht. Beides verringert die Haltbarkeit!
+  - image: ../images/marmelade_erdbeer_kiwi.webp
+    description: "1:3 Zucker + 1kg Erdbeeren + 500g Kiwi - TODO Geschmack aber vmtl gut"
   - image: ../images/marmelade_kumquat.webp
     description: 110g Kumquat (gewogen nach rollen, Kerne und bitteres bWeißes entfernen, in Stücke geschnitten), 58g Zucker + 8g Vanillezucker, 90g Wasser. 5min Stufe 8 Kochen wird sehr Geleeartig (Achtung karamellisiert schnell), am Schluss pürieren, schmeckt sehr orangig durch Schale
 

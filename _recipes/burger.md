@@ -17,6 +17,8 @@ images:
     description: Kaspressknoedel passen super, sind aber etwas klein und man muss mehr Sauce dazugeben (weil sie sonst recht trocken sind)
   - image: ../images/burger_suesskartoffeln.webp
     description: Aufgetaute Buns mit Iglo Süßkartoffellaichen sind sehr gut aber etwas trocken
+  - image: ../images/burger_zu_lang_gegangen.webp
+    description: Die Buns sind etwas mehr als 1h gegangen und deshalb wieder flach geworden. Daher Rastzeit nicht überschreiben!
   - image: ../images/burger_gekauft.webp
     description: Erster Versuch mit gekauften Burger Buns
 
