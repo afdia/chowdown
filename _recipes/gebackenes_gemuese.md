@@ -4,6 +4,10 @@ title: "Gebackenes Gemüse"
 image: gebackenes_gemuese.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/gebackenes_gemuese_kaese.webp
+    description: Zucchini Cordon Bleu mit Käse in Mitte (Zucchini innen und außen einritzen, Käse in Mitte, dann in Mehl, dann mit Händen vorsichtig in Ei und gut - auch seitlich - mit Brösel bedecken. Hält überraschend gut) und Gebackener Emmentaler (Achtung rinnt evtl aus, daher heißer als üblich machen oder evtl einfrieren)
+
 ingredients:
   - Zucchini, Champignons (große wie Zucchinis in Scheiben), Kürbis, Brokkoli, Karfiol, Karotten (längliche Streifen in Mitte halbiert)
   - Mehl

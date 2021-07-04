@@ -27,7 +27,7 @@ ingredients:
   - 1 Pkg Vanillezucker
   - 1 Pkg Backpulver
   - 300g Mehl (Dinkel VK)
-  - 220g Milch
+  - 230g Milch (früher nur 220)
   - Zwetschken/Marillen/Erdbeeren/Kirschen
 
 directions:
@@ -38,5 +38,3 @@ directions:
   - Beliebiges Obst in Hälften Schneiden und gleichmäßig verteilen
   - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 30-35 Minuten backen (bei Erdbeeren evtl etwas kürzer)
 ---
-
-Evtl noch mehr Milch testen damit noch saftiger ist? 230g zb? wobei 220 war beim heidelbeerkuchen sehr gut

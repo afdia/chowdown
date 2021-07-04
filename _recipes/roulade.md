@@ -15,6 +15,8 @@ images:
     description: Variante mit dunklem Teig (13g Kaokao) und statt Erdbeeren eingelegte Marillen + Marillenmarmelade. War ganz gut aber etwas zuviel Kaokao und Füllung hat nicht ganz gepasst. Evtl besser Butterchreme wie zb bei Tiramisu oder Bananenschnitten machen
   - image: ../images/roulade_obstkuchen.webp
     description: Ein Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
+  - image: ../images/roulade_ohne_schnee.webp
+    description: Versuch mit nur 3 Eiern und ohne Schnee separat zu schlagen - Biskuit ist sitzen geblieben und war nicht luftig
 
 components:
   - Biskuit

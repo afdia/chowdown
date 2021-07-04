@@ -16,7 +16,8 @@ images:
     description: Fertige Paprika frisch aus dem Ofen
   - image: ../images/gefuellte_paprika_spitzpaprika.webp
     description: Nimmt man nur Spitzpaprika wird es in der Form knapp
-
+  - image: ../images/gefuellte_paprika_quinoa.webp
+    description: Wenn der Quinoa nass ist fällt er nicht mehr durch das Sieb
 ingredients:
 - 2-4 Große Paprika (oder Spitzpaprika)
 - 1 großes Glas Mutti Tomatensauce + 1 EL Paprikapulver
@@ -31,11 +32,11 @@ ingredients:
 
 directions:
 - Frühlingszwiebel und Knoblauch fein schneiden und in etwas Öl anbraten
-- Quinoa gut abwaschen (kleines Sieb je 100g weil er durchs große durchfällt) und dazugeben
+- Quinoa mit heißen Wasser abwaschen (in Topf + Wasser, wenn nass fällt er nicht mehr durchs Sieb) und dazugeben
 - Dosentomaten, Bohnen, Mais, Spar Chilisauce dazugeben
 - Mit 300ml Wasser aufgießen (schaut am Anfang sehr flüssig aus aber Quinoa saugt sich mit der Zeit voll)
 - Mit Pfefffer und Suppenwürze würzen
-- 20min bei Stufe 6 (anfangs 7) zugedeckt weich dünsten
+- 25min bei Stufe 6 (anfangs 7) zugedeckt weich dünsten
 - Paprika aufschneiden und in große Form schlichten
 - Wenn Sauce fertig ist in Paprika einfüllen (Deckel auf die Seite geben) und mit geschnittenem Mozzarella bedecken
 - Bei 180°C Umluft für ca 15min ins vorgeheizte Backrohr geben (bis Käse leicht braun ist)

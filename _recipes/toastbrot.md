@@ -13,9 +13,11 @@ images:
     description: Und nach Gehzeit
   - image: ../images/toastbrot_kamut.webp
     description: Toastbrot mit 100% frisch gemahlenem Kamut
+  - image: ../images/toastbrot_untere_schiene.webp
+    description: 280g frisch gemahlener Kamut + 160g Weizen, 200g Milch, 50g Wasser, unterste Schiene 25min. Teig war etwas trocken und ist in Form angeklebt (evtl schlecht ausgefettet?) aber war sogar unten resch und sehr gut
 
 ingredients:
-  - 440g Weizenmehl oder frisch gemahlener Kamut
+  - 440g Weizenmehl oder frisch gemahlener Kamut (dann +15% Wasser probieren, mit 250 wird es sehr trocken)
   - 250g lauwarmes Wasser (evtl probieren 200g lauwarme Milch + 50g Wasser für Striezelartigen Teig)
   - 9g Salz
   - 5g Zucker
@@ -30,5 +32,5 @@ directions:
   - Flach ausbreiten und 1x von oben, dann 1x von unten in die Mitte falten
   - Den jetzt länglichen Teig mit dem Schluss nach unten in die ausgefettete Form geben
   - Mit Wasser besprühen und 30-40min im Backrohr gehen lassen. Ein Häferl Wasser dazugeben
-  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C (evtl nur 180 probieren?) Ober/Unterhitze für 30min ins vorgeheizte Backrohr auf die zweite Schiene von unten geben (evtl unterste Schiene probieren damit oben nicht so dunkel?)
+  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C (evtl nur 180 probieren?) Ober/Unterhitze für 25-30min ins vorgeheizte Backrohr auf die zweite Schiene von unten geben (evtl unterste Schiene probieren damit oben nicht so dunkel?)
 ---
