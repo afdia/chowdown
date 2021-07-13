@@ -10,6 +10,8 @@ images:
     description: Für gefüllte Knödel nur 1 Ei und 100g Vollkorngries nehmen damit der Teig fester ist
   - image: ../images/topfenknoedel_marille.webp
     description: Marillenknödel (1Ei + 100g Kamut frisch gerieben)
+  - image: ../images/topfenknoedel_marillen_eingefrohren.webp
+    description: Marillen kann man (optional vorher entkernen und) einfrieren. Die Menge reicht für 1x Knödel (letztes Mal sogar 1 Marille zuviel)
 
 ingredients:
 - 250g Topfen
