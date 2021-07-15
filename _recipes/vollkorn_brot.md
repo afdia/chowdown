@@ -8,7 +8,7 @@ images:
   - image: ../images/vollkorn_brot_gehenlassen.webp
     description: Nach 1h gehen lassen sieht das Brot so aus
   - image: ../images/vollkorn_hirse.webp
-    description: Variante mit 320ml Wasser, 375g Dinkel, 125g Hirse (mit 250g Salzwasser (TODO genau Salzmenge aufschreiben, evtl weniger Salz ins Brot?) aufkochen und bei Stufe 3 10min gehen lassen). Sehr saftig und gut.
+    description: Variante mit 125g gekochter Hirse (in Topf abwiegen, waschen indem mit kleinem Sieb Wasser abgegossen wird, wieder auf Waage stellen, Wasser dazugeben bis 375g angezeigt werden (d.h. 250g Wasser inkl was vom Waschen bleibt). Danach 3g Salz dazugeben, zudecken, aufkochen und bei Stufe 3 10min gehen lassen. Wenn die Hirse fertig ist mit 320ml Wasser, 375g Dinkel-VK (NICHT frisch gemahlen), 10g Salz, 15g Zucker und Trockengerm 3min kneten. 30min zugedeckt rasten, in mit Backpapier ausgelegte Form putzen, 30min zugedeckt rasten und ins Rohr. Schmeckt ausgezeichnet!
   - image: ../images/vollkorn_brot_aussen_nicht_gut.webp
     description: 350g VK Weizen, 150g Hirse, 475ml Wasser, ohne Vorheizen - Rinde war zu blass und hart und Chiasamen haben sich mit Rinde verbunden und waren nicht gut. Vmtl ist das nicht-Vorheizen das Hauptproblem und/oder zuviel Wasser. 450ml Wasser und mit Vorheizen war zwar nicht zu hart aber Chiasamen sind auch "reingesunken", daher vmlt nur 400ml Wasser nehmen
   - image: ../images/vollkorn_brot_mehl.webp
@@ -19,7 +19,7 @@ images:
 ingredients:
   - 250g Vollkornmehl
   - 150g weißes Mehl
-  - 100g Hirse gemahlen (ersatzweise mehr Vollkornmehl-Mehl)
+  - 100g Hirse gemahlen (ersatzweise mehr Vollkornmehl-Mehl, Variante mit feuchter Hirse als Bild)
   - 400ml Wasser (nicht mehr nehmen sonst vermischen sich Chiasamen mit Teig und es ist nicht so gut)
   - 10g Salz
   - 15g Zucker oder 20g süßlicher Essig oder etwas getrockneter Sauerteig
@@ -34,10 +34,3 @@ directions:
   - Den gekneteten Teig mit einer Teigkarte in die Brotform putzen und min. 30min rasten lassen
   - Brot in Form oben mit etwas Wasser befeuchten, Backrohr auf 200°C Ober/Unterhitze vorheizen und 40min backen (evtl Häferl Wasser in Backrohr stellen damit es saftiger wird)
 ---
-
-Letzte Versuche:
-
-- vorvorletzter Versuch war mit 450ml Wasser und 1/2 (7,5g) Packung Al Natura Sauerteig (400g WeizenVK 100g Hirse bzw 500g 6korn mischung). War sehr gut und saftig!
-- vorletzter Versuch mit 475ml wasser, 350g vk mehl, 150g hirse, 1/3 spar sauerteig - siehe 3. Bild Chiasamen waren nicht gut und Rinde zu resch. Vmtl ist mit Vorheizen besser auch wenn das Brot zusammenfällt!
-- letzter Versuch mit Vorheizen 40min backen und 450ml Wasser + Häferl Wasser in Backrohr (vmlt zuviel Wasser weil sich Chiasamen wieder mit Teig vermischt hat)
-- dann Kastenformversuch
