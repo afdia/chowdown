@@ -9,6 +9,8 @@ images:
     description: Variante mit 50g Mayonnaise (Kuner 50%) statt Olivenöl und ohne Mozzarella (auch OK aber nicht so gut wie die aktuelle)
   - image: ../images/nudelsalat_erbsennudeln.webp
     description: Erbsennudeln passen auch ganz gut, sind gesünder aber etwas mehliger. Waren evtl etwas zu kurz gekocht, daher eher länger lassen
+  - image: ../images/nudelsalat_linsennudeln.webp
+    description: Rote Linsenspirella passen auch sehr gut. Solang Salat warm war haben sie mehlig hervorgeschmeckt, aber kalt + Mozzarella im Salat war das Ergebnis sehr gut
 
 ingredients:
   - 200g Nudeln (zb Penne)
