@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "Flamkuchen"
-image: flamkuchen.webp
+title: "Flammkuchen"
+image: flammkuchen.webp
 category: Hauptgericht
 
 ingredients:
@@ -14,15 +14,15 @@ ingredients:
   - Zum Belegen 1 rote Zwiebel, 1 große Dose Thunfisch, 1/2 roter Spitzpaprika, 1/2 Glas Mais
 
 images:
-  - image: ../images/flamkuchen_vor_backrohr.webp
+  - image: ../images/flammkuchen_vor_backrohr.webp
     description: Verschiedene Beläge bevor er ins Rohr kommt
-  - image: ../images/flamkuchen_ohne_hefe.webp
+  - image: ../images/flammkuchen_ohne_hefe.webp
     description: 2. Versuch mit 350g Mehl, 190g Wasser, 20g Öl, 8g Salz, ganzer Becher Sauerrahm - Ohne Hefe fehlt Geschmack, zuviel Sauerrahm der ausgeflankt ist, zu stark belegt, getrocknete Tomaten passen nicht. 1. Versuch war VIEL besser
-  - image: ../images/flamkuchen_vor_backrohr_creme_fraiche.webp
+  - image: ../images/flammkuchen_vor_backrohr_creme_fraiche.webp
     description: 3. Versuch mit Germ und Creme Fraiche. Hier am Bild roh. War sehr gut!
-  - image: ../images/flamkuchen_champignons.webp
+  - image: ../images/flammkuchen_champignons.webp
     description: Champignons statt Thunfisch passen super, gehen stark zusammen also nicht wundern dass man sehr viele drauflegen muss
-  - image: ../images/flamkuchen_speck.webp
+  - image: ../images/flammkuchen_speck.webp
     description: Speckstreifen passen sehr gut, allerdings muss man einige mehr nehmen als hier (Speck geht stark zusammen)
 
 directions:
