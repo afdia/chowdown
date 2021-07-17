@@ -18,4 +18,3 @@ directions:
   - Mit Oregano und Salz würzen, vermischen und auf Toastscheiben verteilen
   - Bei 200°C Ober-/Unterhitze ca 10min ins vorgeheizte Backrohr geben
 ---
-Champignons und Zucchini passen sehr gut, die Kartoffeln waren aber nicht resch. Vmtl weil zuviel Dampf im Rohr war. Evtl alle paar min die Tür öffnen um Dampf zu entfernen
