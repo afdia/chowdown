@@ -9,6 +9,7 @@
       {% if post.directions %}"directions"    : "{% for component in post.components %}{{ component | escape }}, {% endfor %}, {% for direction in post.directions %}{{ direction | escape }}, {% endfor %}",{% endif %}
       "content"	 : "{{ post.content | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
       {% if post.tags %}"tags"    : "{% for tag in post.tags %}{{ tag | escape }} {% endfor %}",{% endif %}
+      {% if post.images %}"images"    : "{% for image in post.images %}{{ image.description | escape }} {% endfor %}",{% endif %}
       "image"	   : "{{ site.baseurl }}/images_resized/{{ post.image }}",
 	    "url"      : "{{ site.baseurl }}{{ post.url }}"
       
