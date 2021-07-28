@@ -15,6 +15,8 @@ images:
     description: Toastbrot mit 100% frisch gemahlenem Kamut
   - image: ../images/toastbrot_untere_schiene.webp
     description: 280g frisch gemahlener Kamut + 160g Weizen, 200g Milch, 50g Wasser, unterste Schiene 25min. Teig war etwas trocken und ist in Form angeklebt (evtl schlecht ausgefettet?) aber war sogar unten resch und sehr gut
+  - image: ../images/toastbrot_untere_schiene_backpapier.webp
+    description: 340g Weizen, 100g VK Weizen, Backpapier in Form, 25min unterste Schiene wurde sehr gut. Unten schön weich, oben nicht zu dunkel
 
 ingredients:
   - 440g Weizenmehl oder frisch gemahlener Kamut (dann +15% Wasser probieren, mit 250 wird es sehr trocken)
@@ -26,11 +28,10 @@ ingredients:
   - 45g weiche Butter + Butter zum Form Ausfetten
 
 directions:
-  - Alle Zutaten in Schüssel geben, Kastenform ausbuttern und restliche Butter abwiegen und auf 45g auffüllen.
+  - Kastenform mit Backpapier auslegen (oder ausbuttern), dann alle Zutaten in Schüssel geben.
   - 3min Stufe 2 dann 5min Stufe 3 mit Brotknethaken kneten, in Mitte putzen und zugedeckt ca 40min gehen lassen.
-  - Anschließend Silikonmatte etwas bemehlen, Teig rausputzen und gut durchkneten bis Teig rund ist.
-  - Flach ausbreiten und 1x von oben, dann 1x von unten in die Mitte falten
-  - Den jetzt länglichen Teig mit dem Schluss nach unten in die ausgefettete Form geben
-  - Mit Wasser besprühen und 30-40min im Backrohr gehen lassen. Ein Häferl Wasser dazugeben
-  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C (evtl nur 180 probieren?) Ober/Unterhitze für 25-30min ins vorgeheizte Backrohr auf die zweite Schiene von unten geben (evtl unterste Schiene probieren damit oben nicht so dunkel?)
+  - Anschließend nochmal kurz in Mitte putzen und mit Stufe 2 bzw 3 durchkneten
+  - Den Teig länglich ziehen und in die Kastenform geben.
+  - Mit Wasser besprühen und 30min im Backrohr (oder mit Tuch zugedeckt) gehen lassen (länger geht auch aber dann geht Teig über)
+  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C Ober/Unterhitze für ca 25min ins vorgeheizte Backrohr auf die unterste Schiene (wenn Backpapier) sonst zweitunterste Schiene geben
 ---

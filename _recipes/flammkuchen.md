@@ -9,7 +9,7 @@ ingredients:
   - 200ml Wasser, lauwarm
   - 9g Salz
   - 1/4 Germwürfel
-  - 20g Olivenöl (evtl mehr?)
+  - 20g Olivenöl
   - 100-125g Clever Creme Fraiche (Sauerrahm würde ausflanken) + Salz, Pfeffer
   - Zum Belegen 1 rote Zwiebel, 1 große Dose Thunfisch, 1/2 roter Spitzpaprika, 1/2 Glas Mais
 
