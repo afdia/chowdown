@@ -32,11 +32,11 @@ ingredients:
 
 directions:
   - Alle Zutaten in Küchenmaschine geben und ca 2min bei Stufe 2 kneten, danach 6min bei Stufe 3 kneten. Anschließend den Teig in der Schüsselmitte 20min zugedeckt gehen lassen
-  - Teig mit Teigkarte aus Schüssel auf mit Roggenmehl bemehltes Backpapier fallen lassen und 8 Kugeln formen (immer wieder zu einer Seite ziehen um Spannung zu erzeugen).
-  - Macht man Langsemmeln werden die Kugeln länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
-  - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln. [siehe Ofner Video](https://www.youtube.com/watch?v=jAFSIyQ_Ppo)
-  - Anschließend rollt man die geformten Semmeln noch leicht in einer 50/50 Roggenmehl Kartoffelstärke Mischung damit sie nicht zusammenkleben, dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt (oder im Rohr) rasten.
-  - Danach heizt man das Backrohr auf 250°C Ober-/Unterhitze vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser, stellt das Backrohr auf 220°C zurück (evtl 200 probieren und länger lassen bzw Backrohrtür öffnen und dann länger lassen) und gibt sie für ca 13min ins Backrohr. Nach dem Rausnehmen nochmal mit Wasser besprühen.
+  - Backpapier mit 50/50 Roggenmehl Kartoffelstärke bestreuen und mit Teigkarte verteilen und in einen Eck sammeln. Teig mit Teigkarte auf Backpapier putzen lassen und 8 Kugeln formen (immer wieder zu einer Seite ziehen um Spannung zu erzeugen). Jede Kugel in der Mehl/Stärke Mischung rollen und gut abklopfen.
+  - Macht man Langsemmeln werden die Kugeln etwas länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
+  - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln [(siehe Ofner Video)](https://www.youtube.com/watch?v=jAFSIyQ_Ppo) bzw nimmt einen Semmel-Stempel.
+  - Evtl rollt man sie nochmal in Mehl/Stärke Mischung damit sie nicht zusammenkleben, dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt (oder im Rohr) rasten.
+  - Danach heizt man das Backrohr auf 250°C Ober-/Unterhitze vor, stellt ein Häferl Wasser rein, dreht die Semmeln wieder um, besprüht sie mit Wasser, stellt das Backrohr auf 200°C zurück und gibt sie für ca 14min ins Backrohr (super Farbe und Geschmack aber nicht wirklich resch). Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
 
 - https://www.chefkoch.de/forum/2,37,421247/Kaisersemmeln-ca-10-St.html?page=1 dreht Temperatur auf 200 zurück und lässt dann nochmal 10min
