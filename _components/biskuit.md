@@ -10,14 +10,14 @@ ingredients:
   - 180g Dinkel-Vollkorn-Mehl
   - 1/2 Sackerl Backpulver
   - 1 Prise Salz (in Schnee)
-  - 11g Kaokao (optional wenn dunkler Teil gewünscht)
+  - 6g Kaokao (optional für dunklen Teig) bzw 11g für sehr dunklen Teig
 
 directions:
-  - Ei trennen und Eiklar mit einer Prise Salz zu Schaum schlagen.
+  - Ei trennen und Eiklar mit einer Prise Salz zu Schnee schlagen (zb Küchenmaschine großer Rührhaken 2,5min Stufe 4).
   - Zucker, Dotter, Wasser mit Küchenmaschine und großem Rührhaken mixen (3min Stufe 4 bis luftige, cremige Masse fast wie Schnee)
   - Mehl reinsieben und nochmal ca 3min lang Anfangs Stufe 2 dann 4 mixen
   - Am Schluss Backpulver (und evtl Kaokao) dazugeben und einige Minuten weitermixen
   - Am Schluss Schaum händisch unterheben. Teig sollte jetzt sehr luftig, flüssig aber "klebrig" sein.
-  - Masse auf Backblech (oder in flache Backform) mit Backpapier gießen und im vorgeheizten Backrohr bei 180°C Ober-Unterhitze backen (evtl 210° 9min lt Sally. kurz und heiß dass es nicht bricht), 18min  für festen Teig (zb für Bananenschnitten); 14min für Roulade (und möglichst über das gesamte Blech ausstreichen damit sie dünn wird).
+  - Masse auf Backblech mit Backpapier gießen und im vorgeheizten Backrohr bei 200°C Ober-Unterhitze ca 11min backen (evtl 210° 9min lt Sally. kurz und heiß dass es nicht bricht), bei Roulade möglichst über das gesamte Blech ausstreichen damit sie dünn wird.
   - Wenn es etwas ausgekühlt ist, das Biskuit auf ein neues Backpapier kippen (die Unterseite ist glatter und so löst man den Kuchen vom Boden)
 ---

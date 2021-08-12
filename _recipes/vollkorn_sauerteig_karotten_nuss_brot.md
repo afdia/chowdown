@@ -7,6 +7,8 @@ category: BrotGebaeck
 images:
   - image: ../images/vollkorn_sauerteig_karotten_nuss_brot_vorher.webp
     description: Bevor das Brot ins Rohr kommt
+  - image: ../images/vollkorn_sauerteig_karotten_nuss_brot_backpapier.webp
+    description: Form mit Backpapier auslegen funktioniert auch, hier war das Brot innen aber noch etwas zu weich (war glaub ich paar min kürzer drinnen)
 
 ingredients:
   - 200g frisch gemahlenes Roggen-VK-Mehl

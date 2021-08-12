@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/melanzani_penne_aufgeschnitten.webp
     description: Geschnittene Melanzani nach der Rastzeit. Man sieht dass viel Wasser ausgetreten ist.
+  - image: ../images/melanzani_penne_zucchini.webp
+    description: Zucchini würfelig und scharf angebraten (also alles wie hier nur mit Zucchini statt Melanzani) schmeckt auch super!
 
 ingredients:
   - 1 Melanzani
@@ -28,5 +30,4 @@ directions:
   - Anschließend Knoblauch und Tomatensauce dazugeben und mit Ketchup und Schärfungssauce würzen.
   - Währenddessen Parmesan reiben und einige Löffel vom Kochwasser und 1 EL Balsamicoessig in die Sauce geben.
   - Wenn Nudeln fertig sind abschöpfen und in Pfanne mit Sauce vermischen.
-
 ---

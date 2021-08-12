@@ -27,6 +27,6 @@ directions:
   - Teig mit Teigkarte in Mitte putzen und zugedeckt 2h gehen lassen
   - Dann Teig vorsichtig wieder auf bemehltes Backpapier putzen, evtl darauf etwas Mehl verteilen, in 2 Stücke zerteilen und beide Baguettes langsam länglich ausziehen und spiralförmig drehen (dadurch behalten sie die Form) oder das bemehlte Backpapier auf ein Baguetteblech legen, 3 Baguettes formen und mit Wasser besprühen
   - 10min zugedeckt rasten lassen und nach Rastzeit, Backrohr vorheizen
-  - Wenn Backrohr vorgeheizt, Häferl Wasser ins Rohr stellen, Baguettes mit Wasser besprühen, mit Messer einschneiden (evtl anderes Ende festhalten weil Teig sich beim Schneiden zu einer Seite zieht) und ca 19min bei 250°C Ober-/Unterhitze backen
+  - Wenn Backrohr vorgeheizt, Häferl Wasser ins Rohr stellen, Baguettes mit Wasser besprühen, mit Messer einschneiden (evtl anderes Ende festhalten weil Teig sich beim Schneiden zu einer Seite zieht) und ca 19min bei 250°C Ober-/Unterhitze backen (evtl zweitunterste schiene probieren weil boden bei mittlerer schiene sehr hell bleibt)
   - Nach dem Herausnehmen nochmal reichlich mit Wasser besprühen
 ---
