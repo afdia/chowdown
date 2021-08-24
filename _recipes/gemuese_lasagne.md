@@ -34,3 +34,5 @@ directions:
 ---
 
 Das Rezept ergibt 2 Lasagnen, eine zum Sofortessen, die zweite für den nächsten Tag
+
+evtl probieren ganz oben mozarella statt bechamel?

@@ -36,3 +36,5 @@ directions:
   - Den gekneteten Teig mit einer Teigkarte in die Brotform putzen und min. 30min rasten lassen
   - Brot in Form oben mit etwas Wasser befeuchten, Backrohr auf 200°C Ober/Unterhitze vorheizen und 40min backen (evtl Häferl Wasser in Backrohr stellen damit es saftiger wird)
 ---
+
+Evtl Wassermenge reduzieren weil sich lt Ofner beim Schneiden nichts "aufrollen" sollte
