@@ -6,7 +6,7 @@ category: SalatAufstrich
 
 images:
   - image: ../images/gemischter_salatteller_fisolen.webp
-    description: Gelbe Fisolen abspitzen, in 1cm lange Scheiben schneiden, 10min kochen, auskühlen lassen, mit 1 Zwiebel und 1-2 Knoblauchzehen (beides fein gehackt) vermischen, Olivenöl, Balsamico. Fertig marinierten Fisolensalat auf anderen Salat und Kürbiskernöl + Balsamico. Schmeckt super!
+    description: Gelbe Fisolen abspitzen, in 1cm lange Scheiben schneiden, 10min in Wasser mit etwas Suppenwürze (oder Salzwasser?) kochen, auskühlen lassen, mit 1 Zwiebel und 1-2 Knoblauchzehen (beides fein gehackt) vermischen, Olivenöl, Balsamico. Fertig marinierten Fisolensalat auf anderen Salat und Kürbiskernöl + Balsamico. Schmeckt super!
   - image: ../images/gemischter_salatteller_kraut_kaeferbohnen.webp
     description: Fertiger Käferbohnensalat und Efko Krautsalat aus dem Glas passen auch super dazu!
 
