@@ -19,6 +19,8 @@ images:
     description: Frisch gemahlener Kamut passt leider nicht so gut weil er zu körnig ist und den Geschmack der Beeren überlagert
   - image: ../images/blechkuchen_himbeeren.webp
     description: Variante mit Himbeeren oben aufgelegt war sehr gut nur Kerne sind etwas störend
+  - image: ../images/blechkuchen_zwetschke_topfen.webp
+    description: Zwischen Zwetschken sind Topfenflecken (250g Topfen, 1Pkg Vanillezucker, 1 Ei, evtl etwas Zitrone) - schmeckt super; wie Topfenstrudel Füllung
 
 ingredients:
   - 130g Butter

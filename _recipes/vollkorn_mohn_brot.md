@@ -35,3 +35,5 @@ directions:
 ---
 
 Ergebnis war bestes Brot seit langem nur musste ich nach dem Gärkorb kippen Mehl abpinseln und nach dem Backen noch mehr Mehl mit der Gabel abkratzen. Daher besser weniger Mehl in Gärkorb testen (außer es ist notwendig dass es so gut wird, testen!). Genaue Backzeiten sind auch noch unklar
+
+Nächster Versuch mit 400VK+200weiß, trockenhefe direkt rein ohne vorher auflösen und ohne Mehl im Korb ist sitzen geblieben, ich glaube aber dass die Hefe einfach nicht mehr aktiv war bzw wegen dem nicht-auflösen nicht funktioniert hat oder es war zuviel VK mehl? (evtl doch frische hefen nehmen!)

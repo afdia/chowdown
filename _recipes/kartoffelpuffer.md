@@ -27,4 +27,4 @@ directions:
   - Puffer in beschichteter Pfanne in Öl herausbacken (Stufe 7 müsste reichen). Max. 3x Durchgänge weil immer mehr dunkle Reste in Pfanne bleiben.
 ---
 
-Man kann übrig gebliebene Puffer sehr gut einfrieren und später im Backrohr aufwärmen. TODO genaue Zeit (vmtl 200°C 15min? schauen wie es zb bei Iglo Puffern ist)
+Man kann übrig gebliebene Puffer sehr gut einfrieren und später im Backrohr aufwärmen. Direkt ins Rohr legen während auf 200°C schnellvorgeheizt wird. Nach ca 12min sind sie warm.
