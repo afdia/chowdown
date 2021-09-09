@@ -1,0 +1,24 @@
+---
+layout: recipe
+title: "Guacamole Spaghetti mit Champignons"
+image: guacamole_spaghetti_mit_champignons.webp
+category: Hauptgericht
+
+components:
+  - Guacamole
+
+ingredients:
+  - 270g Nudeln
+  - 250g Champignons
+  - Olivenöl
+  - Parmesan
+  - Pfeffer
+  - Suppenwürze
+
+directions:
+  - Guacamole zubereiten und Parmesan fein reiben
+  - Champignons in Scheiben schneiden und in etwas Öl scharf anbraten bis das Wasser verdampft ist und sie leicht angeröstet sind
+  - Nebenbei Spaghetti zubereiten
+  - Wenn Spaghetti fertig sind, gut mit Guacamole und etwas Olivenöl vermischen
+  - Am Teller serviern, darauf Champignons und Parmesan verteilen und mit etwas Olivenöl abschmecken
+---

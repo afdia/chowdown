@@ -8,7 +8,7 @@ images:
   - image: ../images/vollkorn_brot_gehenlassen.webp
     description: Nach 1h gehen lassen sieht das Brot so aus
   - image: ../images/vollkorn_brot_hirse.webp
-    description: Variante mit 125g gekochter Hirse (in Topf abwiegen, waschen indem mit kleinem Sieb Wasser abgegossen wird, wieder auf Waage stellen, Wasser dazugeben bis 375g angezeigt werden (d.h. 250g Wasser inkl was vom Waschen bleibt). Danach 3g Salz dazugeben, zudecken, aufkochen und bei Stufe 3 10min gehen lassen. Wenn die Hirse fertig ist mit 320ml Wasser, 375g Dinkel-VK (NICHT frisch gemahlen), 10g Salz, 15g Zucker und Trockengerm 3min kneten. 30min zugedeckt rasten, in mit Backpapier ausgelegte Form putzen, 30min zugedeckt rasten und ins Rohr. Schmeckt ausgezeichnet!
+    description: Variante mit 125g gekochter Hirse (in Topf abwiegen, waschen indem mit kleinem Sieb Wasser abgegossen wird, wieder auf Waage stellen, Wasser dazugeben bis 375g angezeigt werden (d.h. 250g Wasser inkl was vom Waschen bleibt). Danach 3g Salz dazugeben, zudecken, aufkochen und bei Stufe 3 10min gehen lassen. Wenn die Hirse fertig ist mit 290ml (evtl weniger) Wasser, 375g Dinkel-VK (NICHT frisch gemahlen), 10g Salz, 15g Zucker und Trockengerm 3min kneten. 30min zugedeckt rasten, in mit Backpapier ausgelegte Form putzen, 30min zugedeckt rasten und ins Rohr. Schmeckt ausgezeichnet!
   - image: ../images/vollkorn_brot_hirse2.webp
     description: Wie vorher aber mit 200g frisch gemahlenen Kamut, 175g Weizenmehl (weiß), Backpapier in Glsaform, 35min Rohr unterste Stufe, danach rauskippen und 3min ins Rohr damit es resch wird
   - image: ../images/vollkorn_brot_aussen_nicht_gut.webp
