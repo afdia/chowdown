@@ -7,14 +7,16 @@ category: Hauptgericht
 images:
   - image: ../images/kuerbiscremesuppe_vor_puerieren.webp
     description: Variante mit richtiger Gemüsebrühe (1,5h Suppengemüse gekocht) vor dem Pürieren. Schmeckt nach mehr (vom Gemüse) ist aber eine sehr gute Alternative
+  - image: ../images/kuerbiscremesuppe_mit_stuecken.webp
+    description: Ohne Schlagobers und nicht vollkommen zerkleinert schmeckt es super (so hat man bisschen was zum Beißen)
 
 ingredients:
   - 750g Hokkaido Kürbis
   - 1 mittelgroße Zwiebel
-  - 1-2 Knoblauchzehen (war letztes mal auch ohne super!)
+  - 1-2 Knoblauchzehen (geht auch ohne)
   - etwas Butter zum Anschwitzen
   - ca 700ml Wasser + Suppenwürze (Gemüsebrühe)
-  - optional 150g Schlagobers (war letztes mal auch ohne super!)
+  - optional 150g Schlagobers (ist ohne fast besser)
   - Salz, Pfeffer
   - Kürbiskernöl
 

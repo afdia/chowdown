@@ -17,6 +17,8 @@ images:
     description: Nimmt man nur Spitzpaprika wird es in der Form knapp
   - image: ../images/gefuellte_paprika_quinoa.webp
     description: Wenn der Quinoa nass ist fällt er nicht mehr durch das Sieb
+  - image: ../images/gefuellte_paprika_ruccola.webp
+    description: Joghurtsauce mit Schnittlauch und Ruccola passen gut dazu
 ingredients:
   - 2-4 Große Paprika (oder Spitzpaprika)
   - 1 großes Glas Mutti Tomatensauce + 1 EL Paprikapulver

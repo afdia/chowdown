@@ -7,6 +7,8 @@ category: BrotGebaeck
 images:
   - image: ../images/vollkorn_mohn_brot_gaehrkorb.webp
     description: Brot im Gährkorb (außen Wasser + Mohn, unten zuviel Mehl in Korb)
+  - image: ../images/vollkorn_mohn_brot_gaehrkorb_rund.webp
+    description: Runder Gährkorb ohne Mehl, außen kein Mohn wird auch sehr gut. Außen Mohn ist aber besser
 
 ingredients:
   - 410ml lauwarmes Wasser 32°C
