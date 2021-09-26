@@ -6,8 +6,6 @@ category: Hauptgericht
 
 images:
   - image: ../images/kohltaschen_auflauf.webp
-    description: Wenn Kohl zu weich, unten in die Auflaufform geben, darauf 150g geriebener Gouda, darauf mit Olivenöl angerösteter Zwiebel + 1 Dose Tomatensauce + 1/2 Spar Paprika-Chili-Salsa + Paprika geschnitten + große Dose Thunfisch, darauf 125g Mozzarella
-  - image: ../images/kohltaschen_lasagne.webp
     description: Wie üblich zubereiten aber in Form schichtweise einsortieren (unten etwas Tomatensauce, dann Kohl, Tomatensauce, Mozzarella, Kohl, Tomatensauce, Mozzarella)
 
 components:

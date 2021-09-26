@@ -17,6 +17,8 @@ images:
     description: 280g frisch gemahlener Kamut + 160g Weizen, 200g Milch, 50g Wasser, unterste Schiene 25min. Teig war etwas trocken und ist in Form angeklebt (evtl schlecht ausgefettet?) aber war sogar unten resch und sehr gut
   - image: ../images/toastbrot_untere_schiene_backpapier.webp
     description: 340g Weizen, 100g VK Weizen, Backpapier in Form, 25min unterste Schiene wurde sehr gut. Unten schön weich, oben nicht zu dunkel
+  - image: ../images/toastbrot_klebt_in_form.webp
+    description: Form mit Sonnenblumenöl mit Küchenrolle eingerieben. Brot bleibt in Form picken. Besser mit Butter einfetten oder Backpapier nehmen! War mit nicht-VK-Dinkelmehl welches sehr gut passt
 
 ingredients:
   - 440g Weizenmehl oder frisch gemahlener Kamut (dann +15% Wasser probieren, mit 250 wird es sehr trocken)

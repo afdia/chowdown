@@ -22,8 +22,4 @@ directions:
   - evtl mit geriebenem Käse bestreuen
 ---
 
-Schauen ob verbesserungsideen gut sind:
-
-- https://www.gutekueche.at/risi-bisi-rezept-2522
-- https://instakoch.de/risi-bisi-erbsenreis-das-einfache-vegetarische-rezept/
-- https://www.essen-und-trinken.de/rezepte/46060-rzpt-risi-bisi-pfanne
+evtl mit angebratenen champignons probieren?

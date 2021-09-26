@@ -23,9 +23,11 @@ images:
     description: Champignonfüllung mit Ruccola schaut super aus aber geht geschmacklich leider komplett unter. Evtl besser frisch dazuessen
   - image: ../images/quesadillas_gemuese_thunfisch.webp
     description: Gemüsefüllung plus Thunfisch schmeckt sehr gut, Thunfisch sticht aber etwas hervor im Geschmack (aber nicht störend)
+  - image: ../images/quesadillas_champignon_spinat.webp
+    description: Champignonfüllung mit Spinat und Paprika schmeckt super, war aber etwas wenig (eher doppelt soviel Champignons und/oder Spinat nehmen)
 
 ingredients:
-  - "Champignonfüllung: 250g Champigons, 1,5 Spitzpaprika, 1/2 Glas Mais, einige Zwiebelwürfel, 1EL Petersilie, Salz, Pfeffer"
+  - "Champignonfüllung: 250g Champigons, 1 Spitzpaprika, 1/2 Glas Mais, einige Zwiebelwürfel, 1Pkg frischen Spinat (kein TK; ist zu flüssig) 1EL Petersilie, Salz, Pfeffer"
   - "Gemüsefüllung: 1/4 Lauch, 1 Zucchini, 2 Paprika (oder einige Jalapeno), 1 Dose Kidney Bohnen, 1/2 Glas Mais, etwas Petersilie, Salz, Pfeffer"
   - "Mozzarellafüllung: 200g Mozzarella, 50g Gouda, 300g Cocktailtomaten, etwas Basilikum, Olivenöl, Salz, Pfeffer"
   - 200g Cheddar (Gouda, Bergbaron oder Butterkäse passen NICHT)
@@ -43,7 +45,7 @@ directions:
 
 Verbesserungsvorschläge:
 
-- Champignonfüllung war zu wenig, evtl noch frischen Spinat dazugeben (TK-Spint ist viel zu flüssig) oder eine gr Packung Champignons und mehr Paprila und Mais nehmen. Bohnen + Champignons waren nicht so gut weil man nur noch Bohnen schmeckt
+- Champignonfüllung war gut, Spinat passt super (aber kein TK), aber mehr Champignons nehmen! Bohnen + Champignons waren nicht so gut weil man nur noch Bohnen schmeckt
 - Mozzarellafüllung war etwas zu wenig, evtl mehr Mozz+Tomaten, evtl Parmesan statt Gouda, evtl Pesto oder Sauerrahm dazugeben
 - Gute Fertigsaucen sind vmtl die "Wrapsauce" bzw die Spar Tomaten-Chili-Salsa
 - Sauerrahm versucht; stört zwar nicht aber ist auch nicht nötig und flankt aus

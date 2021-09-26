@@ -13,6 +13,8 @@ images:
     description: "Knoblauchpaste (50g Butter zimmerwarm, 9g Knoblauch (3 Zehen), 1g Kräutersalz, 5g Petersilie): zuerst Knoblauch in Zerkleinerer zerkleinern, dann Rest dazu und zerkleinern). Im Kühlschrank lagern und 30min vorm Einstreichen rausnehmen. Baguette 4min vor dem Ende rausnehmen, einschneiden, einstreichen, auf Backpapier legen und die restliche Zeit fertig backen"
   - image: ../images/baguette_breit.webp
     description: Einer der ersten Versuche mit einem großen Baguette (400g Mehl) war flach und ähnlich wie Weißbrot aber gut
+  - image: ../images/baguette_ohne_backpapier.webp
+    description: Baguette länglich außen bemehlt direkt ohne Papier auf Blech. Wird gut, hängt aber leider am Blech und zerreißt beim Lösen. Daher wenn dann zusätzlich Blech vorher bemehlen (?)
 
 ingredients:
   - 400g Mehl [(Fini's Feinstes Weizenmehl Universal)](https://www.finis-feinstes.at/de/sortiment/mehle/index.aspx?detail=66&hl=Fini%E2%80%99s%20Feinstes%20Weizenmehl%20universal)
