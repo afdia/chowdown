@@ -14,7 +14,7 @@ images:
 ingredients:
   - 1 Sackerl Flana Vanillepudding
   - 500g Milch
-  - 75g bzw evtl nur 50g Zucker (d.h. genauso wie Rezept auf Pudding-Packung)
+  - 50g Zucker (d.h. genauso wie Rezept auf Pudding-Packung)
   - 90g Butter
   - 180g Schlagobers
   - 250g Topfen
@@ -24,8 +24,9 @@ ingredients:
 directions:
   - Biskuitboden zubereiten (bis inkl Kippen auf zweites Backpapier)
   - Butter zimmerwarm werden lassen
-  - Für Pudding, etwas Milch von den 0,5l wegnehmen und mit Puddingpulver und 50g Zucker vermischen
-  - Restliche Milch aufkochen und wenn sie kocht Gemisch dazugeben, dann ca 1min kochen lassen während man umrührt und Pudding auskühlen lassen
+  - Für Pudding, 0,5l Wasser in etwas größeren Topf füllen (es kommen noch alle anderen Zutaten in den Topf), etwas davon in Schüssel rausleern und mit Puddingpulver und Zucker vermischen
+  - Milch in Topf aufkochen und wenn sie kocht Gemisch dazugeben, dann ca 1min kochen lassen während man umrührt und Pudding auskühlen lassen
+  - 1/4 vom Pudding weggeben (letztes mal haben wir alles genommen aber es war zuviel Creme!)
   - Schlagobers aufschlagen
   - Wenn der Pudding fertig ist, Abwasch mit kaltem Wasser anfüllen und Topf reinstellen damit der Pudding schneller auskühlt. Kurz danach die zimmerwarme Butte einrühren und danach den Topfen und danach das Schlagobers einrühren (alles sollte ca dieselbe Temperatur haben damit die Butter nicht ausflockt, aber der Pudding sollte noch nicht fest werden).
   - Wenn durch den festen Pudding trotzdem Flocken entstanden sind, zb in der Abwasch heißes Wasser einlassen, Topf reinstellen und umrühren bis es eine cremige Konsistenz ist [(Quelle)](https://www.chefkoch.de/forum/2,10,18142/Buttercreme-flockt.html)
@@ -34,4 +35,4 @@ directions:
   - Einige Stunden in den Kühlschrank geben, kalt schmecken die Schnitten am Besten
 ---
 
-letztes mal 75g zucker genommen was evtl etwas süß war! creme hat uns beiden sehr gut geschmeckt aber evtl auch mal mit weniger pudding oder ohne pudding probieren?
+letztes mal war zuviel creme daher nächstes mal 1/4 vom puddig weggeben
