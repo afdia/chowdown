@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/macaroni_cheese_pur.webp
     description: Simple Form ohne Zwiebel und Gemüse; mit Cheddar und Penne statt Macaroni (passt nicht so gut). Butter schmelzen, Mehl und Milch dazu, dann Käse und danach Nudeln reingeben
+  - image: ../images/macaroni_cheese_vorher.webp
+    description: Bevor Käse draufkommt und sie ins Rohr kommen
 
 ingredients:
   - 250g Maccaroni

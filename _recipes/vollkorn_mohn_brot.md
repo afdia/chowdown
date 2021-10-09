@@ -9,10 +9,12 @@ images:
     description: Brot im Gährkorb (außen Wasser + Mohn, unten zuviel Mehl in Korb)
   - image: ../images/vollkorn_mohn_brot_gaehrkorb_rund.webp
     description: Runder Gährkorb ohne Mehl, außen kein Mohn wird auch sehr gut. Außen Mohn ist aber besser
+  - image: ../images/vollkorn_mohn_brot_sonnenblumenkerne.webp
+    description: Statt Mohn mit Sonnenblumenkerne (paar in den Teig und viele außen)
 
 ingredients:
   - 410ml lauwarmes Wasser 32°C
-  - 1Pkg Trockenhefe (vmtl besser weil nicht so intensiv im Geschmack)
+  - 1/2 Hefewürfel
   - 300g Dinkel frisch gemahlen
   - 300g Weizenmehl weiß
   - 12g Salz
@@ -22,7 +24,6 @@ ingredients:
   - etwas mehr Graumohn für Rinde
 
 directions:
-  - Wasser in Schüssel geben und Germ auflösen (vmtl nicht nötig bei Trockengerm)
   - Dinkel mahlen und mit restlichen Zutaten in Schüssel geben
   - 3min Stufe 2, 3min Stufe 3 kneten
   - Mit Sieb etwas Roggenmehl auf Arbeitsfläche geben und Teig drauf fallen lassen, rundherum einmehlen und zugedeckt 30m gehen lassen
@@ -32,10 +33,6 @@ directions:
   - Häferl Wasser in Rohr geben und auf 240°C Ober/Unterhitze vorheizen
   - Wenn vorgeheizt Brot auf Gitter mit Backpapier kippen (evtl Struktur reinritzen?)
   - Auf 185°C Heißluft ändern und für ca 7min ins Rohr geben (genaue Zeit notieren!)
-  - Danach auf Ober/Unterhitze ändern, 10sek die Backrohrtür öffnen, danach schließen und 40min weiterbacken (genaue Zeit notieren!)
+  - Danach auf Ober/Unterhitze ändern, 10sek die Backrohrtür öffnen, danach schließen und 40min weiterbacken (evtl 45 probieren weil bei 40 ist es leicht am messer geklebt)
   - Wenn es fertig ist klopfen (sollte hohl sein), mit etwas Wasser besprühen und auf Gitter auskühlen lassen
 ---
-
-Ergebnis war bestes Brot seit langem nur musste ich nach dem Gärkorb kippen Mehl abpinseln und nach dem Backen noch mehr Mehl mit der Gabel abkratzen. Daher besser weniger Mehl in Gärkorb testen (außer es ist notwendig dass es so gut wird, testen!). Genaue Backzeiten sind auch noch unklar
-
-Nächster Versuch mit 400VK+200weiß, trockenhefe direkt rein ohne vorher auflösen und ohne Mehl im Korb ist sitzen geblieben, ich glaube aber dass die Hefe einfach nicht mehr aktiv war bzw wegen dem nicht-auflösen nicht funktioniert hat oder es war zuviel VK mehl? (evtl doch frische hefen nehmen!)
