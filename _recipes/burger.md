@@ -13,6 +13,8 @@ images:
     description: 4 der 8 selbstgemachten Buns kann man fertig einfrieren. Später auftauen lassen und für 10min ohne Vorheizen bei 100°C ins Rohr geben damit sie etwas warm sind
   - image: ../images/burger_buns_sandwitchlike.webp
     description: Ohne Ei werden die Buns eher weißbrotartig, ist aber auch gut (vorige Revision von Burger Buns Komponente)
+  - image: ../images/burger_guacamole.webp
+    description: Guacamole passt super (aus 2 Avocados), Senf lieber weglassen, Ketchup passt aber gut dazu. Hier Envidiensalat probiert, ist OK aber besser Eisberg
   - image: ../images/burger_kaspressknoedel.webp
     description: Kaspressknoedel passen super, sind aber etwas klein und man muss mehr Sauce dazugeben (weil sie sonst recht trocken sind)
   - image: ../images/burger_suesskartoffeln.webp

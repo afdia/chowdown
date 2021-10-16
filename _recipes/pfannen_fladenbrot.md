@@ -7,6 +7,10 @@ category: BrotGebaeck
 images:
   - image: ../images/pfannen_fladenbrot_tomaten_mozzarella.webp
     description: Tomaten, Mozzarella schneiden, mit Olivenöl, Knoblauch, Salz, Pfeffer, Gute Laune vermischen und auf Fladen verteilen schmeckt super
+  - image: ../images/pfannen_fladenbrot_champignon_rucola.webp
+    description: Champignon Rucola Füllung ist auch gut aber nicht so gut wie Mozzarella Tomaten
+  - image: ../images/pfannen_fladenbrot_thunfisch.webp
+    description: Thunfisch, roter Zwiebel Füllung ist auch gut (Rucola passt aber nicht so gut)
   - image: ../images/pfannen_fladenbrot_geformt.webp
     description: Die geformten Teigfladen bevor sie in die Pfanne kommen
   - image: ../images/pfannen_fladenbrot_luftblasen.webp

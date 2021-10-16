@@ -24,5 +24,6 @@ directions:
   - Backrohr mit 180°C Umluft vorheizen und Blech für 30-35min ins Rohr geben (nach halber Zeit Tür öffnen und Dampf entweichen lassen)
 ---
 
-- Gebratener Haloumi passt super (separat in Pfanne) - evtl gleich auf Blech geben?
+- Gebratener Haloumi passt super dazu (separat in Pfanne)
 - Ruccola Salat passt super
+- Tsatsiki ebenfalls
