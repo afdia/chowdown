@@ -19,11 +19,12 @@ images:
 ingredients:
   - 270ml Wasser
   - 1/2 Hefewürfel
-  - 10g Zucker (eigentlich wären es 15g nach /4*6 aber wir probieren weniger Zucker im Teig)
+  - 10g Zucker
   - 450g Mehl
   - 9g Salz
   - 22,5g Olivenöl
-  - "Knoblauchöl: Olivenöl, gepressten Knoblauch und Salz vermischen (Idee: etwas Petersilie)"
+  - "Knoblauchöl: 4 Knoblauchzehen gepresst (ca 14g), 25g Olivenöl, 2g Salz (Idee: etwas Petersilie)"
+  - "Belag: 400g Tomaten, 250g Mozzarella, Gute Laune Gewürz"
 
 directions:
   - Wasser, Zucker, Hefe in Schüssel und gut vermischen (vmtl muss man das nicht extra machen)
@@ -32,16 +33,12 @@ directions:
   - Rausputzen und in 6 Teile zerteilen, danach jeden Teil zu einer Kugel formen (in Mitte falten und rollen)
   - 15min zugedeckt rasten lassen
   - Etwas Mehl auf die Arbeitsfläche geben und ausrollen (Ziel sind ca 18cm pro Flade)
-  - Pfanne vorheizen, auf Stufe 6 zurückdrehen und Teig reingeben.
-  - Ca alle 1,5min wenden und in Summe ca 5min drinnen lassen
+  - Pfanne vorheizen, auf Stufe 7 zurückdrehen und Teig reingeben.
+  - Ca alle 0,5-1min wenden und in Summe ca 2,5-3min drinnen lassen (zb 5min timer stellen für 2 Fladen)
   - Herausnehmen, kurz auskühlen lassen und mit Knoblauchöl bestreichen oder füllen
 ---
 
 Verbesserungsideen:
 
-- nach Anpassung sind es jetzth 6 statt 4 Fladen. Nur Zucker ist unverändert weil sie lt Dagmar zu süß waren
-- 5min Stufe 6 ist gut aber macht Brote etwas resch und hell, evtl 2,5-3min Stufe 7 probieren und häufiger wenden
-- evtl Olivenöl+Sesam draufgeben?
-- evtl Zwiebel, Thunfisch etc Belag probieren?
-- evtl währen sie in der pfanne sind von oben drück ausüben damit sie eher wie ein ballon aufgehen
+- 5min Stufe 6 und alle 1,5min wenden ist auch gut aber macht Brote etwas resch und hell
 - evtl etwas Öl in Pfanne geben damit sie rescher werden (vmtl nicht so gut wie ohne Öl aber evtl versuchen)

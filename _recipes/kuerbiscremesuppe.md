@@ -14,16 +14,17 @@ ingredients:
   - 750g Hokkaido Kürbis
   - 1 mittelgroße Zwiebel
   - 1-2 Knoblauchzehen (geht auch ohne)
-  - etwas Butter zum Anschwitzen
+  - etwas Olivenöl zum Anschwitzen
   - ca 700ml Wasser + Suppenwürze (Gemüsebrühe)
-  - optional 150g Schlagobers (ist ohne fast besser)
+  - optional 150g Schlagobers (ist ohne besser)
   - Salz, Pfeffer
   - Kürbiskernöl
 
 directions:
   - Zwiebel und Knoblauch in Würfel schneiden und in Butter anschwitzen
-  - Kürbis aushölen und in Würfel schneiden und wenn Zwiebel glasig ist dazugeben
-  - ca 15min bei Stufe 7 kochen lassen bis der Kürbis weich ist, danach Schlagobers dazugeben und mit Pürierstab fein pürieren
+  - Kürbis aushölen und in Würfel schneiden.
+  - Wenn Zwiebel glasig ist, den Kürbis, Wasser und Suppenwürze dazugeben
+  - ca 15min bei Stufe 7 kochen lassen bis der Kürbis weich ist und mit Pürierstab fein pürieren
   - Servieren und wenn sie im Teller ist mit Kürbiskernöl verfeinern
 ---
 

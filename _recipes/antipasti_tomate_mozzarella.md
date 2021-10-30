@@ -10,7 +10,9 @@ images:
   - image: ../images/antipasti_tomate_mozzarella_salat_japapeno_parmesan.webp
     description: Eingelegte Japapeno, Grüner Salat und Jalapeno passen super dazu
   - image: ../images/antipasti_tomate_mozzarella_endivien_kaeferbohnen.webp
-    description: Passend dazu Endivensalat und Käferbohnen
+    description: Endivensalat und Käferbohnen
+  - image: ../images/antipasti_tomate_mozzarella_eisberg_thunfisch.webp
+    description: Eisbergsalat, Thunfisch, Mais, Paprika, Olivenöl, Balsamico (Mozzarella in Stücken)
   - image: ../images/antipasti_baguette_guacamole.webp
     description: Als Beilage passt Baguette und Guacamole super dazu
 

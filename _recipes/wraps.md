@@ -10,6 +10,7 @@ images:
 
 components:
   - Tortillas
+  - Guacamole
 
 ingredients:
   - Ruccola oder Eisbergsalat, Mais, geriebene Karotten, Tomaten-, Paprika-, Gurken-, Mozzarellawürfel, Thunfisch, gebratener Halloumi

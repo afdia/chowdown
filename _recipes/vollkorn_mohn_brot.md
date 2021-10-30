@@ -27,12 +27,10 @@ directions:
   - Dinkel mahlen und mit restlichen Zutaten in Schüssel geben
   - 3min Stufe 2, 3min Stufe 3 kneten
   - Mit Sieb etwas Roggenmehl auf Arbeitsfläche geben und Teig drauf fallen lassen, rundherum einmehlen und zugedeckt 30m gehen lassen
-  - Mit Sieb wenig Roggenmehl in länglichen Gärkorb geben (ich hab zuviel genommen, es darf NICHT komplett bedeckt sein sonst ist das Brot nach dem Kippen komplett weiß und Mehl muss abgepinselt werden)
-  - Brotteig wirken und zu einem Wecken formen, dann Oberfläche etwas befeuchten und in Mohn wälzen (dass rundherum Mohn ist)
-  - Mit Schluss nach oben in Gärkorb geben und 25min zugedeckt gehen lassen
-  - Häferl Wasser in Rohr geben und auf 240°C Ober/Unterhitze vorheizen
-  - Wenn vorgeheizt Brot auf Gitter mit Backpapier kippen (evtl Struktur reinritzen?)
-  - Auf 185°C Heißluft ändern und für ca 7min ins Rohr geben (genaue Zeit notieren!)
-  - Danach auf Ober/Unterhitze ändern, 10sek die Backrohrtür öffnen, danach schließen und 40min weiterbacken (evtl 45 probieren weil bei 40 ist es leicht am messer geklebt)
+  - Brotteig wirken und zu einem Wecken formen (falls nötig Oberfläche etwas befeuchten) und in Mohn wälzen sodass das Brot rundherum komplett mit Mohn bedeckt ist
+  - In länglichen Gärkorb geben und 25min zugedeckt gehen lassen
+  - Backrohr auf 240°C Heißluft vorheizen und wenn vorgeheizt Brot auf Gitter mit Backpapier kippen (optional vorher mit Messer länglich einschneiden)
+  - Auf 185°C ändern und für ca 7min ins Rohr geben (genaue Zeit notieren bzw 180 probieren weil 185 etwas zu heiß war)
+  - Danach auf Ober/Unterhitze ändern, 10sek die Backrohrtür öffnen, danach schließen und 45min weiterbacken (nach halber Zeit schauen ob es eh nicht zu dunkel wird, sonst Temperatur auf 170 reduzieren und evtl kurz Backrohrtür öffnen)
   - Wenn es fertig ist klopfen (sollte hohl sein), mit etwas Wasser besprühen und auf Gitter auskühlen lassen
 ---
