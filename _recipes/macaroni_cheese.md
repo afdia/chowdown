@@ -24,7 +24,7 @@ ingredients:
 directions:
   - Maccaroni in Salzwasser al dente Kochen
   - Butter schmelzen und feingeschnittene Zwiebel und Knoblauch glasig dünsten
-  - Zucchini halb grob, halb fein reiben und dazugeben
+  - Zucchini halb grob, halb fein reiben, dazugeben und mit Pfeffer und Suppenwürze würzen
   - Wenn Zucchini durch ist, Mehl dazugeben, verrühren und Milch sowie etwas Pfeffer dazugeben
   - Käse fein reiben und 3/4 davon in die Sauce einrühren
   - Am Schluss die fertigen Maccaroni dazugeben

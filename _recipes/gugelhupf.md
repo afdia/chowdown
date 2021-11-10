@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Gugelhupf"
 image: gugelhupf.webp
@@ -12,27 +11,28 @@ images:
     description: -75g Mehl, +75g geriebene Haselnüsse, 270g Joghurt statt Milch, keine Schokolade/Kakao - sehr saftig und gut, schmeckt intensiv nach Haselnüssen
   - image: ../images/gugelhupf_karotten.webp
     description: 150g fein geriebene Karotten und 250g Topfen (statt 200ml Milch) war geschmacklich super aber etwas kompakt (vmtl wegen Topfen). Evtl nächstes Mal Karotten erst am Ende unterheben damit sie im Kuchen sichtbar und ganz bleiben
+  - image: ../images/gugelhupf__walnuss_traube.webp
+    description: Wie üblich machen, aber am Schluss 80g grob gehackte Walnüsse sowie 200g Weintrauben  gemeinsam mit Schnee unterheben bzw wenn Trauben Kerne haben, vorsichtig entfernen (Form behalten) und abwechselnd mit Teig in Form geben. Statt 40 besser 45min lassen.
   - image: ../images/muffins.webp
     description: Für Muffins selbes Rezept aber 160°C Umluft (weil 2 Blech), 25min, dann 5-10min im Blech ruhen lassen
 
 ingredients:
-- 250g Dinkelvollkornmehl
-- 120g Butter
-- 80g Staubzucker
-- 4 Eier
-- 2Pkg Vanillezucker
-- 1Pkg Backpulver
-- 200ml Milch (oder 250g Joghurt/Sauerrahm/Topfen. Bei Topfen etwas (50ml?) Milch dazu)
-- 1EL Kaokaopulver
+  - 250g Dinkelvollkornmehl
+  - 120g Butter
+  - 80g Staubzucker
+  - 4 Eier
+  - 2Pkg Vanillezucker
+  - 1Pkg Backpulver
+  - 200ml Milch (oder 250g Joghurt/Sauerrahm/Topfen. Bei Topfen etwas (50ml?) Milch dazu)
+  - 1EL Kaokaopulver
 
 directions:
-- Gugelhupfform mit Butter ausstreichen (restliche Butter in Waage um auf 120g zu kommen)
-- Eidotter von Eiklar trennen und Eiklar zu Eischnee schlagen
-- Eidotter mit Butter, Staubzucker, Vanillezucker, Backpulver vermixen
-- Wenn Masse cremig ist, Mehl dazugeben und während Mixen Milch dazugießen
-- Schnee unterheben und 2/3 der Masse in die Gugelhupfform gießen
-- Mit Sieb Kaokao in restliche Masse sieben und verrühren
-- Restliche Masse in Form gießen und mit Teigkarte etwas vermischen für Marmorierung
-- Bei 180°C Ober-/Unterhitze 40min ins Backrohr
-
+  - Gugelhupfform mit Butter ausstreichen (restliche Butter in Waage um auf 120g zu kommen)
+  - Eidotter von Eiklar trennen und Eiklar zu Eischnee schlagen
+  - Eidotter mit Butter, Staubzucker, Vanillezucker, Backpulver vermixen
+  - Wenn Masse cremig ist, Mehl dazugeben und während Mixen Milch dazugießen
+  - Schnee unterheben und 2/3 der Masse in die Gugelhupfform gießen
+  - Mit Sieb Kaokao in restliche Masse sieben und verrühren
+  - Restliche Masse in Form gießen und mit Teigkarte etwas vermischen für Marmorierung
+  - Bei 180°C Ober-/Unterhitze 40min ins Backrohr
 ---

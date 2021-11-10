@@ -7,6 +7,8 @@ category: SalatAufstrich
 images:
   - image: ../images/kartoffel_salat.webp
     description: Normaler Kartoffelsalat mit Schnittlauch. Perfekte Kartoffelsorte "Bernina" vom Biohof Anzböck GmbH (gekauft beim Spar). War noch besser als Ditta
+  - image: ../images/endivien_salat.webp
+    description: Endiviensalat fein geschnitten nur mit Kürbiskernöl und dunklem Balsamico schmeckt sehr gut (einweichen + das süßliche Öl+Essig verhindern Bitterkeit)
 
 components:
   - Kartoffeln
@@ -31,3 +33,5 @@ directions:
   - Salzen, Pfeffern, umrühren und Endiviensalat dazugeben
   - Abschmecken und für 10min ziehen lassen (Dressing sollte cremig sein)
 ---
+
+Für reinen Endiviensalat passt ein Joghurtdressing mit 200g Joghurt, 15g Olivenöl, 15g weißer Balsamico, 2 Knoblauchzehen
