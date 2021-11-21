@@ -30,7 +30,11 @@ directions:
   - Brotteig wirken und zu einem Wecken formen (falls nötig Oberfläche etwas befeuchten) und in Mohn wälzen sodass das Brot rundherum komplett mit Mohn bedeckt ist
   - In länglichen Gärkorb geben und 25min zugedeckt gehen lassen
   - Backrohr auf 240°C Heißluft vorheizen und wenn vorgeheizt Brot auf Gitter mit Backpapier kippen (optional vorher mit Messer länglich einschneiden)
-  - Auf 185°C ändern und für ca 7min ins Rohr geben (genaue Zeit notieren bzw 180 probieren weil 185 etwas zu heiß war)
+  - Auf 185°C ändern und für ca 7min ins Rohr geben
   - Danach auf Ober/Unterhitze ändern, 10sek die Backrohrtür öffnen, danach schließen und 45min weiterbacken (nach halber Zeit schauen ob es eh nicht zu dunkel wird, sonst Temperatur auf 170 reduzieren und evtl kurz Backrohrtür öffnen)
   - Wenn es fertig ist klopfen (sollte hohl sein), mit etwas Wasser besprühen und auf Gitter auskühlen lassen
 ---
+
+letzter versuch mit sonnenblumenkerne war nicht 100% durch und außen nicht wirklich resch sondern nur hart (war aber nur 180°C danach)
+
+evtl 185 aber gegen ende auf 170 drehen und etwas "ziehen" lassen damit es innen ganz durch wird bzw ofner rezept vergleichen

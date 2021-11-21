@@ -24,6 +24,7 @@ ingredients:
   - 400g Mehl, glatt
   - 240ml Wasser, lauwarm
   - 10g Salz
+  - 100g Olivenöl (optional aber macht Teig rescher)
   - 1/4 Germwürfel (oder 1/2 Packung Trockengerm)
   - 1 Glas/Dose Tomatensauce (Spar Pizzasauce)
   - 400g Mozzarella bzw Mozzarella Cucina (gut wenn Mutti Tomatensauce weil in Summe nicht zu flüssig)
@@ -32,9 +33,10 @@ directions:
   - Mehl, Germ, Salz und lauwarmes Wasser in Schüssel geben und in der Küchenmaschine kneten
   - Teig in Mitte der Schüssel als Kugel platzieren und 1h gehen lassen
   - Teig erneut mit Küchemaschine kneten bis sich der Teig löst
-  - In 8 kleine Teigkugeln zerteilen, rund formen (Teig immer zu einem Ende ziehen), diese auf ein Blech mit Backpapier verteilen und 30min mit einem Tuch zugedeckt (oder im Backrohr) gehen lassen
-  - 2 Blech mit bemehltem Backpapier vorbereiten (dann löst sich die Pizza besser und schmeckt leicht "rustikal" auf der Unterseite). Jede Teigkugel zu einer kleinen Pizza formen und auf die 2 Blech verteilen (4 Pizzas pro Blech). Evtl mit Sieb etwas Mehl auf Backpapier verteilen damit sie später nicht zerreißen beim runternehmen.
+  - In 8 kleine Teigkugeln zerteilen, rund formen (Teig immer zu einem Ende ziehen), diese auf ein Backpapier verteilen und 30min mit einem Tuch zugedeckt gehen lassen (evtl unten leicht bemehlen)
+  - 2x Backpapier vorbereiten und jede Teigkugel zu einer kleinen Pizza formen und auf die 2 Backpapiere verteilen (4 Pizzas pro Backpapier).
   - Nochmal paar Minuten gehen lassen damit der Pizzarand aufgeht (hält die Flüssigkeit gut. Man hat reschen Rand und saftiges Inneres)
   - Tomatensauce und Mozzarella verteilen (evtl weitere Zutaten verteilen)
-  - Backrohr auf 300°C vorheizen und wenn vorgeheizt, Pizza für ca 9-10min ins Backrohr geben
+  - Backrohr mit Blech und Gitter drinnen auf 300°C vorheizen und wenn vorgeheizt Blech bzw Gitter kurz rausnehmen, Backpapier drauf geben und wieder reingeben (Backpapier direkt in Ofen ist riskant wegen Verbrennung bzw "kippen" einer Pizza)
+  - Pizza für ca 9-10min ins Backrohr geben
 ---

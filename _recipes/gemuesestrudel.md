@@ -16,12 +16,12 @@ components:
 ingredients:
   - Blätterteig
   - ca 700g Kartoffeln
-  - ca 500g Spinat
+  - ca 500g Spinat (10-11 Stk bei TK-Spinat)
   - 1 Ei
   - paar Stangen Frühlingszwiebel
   - 4 Knoblauchzehen
   - Butter zum anschwitzen
-  - 500g Joghurt
+  - 500g Joghurt (alternativ passen auch Spar Paprika Salsa oder Sweet Chili dazu)
   - Schnittlauch (oder Dille)
   - Salz, Pfeffer
 

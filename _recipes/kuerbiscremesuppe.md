@@ -21,7 +21,7 @@ ingredients:
   - Kürbiskernöl
 
 directions:
-  - Zwiebel und Knoblauch in Würfel schneiden und in Butter anschwitzen
+  - Zwiebel und Knoblauch in Würfel schneiden und in Olivenöl anschwitzen
   - Kürbis aushölen und in Würfel schneiden.
   - Wenn Zwiebel glasig ist, den Kürbis, Wasser und Suppenwürze dazugeben
   - ca 15min bei Stufe 7 kochen lassen bis der Kürbis weich ist und mit Pürierstab fein pürieren
