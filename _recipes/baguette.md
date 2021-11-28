@@ -15,6 +15,10 @@ images:
     description: Einer der ersten Versuche mit einem großen Baguette (400g Mehl) war flach und ähnlich wie Weißbrot aber gut
   - image: ../images/baguette_ohne_backpapier.webp
     description: Baguette länglich außen bemehlt direkt ohne Papier auf Blech. Wird gut, hängt aber leider am Blech und zerreißt beim Lösen. Daher wenn dann zusätzlich Blech vorher bemehlen (?)
+  - image: ../images/baguette_knoblauch_sesam_vor.webp
+    description: Eins mit Knoblauch+Olivenöl bestrichen, eins mit Sesam belegt
+  - image: ../images/baguette_knoblauch_sesam_nach.webp
+    description: Ergebnis schmeckt super aber Knoblauch wird leider etwas dunkel. Evtl erst nach 10min draufstreichen?
 
 ingredients:
   - 400g Mehl [(Fini's Feinstes Weizenmehl Universal)](https://www.finis-feinstes.at/de/sortiment/mehle/index.aspx?detail=66&hl=Fini%E2%80%99s%20Feinstes%20Weizenmehl%20universal)
@@ -28,7 +32,8 @@ directions:
   - Mit Küchenmaschine gut durchkneten (ca 2min Stufe 2, dann Teig in die Mitte putzen, danach 5min Stufe 3)
   - Teig mit Teigkarte in Mitte putzen und zugedeckt 2h gehen lassen
   - Dann Teig vorsichtig wieder auf bemehltes Backpapier putzen, evtl darauf etwas Mehl verteilen, in 2 Stücke zerteilen und beide Baguettes langsam länglich ausziehen und spiralförmig drehen (dadurch behalten sie die Form) oder das bemehlte Backpapier auf ein Baguetteblech legen, 3 Baguettes formen und mit Wasser besprühen
-  - 10min zugedeckt rasten lassen und nach Rastzeit, Backrohr vorheizen
-  - Wenn Backrohr vorgeheizt, Häferl Wasser ins Rohr stellen, Baguettes mit Wasser besprühen, mit Messer einschneiden (evtl anderes Ende festhalten weil Teig sich beim Schneiden zu einer Seite zieht) und ca 19min bei 250°C Ober-/Unterhitze backen (evtl zweitunterste schiene probieren weil boden bei mittlerer schiene sehr hell bleibt)
+  - 10min zugedeckt rasten lassen und nach Rastzeit, Backrohr mit Blech auf mittlerer Schiene vorheizen
+  - Wenn Backrohr vorgeheizt, Häferl Wasser ins Rohr stellen, Baguettes mit Wasser besprühen und mit Messer einschneiden (evtl anderes Ende festhalten weil Teig sich beim Schneiden zu einer Seite zieht)
+  - Das Baguetteblech auf das vorheizte Blech im Backrohr geben und ca 18-19min bei 250°C Ober-/Unterhitze backen (evtl zweitunterste schiene probieren weil boden bei mittlerer schiene sehr hell bleibt, evtl nach 10min kurz Tür öffnen um Dampf rauszulassen)
   - Nach dem Herausnehmen nochmal reichlich mit Wasser besprühen
 ---

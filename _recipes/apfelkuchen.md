@@ -7,9 +7,11 @@ category: Süßspeise
 images:
   - image: ../images/apfelkuchen_falten.webp
     description: Hier haben wir den Teig zu kurz gekühlt bzw zu lang mit dem Ausrollen gebraucht weshalb er sehr klebrig war, aber man sieht wie der Teig eingeschnitten und gefalten wird (alternativ kann man ihn auch einfach als Ganzes von oben und unten zuklappen)
+  - image: ../images/apfelkuchen_blech.webp
+    description: Der fertige Kuchen am Blech ist etwas ausgeronnen, evtl Stärke dazugeben?
 
 ingredients:
-  - 3000g Dinkelvollkornmehl
+  - 300g Dinkelvollkornmehl
   - 200g Butter (ca 15min vor Verarbeitung aus den Kühlschrank nehmen)
   - 100ml Milch
   - 30g Staubzucker (nächstes Mal 45g nehmen! war zu wenig süß)

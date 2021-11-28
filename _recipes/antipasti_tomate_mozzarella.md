@@ -12,7 +12,7 @@ images:
   - image: ../images/antipasti_tomate_mozzarella_endivien_kaeferbohnen.webp
     description: Endivensalat und Käferbohnen
   - image: ../images/antipasti_tomate_mozzarella_eisberg_thunfisch.webp
-    description: Eisbergsalat, Thunfisch, Mais, Paprika, Olivenöl, Balsamico (Mozzarella in Stücken)
+    description: Eisbergsalat, Thunfisch, Mais, Paprika, Minigurke, Mozzarella in Stücken, Olivenöl, Balsamico, evtl Tomatenpesto
   - image: ../images/antipasti_baguette_guacamole.webp
     description: Als Beilage passt Baguette und Guacamole super dazu
 
