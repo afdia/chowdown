@@ -13,7 +13,7 @@ images:
     description: Statt Mohn mit Sonnenblumenkerne (paar in den Teig und viele außen)
 
 ingredients:
-  - 410ml lauwarmes Wasser 32°C
+  - 410ml lauwarmes Wasser 32°C (nächstes Mal -20ml probieren)
   - 1/2 Hefewürfel
   - 300g Dinkel frisch gemahlen
   - 300g Weizenmehl weiß

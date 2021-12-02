@@ -6,8 +6,8 @@ category: SalatAufstrich
 
 ingredients:
   - 125g Topfen
-  - 20g Butter (zimmerwarm) (vmtl gehen noch weniger!)
-  - 1/2 Bund Schnittlauch oder Dille (am besten Frisch geschnitten)
+  - 15g Butter (zimmerwarm)
+  - 1/2 Bund Schnittlauch (am besten Frisch geschnitten) oder ca 5g Dille
   - 15g Estragon Senf (bei Liptauer evtl 10g)
   - 1 Gurkerl sehr fein geschnitten
   - 1,5g Salz und 1g Pfeffer
@@ -15,10 +15,9 @@ ingredients:
   - "Eiaufstrich: 3 Eier klein geschnitten,  etwas extra Salz"
 
 directions:
-  - Butter einige Stunden draußen stehen lassen damit sie warm ist, dann mit Sauerrahm/Schlagobers sowie Estragon Senf vermischen
-  - Schnittlauch fein schneiden und dazu geben
-  - Für Liptauer jetzt noch Paprikapulver und eine kleine Knoblauchzehe gepresst dazugeben
-  - Für Eiaufstrich 3 Eier 10min fest kochen und anschließend in kleine Würfel schneiden und zur Masse dazugeben. Evtl auch ein Gurkerl klein schneiden und dazugeben
+  - Butter einige Stunden draußen stehen lassen damit sie warm ist, dann mit den restlichen Zustaten vermischen
+  - Für Liptauer jetzt noch Paprikapulver und eine Knoblauchzehe gepresst dazugeben
+  - Für Eiaufstrich 3 Eier 8-10min fest kochen und anschließend in kleine Würfel schneiden und zur Masse dazugeben
 ---
 
 Die Zutaten sind für Eiaufstrich oder Liptauer gedacht. Will man beides machen kann man die Mengenangaben verdoppeln (bei nur Liptauer ca 25g Senf nehmen)
