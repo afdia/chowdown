@@ -11,6 +11,8 @@ images:
     description: Ofengemüse am Blech frisch aus dem Rohr
   - image: ../images/ofengemuese_blech_vorher_gewuerze.webp
     description: Ofengemüse gut eingerieben mit Olivenöl, Pfeffer, Salz, Scharfmacher
+  - image: ../images/ofengemuese_karfiol.webp
+    description: Karfiol in Stücke, mariniert mit Olivenöl, 2Knoblauchzehen gepresst, Salz, Pfeffer, Paprikapulver, mit Handschuhe gut vermischen. Kartoffeln auf Blech auch gut marinieren. 200°C Heißluft vorheizen, Karfiol nach 15min, Kartoffeln nach 20min rausnehmen
 
 ingredients:
   - Süßkartoffeln, Kartoffeln, Zucchini, Kürbis

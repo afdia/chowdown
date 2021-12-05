@@ -28,3 +28,5 @@ directions:
 ---
 
 Man kann übrig gebliebene Puffer sehr gut einfrieren und später im Backrohr aufwärmen. Direkt ins Rohr legen während auf 200°C schnellvorgeheizt wird. Nach ca 12min sind sie warm.
+
+Rotkraut müsste gut dazu passen

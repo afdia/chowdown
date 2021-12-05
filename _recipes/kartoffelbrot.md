@@ -29,5 +29,5 @@ directions:
   - Danach mit der Teigkarte auf ein (mit Hartweizenmehl) bemehltes Backpapier putzen und darauf noch etwas Mehl geben (Ziel ist dass es nicht anklebt)
   - Etwas flacher ausbreiten und anschließend einrollen.
   - Die Teigrolle mit dem Backpapier in die Glasform geben und erneut ca 45min zugedeckt rasten lassen
-  - Backrohr auf 180°C Heißluft vorheizen und die Form auf die zweite Schiene von unten stellen und ca 20-25min lang backen
+  - Backrohr auf 180°C Heißluft vorheizen und die Form auf die zweite Schiene von unten stellen und ca 20-25min lang backen (letztens nicht ganz durch daher besser 25-30min machen oder statt Backpapier in ausgefettete Glasform geben)
 ---
