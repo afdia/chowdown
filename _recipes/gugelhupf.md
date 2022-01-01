@@ -8,7 +8,7 @@ images:
   - image: ../images/gugelhupf_walnuss.webp
     description: -60g Mehl, +120g geriebene Walnüsse, 20g Schokostreusel statt Kakao. Nüsse passen sehr gut aber Schoko nicht. Wenn Walnüsse dann besser nur Nüsse und kein Schoko und kein Kakao
   - image: ../images/gugelhupf_haselnuss.webp
-    description: -75g Mehl, +75g geriebene Haselnüsse, 270g Joghurt statt Milch, keine Schokolade/Kakao - sehr saftig und gut, schmeckt intensiv nach Haselnüssen (Vorschlag - 20g weniger Butter weil Nüsse recht fettig sind)
+    description: -75g Mehl, +75g geriebene Haselnüsse, 270g Joghurt statt Milch, keine Schokolade/Kakao - sehr saftig und gut, schmeckt intensiv nach Haselnüssen (nächster Versuch 50g Haselnüsse + Schokoflocken war auch sehr gut aber hat weniger nach Nüssen geschmeckt)
   - image: ../images/gugelhupf_karotten.webp
     description: 150g fein geriebene Karotten und 250g Topfen (statt 200ml Milch) war geschmacklich super aber etwas kompakt (vmtl wegen Topfen). Evtl nächstes Mal Karotten erst am Ende unterheben damit sie im Kuchen sichtbar und ganz bleiben
   - image: ../images/gugelhupf__walnuss_traube.webp

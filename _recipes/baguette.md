@@ -19,6 +19,8 @@ images:
     description: Eins mit Knoblauch+Olivenöl bestrichen, eins mit Sesam belegt
   - image: ../images/baguette_knoblauch_sesam_nach.webp
     description: Ergebnis schmeckt super aber Knoblauch wird leider etwas dunkel. Evtl erst nach 10min draufstreichen?
+  - image: ../images/baguette_kuehlschrank.webp
+    description: Baguetteteig zubereitet, in eingeölte Schüssel für 1 Tag. Dann auf Backpapier kippen, außen etwas einölen und backen. War sehr gut, nur selbst wie es fertig war zu ölig. Schmeckt super wenn man Olivenöl+Knoblauch aufs fertige Brot streicht
 
 ingredients:
   - 400g Mehl [(Fini's Feinstes Weizenmehl Universal)](https://www.finis-feinstes.at/de/sortiment/mehle/index.aspx?detail=66&hl=Fini%E2%80%99s%20Feinstes%20Weizenmehl%20universal)

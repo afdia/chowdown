@@ -26,11 +26,11 @@ ingredients:
   - 125g Mozzarella
 
 directions:
-  - 2 Sükartoffeln waschen, abbürsten und schirche Stellen wegschneiden (sehr große Süßkartoffeln evtl schon jetzt halbieren) und bei 200°C Ober/Unterhitze (letztes Mal Heizluft war sehr gut; Schale wie bei Bratkartoffeln) ca 40min (je nach Größe länger) ins Backrohr geben
-  - Mit Stäbchen reinstechen um zu sehen ob sie durch sind (müssen ganz weich sein zum Auskratzen)
+  - 2 Sükartoffeln waschen, abbürsten und schirche Stellen wegschneiden. Dann halbieren (außer sie sind sehr klein) und mit der Schnittfläche nach unten auf Blech mit Backpapier legen und bei 200°C Heißluft ca 40min (je nach Größe länger) ins Backrohr geben
+  - Mit Stäbchen oder Messerspitze reinstechen um zu sehen ob sie durch sind (müssen ganz weich sein zum Auskratzen)
   - Knoblauch fein hacken und mit etwas Butter anbraten. Spinat und etwas Suppenwürze dazugeben
   - Jalapenos klein schneiden und mit 1EL Sauerrahm vermischen, anschließend den fertig gedünsteten Spinat dazugeben
-  - Wenn Süßkartoffeln fertig sind, herausnehmen, in 2 Hälften schneiden und das Innere auskratzen, zerkleinern und mit der Spinatsauce vermischen
+  - Wenn Süßkartoffeln fertig sind, herausnehmen, in 2 Hälften schneiden (wenn noch nicht passiert) und das Innere auskratzen, zerkleinern und mit der Spinatsauce vermischen
   - Ausgekratzte Süßkartoffeln mit Sauce füllen und in Würfel geschnittenen Mozzarella darüber verteilen
   - Bei 200°C Ober/Unterhitze ca 15-20min fertig backen
 ---

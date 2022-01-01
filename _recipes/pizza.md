@@ -24,8 +24,8 @@ ingredients:
   - 400g Mehl, glatt
   - 240ml Wasser, lauwarm
   - 10g Salz
-  - 100g Olivenöl (optional aber macht Teig rescher)
-  - 1/4 Germwürfel (oder 1/2 Packung Trockengerm)
+  - 10g Olivenöl (optional aber macht Teig rescher)
+  - 1/4 Germwürfel
   - 1 Glas/Dose Tomatensauce (Spar Pizzasauce)
   - 400g Mozzarella bzw Mozzarella Cucina (gut wenn Mutti Tomatensauce weil in Summe nicht zu flüssig)
 

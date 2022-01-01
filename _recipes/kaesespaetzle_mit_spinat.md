@@ -1,12 +1,11 @@
 ---
-
 layout: recipe
 title: "Käsespätzle mit Spinat"
 image: kaesespaetzle_mit_spinat.webp
 category: Hauptgericht
 
 components:
-- Spaetzle
+  - Spaetzle
 
 images:
   - image: ../images/kaesespaetzle_mit_kuerbis.webp
@@ -15,20 +14,19 @@ images:
     description: Wenn etwas von der Pizzatoast Masse übrig bleibt kann man sie in einer kleinen Form mit Spätzle vermischen. Schmeckt super, speziell in Kombination mit Spinatspätzle
 
 ingredients:
-- 400g Spinat
-- 1 Zwiebel
-- 4 Knoblauchzehen
-- Suppenwürze
-- 1/3 Becher Sauerrahm oder Schlagobers
-- 150g Gouda
-- 50g Parmesan
+  - 400g Spinat (8 Stk TK-Spinat)
+  - 1 Zwiebel
+  - 4 Knoblauchzehen
+  - Suppenwürze
+  - 1/3 Becher Sauerrahm oder Schlagobers
+  - 150g Gouda
+  - 50g Parmesan
 
 directions:
-- Spätzle zubereiten
-- Zwiebel und Knoblauch schneiden und in etwas Butter anrösten
-- Spinat dazugeben und mit Suppenwürze würzen. Am Schluss Schlagobers dazugeben
-- 2/3 der Spätzle dazugeben und vermischen
-- Die Mischung in eine Auflaufform geben, Käse darüber verteilen, und die restlichen 1/3 Spätzle oben drauf.
-- Backrohr auf 200°C Ober-/Unterhitze vorheizen und Auflaufform 15min ins Backrohr geben
-
+  - Spätzle zubereiten
+  - Zwiebel und Knoblauch schneiden und in etwas Butter anrösten
+  - Spinat dazugeben und mit Suppenwürze würzen. Am Schluss Schlagobers dazugeben
+  - 2/3 der Spätzle dazugeben und vermischen
+  - Die Mischung in eine Auflaufform geben, Käse darüber verteilen, und die restlichen 1/3 Spätzle oben drauf.
+  - Backrohr auf 200°C Ober-/Unterhitze vorheizen und Auflaufform 15min ins Backrohr geben
 ---

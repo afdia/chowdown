@@ -22,7 +22,7 @@ directions:
   - Masse mit Löffel (evtl Handmixer) vermischen. Mit Küchenmaschine geht es nicht weil sich alles im Eck sammelt!
   - Masse 20min im Kühlschrank stehen lassen
   - Herausnehmen und aus Masse ca 8 Nockerl formen (zb mit Hand länglich rollen)
-  - "Die Nockerl in leicht gesalzenem Wasser folgendermaßen kochen: 3min mit Deckel (wallend Stufe 8), danach 10min Stufe 6 Deckel schräg, danach mindestens 10min abgedreht ziehen lassen)"
+  - "Die Nockerl in leicht gesalzenem Wasser folgendermaßen kochen: 3min (besser 5min?) mit Deckel (wallend Stufe 8), danach 10min Stufe 6 Deckel schräg, danach mindestens 10min abgedreht ziehen lassen)"
   - Anschließend Nockerl aus Salzwasser heben, Salzwasser wegleeren und Suppe aufstellen
   - Die Nockerl nochmal kurz mit der Suppe mitkochen
 ---
