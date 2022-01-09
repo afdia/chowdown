@@ -21,6 +21,8 @@ images:
     description: Variante mit Kohlsprossen ist ganz OK aber wir haben sie zu weich gekocht (besser nur kurz kochen). Am nächsten Tag waren sie besser
   - image: ../images/asiatisches_gemuese_kichererbsten_geroestet.webp
     description: 100g Kichererbsen abtrocknen, in Schüssel mit Olivenöl vermischen und 30min bei 180°C Umluft ins Rohr geben (alle 10min schwenken). Dagmar mag es, ich eher nicht. Backrohr war danach voll mit "Hautfetzen" von den Kichererbsen. Eher nicht mehr machen
+  - image: ../images/asiatisches_gemuese_peterwurzen.webp
+    description: Lauch, Karotten, Peterwurzen, Paprika, Zucchini, Erbsen, Brokkoli (fein geschnitten), Shan’shi Woknudeln, Sojasauce, 2EL Tomatenmark, Sweet Chili Sauce, Schärfungssauce, Suppenwürze, Pfeffer, angeröstete Cashewkerne (erst am Teller dazu geben damit sie resch bleiben) - Ergebnis war die perfekte Mischung, vmtl passen Peterwurzen super!
 
 ingredients:
   - Reisnudeln (alternativ Basmatireis oder Mie-Nudeln)
@@ -40,5 +42,5 @@ directions:
   - Reisnudeln bzw andere Beilage zubereiten und dazu servieren
 ---
 
-* IDEE: Evtl anderes Gemüse testen wie Fisolen, Erbsenschoten
-* Kichererbsen + geröstete Cashewkerne passen nicht zusammen.
+- IDEE: Evtl anderes Gemüse testen wie Fisolen, Erbsenschoten
+- Kichererbsen + geröstete Cashewkerne passen nicht zusammen.

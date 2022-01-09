@@ -7,6 +7,10 @@ category: Hauptgericht
 components:
   - Basmatireis
 
+images:
+  - image: ../images/risi_bisi_pizzabelag.webp
+    description: Reste der Pizza Toasts passen gut dazu (aber besser ist nur Reis+Erbsen)
+
 ingredients:
   - 250g TK-Erbsen
   - etwas Butter
@@ -22,4 +26,4 @@ directions:
   - evtl mit geriebenem Käse bestreuen
 ---
 
-evtl mit angebratenen champignons probieren?
+evtl mit angerösteten champignons probieren?

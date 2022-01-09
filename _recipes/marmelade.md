@@ -20,9 +20,9 @@ images:
   - image: ../images/marmelade_erdbeer_zuwenig.webp
     description: So sieht es aus wenn man bei Erdbeermarmelade Schaum einfüllt und die Gläser nicht randvoll macht. Beides verringert die Haltbarkeit!
   - image: ../images/marmelade_erdbeer_kiwi.webp
-    description: "1:3 Zucker + 1kg Erdbeeren + 500g Kiwi - TODO Geschmack aber vmtl gut"
+    description: "1:3 Zucker + 1kg Erdbeeren + 500g Kiwi schmeckt sehr gut"
   - image: ../images/marmelade_kumquat.webp
-    description: 110g Kumquat (gewogen nach rollen, Kerne und bitteres bWeißes entfernen, in Stücke geschnitten), 58g Zucker + 8g Vanillezucker, 90g Wasser. 5min Stufe 8 Kochen wird sehr Geleeartig (Achtung karamellisiert schnell), am Schluss pürieren, schmeckt sehr orangig durch Schale
+    description: 110g Kumquat (gewogen nach rollen, Kerne und bitteres Weißes entfernen, in Stücke geschnitten), 58g Zucker + 8g Vanillezucker, 90g Wasser. 5min Stufe 8 Kochen wird sehr Geleeartig (Achtung karamellisiert schnell), am Schluss pürieren, schmeckt sehr orangig durch Schale
 
 ingredients:
   - 1kg Früchte (zb Erdbeeren oder Marillen)

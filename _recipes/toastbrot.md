@@ -13,6 +13,10 @@ images:
     description: Und nach Gehzeit
   - image: ../images/toastbrot_kamut.webp
     description: Toastbrot mit 100% frisch gemahlenem Kamut und 20g mehr Wasser. Form mit Backtrennspray ausgefettet, erstmals 30min statt 25min - super Ergebnis, bester VK Toast (viel besser als mit Dinkel)
+  - image: ../images/toastbrot_hartweizenmehl1.webp
+    description: Toastbrot mit Glasform + Backtrennspray und anschließend Ja! Pizzamehl (ist Hartweizenmehl) in Form gegeben. Macht eine interessante Konsistenz aber ...
+  - image: ../images/toastbrot_hartweizenmehl2.webp
+    description: ... beim Rausgeben aus der Form war viel fettiges Mehl am Brot. Hat sich aber leicht mit Tafelmesser abkratzen lassen und danach war das Brot super
   - image: ../images/toastbrot_untere_schiene.webp
     description: 280g frisch gemahlener Kamut + 160g Weizen, 200g Milch, 50g Wasser, unterste Schiene 25min. Teig war etwas trocken und ist in Form angeklebt (evtl schlecht ausgefettet?) aber war sogar unten resch und sehr gut
   - image: ../images/toastbrot_untere_schiene_backpapier.webp

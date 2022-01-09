@@ -13,6 +13,8 @@ images:
     description: statt 1 Golatsche kann man 2 Marmeladentaschen machen
   - image: ../images/topfengolatschen_vorher.webp
     description: Topfengolatschen mit ausreichend Füllung (2 Packungen Topfen) bevor sie ins Rohr kommen
+  - image: ../images/topfengolatschen_nachher.webp
+    description: Topfengolatschen mit ausreichend Füllung fertig
 
 ingredients:
   - 300g Dinkelmehl (ersetzt man 50% durch VK-Dinkelmehl schmeckt es auch sehr gut)

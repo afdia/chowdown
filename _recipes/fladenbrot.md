@@ -14,7 +14,8 @@ images:
 
 ingredients:
   - 500g weißes Weizenmehl
-  - 360g lauwarmes Wasser (wenn verfügbar dann 50-100g davon durch Joghurt ersetzen)
+  - 100g Naturjoghurt (oder 100g Wasser, dann ist Teig aber flüssiger und es braucht länger im Rohr)
+  - 260g lauwarmes Wasser
   - 10g Salz
   - 10g Olivenöl
   - 7,5g Zucker

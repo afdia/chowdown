@@ -5,12 +5,12 @@ image: topfen_hirse_auflauf.webp
 category: Süßspeise
 
 ingredients:
-  - 100g feinkörnige Hirse (Al Natura)
-  - 300ml Milch
+  - 150g feinkörnige Hirse (Al Natura)
+  - 450ml Milch
   - 2 Eier
   - 250g Topfen
   - 25g Butter
-  - 30g Zucker
+  - 45g Zucker
   - 0,2g Salz
   - 1Pkg Vanillezucker
   - 2 Äpfel
@@ -25,5 +25,3 @@ directions:
   - Apfelscheiben in Auflaufform verteilen, darauf Zimt mit Sieb verteilen, darauf Hirsegemisch verteilen, ganz oben nochmal Apfelscheiben verteilen
   - bei 200°C Ober/Unterhitze 35min ins vorgeheizte Backrohr geben
 ---
-
-letztes mal 120g Hirse und 360g Milch war auch sehr gut aber etwas zu wenig süß!
