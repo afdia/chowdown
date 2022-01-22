@@ -20,7 +20,7 @@ images:
   - image: ../images/gefuellte_paprika_ruccola.webp
     description: Joghurtsauce mit Schnittlauch und Ruccola passen gut dazu
 ingredients:
-  - 2-4 Große Paprika (oder Spitzpaprika)
+  - 3-4 Große Paprika (oder Spitzpaprika)
   - 1 großes Glas Mutti Tomatensauce + 1 EL Paprikapulver
   - oder 1 Dose Tomaten + 1/2 Glas Spar Chilisauce
   - 2 Frühlingszwiebel
@@ -41,7 +41,7 @@ directions:
   - Paprika aufschneiden und in große Form schlichten
   - Wenn Sauce fertig ist in Paprika einfüllen (Deckel auf die Seite geben) und mit geschnittenem Mozzarella bedecken
   - Bei 180°C Umluft für ca 15min ins vorgeheizte Backrohr geben (bis Käse leicht braun ist)
-  - Dazu passt eine Joghursauce bzw Joghurt+Sauerrahm+Pfeffer Sauce oder Bratkartoffeln
+  - Dazu passt eine Joghurtsauce bzw Joghurt+Sauerrahm+Pfeffer Sauce oder Bratkartoffeln
 ---
 
 Ideen:

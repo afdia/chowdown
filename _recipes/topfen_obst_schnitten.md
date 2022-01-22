@@ -26,7 +26,7 @@ ingredients:
 directions:
   - Biskuitboden zubereiten (bis inkl Kippen auf zweites Backpapier)
   - Butter zimmerwarm werden lassen
-  - Für Pudding, 0,5l Wasser in etwas größeren Topf füllen (es kommen noch alle anderen Zutaten in den Topf), etwas davon in Schüssel rausleern und mit Puddingpulver und Zucker vermischen
+  - Für den Pudding die Milch in etwas größeren Topf füllen (es kommen noch alle anderen Zutaten in den Topf), etwas davon in Schüssel rausleeren und mit Puddingpulver und Zucker vermischen
   - Milch in Topf aufkochen und wenn sie kocht Gemisch dazugeben, dann ca 1min kochen lassen während man umrührt und Pudding auskühlen lassen
   - 1/4 vom Pudding weggeben (letztes mal haben wir alles genommen aber es war zuviel Creme!)
   - Schlagobers aufschlagen

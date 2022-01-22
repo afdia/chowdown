@@ -26,7 +26,7 @@ directions:
   - Alle Zutaten in Küchenmaschine geben und ca 2min Stufe2 kneten, danach 5min Stufe3 kneten.
   - Teig in Schüssel zugedeckt 15min gehen lassen
   - Während man wartet, Knoblauchpaste vorbereiten (4 Knoblauchzehen pressen und mit Olivenöl und Salz vermischen) und Käse reiben
-  - Teig auf bemehlte Arbeitsfläche rauskippen, in 6 Stk zerteilen und Kugeln formen (wie bei Semmeln etc) und 5min rasten lassen
+  - Teig auf bemehlte Arbeitsfläche rauskippen, in 6 Stk zerteilen und Kugeln formen (wie bei Semmeln etc) und 15min rasten lassen
   - Anschließend die Kugeln auf bemehlter Arbeitsfläche zu flachen Teigfladen ausrollen und zunächst das Knoblauchöl, dann den Käse darauf verteilen
   - Danach von oben nach unten einrollen. Dabei die Spannung erhalten und die Teigrolle beim rollen etwas zu den Rändern rausziehen (damit die Ränder wie Salzstangerl aussehen).
   - Anschließend alle Stangerl nochmal mit den Händen flach rollen bis sie so breit wie das Backblech sind.

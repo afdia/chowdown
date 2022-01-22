@@ -13,6 +13,8 @@ images:
     description: Ofengemüse gut eingerieben mit Olivenöl, Pfeffer, Salz, Scharfmacher
   - image: ../images/ofengemuese_karfiol.webp
     description: Karfiol in Stücke, mariniert mit Olivenöl, 2Knoblauchzehen gepresst, Salz, Pfeffer, Paprikapulver, mit Handschuhe gut vermischen. Kartoffeln auf Blech auch gut marinieren. 200°C Heißluft vorheizen, Karfiol nach 15min, Kartoffeln nach 20min rausnehmen
+  - image: ../images/ofengemuese_rotkraut.webp
+    description: Rotkraut passt sehr gut zu Ofenkartoffeln und Halloumi
 
 ingredients:
   - Süßkartoffeln, Kartoffeln, Zucchini, Kürbis
@@ -26,6 +28,6 @@ directions:
   - Backrohr mit 180°C Umluft vorheizen und Blech für 30-35min ins Rohr geben (nach halber Zeit Tür öffnen und Dampf entweichen lassen)
 ---
 
-- Gebratener Haloumi passt super dazu (separat in Pfanne)
+- Gebratener Halloumi passt super dazu (separat in Pfanne)
 - Ruccola Salat passt super
 - Tsatsiki ebenfalls
