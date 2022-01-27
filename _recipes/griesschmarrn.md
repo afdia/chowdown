@@ -19,13 +19,12 @@ ingredients:
 
 directions:
   - Eiklar und Dotter trennen
-  - Milch, Zucker und Eidotter verrühren
-  - Grieß in die Milch einrühren
-  - ca 15min rasten lassen
-  - Schnee schlagen + unterheben
-  - Butter in Pfanne geben (ca soviel dass Boden bedeckt ist)
-  - Teig reingießen und ca 5min bei Stufe 6 bzw nachher 7 ziehen lassen (nächstes Mal gleich Stufe 7 testen?)
-  - Auf Stufe 7 drehen und Teig immer wieder umdrehen
+  - Milch, Zucker und Eidotter mit Kü+chenmaschine mixen bis es leicht cremig ist
+  - Grieß dazugeben und weiter mixen
+  - 15min rasten lassen
+  - Schnee schlagen und unterheben
+  - Butter in Pfanne geben (ca soviel dass Boden bedeckt ist) und vorheizen
+  - Teig reingießen und ca 3min bei Stufe 7 ziehen lassen. Wenn Boden leicht fest ist, in Stücke teilen und Stücke umdrehen. Nach weiteren 2min evtl auf Stufe 6 zurückdrehen und einige Minuten lang weiter zerteilen bis bröselige Konsistenz entsteht
   - Der Schmarren ist fertig wenn er halbwegs fest und bröselig ist
   - Danach noch kurz auskühlen/austrocknen lassen
 ---
