@@ -10,7 +10,7 @@ images:
   - image: ../images/schokokuchen_zerbrochen.webp
     description: Versuch 2 mit 180° O/U 40min Glasform unterste Schiene klebte in Form (evtl wegen Backtrennspray oder unterster Form?). Kern war noch leicht flüssig. Oben wären aber max +5min (=45MIN) möglich sonst wird es zu dunkel.
   - image: ../images/schokokuchen_alnatura.webp
-    description: Versuch mit Alnatura 64% Schokolade, 90g Zucker, 170°C 50min. Ergebnis war gut aber nicht so gut wie mit Manner Schokolade und zu wenig süß (weil Manner Schoko mehr Zucker hat). War auch etwas trocken (wegen anderer Schoko oder langen Backdauer?)
+    description: Versuch mit Alnatura 64% Schokolade, 90g Zucker, 170°C 50min. Ergebnis war gut aber nicht so gut wie mit Manner Schokolade und zu wenig süß (weil Manner Schoko mehr Zucker hat). War aber etwas zu trocken (wegen anderer Schoko oder langen Backdauer?)
 
 ingredients:
 - 140g Butter (zimmertemperatur)
@@ -28,7 +28,7 @@ directions:
 - Eischnee schlagen
 - Danach Mehl, Nüsse, Schokolade, Backpulver dazugeben und kurz mixen
 - Danach Schnee unter die Masse heben
-- Kastenform einfetten, Teig reingießen und bei 180°C Ober/Unterhitze 40min backen
+- Kastenform einfetten, Teig reingießen und bei 170°C Ober/Unterhitze 45min backen
 - Wenn erkaltet, in der Mitte durchschneiden und mit Marillenmarmelade bestreichen (auch Seite und Oberfläche)
 - Darauf Schokoglasur gießen oder Mandelsplitter verteilen
 
