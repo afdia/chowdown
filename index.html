@@ -2,68 +2,68 @@
 layout: default
 ---
 
-<div class="home"> 
+<div class="home">
 
-<!-- SEARCH BAR -->
-<div class="search container max-width-2 xs-mt2">
-		<div id="search-container">
-		  <input type="text" id="search-input" placeholder="search {{ site.recipes | size }} recipes ...">
-		</div>
-</div>
-<div class="clearfix">
-<div class="recipes xs-px1 xs-mt2 center" id="results-container">
-</div>
-</div>
+  <!-- SEARCH BAR -->
+  <div class="search container max-width-2 xs-mt2">
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="search {{ site.recipes | size }} recipes ..." autofocus>
+    </div>
+  </div>
+  <div class="clearfix">
+    <div class="recipes xs-px1 xs-mt2 center" id="results-container">
+    </div>
+  </div>
 
-<!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/plugins/simple-jekyll-search.min.js" type="text/javascript"></script>
+  <!-- Script pointing to search-script.js -->
+  <script src="{{site.baseurl}}/plugins/simple-jekyll-search.min.js" type="text/javascript"></script>
 
-<!-- Configuration -->
-<script>
-function minOr(title, searchValue, alt) {
-  let matchesArray = title.toLowerCase().split(" ").map(x => x.indexOf(searchValue)).filter(x => x >= 0);
-  return matchesArray.length > 0 ? Math.min(... matchesArray) : alt;
-}
-// fetch search.json before init of jekyll search, then init search with current searchterm (using url directly wouldnt allow direct exec of search because search.json wouldnt be loaded)
-fetch('{{site.baseurl}}/search.json').then(resp => resp.json()).then(searchJson => {
-  let search = SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: searchJson,
-    limit: 9999,
-    sortMiddleware: function(a, b) {
-      let searchValue = document.getElementById('search-input').value.toLowerCase();
-      let inf = 1000000;
-      let aTitleIdx = minOr(a.title, searchValue, inf);
-      let bTitleIdx = minOr(b.title, searchValue, inf);
-      if (aTitleIdx == inf && bTitleIdx == inf) { // wenn der Suchstring in keinem Titel vorkommt wird das Objekt zuerst returniert welches den Suchstring früher in den Zutaten hat
-        let aIngredientsIdx = a.ingredients.toLowerCase().indexOf(searchValue) > 0 ? a.ingredients.toLowerCase().indexOf(searchValue) : inf;
-        let bIngredientsIdx = b.ingredients.toLowerCase().indexOf(searchValue) > 0 ? b.ingredients.toLowerCase().indexOf(searchValue) : inf;
-        return aIngredientsIdx < bIngredientsIdx ? -1 : (bIngredientsIdx < aIngredientsIdx ? 1 : 0);
-      }
-      // kommt der String im Titel vor wird nach Position des Strings sortiert
-      return aTitleIdx < bTitleIdx ? -1 : (bTitleIdx < aTitleIdx ? 1 : 0);
-    },
-    searchResultTemplate: '<div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2 left-align"><a class="block relative bg-blue" href="{url}"><div class="image ratio bg-cover" style="background-image:url(\'{image}\');"></div><h1 class="title p2 m0 absolute bold white bottom-0 left-0">{title}</h1></a></div>'
-  })
-  search.search(document.getElementById('search-input').value);
-});
-</script>
+  <!-- Configuration -->
+  <script>
+    function minOr(title, searchValue, alt) {
+      let matchesArray = title.toLowerCase().split(" ").map(x => x.indexOf(searchValue)).filter(x => x >= 0);
+      return matchesArray.length > 0 ? Math.min(...matchesArray) : alt;
+    }
+    // fetch search.json before init of jekyll search, then init search with current searchterm (using url directly wouldnt allow direct exec of search because search.json wouldnt be loaded)
+    fetch('{{site.baseurl}}/search.json').then(resp => resp.json()).then(searchJson => {
+      let search = SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: searchJson,
+        limit: 9999,
+        sortMiddleware: function (a, b) {
+          let searchValue = document.getElementById('search-input').value.toLowerCase();
+          let inf = 1000000;
+          let aTitleIdx = minOr(a.title, searchValue, inf);
+          let bTitleIdx = minOr(b.title, searchValue, inf);
+          if (aTitleIdx == inf && bTitleIdx == inf) { // wenn der Suchstring in keinem Titel vorkommt wird das Objekt zuerst returniert welches den Suchstring früher in den Zutaten hat
+            let aIngredientsIdx = a.ingredients.toLowerCase().indexOf(searchValue) > 0 ? a.ingredients.toLowerCase().indexOf(searchValue) : inf;
+            let bIngredientsIdx = b.ingredients.toLowerCase().indexOf(searchValue) > 0 ? b.ingredients.toLowerCase().indexOf(searchValue) : inf;
+            return aIngredientsIdx < bIngredientsIdx ? -1 : (bIngredientsIdx < aIngredientsIdx ? 1 : 0);
+          }
+          // kommt der String im Titel vor wird nach Position des Strings sortiert
+          return aTitleIdx < bTitleIdx ? -1 : (bTitleIdx < aTitleIdx ? 1 : 0);
+        },
+        searchResultTemplate: '<div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2 left-align"><a class="block relative bg-blue" href="{url}"><div class="image ratio bg-cover" style="background-image:url(\'{image}\');"></div><h1 class="title p2 m0 absolute bold white bottom-0 left-0">{title}</h1></a></div>'
+      })
+      search.search(document.getElementById('search-input').value);
+    });
+  </script>
 
-<script>
-  function doSearch() {
-    	currentHeight = $('#search-container').outerHeight();
+  <script>
+    function doSearch() {
+      currentHeight = $('#search-container').outerHeight();
       $('.search').addClass('used').css('height', currentHeight);
-  }
-	$( document ).ready(function() {
-    document.getElementById('search-input').addEventListener('input', doSearch());
-	});
-</script>
+    }
+    $(document).ready(function () {
+      document.getElementById('search-input').addEventListener('input', doSearch());
+    });
+  </script>
 
-<!-- WakeLock um Display aktiv zu halten (https://web.dev/wakelock/) -->
-<script>
-  window.onload = function() {
-    (async () => { // wrap in async function (https://stackoverflow.com/questions/46515764/how-can-i-use-async-await-at-the-top-level/46515787#46515787)
+  <!-- WakeLock um Display aktiv zu halten (https://web.dev/wakelock/) -->
+  <script>
+    window.onload = function () {
+      (async () => { // wrap in async function (https://stackoverflow.com/questions/46515764/how-can-i-use-async-await-at-the-top-level/46515787#46515787)
         let wakeLock = null;
 
         // Function that attempts to request a screen wake lock.
@@ -90,64 +90,68 @@ fetch('{{site.baseurl}}/search.json').then(resp => resp.json()).then(searchJson 
           }
         };
         document.addEventListener('visibilitychange', handleVisibilityChange);
-    })().catch(e => {
+      })().catch(e => {
         // Deal with the fact the chain failed
-    });
-  };
-</script>
+      });
+    };
+  </script>
 
-<!-- RECIPES LIST -->
-<div class="recipes xs-px1">
+  <!-- RECIPES LIST -->
+  <div class="recipes xs-px1">
     <div class="clearfix">
-    {% assign sorted = site.recipes | sort:"date" %}
-    <!-- where filter see https://stackoverflow.com/questions/24701557/why-doesnt-this-jekyll-liquid-where-filter-filter/24704168#24704168 -->
-      
-    <h1 class="title xs-px1" style="clear:left">Hauptgerichte</h1>
-    {% assign filtered = sorted | where:"category", "Hauptgericht" %}
-    {% for post in filtered %}
+      {% assign sorted = site.recipes | sort:"date" %}
+      <!-- where filter see https://stackoverflow.com/questions/24701557/why-doesnt-this-jekyll-liquid-where-filter-filter/24704168#24704168 -->
+
+      <h1 class="title xs-px1" style="clear:left">Hauptgerichte</h1>
+      {% assign filtered = sorted | where:"category", "Hauptgericht" %}
+      {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
-          <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');"{% endfor %}></div>
-            <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
-          </a>
+        <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="image ratio bg-cover" {% for image in post.image %}
+            style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
+        </a>
       </div>
-    {% endfor %}
-      
-    <h1 class="title xs-px1" style="clear:left">Brot und Gebäck</h1>
-    {% assign filtered = sorted | where:"category", "BrotGebaeck" %}
-    {% for post in filtered %}
+      {% endfor %}
+
+      <h1 class="title xs-px1" style="clear:left">Brot und Gebäck</h1>
+      {% assign filtered = sorted | where:"category", "BrotGebaeck" %}
+      {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
-          <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');"{% endfor %}></div>
-            <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
-          </a>
+        <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="image ratio bg-cover" {% for image in post.image %}
+            style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
+        </a>
       </div>
-    {% endfor %}
-      
-    <h1 class="title xs-px1" style="clear:left">Salate und Aufstriche</h1>
-    {% assign filtered = sorted | where:"category", "SalatAufstrich" %}
-    {% for post in filtered %}
+      {% endfor %}
+
+      <h1 class="title xs-px1" style="clear:left">Salate und Aufstriche</h1>
+      {% assign filtered = sorted | where:"category", "SalatAufstrich" %}
+      {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
-          <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');"{% endfor %}></div>
-            <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
-          </a>
+        <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="image ratio bg-cover" {% for image in post.image %}
+            style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
+        </a>
       </div>
-    {% endfor %}
-      
-    <h1 class="title xs-px1" style="clear:left">Süßspeisen</h1>
-    {% assign filtered = sorted | where:"category", "Süßspeise" %}
-    {% for post in filtered %}
+      {% endfor %}
+
+      <h1 class="title xs-px1" style="clear:left">Süßspeisen</h1>
+      {% assign filtered = sorted | where:"category", "Süßspeise" %}
+      {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
-          <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');"{% endfor %}></div>
-            <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
-          </a>
+        <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="image ratio bg-cover" {% for image in post.image %}
+            style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
+        </a>
       </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
   </div>
-  </div>
-  
-  </div>
+
+</div>
 
 </div>
