@@ -11,11 +11,11 @@ images:
     description: Selbstgeriebener Dinkel ist gut aber es geht damit in Richtung Kaiserschmarrn (190g Dinkel frisch gemahlen, 500ml Milch, 40g Butter, 10g Staubzucker, 8g (1Pkg) Vanillezucker, 2 Eier, etwas Butter für Pfanne)
 
 ingredients:
-  - 250g Milch (evtl 350g bei VK Grieß probieren)
-  - 1-2 Eier
+  - 300g Milch (evtl 400g bei VK Grieß probieren)
+  - 2 Eier
   - 0,2g Salz (ganz wenig)
-  - 30g Zucker (evtl ein Teil davon Vanillezucker)
-  - 250g Grieß
+  - 40g Zucker (evtl ein Teil davon Vanillezucker)
+  - 300gg Grieß
 
 directions:
   - Eiklar und Dotter trennen
