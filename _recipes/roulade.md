@@ -29,7 +29,7 @@ ingredients:
 
 directions:
   - Erdbeeren zerstampfen oder schneiden und mit Topfen und aufgeschlagenen Schlagobers vermischen
-  - Biskuit zubereiten (14min 180°C Ober-/Unterhitze). Möglichst über das ganze Blech ausstreichen damit die Roulade dünn wird.
+  - Biskuit zubereiten (9min 210°C Ober-/Unterhitze). Möglichst über das ganze Blech ausstreichen damit die Roulade dünn wird.
   - Solange es noch warm ist und auf 2. Backpapier liegt, vorab etwas einrollen und Teig "an die Biegung gewöhnen"
   - Ausrollen und mit Erdbeermarmelade bestreichen, dann Füllung gleichmäßig darüber verteilen
   - Erneut einrollen und 10min in gerollter Form auskühlen lassen (damit es die Form behält)
