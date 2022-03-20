@@ -9,7 +9,8 @@ images:
     description: Wie üblich zubereiten aber in Form schichtweise einsortieren (unten etwas Tomatensauce, dann Kohl, Tomatensauce, Mozzarella, Kohl, Tomatensauce, Mozzarella)
   - image: ../images/kohltaschen_lasagne.webp
     description: Wie Auflauf nur dazwischen Barilla Lasagneblätter (ohne Bechamel). Außerdem zusätzlich schwarze Bohnen in Tomatensauce. War auch sehr gut (man braucht nicht unbedingt Reis dazu)
-
+  - image: ../images/kohltaschen_bratkartoffeln.webp
+    description: Bratkartoffeln sind zwar nicht so gut wie Reis aber eine passende Alternative
 components:
   - Basmatireis
 

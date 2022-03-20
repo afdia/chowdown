@@ -12,6 +12,8 @@ images:
     description: Variante mit 6g Kaokao im Biskuit + Marillen statt Erdbeeren war auch ganz gut aber Marillen waren leider zu hart bzw sauer. Besser passen Erdbeeren
   - image: ../images/topfen_obst_schnitten_zuviel_creme.webp
     description: Hier war vmtl zuviel Creme, außerdem ist sie ausgeflankt (hat zwar gut geschmeckt aber schaut nicht super aus)
+  - image: ../images/topfen_obst_schnitten_ohne_pudding.webp
+    description: Variante mit Biskuit und Füllung aus 50g Schlagobers (geschlagen), 250g Topfen, 30g Zucker. 1 Glas Marmelade darunter (in 2 Etagen) und 80 geschmolzene Schokolade darüber
 
 ingredients:
   - 1 Sackerl Flana Vanillepudding

@@ -17,6 +17,8 @@ images:
     description: Ein Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
   - image: ../images/roulade_ohne_schnee.webp
     description: Versuch mit nur 3 Eiern und ohne Schnee separat zu schlagen - Biskuit ist sitzen geblieben und war nicht luftig
+  - image: ../images/roulade_flach.webp
+    description: Wie Roulade, aber nicht eingerollt sondern in Mitte halbiert, gestapelt (dazwischen und oben Marmelade). Darauf dann die Topfen/Schlagobers Creme und oben geschmolzene Scholokade. War auch sehr gut
 
 components:
   - Biskuit

@@ -13,6 +13,8 @@ images:
     description: 150g fein geriebene Karotten und 250g Topfen (statt 200ml Milch) war geschmacklich super aber etwas kompakt (vmtl wegen Topfen). Evtl nächstes Mal Karotten erst am Ende unterheben damit sie im Kuchen sichtbar und ganz bleiben
   - image: ../images/gugelhupf__walnuss_traube.webp
     description: Wie üblich machen, aber am Schluss 80g grob gehackte Walnüsse sowie 200g Weintrauben  gemeinsam mit Schnee unterheben bzw wenn Trauben Kerne haben, vorsichtig entfernen (Form behalten) und abwechselnd mit Teig in Form geben. Statt 40 besser 45min lassen.
+  - image: ../images/gugelhupf_mandel.webp
+    description: -50g Mehl, +100g Mandeln und Kaokao in gesamten Kuchen. War sehr gut, später etwas trocken aber mit Marillenmarmelade super!
   - image: ../images/muffins.webp
     description: Für Muffins selbes Rezept aber 160°C Umluft (weil 2 Blech), 25min, dann 5-10min im Blech ruhen lassen
 
