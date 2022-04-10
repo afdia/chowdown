@@ -9,6 +9,8 @@ images:
     description: Roulade mit 1 Glas Marillenmarmelade kann enger gerollt werden
   - image: ../images/roulade_vorgerollt.webp
     description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
+  - image: ../images/roulade_fuellung_passt.webp
+    description: Bei Topfenroulade mit Erdbeeren streicht man die Füllung wie hier besser nur in ein Eck damit sie nicht herausrinnt beim einrollen
   - image: ../images/roulade_gebrochen.webp
     description: Wenn der Teig zu dick ist bzw evtl wenn man darunter Marmelade streicht (wird rutschig) schiebt sich die Füllung raus und die Rolle geht auf
   - image: ../images/roulade_kaokao.webp

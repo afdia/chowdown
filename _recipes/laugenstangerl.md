@@ -5,6 +5,8 @@ image: laugenstangerl.webp
 category: BrotGebaeck
 
 images:
+  - image: ../images/laugenstangerl_beugel.webp
+    description: Laugenbrezen bzw -beugel sind sehr gut, da kommt der Laugengeschmack noch besser rüber. Dafür zerteilt man jede der 8 Kugeln nochmal in 2 Kugeln (d.h. in Summe 16) und taucht sie ca 20sek in die Lauge.
   - image: ../images/laugenstangerl_bepinselt.webp
     description: Versuch mit 200ml 14g Lauge und Pinsel bestrichen (formen, 30min rasten, einschneiden, Lauge, Sesam). Sehr luftig und groß dank Gehzeit, aber ohne Eintauchen bleiben sie zu hell (obwohl Lauge konzentrierter ist)
   - image: ../images/laugenstangerl_vollkorn.webp
@@ -26,8 +28,9 @@ directions:
   - Butter warm werden lassen und mit Mehl, Wasser, Salz, Hefe mixen
   - Teig 30min zugedeckt in Schüssel rasten lassen und anschließend nochmal kurz durchkneten und in 8 Teile zerteilen
   - Laugenstangerl formen und schräg einschneiden. Währenddessen Wasser aufkochen, vom Herd nehmen und Natron hinzufügen (letztes Mal mitgekocht und hat super Farbe ergeben, kA ob es einen Unterschied macht)
-  - Die geformten Stangen werden jeweils 10sek pro Seite (oben/unten) in die Lauge getaucht, herausgenommen und sollten nochmal 5min rasten um aufzugehen
-  - Bevor die Weckerl ins Backrohr gegeben werden können sie mit Sesam bestreut werden
-  - Ein Häferl Wasser ins Backrohr stellen und auf 200°C Ober-/Unterhitze vorheizen und Gebäck für 20min ins vorgeheizte Backrohr geben.
+  - Die geformten Stangen werden jeweils 10sek pro Seite (oben/unten) in die Lauge getaucht, herausgenommen und sollten nochmal 5min rasten um aufzugehen (optional mit Sesam bestreuen)
+  - "Achtung: NICHT Lauge auf Gebäck löffeln. Wenn sich am Backpapier Lauge sammelt werden sie am Schluss unten weich und kleben im schlimmsten Fall am Backpapier!"
+  - In der Zwischenzeit das Backrohr auf 210°C Ober-/Unterhitze vorheizen
+  - Gebäck für ca 17-18min ins vorgeheizte Backrohr geben.
   - Ca alle 5min mit Wassersprüher besprühen und direkt nach dem Rausnehmen nochmal besprühen
 ---

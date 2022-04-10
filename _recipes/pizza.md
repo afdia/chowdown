@@ -17,6 +17,8 @@ images:
     description: Pizzastangerl - Teig machen, 1h rasten, formen, 15min rasten, etwas Wasser drauf, 10min 250°C (vorgeheizt)
   - image: ../images/pizza_stangerl2.webp
     description: Pizzastangerl mit Flamkuchenteig war noch besser. Flamkuchenteig machen, dann bei 300°C ca 10min ins Rohr
+  - image: ../images/pizza_stangerl3.webp
+    description: Verschieden Formen von Pizzastangerl
   - image: ../images/pizza_roulade.webp
     description: Pizzaroulade - Tomatensauce mit geschnittenem Gemüse köcheln, verteilen, zusammenrollen, dann bei 250°C 17min ins Rohr. Probleme - beim Rollen wegen warmen Gemüse kleben geblieben, Tomatensauce rinnt raus (evtl weglassen?), am Rand zuviel Teig, oben und unten zu resch (besser zb 200°C 25min?)
 

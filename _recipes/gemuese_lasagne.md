@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/gemuese_lasagne_bohnen_melanzani.webp
     description: Halbierte Kidneybohnen statt Thunfisch passt super. Mit dem Messer geschnittene Melanzani in Scheiben geschlichtet war zu Kaugummiartig (speziell am Folgetag). Entweder direkt in Sauce würfeln oder nicht nehmen
+  - image: ../images/gemuese_lasagne_schwarze_bohnen.webp
+    description: Schwarze Bohnen statt Thunfisch passt super. Zusätzlich mit Küchenmaschine Karotten, Peterwurzen, Zucchini, Paprika gerieben. Oben zusätzlich zum Bechamel Mozzarella-Würfel macht es oben weicher und schmeckt super
 
 ingredients:
   - 1x Weißkraut (oder Kohl)

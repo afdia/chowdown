@@ -11,6 +11,8 @@ images:
     description: Erbsennudeln passen auch ganz gut, sind gesünder aber etwas mehliger. Waren evtl etwas zu kurz gekocht, daher eher länger lassen
   - image: ../images/nudelsalat_linsennudeln.webp
     description: Rote Linsenspirella passen auch sehr gut. Solang Salat warm war haben sie mehlig hervorgeschmeckt, aber kalt + Mozzarella im Salat war das Ergebnis sehr gut
+  - image: ../images/nudelsalat_spargel.webp
+    description: Zwiebel in Olivenöl anbraten, Spargel schälen und in Stücken geschnitten dazugeben bis er weich ist (etwas Suppenwürze und Pfeffer dazu). Wenn Spargel fertig ist mit restlichen Zutaten vermischen. War super!
 
 ingredients:
   - 200g Nudeln (zb Penne)
