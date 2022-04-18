@@ -6,7 +6,9 @@ category: BrotGebaeck
 
 images:
   - image: ../images/laugenstangerl_beugel.webp
-    description: Laugenbrezen bzw -beugel sind sehr gut, da kommt der Laugengeschmack noch besser rüber. Dafür zerteilt man jede der 8 Kugeln nochmal in 2 Kugeln (d.h. in Summe 16) und taucht sie ca 20sek in die Lauge.
+    description: Laugenbrezen bzw -beugel sind sehr gut, da kommt der Laugengeschmack noch besser rüber. Dafür zerteilt man jede der 8 Kugeln nochmal in 2 Kugeln (d.h. in Summe 16) und taucht sie ca 20-30sek in die Lauge.
+  - image: ../images/laugenstangerl_beugel2.webp
+    description: Zum Vergleich links Fastenbrezen die nicht in die Lauge kommen sondern nur kurz unter den laufenden Wasserhahn gehalten werden.
   - image: ../images/laugenstangerl_bepinselt.webp
     description: Versuch mit 200ml 14g Lauge und Pinsel bestrichen (formen, 30min rasten, einschneiden, Lauge, Sesam). Sehr luftig und groß dank Gehzeit, aber ohne Eintauchen bleiben sie zu hell (obwohl Lauge konzentrierter ist)
   - image: ../images/laugenstangerl_vollkorn.webp
