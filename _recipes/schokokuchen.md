@@ -30,14 +30,8 @@ directions:
 - Eischnee schlagen
 - Danach Mehl, Nüsse, Schokolade, Backpulver dazugeben und kurz mixen
 - Danach Schnee unter die Masse heben
-- Kastenform einfetten, Teig reingießen und bei 170°C Ober/Unterhitze 45min backen
+- Kastenform mit Butter einfetten, Teig reingießen und bei 170°C Ober/Unterhitze 45min backen
 - Wenn erkaltet, in der Mitte durchschneiden und mit Marillenmarmelade bestreichen (auch Seite und Oberfläche)
 - Darauf Schokoglasur gießen oder Mandelsplitter verteilen
 
 ---
-
-- NÄCHSTES MAL 85 statt 100 zucker nehmen weil zu süß + evtl butter probieren statt trennspray? oder 170 bzw 175°C 2. unterste stufe für 50min testen
-- selbst bei 170° 50min ging der kuchen schwer aus der form. evtl butter statt backtrennspray nutzen (oder kurz vor reingabe des teigs einsprühen)
-- oder 180°C oder 170°C 40min 2. schiene von unten, danach rauskippen, marmelade u mandelsplitter drauf und nochmal 10-15min reingeben?
-
-next 170 45min

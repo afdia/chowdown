@@ -10,23 +10,22 @@ components:
   - Semmelknoedel
 
 ingredients:
-- 200g Penne + Salzwasser
+- 200g Fleckerl + Salzwasser
 - Kartoffeln
-- Semmelknoödel
+- optional Semmelknödel
+- optional Paprikapulver
 - 3 Eier
-- evtl Zwiebel
+- Zwiebel
 - Bratöl
 - Salz, Pfeffer
 - Eingelegte Gurkerl
 
 directions:
-- Penne in Salzwasser kochen und absieben
 - Die Kartoffeln am Vortag zubereiten damit sie gut getrocknet sind, schälen und in Scheiben schneiden
-- Knödel trocknen lassen und ebenfalls in Scheiben schneiden
-- Kartoffeln in Bratöl in Pfanne anbraten (evtl gemeinsam mit geschnittenem Zwiebel)
-- Anschließend Knödelscheiben dazugeben und solange anbraten bis es schön knusprig ist
+- Währenddessen Zwiebel in Würfel schneiden und Fleckerl in Salzwasser kochen
+- Kartoffelscheiben in Öl anbraten bis sie resch sind (und/oder in Würfel geschnittene bereits ausgekühlte Knödel), dann Zwiebel dazugeben und auch etwas anbraten
+- Wenn alles knusprig ist Flecker darüber geben und optional etwas Paprikapulver dazu geben
 - Salzen und Pfeffern, dann Eier drüberschlagen und gut vermischen
-- Am Schluss die Nudeln dazugeben
 - Gurkerl passen sehr gut dazu und machen das Gericht saftiger
 
 ---

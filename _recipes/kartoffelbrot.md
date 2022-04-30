@@ -5,29 +5,30 @@ image: kartoffelbrot.webp
 category: BrotGebaeck
 
 images:
-  - image: ../images/kartoffelbrot_weckerl.webp
-    description: Kartoffelweckerl (nur 100g Kartoffeln vom Vortag + 200ml Wasser in Zerkleinerer) + 300g Mehl 1/4 Hefe, 20g Zucker, 5g Salz, 30g Olivenöl. Auf gut bemehltes Backpapier; in 8 Stk teilen, rund formen, 30min gehen lassen, Besprühen und mit Sesam belegen; bei 200°C Ober/Unterhitze 15min ins Rohr
   - image: ../images/kartoffelbrot_schritte.webp
     description: Zunächst ist der Teig auf einem stark bemehltem Backpapier, danach oben Mehl und etwas flach drücken, danach einrollen und in Glasform geben
 
+components:
+  - Kartoffeln
+
 ingredients:
-  - 130g Kartoffeln (ca 2 mittelgroße Stück)
-  - 15g Butter
-  - 120g Milch
-  - 300g Mehl
-  - 1 Ei
-  - 1/4 Hefewürfel
-  - 20g Zucker
-  - 5g Salz
-  - 7g olivenöl
+  - 150g Kartoffeln (ca 2 mittelgroße Stück. Man kann bis zu 200g Kartoffeln nehmen, muss dann das Mehl entsprechend reduzieren)
+  - 300g Mehl (Type 550)
+  - ca 100ml Wasser
+  - 1/2 Sackerl Trockenhefe
+  - 15g Olivenöl
+  - 4g Zucker
+  - 6g Salz
 
 directions:
-  - Kartoffeln schälen, in ca 1cm³ große Würfel schneiden und in einem Topf mit Salzwasser (alle Würfel sollen bedeckt sein) aufkochen und ca 15min auf Stufe 7 kochen bis sie weich sind
-  - Die Würfel in den Zerkleinerer geben und 15g Butter dazugeben bis sie etwas geschmolzen ist. Danach die Milch dazugeben und zerkleinern bis es eine homogene Masse ist (bei mehligen Kartoffeln könnte man sie auch stampfen)
-  - Masse in Schüssel putzen, restliche Zustaten dazugeben und ca 1-2min Stufe 2 danach 5min Stufe 3 kneten
-  - In Mitte putzen und 45-60min zugedeckt rasten lassen
-  - Danach mit der Teigkarte auf ein (mit Hartweizenmehl) bemehltes Backpapier putzen und darauf noch etwas Mehl geben (Ziel ist dass es nicht anklebt)
-  - Etwas flacher ausbreiten und anschließend einrollen.
-  - Die Teigrolle mit dem Backpapier in die Glasform geben und erneut ca 45min zugedeckt rasten lassen
-  - Backrohr auf 180°C Heißluft vorheizen und die Form auf die zweite Schiene von unten stellen und ca 20-25min lang backen (letztens nicht ganz durch daher besser 25-30min machen oder statt Backpapier in ausgefettete Glasform geben)
+  - Kartoffeln kochen (etwas länger als üblich, ca 30min) bis sie ganz durch sind.
+  - Schälen und durch Kartoffelpresse pressen
+  - Restliche Zutaten dazugeben und 5min Stufe 3 in Küchenmaschine kneten (bei Bedarf noch Wasser/Mehl nachgeben) bis ein schöner Teig entsteht
+  - 45min zugedeckt in Schüssel rasten lassen
+  - Backpapier zerknüllen und wieder ausfalten, Ja! Hartweizenmehl drauf geben, Teig drauf fallen lassen und oben nochmal Hartweizenmehl geben
+  - Einige Male falten bis Teig leichte Spannung hat, dann immer wieder ineinander falten bis eine längliche Rolle entsteht
+  - Teig auf Backpapier in Glasform heben und 45min zugedeckt rasten lassen
+  - Backrohr auf 180°C Heißluft vorheizen und die Form auf die zweite Schiene von unten stellen und ca 30min lang backen (evtl +5min? weils innen noch sehr weich war)
 ---
+
+erster versuch mit neuem rezept (das hier ohne Ei) war mit 200g Kartoffeln + 250g Mehl und war super (anfangs saftig wenn ausgekühlt aber perfekt)

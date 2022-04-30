@@ -30,7 +30,7 @@ ingredients:
   - Parmesan, Suppenwürze, Pfeffer
 
 directions:
-  - Kartoffeln am Vortag kochen damit sie wenig Wasser enthalten, danach schälen und mit Kartoffelpresse pressen (evtl das nächste Mal im Rohr aber in Alufolie eingewickelt damit sie außen nicht resch werden!)
+  - Kartoffeln am Vortag kochen (Achtung einige Rezepte sagen Kartoffeln sollen lieber noch warm sein! also am selben Tag aber 20min auskühlen lassen) damit sie wenig Wasser enthalten, danach schälen und mit Kartoffelpresse pressen (evtl das nächste Mal im Rohr aber in Alufolie eingewickelt damit sie außen nicht resch werden!)
   - Ei, Mehl (anfangs weniger, bei Bedarf nachgeben), Salz dazugeben und gut vermischen. Achtung nimmt man zuwenig Mehl zerfallen sie beim Kochen.
   - Vorsichtig auf der Silikonmatte zu einem Teig kneten. Nicht zu fest oder lang kneten sonst wird der Teig zu patzig. Bei Bedarf Mehl ergänzen
   - Rollen mit 1-2cm Durchmesser formen, nochmal in etwas Mehl wälzen und 1-2cm dicke Gnocchi runterschneiden und auf Backpapier sammeln (bzw später direkt auf Silikonmatte)

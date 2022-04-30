@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/gefuellte_zucchini_saft.webp
     description: Besonders gut schmeckt es wenn man den Saft aus der Form drübergiest
+  - image: ../images/gefuellte_zucchini_bohnen.webp
+    description: Bohnen in der Füllung passen leider nicht weil es in Summe dann zu trocken wird. Wenn dann statt Reis zb mit Tsatsiki
 
 components:
   - Basmatireis
