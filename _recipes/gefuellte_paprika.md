@@ -19,6 +19,10 @@ images:
     description: Wenn der Quinoa nass ist fällt er nicht mehr durch das Sieb
   - image: ../images/gefuellte_paprika_ruccola.webp
     description: Joghurtsauce mit Schnittlauch und Ruccola passen gut dazu
+
+components:
+  - Tsatsiki
+
 ingredients:
   - 3-4 Große Paprika (oder Spitzpaprika)
   - 1 großes Glas Mutti Tomatensauce + 1 EL Paprikapulver
@@ -40,7 +44,7 @@ directions:
   - 25min bei Stufe 6 (anfangs 7) zugedeckt weich dünsten
   - Paprika aufschneiden und in große Form schlichten
   - Wenn Sauce fertig ist in Paprika einfüllen (Deckel auf die Seite geben) und mit geschnittenem Mozzarella bedecken
-  - Bei 180°C Umluft für ca 15min ins vorgeheizte Backrohr geben (bis Käse leicht braun ist)
+  - Bei 180°C Umluft für ca 15min in der Mitte (3. Schiene) ins vorgeheizte Backrohr geben (bis Käse leicht braun ist; gibt man sie länger rein wird Paprika zu weich)
   - Dazu passt eine Joghurtsauce bzw Joghurt+Sauerrahm+Pfeffer Sauce oder Bratkartoffeln
 ---
 

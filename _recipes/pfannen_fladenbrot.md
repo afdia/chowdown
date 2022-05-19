@@ -17,20 +17,19 @@ images:
     description: Vor dem ersten Wenden bilden sich schöne Luftblasen (besser bei Stufe 7 aber sonst ist sie zu heiß), nach dem Wenden leider nicht mehr (auch kein Luftpolster innen)
 
 ingredients:
+  - 450g Mehl
   - 270ml Wasser
   - 1/2 Hefewürfel
   - 10g Zucker
-  - 450g Mehl
   - 9g Salz
   - 22,5g Olivenöl
   - "Knoblauchöl: 4 Knoblauchzehen gepresst (ca 14g), 25g Olivenöl, 2g Salz (Idee: etwas Petersilie)"
   - "Belag: 400g Tomaten, 250g Mozzarella, Gute Laune Gewürz"
 
 directions:
-  - Wasser, Zucker, Hefe in Schüssel und gut vermischen (vmtl muss man das nicht extra machen)
-  - Restliche Zutaten dazugeben und 2min Stufe 2, dann 5min Stufe 3 Kneten
+  - Alle Zutaten in Schüssel geben und 2min Stufe 2, dann 5min Stufe 3 Kneten
   - Ca 30min gehen lassen bis Teig doppelte Größe hat
-  - Rausputzen und in 6 Teile zerteilen, danach jeden Teil zu einer Kugel formen (in Mitte falten und rollen)
+  - Rausputzen und in 8 Teile zerteilen, danach jeden Teil zu einer Kugel formen (in Mitte falten und rollen)
   - 15min zugedeckt rasten lassen
   - Etwas Mehl auf die Arbeitsfläche geben und ausrollen (Ziel sind ca 18cm pro Flade)
   - Pfanne vorheizen, auf Stufe 7 zurückdrehen und Teig reingeben.
@@ -42,3 +41,4 @@ Verbesserungsideen:
 
 - 5min Stufe 6 und alle 1,5min wenden ist auch gut aber macht Brote etwas resch und hell
 - evtl etwas Öl in Pfanne geben damit sie rescher werden (vmtl nicht so gut wie ohne Öl aber evtl versuchen)
+- evtl mengenangaben reduzieren

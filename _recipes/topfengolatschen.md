@@ -21,7 +21,7 @@ ingredients:
   - 125g lauwarme Milch
   - 50g zimmerwarme Butter
   - 3/4 gr Ei
-  - 1/2 Hefewürfel
+  - 1/2 Sackerl Trockenhefe
   - 35g Zucker
   - 3,5g Salz
   - "Füllung: 500g Topfen, 80g Staubzucker, 1Pkg (24g) Flana Vanille-Puddingpulver, 1 Zitrone, 1 gr Ei"
@@ -29,7 +29,7 @@ ingredients:
 
 directions:
   - Teigzutaten in Schüssel geben und 2min Stufe 2, in Mitte putzen, 3min Stufe 3 kneten
-  - 30min zugedeckt gehen lassen
+  - 45min zugedeckt gehen lassen
   - Auf Arbeitsfläche geben und ausrollen (ca so groß wie unsere Unterlage)
   - Mit Teigkarte 6 12x12 große Rechtecke rausschneiden
   - Füllung zubereiten und jeweils 2EL davon in jede Golatsche geben

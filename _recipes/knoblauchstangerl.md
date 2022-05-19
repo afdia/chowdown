@@ -9,10 +9,10 @@ images:
     description: Ausgerollte Knoblauchstangerl nachdem sie befüllt wurden (1x nur Knoblauch, 2x +Käse, 2x +Schinken, 1x +Mais). Knoblauch, Käse, Schinken, Mais war fast am Besten!
   - image: ../images/knoblauchstangerl_vorm_backen.webp
     description: Zusammengerollte und länglich ausgerollte Stangerl vor dem Backen
-  - image: ../images/knoblauchstangerl_tomatensauce_bohnen.webp
-    description: Einige Stangerl haben etwas Mutti Tomatensauce (macht super Pizzageschmack) und/oder schwarze Bohnen (passen sehr gut machen Stangerl aber trockener)
   - image: ../images/knoblauchstangerl_schinken_mittig.webp
     description: Putenschinken war zu kompakt weshalb Stangerl schwer auszurollen waren. Besser dünnen, leicht reißenden Schinken nehmen
+  - image: ../images/knoblauchstangerl_tomatensauce_bohnen.webp
+    description: Einige Stangerl haben etwas Mutti Tomatensauce (macht super Pizzageschmack) und/oder schwarze Bohnen (passen sehr gut machen Stangerl aber trockener)
 
 ingredients:
   - 360g Weizenmehl
