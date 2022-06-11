@@ -17,6 +17,8 @@ images:
     description: Als Beilage passt Baguette und Guacamole super dazu
   - image: ../images/antipasti_ruccola_guacamole.webp
     description: Ruccola Salat + Guacamole passen super zu Mozzarella mit Tomatenpesto. Dazu frisches Gebäch wie ein Fladenbrot
+  - image: ../images/antipasti_ruccola_guacamole2.webp
+    description: Wie oben aber mit 2 Tage im Kühlschrank gerastetem Pizzabrot. Tastsiki ist auch gut aber braucht man nicht unbedingt dazu
 
 ingredients:
   - 2 große und 1 kleine Packung Mozzarella

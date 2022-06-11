@@ -15,6 +15,8 @@ images:
     description: Die geformten Teigfladen bevor sie in die Pfanne kommen
   - image: ../images/pfannen_fladenbrot_luftblasen.webp
     description: Vor dem ersten Wenden bilden sich schöne Luftblasen (besser bei Stufe 7 aber sonst ist sie zu heiß), nach dem Wenden leider nicht mehr (auch kein Luftpolster innen)
+  - image: ../images/pfannen_fladenbrot_eierspeise.webp
+    description: Übrige Fladenbrote vom Vortag kann man mit Eierspeise und Paprikastücken füllen. Schmeckt super!
 
 ingredients:
   - 450g Mehl

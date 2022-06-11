@@ -12,7 +12,7 @@ images:
   - image: ../images/pizza_american_style_minimal.webp
     description: Minimal Belag mit Tomatensauce+Käse schmeckt auch super
   - image: ../images/pizza_american_style_champignons.webp
-    description: Champignon Pizza. Statt Gouda unten Parmesan+Tomatensauce vermischt ist auch gut aber Parmesan schmeckt zu sehr hervor.
+    description: Champignon Pizza. Statt Gouda unten Parmesan+Tomatensauce vermischt ist auch gut aber Parmesan schmeckt zu sehr hervor. Das Bild zeigt auch dass man die Blech etwas stapeln muss damit sie sich im Backrohr ausgehen
 
 ingredients:
   - 350g Weizen-Mehl glatt (beim 1. versuch 50g davon durch Hartweizenmehl ersetzt, macht es das rescher?)

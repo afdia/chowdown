@@ -36,3 +36,5 @@ directions:
 ---
 
 Verbesserungsidee - auf 220 zurückdrehen und 15min (evtl sicherheitshalber 14 stellen und beobachten) müsste besser passen. 215 war noch hell und nicht ganz durch
+
+evtl https://stroeck.at/sortiment/aboriginesweckerl/ anschauen und ähnlicher machen?

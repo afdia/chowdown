@@ -19,6 +19,8 @@ images:
     description: Pizzastangerl mit Flamkuchenteig war noch besser. Flamkuchenteig machen, dann bei 300°C ca 10min ins Rohr
   - image: ../images/pizza_stangerl3.webp
     description: Verschieden Formen von Pizzastangerl
+  - image: ../images/pizza_brot.webp
+    description: Pizzateig wie üblich machen aber nur 1/4 Sackerl Hefe, dafür ca 2g Zucker. Wenn Teig fertig, halbieren und jede Hälfte in eine eingeölte Schüssel geben; Teig außen ölig und Schüssel innen ölig (Bild links oben). Dann mit Plastikfolie zudeckt für bis zu 7 Tage im Kühlschrank gehen lassen (Bild links unten). Rausnehmen, auf Backpapier geben, Olivenöl oben drauf und Pfeffer bzw Sesam bzw Knoblauchpulver. Dann Backpapier auf Blech welches im 300°C Ofen mit aufgeheizt wurde geben und 8min ins Rohr geben (Bild rechts oben). Ist geschmacklich super, ähnlich Sauerteig. Alternativer Versuch mit Baguetteteig war auch gut aber zu kurz gerastet
   - image: ../images/pizza_roulade.webp
     description: Pizzaroulade - Tomatensauce mit geschnittenem Gemüse köcheln, verteilen, zusammenrollen, dann bei 250°C 17min ins Rohr. Probleme - beim Rollen wegen warmen Gemüse kleben geblieben, Tomatensauce rinnt raus (evtl weglassen?), am Rand zuviel Teig, oben und unten zu resch (besser zb 200°C 25min?)
 
