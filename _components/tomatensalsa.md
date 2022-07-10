@@ -9,6 +9,7 @@ ingredients:
   - 1 Jalapeno
   - 1 Minigurke (nicht im Originalrezept, passt aber gut)
   - 1/2 Zitrone (besser Limette)
+  - evtl Basilikum
   - Salz
 
 directions:

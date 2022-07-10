@@ -28,7 +28,7 @@ directions:
   - Restliche Zutaten dazugeben und 5min Stufe 3 in Küchenmaschine kneten (bei Bedarf noch Wasser/Mehl nachgeben) bis ein schöner Teig entsteht
   - 45min zugedeckt in Schüssel rasten lassen
   - Backpapier zerknüllen und wieder ausfalten, Ja! Hartweizenmehl drauf geben, Teig drauf fallen lassen und oben nochmal Hartweizenmehl geben
-  - Einige Male falten bis Teig leichte Spannung hat, dann immer wieder ineinander falten bis eine längliche Rolle entsteht
+  - Einige Male falten bzw einrollen, bis Teig leichte Spannung hat, dann immer wieder ineinander falten bis eine längliche Rolle entsteht
   - Teig auf Backpapier in Glasform heben und 45min zugedeckt rasten lassen
   - Backrohr auf 180°C Heißluft vorheizen und die Form auf die zweite Schiene von unten stellen und ca 30min lang backen (evtl +5min? weils innen noch sehr weich war)
 ---

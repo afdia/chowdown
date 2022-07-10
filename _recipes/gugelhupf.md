@@ -11,8 +11,10 @@ images:
     description: -75g Mehl, +75g geriebene Haselnüsse, 270g Joghurt statt Milch, keine Schokolade/Kakao - sehr saftig und gut, schmeckt intensiv nach Haselnüssen (nächster Versuch 50g Haselnüsse + Schokoflocken war auch sehr gut aber hat weniger nach Nüssen geschmeckt)
   - image: ../images/gugelhupf_karotten.webp
     description: 150g fein geriebene Karotten und 250g Topfen (statt 200ml Milch) war geschmacklich super aber etwas kompakt (vmtl wegen Topfen). Evtl nächstes Mal Karotten erst am Ende unterheben damit sie im Kuchen sichtbar und ganz bleiben
-  - image: ../images/gugelhupf__walnuss_traube.webp
-    description: Wie üblich machen, aber am Schluss 80g grob gehackte Walnüsse sowie 200g Weintrauben  gemeinsam mit Schnee unterheben bzw wenn Trauben Kerne haben, vorsichtig entfernen (Form behalten) und abwechselnd mit Teig in Form geben. Statt 40 besser 45min lassen.
+  - image: ../images/gugelhupf_walnuss_traube.webp
+    description: Wie üblich machen, aber am Schluss 80g grob gehackte Walnüsse sowie 200g Weintrauben gemeinsam mit Schnee unterheben bzw wenn Trauben Kerne haben, vorsichtig entfernen (Form behalten) und abwechselnd mit Teig in Form geben. Statt 40 besser 45min lassen.
+  - image: ../images/gugelhupf_pekannuss_rote_traube.webp
+    description: Wie üblich machen, aber am Schluss 50g grob gehackte Pekannüsse sowie 250g rote kernlose Weintrauben gemeinsam mit Schnee unterheben bzw wenn Trauben Kerne haben, vorsichtig entfernen (Form behalten) und abwechselnd mit Teig in Form geben. 40min waren ausreichend, evtl wären 45 besser?
   - image: ../images/gugelhupf_mandel.webp
     description: -50g Mehl, +100g Mandeln und Kaokao in gesamten Kuchen. War sehr gut, später etwas trocken aber mit Marillenmarmelade super!
   - image: ../images/muffins.webp

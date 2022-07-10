@@ -33,3 +33,6 @@ directions:
 ---
 
 - Es war etwas zuviel Öl auf den Kartoffeln. Evtl kartoffeln mit etwas Öl in Schüssel schütteln damit sie leicht bedeckt sind aber nicht im Öl schwimmen
+
+Gute Sorten sind:
+- Allians (vom Hofer) sind festkochend, sehr gelb und schmecken süß und gut

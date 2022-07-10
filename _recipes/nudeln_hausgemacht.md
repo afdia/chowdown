@@ -23,7 +23,7 @@ directions:
   - Danach mit der Hand einige Minuten weiterkneten (Küchenmaschine ist zu schwach für Teig) und eine runde Teigkugel formen
   - 30min zugedeckt rasten lassen (vorschlag - evtl 1h und evtl in Plastikfolie damit kein Wasser raus kann, evtl gleich in 2 Kugeln zerteilen)
   - In 2 Kugeln zerteilen und jede Kugel breit ausrollen
-  - Mit Pizzaschneider längliche Streifen runter schneiden (oder bemehlen, 1x falten und schneiden. Letzter Versuch war 2x falten und mit Messer und die Streifen sind stark aneinander geklebt)
+  - Mit Pizzaschneider längliche Streifen runter schneiden (oder stark bemehlen, mehrmals falten und schneiden. Letzter Versuch war 2x falten (aber kein Extramehl) und mit Messer und die Streifen sind stark aneinander geklebt)
   - Ca 5min im Salzwasser kochen
 ---
 

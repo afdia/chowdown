@@ -2,7 +2,7 @@
 layout: recipe
 title: "Enchiladas"
 image: enchiladas.webp
-category: BrotGebaeck
+category: Hauptgericht
 
 images:
   - image: ../images/enchiladas_pfanne.webp

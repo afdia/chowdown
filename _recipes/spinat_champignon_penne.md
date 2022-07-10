@@ -4,6 +4,10 @@ title: "Spinat Champignon Penne"
 image: spinat_champignon_penne.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/spinat_champignon_penne_spaghetti.webp
+    description: Variante mit Spaghetti
+
 ingredients:
   - 270g Nudeln
   - 250g Champignons

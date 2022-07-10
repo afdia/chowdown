@@ -5,6 +5,8 @@ image: wraps.webp
 category: BrotGebaeck
 
 images:
+  - image: ../images/wraps_besteck.webp
+    description: Wraps gefalten, dann mit Falte nach unten auf Teller gelegt. Lassen sich super mit Besteck essen
   - image: ../images/tortillas_weizenmehl_trocknen.webp
     description: Zum Trocknen auf Gitter legen (bis nächste Flade in Pfanne fertig ist, danach auf Teller stapeln)
 

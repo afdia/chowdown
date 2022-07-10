@@ -6,7 +6,7 @@ category: Süßspeise
 
 images:
   - image: ../images/roulade_marmelade.webp
-    description: Roulade mit 1 Glas Marillenmarmelade kann enger gerollt werden
+    description: Roulade mit 1 Glas Marillenmarmelade kann enger gerollt werden (man kann auch frische Marillen zerkleinern, mit etwas Zucker und Marillenmarmelade mischen und reinstreichen. Ist sehr erfrischend und fruchtig)
   - image: ../images/roulade_vorgerollt.webp
     description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
   - image: ../images/roulade_fuellung_passt.webp
@@ -15,8 +15,6 @@ images:
     description: Wenn der Teig zu dick ist bzw evtl wenn man darunter Marmelade streicht (wird rutschig) schiebt sich die Füllung raus und die Rolle geht auf
   - image: ../images/roulade_kaokao.webp
     description: Variante mit dunklem Teig (13g Kaokao) und statt Erdbeeren eingelegte Marillen + Marillenmarmelade. War ganz gut aber etwas zuviel Kaokao und Füllung hat nicht ganz gepasst. Evtl besser Butterchreme wie zb bei Tiramisu oder Bananenschnitten machen
-  - image: ../images/roulade_erdbeer.webp
-    description: Roulade mit Erdbeermarmelade bestreichen und viele Erdbeerhälften einfüllen - sehr gut, saftig, erfrischend. Optional Joghurt dazu essen
   - image: ../images/roulade_obstkuchen.webp
     description: Ein Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
   - image: ../images/roulade_ohne_schnee.webp
@@ -36,9 +34,9 @@ ingredients:
 directions:
   - Erdbeeren zerstampfen oder schneiden und mit Topfen und aufgeschlagenen Schlagobers vermischen
   - Biskuit zubereiten (9min 210°C Ober-/Unterhitze). Möglichst über das ganze Blech ausstreichen damit die Roulade dünn wird.
-  - Solange es noch warm ist und auf 2. Backpapier liegt, vorab etwas einrollen und Teig "an die Biegung gewöhnen"
-  - Ausrollen und mit Erdbeermarmelade bestreichen, dann Füllung gleichmäßig darüber verteilen
-  - Erneut einrollen und 10min in gerollter Form auskühlen lassen (damit es die Form behält)
+  - Auf verkehrtes Backrohrgitter mit Backpapier kippen und Backpapier welches im Backrohr war abziehen
+  - Für Marmeladen-Roulade sofort bestreichen und einrollen (dann hält sie super durch den Dampf)
+  - Für Topfen-Füllung, vorab etwas einrollen und Teig "an die Biegung gewöhnen". Ausrollen und mit Erdbeermarmelade bestreichen, dann Füllung gleichmäßig darüber verteilen. Erneut einrollen und 10min in gerollter Form auskühlen lassen (damit es die Form behält)
 ---
 
 Verbesserungsideen:
