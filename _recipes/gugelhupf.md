@@ -15,6 +15,8 @@ images:
     description: Wie üblich machen, aber am Schluss 80g grob gehackte Walnüsse sowie 200g Weintrauben gemeinsam mit Schnee unterheben bzw wenn Trauben Kerne haben, vorsichtig entfernen (Form behalten) und abwechselnd mit Teig in Form geben. Statt 40 besser 45min lassen.
   - image: ../images/gugelhupf_pekannuss_rote_traube.webp
     description: Wie üblich machen, aber am Schluss 50g grob gehackte Pekannüsse sowie 250g rote kernlose Weintrauben gemeinsam mit Schnee unterheben bzw wenn Trauben Kerne haben, vorsichtig entfernen (Form behalten) und abwechselnd mit Teig in Form geben. 40min waren ausreichend, evtl wären 45 besser?
+  - image: ../images/gugelhupf_walnuss_heidelbeere.webp
+    description: -60g Mehl, +120g geriebene Walnüsse. 200g gefrohrene Heidelbeeren ganz am Schluss unterheben. Ergebnis war anfangs beim Rauskippen zu "flüssig", daher nochmal 10min am Abtropfgitter ins Rohr. Danach gut, speziell am nächsten Tag, wobei Heidelbeeren wenig hervorschmecken.
   - image: ../images/gugelhupf_mandel.webp
     description: -50g Mehl, +100g Mandeln und Kaokao in gesamten Kuchen. War sehr gut, später etwas trocken aber mit Marillenmarmelade super!
   - image: ../images/muffins.webp

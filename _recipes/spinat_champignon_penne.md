@@ -11,7 +11,7 @@ images:
 ingredients:
   - 270g Nudeln
   - 250g Champignons
-  - 200g Tiefkühl-Spinat
+  - 200g Tiefkühl-Spinat (ca 5 Stk)
   - 2 Knoblauchzehen
   - 1 kleine Zwiebel
   - etwas Schlagobers

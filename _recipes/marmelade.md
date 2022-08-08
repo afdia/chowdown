@@ -10,9 +10,11 @@ images:
   - image: ../images/marmelade_erdbeer_rhabarber.webp
     description: "Erdbeer Rhabarber Marmelade - Rhabarber schälen, in kleine Stücke schneiden und mit Erdbeeren im Topf mit Pürierstab zerkleinern. +1 Sackerl Vanillezucker und 1:2 Zucker nehmen. Nächstes Mal ohne Vanillezucker und mit 1:3 testen weil sehr süß"
   - image: ../images/marmelade_schwarzeribisel_heidelbeer.webp
-    description: Schwarze Ribisel&Heidelbeeren - Schwarze Ribisel zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. Heidelbeeren zerkleinern und direkt dazu
+    description: Schwarze Ribisel&Heidelbeeren - Schwarze Ribisel (mit Gabel abrebeln) zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. Heidelbeeren zerkleinern und direkt dazu
   - image: ../images/marmelade_roteribisel_himbeer.webp
-    description: Rote Ribisel&Himbeeren - Rote Ribisel und Himbeeren zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. (Ergebnis war sehr Gelee-artig, besser mit Heidelbeeren weil die flüssiger sind)
+    description: Rote Ribisel&Himbeeren - Rote Ribisel (mit Gabel abrebeln) und Himbeeren zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. (Ergebnis war sehr Gelee-artig, besser mit Heidelbeeren weil die flüssiger sind)
+  - image: ../images/marmelade_schwarzeribisel.webp
+    description: Schwarze Ribisel mit Gabel abrebeln und mit 1 ausgepressten Zitrone ca 5min aufkochen und währenddessen zerdrücken. Danach durch Sieb in 2. Topf (der auf Waage steht) drücken (man verliert ca 1/3 der Masse an Kernen etc). 50% von der gesiebten Masse kommt als Zucker dazu (davon 20g Vanillezucker) und nochmal 3min aufkochen. Letztes Mal 1 große Zitrone, 820g Ribisel (nach Sieben ca 560g), dazu 260g Zucker + 20g Vanillezucker gegeben. Ergibt 3,5 Gläser. Geschmacklich super (wie Black Sun Cocktail) aber etwas zu flüssig (stört aber nicht). Nächstes Mal evtl Gelierzucker nehmen
   - image: ../images/marmelade_kiwi_erdbeer_rhabarber.webp
     description: "Halber 1:3 Zucker, 300g Erdbeeren, 250g Rhabarber, 200g Kiwi - schwer zuzubereiten weil sehr dickflüssig, relativ sauer und Farbe nicht so schön aber geschmacklich säuerlich gut und interessant. Daraus gelernt: Großteil muss Erdbeer sein, dann Kiwi ODER Rhabarber dazu"
   - image: ../images/marmelade_erdbeer_rhabarber_himbeer.webp

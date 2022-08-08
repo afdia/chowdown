@@ -25,13 +25,13 @@ images:
     description: Form mit Sonnenblumenöl mit Küchenrolle eingerieben. Brot bleibt in Form picken. Besser mit Butter einfetten oder Backpapier nehmen! War mit nicht-VK-Dinkelmehl welches sehr gut passt
 
 ingredients:
-  - 440g Weizenmehl oder frisch gemahlener Kamut (dann +20g Wasser probieren, mit 250 wird es sehr trocken)
+  - 440g Weizenmehl oder frisch gemahlener Kamut
   - 250g lauwarmes Wasser (evtl probieren 200g lauwarme Milch + 50g Wasser für Striezelartigen Teig)
   - 9g Salz
   - 5g Zucker
   - 7g Gerstenmalzmehl
   - 21g Hefe
-  - 45g weiche Butter + Butter zum Form Ausfetten
+  - 45g weiche Butter (letztes Mal stattdessen 25g Olivenöl war auch super (war auch +20g Wasser aber die braucht man eigentlich nicht))
 
 directions:
   - Kastenform mit Backpapier auslegen (oder ausbuttern bzw mit Backtrennspray einsprühen), dann alle Zutaten in Schüssel geben.
