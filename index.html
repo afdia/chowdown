@@ -72,7 +72,7 @@ layout: default
             wakeLock = await navigator.wakeLock.request('screen');
             console.log('Screen Wake Lock is active');
           } catch (err) {
-            console.error(`Cannot setup wakelock: ${err.name}, ${err.message}`);
+            console.log(`Cannot setup wakelock: ${err.name}, ${err.message}`);
           }
         };
 
