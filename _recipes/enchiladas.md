@@ -9,6 +9,8 @@ images:
     description: Die Pfanne mit gemischtem Gemüse
   - image: ../images/enchiladas_vor_backrohr.webp
     description: Enchiladas fertig fürs Backrohr
+  - image: ../images/enchiladas_mehr_bohnen.webp
+    description: Variante ohne Kraut, dafür 2 Dosen Bohnen (1x Kidney, 1x Schwarz) war auch super. Dazu passt Tsatsiki
 
 components:
   - Tortillas

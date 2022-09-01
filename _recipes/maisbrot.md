@@ -10,7 +10,7 @@ ingredients:
   - 275g lauwarmes Wasser
   - 150g Joghurt
   - 7,5g Zucker
-  - 10g Salz (nächstes Mal etwas mehr zb +2g)
+  - 11g Salz
   - 1/2 Hefewürfel
   - Butter zum Ausfetten
 
