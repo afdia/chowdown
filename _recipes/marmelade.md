@@ -25,6 +25,8 @@ images:
     description: "1:3 Zucker + 1kg Erdbeeren + 500g Kiwi schmeckt sehr gut"
   - image: ../images/marmelade_kumquat.webp
     description: 110g Kumquat (gewogen nach rollen, Kerne und bitteres Weißes entfernen, in Stücke geschnitten), 58g Zucker + 8g Vanillezucker, 90g Wasser. 5min Stufe 8 Kochen wird sehr Geleeartig (Achtung karamellisiert schnell), am Schluss pürieren, schmeckt sehr orangig durch Schale
+  - image: ../images/marmelade_zwetschke.webp
+    description: 1:3 Zucker + 1,5kg Zwetschken. Entkernen, mit Stabmixer fein pürieren, dann in Topf mit Zucker aufkochen und wenn die Masse kocht auf Stufe 6 zugedeckt ca 8min köcheln lassen. Anschließend abfüllen
 
 ingredients:
   - 1kg Früchte (zb Erdbeeren oder Marillen)

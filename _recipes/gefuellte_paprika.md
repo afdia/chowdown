@@ -37,7 +37,7 @@ ingredients:
 
 directions:
   - Frühlingszwiebel und Knoblauch fein schneiden und in etwas Öl anbraten
-  - Quinoa mit heißen Wasser abwaschen (in Topf + Wasser, wenn nass fällt er nicht mehr durchs Sieb) und dazugeben
+  - Quinoa in Topf geben, heißes Wasser draufgießen damit er ganz Nass ist. Danach in Sieb gießen und darin gut mit heißem Wasser abwaschen (solang er noch nicht nass ist, fällt er evtl durchs Sieb)
   - Dosentomaten, Bohnen, Mais, Spar Chilisauce dazugeben
   - Mit 300ml Wasser aufgießen und Quinoa dazugeben (schaut am Anfang sehr flüssig aus aber saugt sich mit der Zeit voll)
   - Mit Pfefffer und Suppenwürze würzen

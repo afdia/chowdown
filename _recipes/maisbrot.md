@@ -4,6 +4,10 @@ title: "Maisbrot"
 image: maisbrot.webp
 category: BrotGebaeck
 
+images:
+  - image: ../images/maisbrot_ohne_form.webp
+    description: Teig wie hier, aber ohne Form gebacken. Vorgehensweise und Backrohreinstellungen wie beim [vollkorn_mohn_brot](Vollkorn Mohn Brot)
+
 ingredients:
   - 350g Weizenmehl
   - 250g Maismehl

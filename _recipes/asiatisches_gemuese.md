@@ -23,6 +23,8 @@ images:
     description: 100g Kichererbsen abtrocknen, in Schüssel mit Olivenöl vermischen und 30min bei 180°C Umluft ins Rohr geben (alle 10min schwenken). Dagmar mag es, ich eher nicht. Backrohr war danach voll mit "Hautfetzen" von den Kichererbsen. Eher nicht mehr machen
   - image: ../images/asiatisches_gemuese_peterwurzen.webp
     description: Lauch, Karotten, Peterwurzen, Paprika, Zucchini, Erbsen, Brokkoli (fein geschnitten), Shan’shi Woknudeln, Sojasauce, 2EL Tomatenmark, Sweet Chili Sauce, Schärfungssauce, Suppenwürze, Pfeffer, angeröstete Cashewkerne (erst am Teller dazu geben damit sie resch bleiben) - Ergebnis war die perfekte Mischung, vmtl passen Peterwurzen super!
+  - image: ../images/asiatisches_gemuese_sojabohnen.webp
+    description: Sojabohnen (gibts gefrohren von Iglo) nach Packungsangaben zubereiten und dazugeben. Passt super (evtl auch statt Cashewkernen weil beides eher mehlig ist)
 
 ingredients:
   - Reisnudeln (alternativ Basmatireis oder Mie-Nudeln)

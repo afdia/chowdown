@@ -9,6 +9,8 @@ images:
     description: Simple Form ohne Zwiebel und Gemüse; mit Cheddar und Penne statt Macaroni (passt nicht so gut). Butter schmelzen, Mehl und Milch dazu, dann Käse und danach Nudeln reingeben
   - image: ../images/macaroni_cheese_vorher.webp
     description: Bevor Käse draufkommt und sie ins Rohr kommen
+  - image: ../images/macaroni_cheese_vor_rohr.webp
+    description: Mit gelber und grüner Zucchini und rotem Zwiebel wird das Ergebnis schön bunt und schmeckt super
 
 ingredients:
   - 250g Maccaroni
@@ -18,7 +20,7 @@ ingredients:
   - 1 Zwiebel
   - 1 große Knoblauchzehe
   - 2 mittelgroße Zucchini
-  - 120g Alpkönig und 80g Parmesan (oder 200g Cheddar)
+  - 120g Alpkönig und 80g Parmesan (oder 200g Alpkönig bzw Cheddar)
   - Pfeffer, Salz
 
 directions:

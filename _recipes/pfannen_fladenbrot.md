@@ -14,11 +14,13 @@ images:
   - image: ../images/pfannen_fladenbrot_geformt.webp
     description: Die geformten Teigfladen bevor sie in die Pfanne kommen
   - image: ../images/pfannen_fladenbrot_luftblasen.webp
-    description: Vor dem ersten Wenden bilden sich schöne Luftblasen (besser bei Stufe 7 aber sonst ist sie zu heiß), nach dem Wenden leider nicht mehr (auch kein Luftpolster innen)
+    description: Vor dem ersten Wenden bilden sich Luftblasen (besser bei Stufe 7 aber sonst ist sie zu heiß), nach dem Wenden leider nicht mehr (auch kein Luftpolster innen)
+  - image: ../images/pfannen_fladenbrot_luftpolster.webp
+    description: Wenn alles gut geht bildet sich ein Luftpolster in der Flade
   - image: ../images/pfannen_fladenbrot_eiaufstrich.webp
     description: Flade mit Eiaufstrich gefüllt und danach oben mit Knoblauchöl bestrichten. Schmeckt super!
   - image: ../images/pfannen_fladenbrot_eierspeise.webp
-    description: Übrige Fladenbrote vom Vortag kann man mit Eierspeise und Paprikastücken füllen. Schmeckt super!
+    description: Übrige Fladenbrote vom Vortag kann man mit Eierspeise und Paprikastücken füllen. Oder man friert sie ein. Später kurz auftauen lassen und evtl kurz im Rohr leicht resch backen. Schmeckt wie frische Fladen.
 
 ingredients:
   - 450g Mehl

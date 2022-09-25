@@ -7,9 +7,11 @@ category: Hauptgericht
 images:
   - image: ../images/gebackenes_gemuese_kaese.webp
     description: Zucchini Cordon Bleu mit Käse in Mitte (Zucchini innen und außen einritzen, Käse in Mitte, dann in Mehl, dann mit Händen vorsichtig in Ei und gut - auch seitlich - mit Brösel bedecken. Hält überraschend gut) und Gebackener Emmentaler (Achtung rinnt evtl aus, daher heißer als üblich machen oder evtl einfrieren)
+  - image: ../images/gebackenes_gemuese_brokkoli.webp
+    description: Kleine Champignons (als Ganzes) und Brokkoli sind am besten!
 
 ingredients:
-  - Zucchini, Champignons (große wie Zucchinis in Scheiben), Kürbis, Brokkoli, Karfiol, Karotten (längliche Streifen in Mitte halbiert)
+  - Zucchini, Champignons (große wie Zucchinis in Scheiben), Brokkoli, Kürbis, Karfiol, Karotten (längliche Streifen in Mitte halbiert)
   - Mehl
   - 2 Eier
   - Vollkornbrösel
