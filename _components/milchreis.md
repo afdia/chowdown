@@ -4,7 +4,7 @@ title: "Milchreis"
 image: milchreis_pur.webp
 
 ingredients:
-  - 150g Milchreis (für 1 Portion Angaben halbieren)
+  - 150g Milchreis (für 1 kleine Portion alle 3 Angaben *50%, für 1 große *66%)
   - 600ml Milch
   - 20g Staubzucker (Zuckermenge verdoppeln für süße Variante (zb nur mit Zimt))
 

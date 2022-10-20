@@ -22,7 +22,7 @@ ingredients:
   - 250g Vollkornmehl
   - 150g weißes Mehl
   - 100g Hirse gemahlen (ersatzweise mehr Vollkornmehl-Mehl, Variante mit feuchter Hirse als Bild)
-  - 400ml Wasser (nicht mehr nehmen sonst vermischen sich Chiasamen mit Teig und es ist nicht so gut)
+  - 375ml Wasser (evtl -10ml oder -25ml probieren weil es noch etwas klebrig am Messer war, aber nicht auf Zähnen etc)
   - 10g Salz
   - 15g Zucker oder 20g süßlicher Essig oder etwas getrockneter Sauerteig
   - 1 Pkg Trockengerm (oder 1/2 Germwürfel damit es besser aufgeht)
@@ -36,5 +36,3 @@ directions:
   - Den gekneteten Teig mit einer Teigkarte in die Brotform putzen und min. 30min rasten lassen
   - Brot in Form oben mit etwas Wasser befeuchten, Backrohr auf 200°C Ober/Unterhitze vorheizen und 40min backen (evtl Häferl Wasser in Backrohr stellen damit es saftiger wird)
 ---
-
-Evtl Wassermenge reduzieren weil sich lt Ofner beim Schneiden nichts "aufrollen" sollte

@@ -10,6 +10,10 @@ images:
     description: Nach 40min Gehen füllen die Buchteln die Form vollständig aus
   - image: ../images/buchteln_vollkorn.webp
     description: 500g Dinkel-Vollkornmehl, +20ml Milch, -2min Stufe 3 Knetzeit. VK-Teig bleibt leider sitzen bzw kompakt und schmeckt nicht wirklich gut. Nicht nochmal probieren.
+  - image: ../images/buchteln_butter.webp
+    description: Ausreichend Butter um die Form auszustreichen und die Buchteln zu bestreichen
+  - image: ../images/buchteln_kleiner.webp
+    description: 12 kleinere Buchteln statt 6 großer, kein Vollkornmehl. Glasform ist etwas zu groß dafür, weiße Form wäre aber vmtl zu klein. Mit viel Butter Form eingestrichen und Buchteln oben bestrichen (erst danach Wasser draufgesprüht). Schließen der Buchteln war schwer weil Teig fast schon etwas trocken war. Eine davon mit Zwetschkenmarmelade war auch super. In Summe viel besser als 6 Stk!
 
 ingredients:
 - 500g Weizenmehl
@@ -23,17 +27,16 @@ ingredients:
 directions:
 - Zutaten 2min auf Stufe 2, dann 5min Stufe 3 kneten
 - Teig in Schüssel zugedeckt 20min rasten lassen
-- Auf bemehlte Arbeitsfläche kippen und in 6 Zeile zu je 150g zerteilen
-- 6 Kugeln formen und mit Küchentuch zugedeckt 15min gehen lassen
-- Teigkugeln flach drücken und auf ca 14cm Durchmesser ausbreiten, dann 1EL Marillenmarmelade reingeben und die Enden nach oben zusammenziehen und drücken und in eine mit Butter ausgestrichene Auflaufform geben (verkehrt, also mit der "Naht" nach unten)
-- Wenn alle 6 Buchteln in der Form sind mit etwas Wasser besprühen und 40min gehen lassen
-- Backrohr auf 170°C Umluft vorheizen (evtl ein Häferl Wasser ins Rohr stellen)
-- Buchteln mit etwas Butter bestreichen und für 40min ins Rohr geben
+- Auf Arbeitsfläche kippen und in 12 Teile zerteilen, daraus Kugeln formen und mit Küchentuch zugedeckt 15min gehen lassen
+- Teigkugeln flach drücken und auf ca 12,5cm Durchmesser ausbreiten, dann 1EL Marillenmarmelade reingeben und die Enden nach oben zusammenziehen und drücken und in eine mit Butter ausgestrichene Auflaufform geben (verkehrt, also mit der "Naht" nach unten)
+- Wenn alle Buchteln in der Form sind, auch oben mit Butter bestreichen, mit Wasser besprühen und 40min gehen lassen
+- Backrohr auf 170°C Umluft vorheizen
+- Buchteln für ca 30min auf unterster Schiene ins Rohr geben (früher stand hier 40 aber nach 30min Umluft waren sie schon sehr dunkel). Idee - Evtl alle 10min Wasser reinsprühen?
 
 ---
 
-- Versuch 1 war nicht schlecht aber sie haben sich unten zu sehr angesaugt (war teilweise saftiger und "klebriger" als Germknödelteig). Wir hätten sie lieber "rescher" also auch unten trockener und fester wie oben.
-- Nächstes Mal evtl Glasform nutzen (weil unten mehr Platz ist; Problem: zuviel Platz für 6 Riesenbuchteln, dadurch zu resch) und in die unterste Eischubleiste ins Rohr geben (lt Sally Rezept) und/oder mehr kleinere Buchteln formen damit der Teig nicht so dick ist. Auch nochmal schauen wie sie geschlossen werden, ich habe evtl zu dicke "Teigklumpen" gemacht (besser nur Ränder leicht zusammendrücken?)
+- Versuch 1 war nicht schlecht aber sie haben sich unten zu sehr angesaugt (war teilweise saftiger und "klebriger" als Germknödelteig). Wir hätten sie lieber "rescher" also auch unten trockener und fester wie oben > vmtl lösbar durch unterste Schiene
+- Glasform zu groß > macht buchteln unnötig resch
 - Alternativ auch Metallauflaufform nutzen die die Hitze besser nach innen abgibt oder Ober/Unterhitze probieren und weiter runter stellen, evtl etwas länger im Rohr lassen oder nach dem Rausnehmen umdrehen damit die Unterseite "ausdunsten kann"
-- Evtl Dinkelmehl probieren (Vollkorn?)
 - Evtl Haselnusscreme einfüllen
+- Letzter Versuch (siehe Bild unten) war super. Immer 12 Stk machen! evtl Glasform testen, evtl 170 Ober/Unterhitze machen und doch 35-40min machen aber 30min Umluft passen auch. Evtl einfach ab und zu Wasser reinsprühen

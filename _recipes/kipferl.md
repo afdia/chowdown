@@ -16,8 +16,6 @@ images:
     description: Die vielen Lagen der Mohnfüllung innen
   - image: ../images/kipferl_kamut_mohnfuellung.webp
     description: Variante mit 250g Weizenmehl + 250g VK Kamutmehl, etwas kürzer geknetet und etwas mehr Mohnfüllung ist auch sehr gut
-  - image: ../images/kipferl_TODO.webp
-    description: Variante mit 250g Weizenmehl + 150g VK Dinkle + 100 VK Weizen, etwas zu wenig Ei aufgehoben zum Bestreichen (<50% von einem mittleren Ei)
 
 ingredients:
 - 500g Weizenmehl

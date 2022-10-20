@@ -30,9 +30,9 @@ ingredients:
 directions:
   - Teigzutaten in Schüssel geben und 2min Stufe 2, in Mitte putzen, 3min Stufe 3 kneten
   - 45min zugedeckt gehen lassen
-  - Auf Arbeitsfläche geben und ausrollen (ca so groß wie unsere Unterlage)
+  - Auf Arbeitsfläche geben und länglich ausrollen (ca so groß breit wie unsere Unterlage aber nicht ganz so hoch)
   - Mit Teigkarte 6 12x12 große Rechtecke rausschneiden
-  - Füllung zubereiten und jeweils 2EL davon in jede Golatsche geben
+  - Füllung zubereiten und jeweils 2EL davon in jede Golatsche geben (sofort alle befüllen damit es gleichmäßig ist)
   - Restliches Ei mit etwas Milch vermischen und jedes eingeklapptes Eck mit etwas Mischung bestreichen (zuerst ein Eck in Mitte falten, bestreichen, andere Seite falten, bestreichen, 3. Eck falten und bestreichen, 4. Eck falten und bestreichen), danach mit Teigkarte auf Backpapier legen
   - Fertige Golatschen mit restlicher Ei/Milch Mischung bestreichen
   - Im vorgeheizten Backrohr bei 180°C Heißluft ca 20min backen (aber nach 15min schauen wie dunkel sie sind)

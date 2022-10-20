@@ -32,10 +32,10 @@ directions:
   - Brotteig wirken und zu einem Wecken formen (falls nötig Oberfläche etwas befeuchten) und in Mohn wälzen sodass das Brot rundherum komplett mit Mohn bedeckt ist
   - In länglichen Gärkorb geben und 25min zugedeckt gehen lassen
   - Backrohr auf 240°C Heißluft vorheizen
-  - Wenn vorgeheizt Brot auf Gitter mit Backpapier kippen und mit Wasser besprühen (optional vorher mit Messer länglich einschneiden)
+  - Wenn vorgeheizt Brot auf Gitter mit Backpapier kippen und mit Wasser besprühen (damit bleibt es etwas weicher während sich die Kruste bildet). Optional vorher mit Messer länglich einschneiden.
   - Auf 185°C ändern und für ca 7min ins Rohr geben
-  - Danach auf Ober/Unterhitze ändern, 5sek die Backrohrtür öffnen, Wasser reinsprühen, schließen und 30min weiterbacken.
-  - Anschließend auf 170°C reduzieren und nochmal 10min backen (evtl kurz besprühen). Danach Gitter mit Brot aus Rohr ziehen und Brot nochmal gut mit Wasser besprühen und 5min backen (in Summe also 7+30+10+5min)
+  - Danach auf Ober/Unterhitze ändern, 5sek die Backrohrtür öffnen, Wasser reinsprühen (nächstes Mal weglassen weil bei Brot nur am Anfang und beim Rausnehmen nötig), schließen und 30min weiterbacken.
+  - Anschließend auf 170°C reduzieren und nochmal 10min backen (evtl kurz besprühen). Evtl danach nochmal 5min backen (in Summe also 7+30+10+5min)
   - Wenn es fertig ist klopfen (sollte hohl sein), mit etwas Wasser besprühen und auf Gitter auskühlen lassen
 ---
 
