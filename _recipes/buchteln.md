@@ -6,14 +6,18 @@ image: buchteln.webp
 category: Süßspeise
 
 images:
-  - image: ../images/buchteln_gegangen.webp
+  - image: ../images/buchteln_6stk_gegangen.webp
     description: Nach 40min Gehen füllen die Buchteln die Form vollständig aus
+  - image: ../images/buchteln_6stk_fertig.webp
+    description: Die fertigen großen Buchteln in der weißen Form (1. Versuch; haben sich unten zu sehr angesaugt; saftiger und klebriger als Germknödel. evtl wegen Größe oder weil noch nicht unterste Schiene)
   - image: ../images/buchteln_vollkorn.webp
     description: 500g Dinkel-Vollkornmehl, +20ml Milch, -2min Stufe 3 Knetzeit. VK-Teig bleibt leider sitzen bzw kompakt und schmeckt nicht wirklich gut. Nicht nochmal probieren.
   - image: ../images/buchteln_butter.webp
     description: Ausreichend Butter um die Form auszustreichen und die Buchteln zu bestreichen
-  - image: ../images/buchteln_kleiner.webp
+  - image: ../images/buchteln_12stk_kleiner.webp
     description: 12 kleinere Buchteln statt 6 großer, kein Vollkornmehl. Glasform ist etwas zu groß dafür, weiße Form wäre aber vmtl zu klein. Mit viel Butter Form eingestrichen und Buchteln oben bestrichen (erst danach Wasser draufgesprüht). Schließen der Buchteln war schwer weil Teig fast schon etwas trocken war. Eine davon mit Zwetschkenmarmelade war auch super. In Summe viel besser als 6 Stk!
+  - image: ../images/buchteln_12stk_glasform_fertig.webp
+    description: Nach der Gehzeit füllen sie die Form gut aus
 
 ingredients:
 - 500g Weizenmehl
