@@ -17,8 +17,8 @@ images:
     description: Nimmt man nur Spitzpaprika wird es in der Form knapp
   - image: ../images/gefuellte_paprika_quinoa.webp
     description: Wenn der Quinoa nass ist fällt er nicht mehr durch das Sieb
-  - image: ../images/gefuellte_paprika_ruccola.webp
-    description: Joghurtsauce mit Schnittlauch und Ruccola passen gut dazu
+  - image: ../images/gefuellte_paprika_rucola.webp
+    description: Joghurtsauce mit Schnittlauch und Rucola passen gut dazu
 
 components:
   - Tsatsiki

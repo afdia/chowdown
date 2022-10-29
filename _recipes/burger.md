@@ -18,7 +18,7 @@ images:
   - image: ../images/burger_kaspressknoedel.webp
     description: Kaspressknoedel passen super, sind aber etwas klein und man muss mehr Sauce dazugeben (weil sie sonst recht trocken sind)
   - image: ../images/burger_suesskartoffeln.webp
-    description: Iglo Süßkartoffellaichen mit Ruccola und angebratenen Champignons waren überraschend gut (Champignons hat man aber fast nicht gemerkt)
+    description: Iglo Süßkartoffellaichen mit Rucola und angebratenen Champignons waren überraschend gut (Champignons hat man aber fast nicht gemerkt)
   - image: ../images/burger_zu_lang_gegangen.webp
     description: Die Buns sind etwas mehr als 1h gegangen und deshalb wieder flach geworden. Daher Rastzeit nicht überschreiben!
   - image: ../images/burger_gekauft.webp
@@ -29,7 +29,7 @@ components:
 
 ingredients:
   - 4 Stk Ölz Burgerbrötchen (oder Buns selbst machen)
-  - Eisbergsalat oder Ruccola
+  - Eisbergsalat oder Rucola
   - Tomatenscheiben
   - Gurkenscheiben
   - 1 kleine rote Zwiebel in dünne Scheiben geschnitten

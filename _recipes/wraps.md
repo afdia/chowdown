@@ -15,7 +15,7 @@ components:
   - Guacamole
 
 ingredients:
-  - Ruccola oder Eisbergsalat, Mais, geriebene Karotten, Tomaten-, Paprika-, Gurken-, Mozzarellawürfel, Thunfisch, gebratener Halloumi
+  - Rucola oder Eisbergsalat, Mais, geriebene Karotten, Tomaten-, Paprika-, Gurken-, Mozzarellawürfel, Thunfisch, gebratener Halloumi
 
 directions:
   - Tortillas zubereiten und füllen

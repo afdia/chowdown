@@ -15,9 +15,9 @@ images:
     description: Eisbergsalat, Thunfisch, Mais, Paprika, Minigurke, Mozzarella in Stücken, Olivenöl, Balsamico, evtl Tomatenpesto
   - image: ../images/antipasti_baguette_guacamole.webp
     description: Als Beilage passt Baguette und Guacamole super dazu
-  - image: ../images/antipasti_ruccola_guacamole.webp
-    description: Ruccola Salat + Guacamole passen super zu Mozzarella mit Tomatenpesto. Dazu frisches Gebäch wie ein Fladenbrot
-  - image: ../images/antipasti_ruccola_guacamole2.webp
+  - image: ../images/antipasti_rucola_guacamole.webp
+    description: Rucola Salat + Guacamole passen super zu Mozzarella mit Tomatenpesto. Dazu frisches Gebäch wie ein Fladenbrot
+  - image: ../images/antipasti_rucola_guacamole2.webp
     description: Wie oben aber mit 2 Tage im Kühlschrank gerastetem Pizzabrot. Tastsiki ist auch gut aber braucht man nicht unbedingt dazu
 
 ingredients:

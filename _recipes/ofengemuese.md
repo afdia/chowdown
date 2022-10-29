@@ -31,5 +31,5 @@ directions:
 ---
 
 - Gebratener Halloumi passt super dazu (separat in Pfanne)
-- Ruccola Salat passt super
+- Rucola Salat passt super
 - Tsatsiki ebenfalls
