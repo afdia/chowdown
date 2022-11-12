@@ -8,7 +8,7 @@ images:
   - image: ../images/kartoffel_salat.webp
     description: Normaler Kartoffelsalat mit Schnittlauch. Perfekte Kartoffelsorte "Bernina" vom Biohof Anzböck GmbH (gekauft beim Spar). War noch besser als Ditta
   - image: ../images/endivien_salat_joghurt.webp
-    description: Endiviensalat fein geschnitten, 200g Joghurt, 15g Olivenöl, 15g weißer Balsamicoessig, 2 Knoblauchzehen fein geschnitten. Passt super als Beilage zb zu Enchiladas
+    description: Endiviensalat fein geschnitten, 200g Joghurt, 15g Olivenöl, 15g weißer Balsamicoessig, 1 Knoblauchzehe fein geschnitten. Passt super als Beilage zb zu Enchiladas
   - image: ../images/endivien_salat.webp
     description: Endiviensalat fein geschnitten nur mit Kürbiskernöl und dunklem Balsamico schmeckt sehr gut (einweichen + das süßliche Öl+Essig verhindern Bitterkeit)
 

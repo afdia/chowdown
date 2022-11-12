@@ -11,6 +11,8 @@ images:
     description: Runder Gährkorb ohne Mehl, außen kein Mohn wird auch sehr gut. Außen Mohn ist aber besser
   - image: ../images/vollkorn_mohn_brot_sonnenblumenkerne.webp
     description: Sonnenblumenkerne statt Mohn und weitere Anpassungen (300g frisch gemahlener Kamut, 300g Roggenmehl, 15g Roggen-Trocken-Sauerteig). Leere Auflaufform beim Vorheizen und später wenn Brot ins Rohr kommt mit Wasser füllen. Außerdem erstmals mehrmals ins Rohr sprühen. Ergebnis ist super Rinde
+  - image: ../images/vollkorn_mohn_brot_schlechte_rinde.webp
+    description: 500g 6Korn Mischung, 100g Roggenvollkorn, 1OPkg Alnatura Sauerteig, 1Pkg Hefe. Brot ist nicht aufgegangen und hat sehr harte Rinde. So soll es NICHT sein. Vmtl war Hefe schlecht weil es nicht aufging; war schon beim formen ungewöhnlich brüchig und steif. Vmtl 6Korn nur in Form gut und dieses Rezept nur mit Kamut oder evtl Weizen
   - image: ../images/vollkorn_mohn_brot_leinsamen.webp
     description: 400g frischer Kamut, 200g Weizenmehl, Leinsamen und Sonnenblumenkerne drinnen, außen Leinsamen. Ergebnis war perfekt, das beste Brot seit langem.
 

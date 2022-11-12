@@ -17,6 +17,8 @@ images:
     description: Form mit Sonnenblumenöl ausgefettet und Mehl draufgegeben (Problem - bildet "Mehlklumpen", besser Teig bemehlen!), Sonnenblumenkerne in Teig nicht so gut, 1h 200°C ohne vorheizen > Rinde zu dunkel und resch
   - image: ../images/vollkorn_brot_kastenform.webp
     description: Kastenform funktioniert auch, man darf Brot aber nur ca 15min darin rasten lassen. Bei 30 min + weiteres Gehen in den ersten Backminuten ist es seitlich stark übergelaufen. Die Backzeit ist auch ca 5-10min kürzer (noch genau ermitteln), geschmacklich war es sehr gut
+  - image: ../images/vollkorn_brot_roggen.webp
+    description: 300g Ur-Roggen frisch gemahlen, 100g Roggen (nicht VK), 200g Wasser, 1Pkg Trockenhefe, 10g Salz, 100g Joghurt, 20g weißer Balsamicoessig, 8g Olivenöl. In Form, Dauer wie im Rezept. Küchenmaschine konnte schwer kneten, dann mehrere Std rasten, ging aber nicht gut auf (vmtl wegen Roggen?). Geschmacklich trotzdem sehr gut. Lt [dieser Seite](https://www.habe-ich-selbstgemacht.de/roggenbrot-mit-hefe-ohne-sauerteig-rezept/) ist Joghurt+Essig ein guter Sauerteigersatz und es hat auch wie Sauerteig geschmeckt!
 
 ingredients:
   - 250g Vollkornmehl

@@ -15,6 +15,8 @@ images:
     description: Topfengolatschen mit ausreichend Füllung (2 Packungen Topfen) bevor sie ins Rohr kommen
   - image: ../images/topfengolatschen_nachher.webp
     description: Topfengolatschen mit ausreichend Füllung fertig
+  - image: ../images/topfengolatschen_frucht.webp
+    description: Man kann oben auf den Topfen vorm Zusammenklappen 1-2 Erdbeeren (oder Marillen?) legen. Passt super und ist erfrischend (ähnlich wie Marillenspitz)
 
 ingredients:
   - 300g Dinkelmehl (ersetzt man 50% durch VK-Dinkelmehl schmeckt es auch sehr gut)
@@ -24,7 +26,7 @@ ingredients:
   - 1/2 Sackerl Trockenhefe
   - 35g Zucker
   - 3,5g Salz
-  - "Füllung: 500g Topfen, 80g Staubzucker, 1Pkg (24g) Flana Vanille-Puddingpulver, 1 Zitrone, 1 gr Ei"
+  - "Füllung: 500g Topfen, 80g Staubzucker, 1Pkg (24g) Flana Vanille-Puddingpulver, 1 Zitrone, 1 gr Ei (halbe Menge Topfen, Zucker, Puddingpulver reicht auch)"
   - "Bestreichen: 1/4 gr Ei, etwas Milch"
 
 directions:

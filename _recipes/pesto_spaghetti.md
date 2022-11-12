@@ -6,10 +6,10 @@ category: Hauptgericht
 
 ingredients:
 - 90g Olivenöl
-- 70g Basilikumblätter (paar Hand voll)
-- 100g Cashewkerne (nächstes mal viel weniger nehmen, zb 40g)
+- 60g Basilikumblätter (paar Hand voll)
+- 45g Cashewkerne (35-40g sollten reichen)
 - 2 Knoblauchzehen
-- 60 g Parmesan (gerieben)
+- 45 g Parmesan (gerieben) (35-40g sollten reichen)
 - Pfeffer, Salz
 - 300g Nudeln
 
