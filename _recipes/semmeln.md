@@ -42,3 +42,5 @@ directions:
   - Danach heizt man das Backrohr auf 220°C Ober-/Unterhitze vor, dreht die Semmeln wieder um und besprüht sie mit Wasser.
   - Danach gibt die Semmeln für ca 18min ins Rohr. Alle 5min öffnen, Semmeln und Drumherum mit Wasser einsprühen und schließen. Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
+
+evtl Glanzstreiche probieren (wie in Vollkorn Mohn Brot beschrieben)

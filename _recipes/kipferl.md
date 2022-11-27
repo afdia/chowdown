@@ -16,6 +16,8 @@ images:
     description: Die vielen Lagen der Mohnfüllung innen
   - image: ../images/kipferl_kamut_mohnfuellung.webp
     description: Variante mit 250g Weizenmehl + 250g VK Kamutmehl, etwas kürzer geknetet und etwas mehr Mohnfüllung ist auch sehr gut
+  - image: ../images/kipferl_kamut_lang_rasten.webp
+    description: 50% frisch geriebener Kamut,50% Weizenmehl. Rastzeiten verdoppelt (am Ende mehrfach besprüht vorm Reingeben). War sehr gut und noch flaumiger aber nicht unbedingt nötig
 
 ingredients:
 - 500g Weizenmehl
@@ -36,11 +38,8 @@ directions:
 - Teig auf bemehlte Arbeistfläche kippen, in 10 Stücke zerteilen, rund formen und nochmal mit Tuch abgedeckt 15min rasten lassen
 - Kugeln flach drücken, länglich ausrollen (ca 20x12cm) und mit flüssiger Butter bestreichen
 - Füllung zubereiten und auf Teigfladen verteilen
-- Teigfladen einrollen und zu Kipferl formen, dann mit Wasser besprühen und ca 30min rasten lassen
+- Teigfladen einrollen, zu einem Kipferl formen und auf ein Blech oder Gitter mit Backpapier geben (je Blech 5 Stk)
+- Wenn alle fertig sind, mit Wasser besprühen und ca 30min rasten lassen
 - Backrohr auf 170°C Umluft vorheizen, Kipferl mit dem restlichen Ei und Mandelsplittern bedecken und ca 18-20min backen
 
 ---
-
-Verbesserungsideen:
-- Evtl auf 2 Blech verteilen
-- beim 1. Versuch war nur ein Dotter drinnen, beim 2. 1/2 verquirlt aber 1/2 VK Mehl. Vmtl gingen sie darum nicht so gut auf aber evtl lag es auch am Dotter?
