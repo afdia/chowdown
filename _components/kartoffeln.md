@@ -10,6 +10,6 @@ ingredients:
 directions:
   - Kartoffeln waschen und in Topf mit kaltem Wasser geben ([nötig damit in Mitte gleichmäßig fertig](https://meinanzeiger.de/hermsdorf/warum-setzt-man-kartoffeln-mit-kaltem-wasser-an-herr-buechner))
   - 1EL Salz dazugeben, zudecken und aufkochen lassen
-  - Auf Stufe 7 zurückdrehen und je nach Kartoffelgröße 15-25min kochen lassen (wenn es übergeht Deckel schief stellen)
+  - Auf Stufe 7 zurückdrehen und je nach Kartoffelgröße 15-25min zugedeckt kochen lassen (falls es übergeht Deckel schief stellen)
   - Nachher mit einem scharfen Messer von oben in eine Kartoffel stechen. Wenn sie vom Messer rutscht sind sie fertig
 ---
