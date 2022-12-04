@@ -21,6 +21,11 @@ images:
     description: Teig in Kühlschrank vorbereiten; direkt nach dem Kneten herausnehmen, rund formen, mit etwas Mehl bestäuben und wieder in Schüssel geben. Mit Frischhaltefolie zudecken. Am nächsten Tag herausnehmen (Teig ist ca doppelt-dreifach so groß) und Kugeln formen etc. wird sehr gut
   - image: ../images/semmeln_glanz.webp
     description: 230°C Ober/Unter 15min wobei ca alle 5 min geöffnet und Dampf reingesprüht wurde. Super Glanz, einzig in Mitte visuell zwar gut aber klebt auf Zählen (wenn ganz frisch gegessen)
+  - image: ../images/semmeln_glanzstreiche.webp
+    description: Erster Versuch mit Glanzstreiche (auch versucht ohne Mehl rasten, weshalb sie stark klebten und die Form verloren). Aber Glanzstreiche schaut super aus und passt perfekt!
+
+components:
+  - Glanzstreiche
 
 ingredients:
   - 400g Mehl (ergibt 8 Semmeln)
@@ -38,9 +43,9 @@ directions:
   - Backpapier mit Kartoffelstärke bestreuen (Ofner sagt 50/50 Roggenmehl/Stärke) und mit Teigkarte verteilen. Teig mit Teigkarte auf Backpapier putzen (auf Stärke damit er nicht klebt), in 8 Teile zerteilen und 8 Kugeln formen (immer wieder zu einer Seite ziehen um Spannung zu erzeugen). Jede Kugel in der Mehl/Stärke Mischung rollen und gut abklopfen.
   - Macht man Langsemmeln werden die Kugeln etwas länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln [(siehe Ofner Video)](https://www.youtube.com/watch?v=jAFSIyQ_Ppo) bzw nimmt einen Semmel-Stempel.
-  - Evtl rollt man sie nochmal in Mehl/Stärke damit sie nicht zusammenkleben, dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt rasten.
+  - Evtl rollt man sie nochmal gut in Mehl/Stärke damit sie nicht zusammenkleben (getestet - sonst klebt es nach der Rastzeit extrem), dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt rasten.
   - Danach heizt man das Backrohr auf 220°C Ober-/Unterhitze vor, dreht die Semmeln wieder um und besprüht sie mit Wasser.
   - Danach gibt die Semmeln für ca 18min ins Rohr. Alle 5min öffnen, Semmeln und Drumherum mit Wasser einsprühen und schließen. Nach dem Rausnehmen nochmal mit Wasser besprühen.
 ---
 
-evtl Glanzstreiche probieren (wie in Vollkorn Mohn Brot beschrieben)
+Glanzstreiche (siehe Komponente4) funktioniert super! Aber nur mit 4g oder sogar nur 3g Stärke machen. Außerdem 210°C probieren weil sie innen noch leicht "teigig" waren. Außerdem evtl nach 10mi auskühlen nochmal ins Rohr geben damit sie rescher werden!

@@ -18,6 +18,9 @@ images:
   - image: ../images/vollkorn_mohn_brot_leinsamen.webp
     description: 400g frischer Kamut, 200g Weizenmehl, Leinsamen und Sonnenblumenkerne drinnen, außen Leinsamen. Ergebnis war perfekt, das beste Brot seit langem.
 
+components:
+  - Glanzstreiche
+
 ingredients:
   - 390g lauwarmes Wasser 32°C (man kann 100-120g davon durch Joghurt ersetzen, passt super)
   - 1/2 Hefewürfel
@@ -45,4 +48,4 @@ directions:
 
 wenns innen weich ist lt ofner 5-10min länger ins rohr aber -10°C probieren
 
-Statt Mohn etc außen Glanzstreiche probieren, zb wie https://www.marcelpaa.com/rezepte/glanzstreiche-fuer-brote/ (10g Wasser mit 5g Kartoffel/Weizen/Maisstärke vermischen, dann 90g kochendes Wasser drauf, vermischen und mit Pinsel Brot direkt nach Rausgeben bestreichen - andere geben das Brot dann nochmal kurz ins Rohr aber er nicht)
+Statt Mohn etc außen Glanzstreiche probieren (siehe Komponente)
