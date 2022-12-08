@@ -4,6 +4,10 @@ title: "Kichererbsenlaibchen"
 image: kichererbsenlaibchen.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/kichererbsenlaibchen_dunkle_kichererbsen.webp
+    description: Variante mit dunklen Kichererbsen ist auch sehr gut. Nussiger, intensiverer Geschmack, weniger mehlig. Hier aber mit zuviel Fett zubereitet (haben sich angesaugt)
+
 ingredients:
 - 1 Glas Kichererbsen (220g Abtropfgewicht)
 - 2 Eier
