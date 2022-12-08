@@ -12,6 +12,9 @@ images:
   - image: ../images/griesschmarrn_dinkelvk.webp
     description: Der Ja! Dinkelgries schmeckt ähnlich wie selbst gerieben. Bei weitem nicht so gut wie ein Nockerlgries. Insbesondere das körnige Mundgefühl fehlt komplett
 
+components:
+  - Apfelkompott
+
 ingredients:
   - 300g Milch
   - 2 Eier

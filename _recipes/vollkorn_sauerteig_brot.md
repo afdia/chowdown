@@ -20,7 +20,7 @@ images:
   - image: ../images/vollkorn_sauerteig_brot_haeferl.webp
     description: Versuch ein Zerrinnen mit einem Häferl zu verhindern macht Delle; Brot ist bei Delle nicht ganz durch
   - image: ../images/vollkorn_sauerteig_glanzstreiche.webp
-    description: 100g Wasser durch Joghurt ersetzt, kein Sauerteig dafür 10g Essig, später noch mehr Mehl dazugegeben damit es nicht zu feucht ist. Teig sollte sich beim Kneten schon fast vom Rand lösen. Oben Glanzstreiche (hat danach gut ausgesehen), dann mit Tuch zugedeckt. Hat nach 10min stark am Brot geklebt (schaut man gegen Licht sieht man Fäden auf Rinde). Rinde trotzdem super von Konsistenz aber nächstes Mal anders zudecken - evtl Schüssel?
+    description: 100g Wasser durch Joghurt ersetzt, kein Sauerteig dafür 10g Essig, später noch mehr Mehl dazugegeben damit es nicht zu feucht ist. Teig sollte sich beim Kneten schon fast vom Rand lösen. Oben Glanzstreiche (hat danach gut ausgesehen), dann mit Tuch zugedeckt. Hat nach 10min stark am Brot geklebt (schaut man gegen Licht sieht man Fäden auf Rinde). Rinde trotzdem super von Konsistenz aber nächstes Mal anders zudecken - evtl Schüssel oder Backpapier?
 
 ingredients:
   - 500g DM 6-Korn-Mischung, 100g weißes Roggenmehl (wie Bauernbrot)
