@@ -7,6 +7,8 @@ category: Süßspeise
 images:
   - image: ../images/roulade_marmelade.webp
     description: Roulade mit 1 Glas Marillenmarmelade kann enger gerollt werden (man kann auch frische Marillen zerkleinern, mit etwas Zucker und Marillenmarmelade mischen und reinstreichen. Ist sehr erfrischend und fruchtig)
+  - image: ../images/roulade_marmelade_schokolade.webp
+    description: Schokolade (hier Vollmilch, Bitter passt vmtl besser) langsam in Wasserbad schmelzen (geringe Temperatur!), dann mit Teigkarte auf Roulade putzen und vorsichtig verstreichen. Dann auf Balkon/Kühlschrank fest werden lassen. Schmeckt super!
   - image: ../images/roulade_vorgerollt.webp
     description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
   - image: ../images/roulade_fuellung_passt.webp

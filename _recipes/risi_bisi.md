@@ -12,6 +12,8 @@ images:
     description: Reste der Pizza Toasts passen gut dazu (aber besser ist nur Reis+Erbsen)
   - image: ../images/risi_bisi_linsenreis.webp
     description: 50% des Reis durch roten Linsenreis (Marke Davert) ersetzt. Schmeckt auch sehr gut
+  - image: ../images/risi_bisi_bohnen.webp
+    description: Schwarze Bohnen passen sehr gut dazu, aber machen es etwas zu mehlig
 
 ingredients:
   - 250g TK-Erbsen

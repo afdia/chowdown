@@ -10,9 +10,12 @@ images:
   - image: ../images/kohltaschen_lasagne.webp
     description: Wie Auflauf nur dazwischen Barilla Lasagneblätter (ohne Bechamel). Außerdem zusätzlich schwarze Bohnen in Tomatensauce. War auch sehr gut (man braucht nicht unbedingt Reis dazu)
   - image: ../images/kohltaschen_kraut.webp
-    description: Halb Kraut, Halb Kohl passt auch gut, aber die Krautblätter müssen länger dünsten und bleiben etwas bissfester. Kohl ist in Summe doch etwas besser.
+    description: Halb Kraut, Halb Kohl passt auch gut, aber die Krautblätter müssen länger dünsten und bleiben etwas bissfester. Kohl ist in Summe doch etwas besser
   - image: ../images/kohltaschen_bratkartoffeln.webp
-    description: Bratkartoffeln sind zwar nicht so gut wie Reis aber eine passende Alternative
+    description: Bratkartoffeln sind zwar nicht so gut wie Reis aber eine passende alternative Beilage
+  - image: ../images/kohltaschen_bratkartoffeln_ohne_tomaten.webp
+    description: Bratkartoffeln zubereiten (hier violette Kartoffeln), Kohl waschen, in Streifen schneiden und in etwas Salzwasser für einige Minuten weich kochen. Käse grob reiben, dann alles abwechselnd in Auflaufform geben und ca 10-15min bei 200°C Heißluft ins Rohr geben
+
 components:
   - Basmatireis
 

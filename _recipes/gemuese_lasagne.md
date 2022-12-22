@@ -30,11 +30,10 @@ directions:
   - Tomatensauce und Thunfisch dazugeben
   - Für die Bechamel die Butter schmelzen, Mehl dazugeben und langsam Milch dazugießen während ständig umgerührt wird
   - "Wenn alles fertig ist 2 Formen bereit stellen und in folgender Reihenfolge schlichten: unten Bechamel, Lasagneblätter, Tomatensauce, Mozzarella, Lasagneblätter, Bechamel, Tomatensauce, ..."
-  - Ganz oben die restliche Bechamel verteilen und die Lasagne die sofort gegessen wird mit Alufolie bedecken (spiegelnde Seite nach oben)
-  - Backrohr auf 200°C Ober/Unterhitze vorheizen und wenn vorgeheizt auf Unterhitze ändern und 10min ins Rohr stellen (2. Schiene von unten), danach auf Ober/Unterhitze ändern und nochmal 20min ins Rohr geben
-  - Andere Lasagne auskühlen lassen und mit Plastikfolie im Kühlschrank aufheben. Am Folgetag für 30min Ober/Unterhitze ins Backrohr gegeben werden (weil sie oben sowieso flüssiger ist)
+  - Ganz oben die restliche Bechamel, darüber Mozzarella verteilen.
+  - Eine Lasagne bereitet man sofort zu. Dafür das Backrohr auf 200°C Ober/Unterhitze vorheizen und wenn vorgeheizt auf Unterhitze ändern und 10min ins Rohr stellen (2. Schiene von unten), danach auf Ober/Unterhitze ändern und nochmal 20min ins Rohr geben
+  - Die andere Lasagne auskühlen lassen und mit Plastikfolie zugedeckt im Kühlschrank aufheben. Am Folgetag für 30min 200°C Ober/Unterhitze ins vorgeheizte Backrohr gegeben werden (weil sie oben sowieso flüssiger ist)
+
 ---
 
 Das Rezept ergibt 2 Lasagnen, eine zum Sofortessen, die zweite für den nächsten Tag
-
-evtl probieren ganz oben mozarella statt bechamel?

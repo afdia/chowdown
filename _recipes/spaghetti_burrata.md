@@ -9,7 +9,7 @@ images:
     description: Vor dem Essen öffnet man den Burrata und gibt etwas Kräutersalz und Olivenöl drauf (eigentlich haben wir jeder nur einen halben Burrata am Teller gehabt d.h. 50g für jeden)
 
 ingredients:
-  - 100g Burrata
+  - 100g Burrata (gibts bei Billa, beim Hofer gibts 200g die auch super sind)
   - 1 Zucchini
   - 1 Knoblauch
   - 1 Glas DM Bio Tomatensauce Gegrillte Paprika

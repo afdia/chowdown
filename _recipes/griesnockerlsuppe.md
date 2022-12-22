@@ -27,4 +27,5 @@ directions:
   - Die Nockerl nochmal kurz mit der Suppe mitkochen
 ---
 
-neue zeit ist super aber noch vereinzelt klumpen. evtl ei und butter vorher vermischen, erst wenn cremig gries dazugeben. Wobei seit ich 8 statt 12 mache sind sie nicht mehr kernig
+- Probieren: Zimmerwarme Butter cremig rühren, Ei zugeben und zusammen mit dem Salz schaumig rühren. Grieß unterrühren und 15 Minuten ziehen lassen.
+- Evtl besser 15 oder 20min Stufe 6 und danach 15 oder 20min ziehen lassen
