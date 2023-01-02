@@ -24,7 +24,7 @@ images:
 
 ingredients:
   - 500g DM 6-Korn-Mischung, 100g weißes Roggenmehl (wie Bauernbrot)
-  - 470ml lauwarmes Wasser (vmtl viel zuviel Wasser. -70g testen)
+  - 400ml lauwarmes Wasser (war früher 470g aber dann ist es innen zu weich)
   - 12g Salz
   - 1/2 Germwürfel
   - 10g Gerstenmalzmehl

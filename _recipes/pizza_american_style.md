@@ -15,6 +15,8 @@ images:
     description: Champignon Pizza. Statt Gouda unten Parmesan+Tomatensauce vermischt ist auch gut aber Parmesan schmeckt zu sehr hervor. Das Bild zeigt auch dass man die Blech etwas stapeln muss damit sie sich im Backrohr ausgehen
   - image: ../images/pizza_american_style_champignons_ohne_oel.webp
     description: 250g Mozzarella, ConteDeCesare Tomaten in Stücken in extra dickem Saft, KEIN Öl auf Teig oder Backpapier. Ergebnis war unten trotzdem resch, sehr gut aber leider zu flüssig. Vmtl wegen Champignons + Mozzarella (nicht abgetropft)
+  - image: ../images/pizza_american_style_rasten.webp
+    description: Pizzateig wie in standard Pizza Rezept zubereitet (aber nur 1/4 Sackler Trockengerm), 2 Tage in Schüssel in Kühlschrank gelagert, rausgegeben, zerteilt in 2 mit Backpapier ausgelegte Blech und weitergemacht wie hier beschrieben (1h rasten etc). Rand mit Knoblauchöl. War super!
 
 ingredients:
   - 350g Weizen-Mehl glatt (beim 1. versuch 50g davon durch Hartweizenmehl ersetzt, macht es das rescher?)
@@ -35,7 +37,7 @@ directions:
   - Bei jedem Blech den Teig über die gesamte Blechgröße ausziehen
   - 1h in Backrohr gehen lassen, danach Käse schneiden und Tomatensauce bzw sonstigen Belag vorbereiten
   - Nach Rastzeit mit Tomatensauce und Käse belegen und Backrohr auf 280°C Ober/Unterhitze vorheizen
-  - Gitter auf unterste Schiene geben und jede Pizza im Blech ca 14-15min ins Rohr geben (die 2 Blech überlappen etwas damit sie sich ausgehen)
+  - Gitter (nicht das große Blech!) auf unterste Schiene geben und jede Pizza im Blech ca 14-15min ins Rohr geben (die 2 Blech überlappen etwas damit sie sich ausgehen). Das große Blech hat keinen Platz für beide kleinen Blech, außer man gibt es evtl verkehrt rein
 ---
 
 evtl in 1 oder 2 Teile zerteilt auf großem Blech probieren?

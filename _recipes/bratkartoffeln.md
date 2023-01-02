@@ -16,7 +16,7 @@ images:
   - image: ../images/bratkartoffeln_roh_pfanne.webp
     description: Kartoffeln schälen und in ca 0,5cm dicke Scheiben schneiden und roh mit etwas Öl in Pfanne geben. Salzen und paar mal schwenken dass es sich gut verteilt, dann mit Decken bei Stufe 7 ca 15-20min braten und immer wieder schwenken. Sind fertig wenn sie bissfest sind (werden nicht ganz weich aber schön resch und schmecken gut; nachteil ist dass es etwas spritzt wenn Wasser vom Deckel in Pfanne rinnt - beim Abnehmen zum Schwenken)
   - image: ../images/bratkartoffeln_haelften.webp
-    description: Geputzte haliberte Kartoffeln sind auch sehr gut. Vom Knoblauch hat man nichts gemerkt
+    description: Geputzte haliberte Kartoffeln sind auch sehr gut. Vom Knoblauch hat man nichts gemerkt. Anstatt aufs kleine Blech kann man sie auch auf Backpapier legen.
 
 components:
   - Kartoffeln
