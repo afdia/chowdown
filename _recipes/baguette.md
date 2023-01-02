@@ -16,7 +16,7 @@ images:
   - image: ../images/baguette_breit.webp
     description: Einer der ersten Versuche mit einem großen Baguette (400g Mehl) war flach und ähnlich wie Weißbrot aber gut
   - image: ../images/baguette_ohne_backpapier.webp
-    description: Baguette länglich außen bemehlt direkt ohne Papier auf Blech. Wird gut, hängt aber leider am Blech und zerreißt beim Lösen. Daher wenn dann zusätzlich Blech vorher bemehlen (?)
+    description: Baguette länglich außen bemehlt, Form leicht bemehlt, direkt ohne Papier auf Blech. Wird gut, hängt aber leider am Blech und zerreißt beim Lösen. 1 von 3 ging gut, daher besser nicht machen (oder SEHR VIEL Mehl auf Blech geben?)
   - image: ../images/baguette_knoblauch_sesam_vor.webp
     description: Eins mit Knoblauch+Olivenöl bestrichen, eins mit Sesam belegt
   - image: ../images/baguette_knoblauch_sesam_nach.webp

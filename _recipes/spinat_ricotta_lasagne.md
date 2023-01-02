@@ -5,35 +5,30 @@ image: spinat_ricotta_lasagne.webp
 category: Hauptgericht
 
 images:
-  - image: ../images/gemuese_lasagne_bohnen_melanzani.webp
-    description: Halbierte Kidneybohnen statt Thunfisch passt super. Mit dem Messer geschnittene Melanzani in Scheiben geschlichtet war zu Kaugummiartig (speziell am Folgetag). Entweder direkt in Sauce würfeln oder nicht nehmen
-  - image: ../images/gemuese_lasagne_schwarze_bohnen.webp
-    description: Schwarze Bohnen statt Thunfisch passt super. Zusätzlich mit Küchenmaschine Karotten, Peterwurzen, Zucchini, Paprika gerieben. Oben zusätzlich zum Bechamel Mozzarella-Würfel macht es oben weicher und schmeckt super
+  - image: ../images/spinat_ricotta_lasagne_vorher.webp
+    description: Lasagne bevor sie ins Rohr kommt
 
 ingredients:
-  - 1x Weißkraut (oder Kohl)
-  - 1 großes Glas (700g) Tomatensauce
-  - 1-2 große Dosen Thunfisch
-  - 1-2 Zwiebel
-  - 3 Knoblauchzehen
-  - Butter zum Anschwitzen
-  - 400g Mozzarella (fein schneiden)
-  - 2 Packungen Lasagneblätter
-  - "Bechamel: 48g Vollkornmehl (bei nicht VK eher 55g)"
-  - "Bechamel: 45g Butter"
-  - "Bechamel: 600ml Milch"
-  - "Bechamel: etwas Suppenwürze und Pfeffer"
+- 300g Babyspinat (6-7 Stk TK Spinat)
+- 250g Champignons + Öl zum anbraten
+- 1-2 Knoblauchzehen
+- etwas Salz, Pfeffer
+- 250g Ricotta
+- 200g Mozzarella
+- 50g Parmesankäse
+- 350 ml Passata (1/2 Glas Mutti Sauce)
+- 6 Lasagne-Nudelplatten
 
 directions:
-  - Zwiebel und Knoblauch schneiden und in etwas Butter anschwitzen
-  - Kraut mit Küchenmaschine zerkleinern (größte Scheibe) und dazugeben
-  - Tomatensauce und Thunfisch dazugeben
-  - Für die Bechamel die Butter schmelzen, Mehl dazugeben und langsam Milch dazugießen während ständig umgerührt wird
-  - "Wenn alles fertig ist 2 Formen bereit stellen und in folgender Reihenfolge schlichten: unten Bechamel, Lasagneblätter, Tomatensauce, Mozzarella, Lasagneblätter, Bechamel, Tomatensauce, ..."
-  - Ganz oben die restliche Bechamel, darüber Mozzarella verteilen.
-  - Eine Lasagne bereitet man sofort zu. Dafür das Backrohr auf 200°C Ober/Unterhitze vorheizen und wenn vorgeheizt auf Unterhitze ändern und 10min ins Rohr stellen (2. Schiene von unten), danach auf Ober/Unterhitze ändern und nochmal 20min ins Rohr geben
-  - Die andere Lasagne auskühlen lassen und mit Plastikfolie zugedeckt im Kühlschrank aufheben. Am Folgetag für 30min 200°C Ober/Unterhitze ins vorgeheizte Backrohr gegeben werden (weil sie oben sowieso flüssiger ist)
+- Spinat in Pfanne geben und bei Stufe 6 langsam erhitzen (anfangs mit Deckel, dann ohne) bis er weich ist und möglichst kein Wasser übrig ist. Würzen, durchmischen und aus Pfanne rausgeben.
+- Champignons säubern, in Scheiben schneiden und in Pfanne in etwas Öl scharf anbraten. Knoblauch schneiden und wenn Champignons fertig sind Herd zurückdrehen und dazugeben.
+- Parmesan fein reiben und mit Ricotta vermischen (bei 1. Versuch war 1 Ei dabei aber das passt nicht, es wird zu bröckelig)
+- "Schlichten von unten nach oben: Tomatensauce, Lasagneblätter, Ricotta, Spinat, Champignons, Tomatensauce, Lasagneblätter, Ricotta, Spinat, Tomatensauce, Lasagneblätter, Ricotta, Tomatensauce, Mozzarella"
+- 200°C Ober/Unterhitze vorheißen und auf 2. Stufe 30min ins Rohr geben (letzter Versuch die ersten 10min nur Unterhitze wie bei anderer Lasagne aber Ergebnis war noch zu hell, daher noch +5min Ober/Unter gestellt. Nächstes Mal gleich 30min Ober/Unter)
 
 ---
 
-Das Rezept ergibt 2 Lasagnen, eine zum Sofortessen, die zweite für den nächsten Tag
+NÄCHSTES MAL
+- 30min Ober/Unterhitze probieren
+- KEIN Ei zu Riccota mischen (war zu fest und bröckelig, wie bei Topfengolatsche)
+- evtl Bechamele statt Ricotta probieren?
