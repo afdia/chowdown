@@ -812,7 +812,11 @@ h6, .h6 { font-size: .75rem }
   }
 
 }
-
+@media (min-width: 150em) {
+  .lg-col-4 {
+    width: 16.65%;
+  }
+}
 
 .flex { display: flex }
 
