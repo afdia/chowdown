@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/kichererbsenlaibchen_dunkle_kichererbsen.webp
     description: Variante mit dunklen Kichererbsen ist auch sehr gut. Nussiger, intensiverer Geschmack, weniger mehlig. Hier aber mit zuviel Fett zubereitet (haben sich angesaugt)
+  - image: ../images/kichererbsenlaibchen_wenig_fett.webp
+    description: Versuch mit sehr wenig Fett. 1. Partie war noch gut, bei 2. war nicht mal mehr der Pfannenboden bedeckt weshalb ich die Laibchen zusammendrücken musste. War auch noch gut aber nicht resch. Dafür nachher praktisch kein Fett in Pfanne übrig.
 
 ingredients:
 - 1 Glas Kichererbsen (220g Abtropfgewicht)
@@ -28,7 +30,7 @@ directions:
   - Käse grob reiben und dazugeben, Karotten ebenfalls grob reiben und dazugeben
   - Am Schluss Salz, Pfeffer, Backpuliver und Mehl reinmischen
   - Mit den Händen ca 12 Laibchen formen und falls gewünscht Beilagen vorbereiten (zb Joghurtsauce oder Vogerlsalat mit Kürbiskernöldressing)
-  - Öl in beschichtete Pfanne geben (ca 0,5-1cm hoch; die Laibchen sollen ca bis zur Mitte oder etwas mehr im Öl liegen)
+  - Öl in beschichtete Pfanne geben (ca 0,5cm hoch; die Laibchen sollen ca bis zur Mitte oder etwas mehr im Öl liegen)
   - Zuerst bei Stufe 9, später 8 oder 7 einige Minuten lang herausbacken und ab und zu wenden
 ---
 

@@ -12,7 +12,7 @@ images:
   - image: ../images/toastbrot_nach_gehen.webp
     description: Und nach Gehzeit
   - image: ../images/toastbrot_kamut.webp
-    description: Toastbrot mit 100% frisch gemahlenem Kamut und 20g mehr Wasser. Form mit Backtrennspray ausgefettet, erstmals 30min statt 25min - super Ergebnis, bester VK Toast (viel besser als mit Dinkel)
+    description: Toastbrot mit 100% frisch gemahlenem Kamut und 20g mehr Wasser. Form mit Backtrennspray ausgefettet. Super Ergebnis, bester VK Toast (viel besser als mit Dinkel). Erneuter Versuch war sehr brüchig und Knethaken hat Teig schlecht erfasst. Evtl doch keine +20g Wasser, außerdem Teig vor Form gut kneten/falten
   - image: ../images/toastbrot_hartweizenmehl1.webp
     description: Toastbrot mit Glasform + Backtrennspray und anschließend Ja! Pizzamehl (ist Hartweizenmehl) in Form gegeben. Macht eine interessante Konsistenz aber ...
   - image: ../images/toastbrot_hartweizenmehl2.webp
@@ -36,9 +36,8 @@ ingredients:
 directions:
   - Kastenform mit Backpapier auslegen (oder ausbuttern bzw mit Backtrennspray einsprühen), dann alle Zutaten in Schüssel geben.
   - 3min Stufe 2 dann 5min Stufe 3 mit Brotknethaken kneten, in Mitte putzen und zugedeckt ca 40min gehen lassen.
-  - Anschließend nochmal kurz in Mitte putzen und mit Stufe 2 bzw 3 durchkneten
-  - Den Teig länglich ziehen und in die Kastenform geben.
+  - Anschließend Teig rausputzen und auf Arbeitsfläche händisch durchkneten und mehrmals ausbreiten, falten, ausbreiten, falten etc. Am Ende Rollen und in Form geben.
   - Mit Wasser besprühen und 30min im Backrohr (oder mit Tuch zugedeckt) gehen lassen (länger geht auch aber dann geht Teig über)
-  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C Ober/Unterhitze für ca 30min (war früher 25min aber da war das Brot innen nicht ganz durch) ins vorgeheizte Backrohr auf die unterste Schiene (wenn Backpapier) sonst zweitunterste Schiene geben
+  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C Ober/Unterhitze für ca 30min (früher 25min aber da war Brot innen nicht ganz durch) ins vorgeheizte Backrohr auf die unterste Schiene (wenn Backpapier) sonst zweitunterste Schiene geben
   - Direkt nach dem Reingeben und 5min vor Ende mit Sprühflasche ins Rohr sprühen
 ---

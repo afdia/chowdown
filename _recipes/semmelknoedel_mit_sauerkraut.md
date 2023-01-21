@@ -9,10 +9,9 @@ components:
   - Sauerkraut
 
 ingredients:
-  - Iglo Erdäpfeltascherl Frischkäse-Kräuter
+  - Iglo Erdäpfeltascherl Frischkäse-Kräuter (Alternativ Gemüsestangerl, Karfiol Käse Laibchen, Kartoffelpuffer oder selbstgemachte Laibchen)
+  - Alterantiv zu Semmelknödel passen auch Bratkartoffeln gut
 
 directions:
   - Semmelknödel, Sauerkraut und Beilage zubereiten
 ---
-
-Statt den Iglo Fertigtaschen passen sicher auch Bratkartoffel, Kartoffelpuffer etc dazu

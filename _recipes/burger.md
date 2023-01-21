@@ -20,7 +20,9 @@ images:
   - image: ../images/burger_suesskartoffeln.webp
     description: Iglo Süßkartoffellaichen mit Rucola und angebratenen Champignons waren überraschend gut (Champignons hat man aber fast nicht gemerkt)
   - image: ../images/burger_zu_lang_gegangen.webp
-    description: Die Buns sind etwas mehr als 1h gegangen und deshalb wieder flach geworden. Daher Rastzeit nicht überschreiben!
+    description: Die Buns sind etwas mehr als 1h gegangen und deshalb wieder flach geworden. Daher Rastzeit nicht überschreiten!
+  - image: ../images/burger_mozzarella.webp
+    description: Unten Guacamole, dann pro Burger 1/2 Mozzarella, Tomatenpesto draufstreichen, 2 Gurkenscheiben, Eisbergsalat, Sriracha Sauce. Schmeckt super und sommerlich
   - image: ../images/burger_gekauft.webp
     description: Erster Versuch mit gekauften Burger Buns
 

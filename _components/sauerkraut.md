@@ -17,4 +17,5 @@ directions:
 - Zwiebel und Knoblauch fein schneidne und in Butter anrösten
 - Sauerkraut dazugeben, mit Suppenwürze und Pfeffer würzen und kurz aufkochen
 - Äpfel schälen und Stücke zu Apfelmuß reiben und zum Sauerkraut dazugeben und kochen bis es weich ist
+- Optional 1-2EL Paprikapulver dazugeben (evtl auch Tomatenmark?) für einen Szegediner Stil
 ---

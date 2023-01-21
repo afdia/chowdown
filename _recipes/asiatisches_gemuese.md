@@ -25,6 +25,8 @@ images:
     description: Lauch, Karotten, Peterwurzen, Paprika, Zucchini, Erbsen, Brokkoli (fein geschnitten), Shan’shi Woknudeln, Sojasauce, 2EL Tomatenmark, Sweet Chili Sauce, Schärfungssauce, Suppenwürze, Pfeffer, angeröstete Cashewkerne (erst am Teller dazu geben damit sie resch bleiben) - Ergebnis war die perfekte Mischung, vmtl passen Peterwurzen super!
   - image: ../images/asiatisches_gemuese_sojabohnen.webp
     description: Sojabohnen (gibts gefrohren von Iglo) nach Packungsangaben zubereiten und dazugeben. Passt super (evtl auch statt Cashewkernen weil beides eher mehlig ist)
+  - image: ../images/asiatisches_gemuese_mit_rotkraut_und_sojabohnen.webp
+    description: Viel Lauch, 2 Knoblauchzehen, etwas Rotkraut, 4 Karotten, 3 Peterwurzen, 1 Zucchini, 1Pkg TK-Sojabohnen. Lauch+Knoblauch mit Messer schneiden, Sojabohnen 5min in Salzwasser kochen, Rest mit Küchenmaschine reiben. Lauch+Knoblauch in Olivenöl glasig dünsten, Rest dazu, am Schluss Sojabohnen dazu. Mit etwas Curry, Suppenwürze, Sojasauce, Sriracha Sauce, Ketchup, Habernerosauce würzen. Ergebnis war perfekt, vmtl weil viel Lauch genommen und Rotkraut passt super zu Sojabohnen und Sriracha Sauce
 
 ingredients:
   - Reisnudeln (alternativ Basmatireis oder Mie-Nudeln)

@@ -19,6 +19,8 @@ images:
     description: Rucola Salat + Guacamole passen super zu Mozzarella mit Tomatenpesto. Dazu frisches Gebäch wie ein Fladenbrot
   - image: ../images/antipasti_rucola_guacamole2.webp
     description: Wie oben aber mit 2 Tage im Kühlschrank gerastetem Pizzabrot. Tastsiki ist auch gut aber braucht man nicht unbedingt dazu
+  - image: ../images/antipasti_pesto.webp
+    description: Kleine Mozzarella, Tomaten, fein geschnittene Gurken, viel Tomatenpesto und etwas intensiver dunkler Balsamicoessig. Etwas Salz, Pfeffer, Gute Laune etc passt gut dazu
 
 ingredients:
   - 2 große und 1 kleine Packung Mozzarella

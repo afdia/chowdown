@@ -15,6 +15,8 @@ images:
     description: Bratkartoffeln sind zwar nicht so gut wie Reis aber eine passende alternative Beilage
   - image: ../images/kohltaschen_bratkartoffeln_ohne_tomaten.webp
     description: Bratkartoffeln zubereiten (hier violette Kartoffeln), Kohl waschen, in Streifen schneiden und in etwas Salzwasser für einige Minuten weich kochen. Käse grob reiben, dann alles abwechselnd in Auflaufform geben und ca 10-15min bei 200°C Heißluft ins Rohr geben
+  - image: ../images/kohltaschen_bohnen_burrata.webp
+    description: Statt Zwiebel Lauch, statt Thunfisch weiße Bohnen, statt oben Mozzarella Burrata. Lauch passt sehr gut, Bohnen sind ok aber machen es zu mehlig (speziell mit Reis), Burrata schmilzt eigenartig, sollte man nur kalt essen
 
 components:
   - Basmatireis
