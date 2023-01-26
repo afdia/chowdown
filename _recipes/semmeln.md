@@ -19,6 +19,8 @@ images:
     description: Variante mit 400g frisch geriebener Weizen + 100g normales Weizenmehl. In 50/50 Kartoffelstärke/Roggenmehl gewälzt schmeckt sehr gut und "rustikal"
   - image: ../images/semmeln_teig_kuehschrank.webp
     description: Teig in Kühlschrank vorbereiten; direkt nach dem Kneten herausnehmen, rund formen, mit etwas Mehl bestäuben und wieder in Schüssel geben. Mit Frischhaltefolie zudecken. Am nächsten Tag herausnehmen (Teig ist ca doppelt-dreifach so groß) und Kugeln formen etc. wird sehr gut
+  - image: ../images/semmeln_stempel.webp
+    description: Semmel-Stempel muss fest reingedrückt werden damit die Form erhalten bleibt (fast ganz). Hier mit Sesam und Sonnenblumenkernen bestreut
   - image: ../images/semmeln_glanz.webp
     description: 230°C Ober/Unter 15min wobei ca alle 5 min geöffnet und Dampf reingesprüht wurde. Super Glanz, einzig in Mitte visuell zwar gut aber klebt auf Zählen (wenn ganz frisch gegessen)
   - image: ../images/semmeln_glanzstreiche.webp
@@ -44,8 +46,8 @@ directions:
   - Macht man Langsemmeln werden die Kugeln etwas länglich ausgerollt und mit dem Griff eines Tafelmessers fest in der Mitte ein Spalt reingedrückt.
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln [(siehe Ofner Video)](https://www.youtube.com/watch?v=jAFSIyQ_Ppo) bzw nimmt einen Semmel-Stempel.
   - Evtl rollt man sie nochmal gut in Mehl/Stärke damit sie nicht zusammenkleben (getestet - sonst klebt es nach der Rastzeit extrem), dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt rasten.
-  - Danach heizt man das Backrohr auf 210°C (EVTL 200° und etwas länger testen weil etwas zu feucht innen) Ober-/Unterhitze vor, dreht die Semmeln wieder um und besprüht sie mit Wasser.
-  - Danach gibt die Semmeln für ca 18-20min ins Rohr. Nach 5min und am Ende kann man sie mit etwas Wasser besprühen. Nach dem Rausnehmen mit Glanzstreiche bestreichen
+  - Danach heizt man das Backrohr auf 200°C (EVTL 190° und +3 bis 5min) Ober-/Unterhitze vor, dreht die Semmeln wieder um und besprüht sie mit Wasser.
+  - Danach gibt die Semmeln für ca 21min ins Rohr. Nach 5min und am Ende kann man sie mit etwas Wasser besprühen. Nach dem Rausnehmen mit Glanzstreiche bestreichen
 ---
 
 nach 10min auskühlen nochmal ins Rohr geben damit sie rescher werden!

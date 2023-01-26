@@ -11,6 +11,8 @@ images:
     description: Bevor Käse draufkommt und sie ins Rohr kommen
   - image: ../images/macaroni_cheese_vor_rohr.webp
     description: Mit gelber und grüner Zucchini und rotem Zwiebel wird das Ergebnis schön bunt und schmeckt super
+  - image: ../images/macaroni_cheese_lauch.webp
+    description: Lauch statt Zwiebel, ganzer Käse in Sauce (d.h. kein extra Käse oben) war auch super!
 
 ingredients:
   - 250g Maccaroni

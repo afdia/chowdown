@@ -5,6 +5,10 @@ title: "Grenadiermarsch"
 image: grenadiermarsch.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/grenadiermarsch_ohne_zwiebel.webp
+    description: Bratkaroffeln in Pfanne zubereitet, währendessen 120g 1er Nudeln in Mitte gebrochen gekocht, am Schluss 3 Eier dazu (kein Zwiebel). War super Alternative, besser als erwartet!
+
 components:
   - Kartoffeln
   - Semmelknoedel

@@ -29,13 +29,14 @@ directions:
   - Teig in Schüssel zugedeckt 15min gehen lassen
   - Während man wartet, Knoblauchpaste vorbereiten (4 Knoblauchzehen pressen und mit Olivenöl und Salz vermischen) und Käse reiben
   - Teig auf bemehlte Arbeitsfläche rauskippen, in 6 Stk zerteilen und Kugeln formen (wie bei Semmeln etc) und 15min rasten lassen
-  - Anschließend die Kugeln auf bemehlter Arbeitsfläche zu flachen Teigfladen ausrollen und zunächst das Knoblauchöl, dann den Käse darauf verteilen
+  - Anschließend die Kugeln auf Arbeitsfläche (kein Mehl nötig) zu flachen Teigfladen ausrollen und zunächst das Knoblauchöl, dann den Käse darauf verteilen
   - Danach von oben nach unten einrollen. Dabei die Spannung erhalten und die Teigrolle beim rollen etwas zu den Rändern rausziehen (damit die Ränder wie Salzstangerl aussehen).
   - Anschließend alle Stangerl nochmal mit den Händen flach rollen bis sie so breit wie das Backblech sind.
   - Mit Wasser besprühen und mit Sesam bestreuen.
-  - Backrohr auf 220°C Heißluft vorheizen und ein Häferl Wasser reinstellen. Wenn vorgeheizt, Stangerl nochmal besprühen und für 15-18min ins Backrohr geben
+  - Backrohr auf 220°C Heißluft vorheizen. Wenn vorgeheizt, Stangerl nochmal besprühen und ca 15min ins Backrohr geben
 ---
 
 Man kann sicherlich beliebige Dinge einfüllen wie Tomatensauce, Paprika, Mais, ... ähnlich wie Pizza
 Achtung bei Schinken: Wenn er zu fest ist (letzter Versuch Putenschinken) kann man die Stangerl nicht breit ausrollen!
 Oder auch gar nichts, dann hat man Salzstangerl (ohne länglich ausrollen)
+Auch der Belag von Pizzatoasts passt sehr gut rein

@@ -6,9 +6,10 @@ category: BrotGebaeck
 
 components:
   - Tortillas
-  - Tomatensalsa
-  - Gurke-Sweet-Chili-Salsa
   - Guacamole
+  - Gurke-Sweet-Chili-Salsa
+  - Tomatensauce eingelegte San Marzano
+  - Tomatensalsa
 
 images:
   - image: ../images/quesadillas_mozzarella.webp
