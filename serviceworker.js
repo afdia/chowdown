@@ -1,17 +1,12 @@
-// use Workbox-SW to cache resources (see https://stackoverflow.com/questions/46830493/is-there-any-way-to-cache-all-files-of-defined-folder-path-in-service-worker/46891749#46891749)
-// I use Stale-while-revalidate to get updates e.g. for images in background while still using the cached img at the moment (see https://developers.google.com/web/tools/workbox/modules/workbox-strategies)
-importScripts('https://afdia.github.io/chowdown/js/workbox-sw.prod.v0.0.2.js');
-importScripts('https://afdia.github.io/chowdown/js/workbox-runtime-caching.prod.v1.3.0.js');
-importScripts('https://afdia.github.io/chowdown/js/workbox-routing.prod.v1.3.0.js');
-
-const assetRoute = new workbox.routing.RegExpRoute({
-    regExp: new RegExp('^https://afdia.github.io/chowdown/*'),
-    handler: new workbox.runtimeCaching.StaleWhileRevalidate()
+// LOKAL SETUP:
+// https://developer.chrome.com/docs/workbox/modules/workbox-sw/#using-local-workbox-files-instead-of-cdn
+// https://developer.chrome.com/docs/workbox/modules/workbox-sw/#using-workbox-sw-via-cdn
+// Für Update folgendes Aufrufen: "npx workbox - cli copyLibraries js /""
+importScripts('https://afdia.github.io/chowdown/js/workbox-v6.5.4/workbox-sw.js');
+workbox.setConfig({
+    modulePathPrefix: 'https://afdia.github.io/chowdown/js/workbox-v6.5.4/',
 });
-
-const router = new workbox.routing.Router();
-//router.addFetchListener();
-router.registerRoutes({ routes: [assetRoute] });
-router.setDefaultHandler({
-    handler: new workbox.runtimeCaching.StaleWhileRevalidate()
-});
+workbox.routing.registerRoute(
+    ({ url }) => url.pathname.startsWith('https://afdia.github.io/chowdown/'),
+    new workbox.strategies.StaleWhileRevalidate()
+);
