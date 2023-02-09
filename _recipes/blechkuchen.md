@@ -21,6 +21,8 @@ images:
     description: Variante mit Himbeeren oben aufgelegt war sehr gut nur Kerne sind etwas störend
   - image: ../images/blechkuchen_zwetschke_topfen.webp
     description: Zwischen Zwetschken sind Topfenflecken (250g Topfen, 1Pkg Vanillezucker, 1 Ei, evtl etwas Zitrone) - schmeckt super; wie Topfenstrudel Füllung
+  - image: ../images/blechkuchen_apfel_heidelbeere.webp
+    description: Variante halb Apfelscheiben, halb Heidelbeeren. Statt Milch 250g Topfen genommen, war aber sehr trocken daher noch (ca 50g?) Milch nachgegeben
 
 ingredients:
   - 130g Butter

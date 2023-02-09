@@ -23,6 +23,8 @@ images:
     description: 340g Weizen, 100g VK Weizen, Backpapier in Form, 25min unterste Schiene wurde sehr gut. Unten schön weich, oben nicht zu dunkel
   - image: ../images/toastbrot_klebt_in_form.webp
     description: Form mit Sonnenblumenöl mit Küchenrolle eingerieben. Brot bleibt in Form picken. Besser mit Butter einfetten oder Backpapier nehmen! War mit nicht-VK-Dinkelmehl welches sehr gut passt
+  - image: ../images/toastbrot_pizzamehl.webp
+    description: Variante mit 50% Ja! Pizzamehl (aus Hartweizen) schmeckt auch super!
 
 ingredients:
   - 440g Weizenmehl oder frisch gemahlener Kamut

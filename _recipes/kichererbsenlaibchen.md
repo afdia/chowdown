@@ -9,6 +9,8 @@ images:
     description: Variante mit dunklen Kichererbsen ist auch sehr gut. Nussiger, intensiverer Geschmack, weniger mehlig. Hier aber mit zuviel Fett zubereitet (haben sich angesaugt)
   - image: ../images/kichererbsenlaibchen_wenig_fett.webp
     description: Versuch mit sehr wenig Fett. 1. Partie war noch gut, bei 2. war nicht mal mehr der Pfannenboden bedeckt weshalb ich die Laibchen zusammendrücken musste. War auch noch gut aber nicht resch. Dafür nachher praktisch kein Fett in Pfanne übrig.
+  - image: ../images/kichererbsenlaibchen_rotkraut.webp
+    description: Wieder 0,5cm Fett. Schmeckt super auch wenn sie mehr Fett aufsaugen als Gebackenes Gemüse oder Kartoffelpuffer. Rotkraut passt super dazu.
 
 ingredients:
 - 1 Glas Kichererbsen (220g Abtropfgewicht)

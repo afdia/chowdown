@@ -22,10 +22,9 @@ directions:
   - Masse mit Löffel (evtl Handmixer) vermischen. Mit Küchenmaschine geht es nicht weil sich alles im Eck sammelt!
   - Masse 20min im Kühlschrank stehen lassen
   - Herausnehmen und aus Masse ca 12 kleine Nockerl formen (zb mit Hand länglich rollen)
-  - "Die Nockerl in leicht gesalzenem Wasser folgendermaßen kochen: 3min (besser 5min?) mit Deckel (wallend Stufe 8), danach 10min Stufe 6 Deckel schräg, danach mindestens 10min abgedreht ziehen lassen)"
+  - Die Nockerl in leicht gesalzenem Wasser 15min Stufe 6 zugedeckt (evtl schräg wenn es zu stark schäumt) kochen. Danach Herd abdrehen und 20min zugedeckt stehen/ziehen lassen.
   - Anschließend Nockerl aus Salzwasser heben, Salzwasser wegleeren und Suppe aufstellen
   - Die Nockerl nochmal kurz mit der Suppe mitkochen
 ---
 
 - Probieren: Zimmerwarme Butter cremig rühren, Ei zugeben und zusammen mit dem Salz schaumig rühren. Grieß unterrühren und 15 Minuten ziehen lassen.
-- Evtl besser 15 oder 20min Stufe 6 und danach 15 oder 20min ziehen lassen
