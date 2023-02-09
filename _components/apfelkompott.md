@@ -2,6 +2,7 @@
 layout: recipe
 title: "Apfelkompott"
 image: apfelkompott.webp
+category: Süßspeise
 
 ingredients:
   - 450g Äpfel (ca 3Stk)

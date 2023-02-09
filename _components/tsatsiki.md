@@ -2,6 +2,7 @@
 layout: recipe
 title: "Tsatsiki"
 image: tsatsiki.webp
+category: SalatAufstrich
 
 ingredients:
   - 1 Gurke

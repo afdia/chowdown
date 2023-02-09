@@ -2,8 +2,8 @@
 layout: null
 ---
 {% assign counter = 1 %}
-{% assign total = site.recipes | size %}
-[{% for post in site.recipes %}
+{% assign total = site.documents | size %}
+[{% for post in site.documents %}
     {
         "title": "{{ post.title }}",
         "image": "{{ site.baseurl }}/images/{{ post.image }}"

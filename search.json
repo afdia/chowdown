@@ -1,7 +1,7 @@
 ---
 ---
 [
-  {% for post in site.recipes %}
+  {% for post in site.documents %}
     {
     
 	    "title"    : "{{ post.title | escape }}",

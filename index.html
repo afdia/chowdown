@@ -7,7 +7,7 @@ layout: default
   <!-- SEARCH BAR -->
   <div class="search container max-width-2 xs-mt2">
     <div id="search-container">
-      <input type="text" id="search-input" placeholder="search {{ site.recipes | size }} recipes ..." autofocus>
+      <input type="text" id="search-input" placeholder="search {{ site.documents | size }} recipes and components" autofocus>
     </div>
   </div>
   <div class="clearfix">
@@ -99,7 +99,7 @@ layout: default
   <!-- RECIPES LIST -->
   <div class="recipes xs-px1">
     <div class="clearfix">
-      {% assign sorted = site.recipes | sort:"date" %}
+      {% assign sorted = site.documents | sort:"date" %}
       <!-- where filter see https://stackoverflow.com/questions/24701557/why-doesnt-this-jekyll-liquid-where-filter-filter/24704168#24704168 -->
 
       <h1 class="title xs-px1" style="clear:left">Hauptgerichte</h1>
@@ -112,7 +112,6 @@ layout: default
         </a>
       </div>
       {% endfor %}
-
       <h1 class="title xs-px1" style="clear:left">Brot und Gebäck</h1>
       {% assign filtered = sorted | where:"category", "BrotGebaeck" %}
       {% for post in filtered %}
@@ -123,7 +122,6 @@ layout: default
         </a>
       </div>
       {% endfor %}
-
       <h1 class="title xs-px1" style="clear:left">Salate und Aufstriche</h1>
       {% assign filtered = sorted | where:"category", "SalatAufstrich" %}
       {% for post in filtered %}
@@ -133,7 +131,6 @@ layout: default
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
-
       {% endfor %}
       <h1 class="title xs-px1" style="clear:left">Süßspeisen</h1>
       {% assign filtered = sorted | where:"category", "Süßspeise" %}
@@ -144,7 +141,6 @@ layout: default
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
-
       {% endfor %}<h1 class="title xs-px1" style="clear:left">Snacks</h1>
       {% assign filtered = sorted | where:"category", "Snack" %}
       {% for post in filtered %}
@@ -154,6 +150,18 @@ layout: default
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
+      {% endfor %}<h1 class="title xs-px1" style="clear:left">Komponenten</h1>
+      {% assign filtered = site.components %}
+      {% for post in filtered %}
+      {% if post.category %}
+      {% else %}
+      <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
+        <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="image ratio bg-cover" {% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
+        </a>
+      </div>
+      {% endif %}
       {% endfor %}
     </div>
   </div>

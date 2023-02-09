@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title: "Milchreis"
-image: milchreis_pur.webp
+image: milchreis.webp
+category: Süßspeise
 
 ingredients:
   - 150g Milchreis (für 1 kleine Portion alle 3 Angaben *50%, für 1 große *66%)
