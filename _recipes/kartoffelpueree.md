@@ -18,11 +18,7 @@ ingredients:
 - Salz (kein Kräutersalz, passt überhaupt nicht)
 
 directions:
-- Kartoffeln schälen und kochen (eher etwas zu lang als zu kurz)
-- Absieben und warm mit Kartoffelpresse in Schüssel pressen
-- Milch und Butter dazugeben und gut vermischen
+- Kartoffeln schälen und kochen (eher etwas zu lang als zu kurz). Danach absieben und warm mit Kartoffelpresse in Schüssel pressen. Milch und Butter dazugeben und gut vermischen
+- Alternativ Kartoffeln roh schälen, in 1,5cm Würfel schneiden und 10min in Salzwasser kochen und Wasser abgießen. Milch und Butter dazugeben und mit Kartoffelstampfer zerstampfen
 
 ---
-
-- Letzter Versuch ungeschält, dann muss man sie fürs Schälen aber abkühlen und das Püree ist kalt
-- Klassisch ist vorher auch in Stücke schneiden und mit Stampfer zerstampfen, dann schmecken sie aber nach etwas weniger

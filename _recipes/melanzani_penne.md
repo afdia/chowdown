@@ -9,6 +9,8 @@ images:
     description: Geschnittene Melanzani nach der Rastzeit. Man sieht dass viel Wasser ausgetreten ist.
   - image: ../images/melanzani_penne_zucchini.webp
     description: Zucchini würfelig und scharf angebraten (also alles wie hier nur mit Zucchini statt Melanzani) schmeckt auch super!
+  - image: ../images/melanzani_penne_zucchini_karotten.webp
+    description: Statt Penne Spaghetti, Zucchini und Karotten gemeinsam scharf angebraten, sonst wie hier beschrieben. Ergebnis war auch sehr gut!
 
 ingredients:
   - 1 Melanzani
