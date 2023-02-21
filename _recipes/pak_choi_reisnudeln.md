@@ -28,3 +28,5 @@ directions:
 ---
 
 War geschmacklich super, das nächste Mal evtl geröstete Cashewkerne testen? Oder Sojabohnen dazugeben oder evtl etwas Sesam am Anfang in die Pfanne geben
+
+Zweiter Versuch war mit Sesam zu Karotten (hat man nicht hervorgeschmeckt aber war patzig beim Umrühren) und ohne grünen Teil hinten zu schneiden (schlechte Idee, verklumpt dann sehr stark, daher alles schneiden!)

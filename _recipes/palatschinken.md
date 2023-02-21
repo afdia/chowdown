@@ -5,6 +5,10 @@ title: "Palatschinken"
 image: palatschinken.webp
 category: Süßspeise
 
+images:
+  - image: ../images/palatschinken_kamut_frisch.webp
+    description: Versuch mit frisch gemahlenem Kamut war nicht so gut. +150ml Milch genommen weil zu patzig in Pfanne. Trotzdem musste man sie viel dicker machen damit sie nicht brechen. War mehr wie ein Griesschmarrn
+
 ingredients:
 - 250g Dinkelvollkornmehl
 - 3 Eier

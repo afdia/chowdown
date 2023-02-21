@@ -13,6 +13,8 @@ images:
     description: Variante mit rohen, dünn geschnittenen Kartoffeln wird auch sehr gut. Auch hier etwas zuviel Öl
   - image: ../images/bratkartoffeln_pfanne.webp
     description: 2 Tage alte Kartoffeln aus dem Kühlschrank, dünn geschnitten in der Pfanne in etwas Öl anbraten schmeckt ebenfalls super
+  - image: ../images/bratkartoffeln_pfanne_grosse_stuecke.webp
+    description: Vorgekochte ausgekühlte Kartoffeln schälen und in grobe Stücke schneiden und in Pfanne scharf anbraten. Ergebnis war super
   - image: ../images/bratkartoffeln_roh_pfanne.webp
     description: Kartoffeln schälen und in ca 0,5cm dicke Scheiben schneiden und roh mit etwas Öl in Pfanne geben. Salzen und paar mal schwenken dass es sich gut verteilt, dann mit Decken bei Stufe 7 ca 15-20min braten und immer wieder schwenken. Sind fertig wenn sie bissfest sind (werden nicht ganz weich aber schön resch und schmecken gut; nachteil ist dass es etwas spritzt wenn Wasser vom Deckel in Pfanne rinnt - beim Abnehmen zum Schwenken)
   - image: ../images/bratkartoffeln_haelften.webp

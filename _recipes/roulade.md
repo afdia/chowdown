@@ -17,6 +17,8 @@ images:
     description: Wenn der Teig zu dick ist bzw evtl wenn man darunter Marmelade streicht (wird rutschig) schiebt sich die Füllung raus und die Rolle geht auf
   - image: ../images/roulade_kaokao.webp
     description: Variante mit dunklem Teig (13g Kaokao) und statt Erdbeeren eingelegte Marillen + Marillenmarmelade. War ganz gut aber etwas zuviel Kaokao und Füllung hat nicht ganz gepasst. Evtl besser Butterchreme wie zb bei Tiramisu oder Bananenschnitten machen
+  - image: ../images/roulade_heidelbeere.webp
+    description: Heidelbeeren statt Erdbeeren schmeckt super. Ohne Marmelade in Füllung war trotzdem recht süß aber etwas Heidelbeermarmelade hätte vmtl gut gepasst
   - image: ../images/roulade_obstkuchen.webp
     description: Ein Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
   - image: ../images/roulade_ohne_schnee.webp
