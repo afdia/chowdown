@@ -5,6 +5,10 @@ title: "Obstsalat"
 image: obstsalat.webp
 category: Snack
 
+images:
+  - image: ../images/obstsalat_mango.webp
+    description: Variante mit Mango ist sehr gut! Super tropischer Geschmack
+
 ingredients:
 - 2 Äpfel
 - Kiwi

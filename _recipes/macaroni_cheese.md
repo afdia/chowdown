@@ -13,6 +13,8 @@ images:
     description: Mit gelber und grüner Zucchini und rotem Zwiebel wird das Ergebnis schön bunt und schmeckt super
   - image: ../images/macaroni_cheese_lauch.webp
     description: Lauch statt Zwiebel, ganzer Käse in Sauce (d.h. kein extra Käse oben) war auch super!
+  - image: ../images/macaroni_cheese_kidney.webp
+    description: 1 Dose Kidney Bohnen untergemischt und die 10g Mehl weggelassen. Ergebnis war gut aber ganz anders. Evtl doch die 10g Mehl nehmen und Bohnen nur oben drauf geben?
 
 ingredients:
   - 250g Maccaroni

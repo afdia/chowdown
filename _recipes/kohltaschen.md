@@ -24,6 +24,7 @@ components:
 ingredients:
   - 1 Kohlkopf
   - 1 große Zwiebel (oder Frühlingszwiebel)
+  - 1-2 Knoblauchzehen
   - 700g Tomatensauce
   - 2-3 Packungen Mozzarella (125g)
   - 140g Thunfisch
@@ -33,7 +34,7 @@ ingredients:
 
 directions:
   - Kohl in Blätter zerteilen, waschen und in großem Topf dünsten (nicht zu weich)
-  - Zwiebel schneiden und in der Pfanne mit etwas Butter anrösten
+  - Zwiebel schneiden und in der Pfanne mit etwas Olivenöl anschwitzen, danach Knoblauch dazu und weiter anschwitzen
   - Tomatensauce und geschnittene Japaleno/Paprika dazugeben und nochmal kurz köcheln lassen
   - Thunfisch zerkleinern und dazugeben; Herd abdrehen
   - Den Kohl mit Sieb abtropfen und Brett richten um Taschen zu formen

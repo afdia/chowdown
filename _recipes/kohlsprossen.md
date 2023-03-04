@@ -15,22 +15,21 @@ images:
 
 ingredients:
 - 360g Kohlsprossen (340g nach wegschneiden der Enden)
-- 5g Knoblauchpulver
+- 5g Knoblauchpulver (bei 2. Mal weggelassen war auch gut)
 - 5g Magic Dust (nächstes Mal rotes Paprikapulver nehmen)
-- 25g Olivenöl
-- 3g Salz
+- 30g Olivenöl
+- 1g Kräutersalz (war bei 1. Mal 3g pures Salz und damit zu salzig)
 - 5g Schwarzer Pfeffer
 
 directions:
   - Kohlsprossen waschen, Enden abschneiden, braune Blätter von außen entfernen
-  - Danach mit Knoblauchpulver, Paprikapulver, Olivenöl, Salz, Pfeffer in Schüssel vermischen. Deckel drauf und Schütteln funktioniert gut aber es fallen viele Außenblätter ab, daher eher vorsichtig mit Händen vermischen.
-  - Backrohr auf 200° (NÄCHSTES MAL 180) Heißluft vorheizen und ca 20min ins Rohr geben (Versuch 1 mit 200°C war nach 17min zu dunkel, besser 180 und ca 17-20min?)
+  - Danach mit Knoblauchpulver, Paprikapulver, Olivenöl, Salz, Pfeffer vorsichtig mit Löffel oder Hand in Schüssel vermischen damit nicht zuviele Blätter abfallen.
+  - Backrohr auf 180°C Heißluft vorheizen und ca 20min ins Rohr geben
   - Währenddessen Bratkartoffeln und Spiegelei als Beilagen zubereiten
 ---
 
 Verbesserungsvorschläge:
-- waren gut aber knoblauchpulver hatte fertiggericht touch (besseres pulver nehmen!)
-- außerdem papripapulver statt magic dust probieren (oder weglassen)
-- war in summe viel zu salzig daher evtl weniger gewürze insgesamt oder weniger Salz?
-- aber war trotzdem sehr gut (evtl etwas zu bitter? schauen wie man das verhindert). evtl in pfanne mit öl probieren?
-- evtl auch vorsichtiger vermischen (habs mit decke drauf geschüttelt, dadurch sind viele außenhüllen abgefallen)
+- erster Versuch war gut aber Knoblauchpulver hatte Fertiggericht touch (besseres pulver nehmen!) und Magic Dust sowie 3g Salz waren zu würzig
+- war trotzdem sehr gut (evtl etwas zu bitter? schauen wie man das verhindert). evtl in pfanne mit öl probieren?
+- zweiter Versuch ohne Knoblauchpulver, weiterhin 5g Magic Dust, dafür 1g Kräutersalz statt 3g Salz. Ergebnis war nicht mehr zu würzig sondern genau richtig.
+- bei drittem Versuch evtl wieder Knoblauchpulver probieren dafür Paprikapulver statt Magic Dust Gewürz

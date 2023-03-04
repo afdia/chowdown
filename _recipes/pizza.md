@@ -14,7 +14,7 @@ images:
   - image: ../images/pizza_margerita.webp
     description: Pizza Margerita mit viel Käse und einem schmalen Rand
   - image: ../images/pizza_spinat.webp
-    description: 2 Knoblauchzehen fein hacken und in etwas Olivenöl anschwitzen. 250g frischen Spinat dazugeben, Deckel drauf und bei Stufe 6 paar Minuten weich werden lassen (ab und zu umrühren). Rausgeben, Champignons schneiden und einige Minuten in etwas Öl scharf anbraten. Neben Spinat und Champignons passen auch halbe Cocktailtomaten oder Jalapenoscheiben gut dazu. Ergebnis war extrem gut!
+    description: 2 Knoblauchzehen fein hacken und in etwas Olivenöl anschwitzen. 250g frischen Spinat dazugeben, Deckel drauf und bei Stufe 6 paar Minuten weich werden lassen (ab und zu umrühren). Rausgeben (in Sieb, etwas gegen Wand drücken um Wasser abzugeben), Champignons schneiden und einige Minuten in etwas Öl scharf anbraten. Neben Spinat und Champignons passen auch halbe Cocktailtomaten oder Jalapenoscheiben gut dazu. Ergebnis war extrem gut!
   - image: ../images/pizza_stangerl.webp
     description: Pizzastangerl - Teig machen, 1h rasten, formen, 15min rasten, etwas Wasser drauf, 10min 250°C (vorgeheizt)
   - image: ../images/pizza_stangerl2.webp
