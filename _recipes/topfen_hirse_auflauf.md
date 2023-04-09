@@ -17,7 +17,7 @@ ingredients:
   - Zimt
 
 directions:
-  - Hirse waschen (in Topf + Wasser und mit kleinem Sieb wiederholt Wasser absieben) und mit Milch bei Stufe 8 aufkochen und wenn sie kocht auf Stufe 3 zurückdrehen, zudecken und 10min köcheln lassen. Danach 10min zugedeckt stehen lassen, anschließend abnehmen, umrühren und auskühlen lassen.
+  - Hirse waschen (in Topf + Wasser und mit kleinem Sieb wiederholt Wasser absieben) und mit Milch bei Stufe 8 aufkochen und wenn sie kocht auf Stufe 3 zurückdrehen, zudecken und 10min köcheln lassen. Danach 10min zugedeckt stehen lassen, anschließend abnehmen, umrühren und ca 20min in Schüssel von Küchenmaschine auskühlen lassen.
   - Eier trennen und Schnee schlagen
   - Hirse mit Dotter, Topfen, Butter, Zucker, Salz, Vanillezucker in Küchenmaschine vermischen.
   - Am Schluss Schnee unterheben

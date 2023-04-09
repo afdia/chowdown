@@ -40,9 +40,6 @@ directions:
   - Biskuit zubereiten (9min 210°C Ober-/Unterhitze). Möglichst über das ganze Blech ausstreichen damit die Roulade dünn wird.
   - Auf verkehrtes Backrohrgitter mit Backpapier kippen und Backpapier welches im Backrohr war abziehen
   - Für Marmeladen-Roulade sofort bestreichen und einrollen (dann hält sie super durch den Dampf)
-  - Für Topfen-Füllung, vorab etwas einrollen und Teig "an die Biegung gewöhnen". Ausrollen und mit Erdbeermarmelade bestreichen, dann Füllung gleichmäßig darüber verteilen. Erneut einrollen und 10min in gerollter Form auskühlen lassen (damit es die Form behält)
+  - Die Topfen-Füllung kann man super dazuessen (dann evtl weniger Marmelade rein dafür Biskuit bestreichen)
+  - Will man die Topfen-Füllung einfüllen, vorab etwas einrollen und Teig für paar Minuten (ACHTUNG 10min ist zu lang dann bricht er!) "an die Biegung gewöhnen". Ausrollen und (evtl nur halbe) Füllung gleichmäßig darüber verteilen. Erneut einrollen und in gerollter Form auskühlen lassen (damit es die Form behält)
 ---
-
-Verbesserungsideen:
-
-- beim Einrollen ist Füllung ausgeronnen. Evtl Biskuit dünner machen oder weniger Füllung bzw Marmelade reinmischen und nicht separat drunterstreichen (dadurch ist es evtl wie eine Rutsche)

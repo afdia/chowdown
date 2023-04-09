@@ -29,7 +29,7 @@ directions:
   - 15min rasten lassen
   - Schnee schlagen und unterheben
   - Butter in Pfanne geben (ca soviel dass Boden bedeckt ist) und vorheizen
-  - Teig reingießen und ca 3min bei Stufe 7 ziehen lassen. Wenn Boden leicht fest ist, in Stücke teilen und Stücke umdrehen. Nach weiteren 2min evtl auf Stufe 6 zurückdrehen und einige Minuten lang weiter zerteilen bis bröselige Konsistenz entsteht
+  - Teig reingießen und ca 5min bei Stufe 7 ziehen lassen. Wenn Boden leicht braun ist, in Stücke teilen und Stücke umdrehen. Auf Stufe 6 zurückdrehen und einige Minuten lang weiter zerteilen bis bröselige Konsistenz entsteht
   - Der Schmarren ist fertig wenn er halbwegs fest und bröselig ist
   - Danach noch kurz auskühlen/austrocknen lassen
 ---

@@ -16,7 +16,7 @@ ingredients:
   - 1 Melanzani
   - 2-3 Knoblauchzehen
   - 260g Vollkorn Penne
-  - 1 große Dose Dosentomaten (letztens 3/4 Mutti)
+  - 1 große Dose Dosentomaten (oder 3/4 Mutti, oder 1/4 Mutti + DM Paprika-Tomaten sauce + evtl etwas Ketchup)
   - etwas Ketchup
   - 1EL dunkler Balsamicoessig
   - einige zerrissene Basilikumblätter

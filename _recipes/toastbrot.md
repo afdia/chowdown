@@ -25,6 +25,8 @@ images:
     description: Form mit Sonnenblumenöl mit Küchenrolle eingerieben. Brot bleibt in Form picken. Besser mit Butter einfetten oder Backpapier nehmen! War mit nicht-VK-Dinkelmehl welches sehr gut passt
   - image: ../images/toastbrot_pizzamehl.webp
     description: Variante mit 50% Ja! Pizzamehl (aus Hartweizen) schmeckt auch super!
+  - image: ../images/toastbrot_kamut_pizzamehl.webp
+    description: Nur frischer Kamut, Olivenöl statt Butter, Backpapier in Glasform + mit Ja! Pizzamehl ummantelt und oft eingerollt, gedreht, gefalten, ... 30min unterste Schiene. Ergebnis war sehr strudelartig und nicht ganz durch. Evtl am Ende nochmal 5min ohne Glasform ins Rohr geben? Oder VK Toast wird einfach nicht so gut
 
 ingredients:
   - 440g Weizenmehl oder frisch gemahlener Kamut
@@ -33,13 +35,13 @@ ingredients:
   - 5g Zucker
   - 7g Gerstenmalzmehl
   - 21g Hefe
-  - 45g weiche Butter (letztes Mal stattdessen 25g Olivenöl war auch super (war auch +20g Wasser aber die braucht man eigentlich nicht))
+  - 45g weiche Butter (letztes Mal stattdessen 25g Olivenöl war auch super)
 
 directions:
   - Kastenform mit Backpapier auslegen (oder ausbuttern bzw mit Backtrennspray einsprühen), dann alle Zutaten in Schüssel geben.
   - 3min Stufe 2 dann 5min Stufe 3 mit Brotknethaken kneten, in Mitte putzen und zugedeckt ca 40min gehen lassen.
   - Anschließend Teig rausputzen und auf Arbeitsfläche händisch durchkneten und mehrmals ausbreiten, falten, ausbreiten, falten etc. Am Ende Rollen und in Form geben.
   - Mit Wasser besprühen und 30min im Backrohr (oder mit Tuch zugedeckt) gehen lassen (länger geht auch aber dann geht Teig über)
-  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C Ober/Unterhitze für ca 30min (früher 25min aber da war Brot innen nicht ganz durch) ins vorgeheizte Backrohr auf die unterste Schiene (wenn Backpapier) sonst zweitunterste Schiene geben
-  - Direkt nach dem Reingeben und 5min vor Ende mit Sprühflasche ins Rohr sprühen
+  - Brot nochmal reichlich mit Wasser besprühen und bei 190°C Ober/Unterhitze für ca 30min (evtl +5min wenn Backpapier?) ins vorgeheizte Backrohr auf die unterste Schiene (wenn Backpapier) sonst zweitunterste Schiene geben
+  - Evtl am Ende aus Form nehmen und Backpapier direkt auf Blech nochmal 5min ins Rohr geben damit es außen rescher wird.
 ---

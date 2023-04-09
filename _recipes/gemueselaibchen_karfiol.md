@@ -13,6 +13,8 @@ images:
     description: Unabsichtlich 250g von 400g Karfiol roh geschnitten, dann mit Zerkleinerer zerkleinert. Ergebnis hat mehlig geschmeckt, daher besser immer blanchieren vorm Zerkleinern. Sauerkraut und Kartoffeln passen aber super
   - image: ../images/gemueselaibchen_karfiol_semmel.webp
     description: Laibchen vom Vortag passen super in eine Semmel mit Gurkerl, Ketchup, Senf
+  - image: ../images/gemueselaibchen_karfiol_letscho.webp
+    description: 1 Pkg Letscho, 220g Nudeln, 1 Pkg Iglo Karfiol-Käse Laibchen passt super zusammen (selbstgemachte Laibchen wären sicher noch besser)
 
 components:
   - Kartoffeln
@@ -23,6 +25,7 @@ ingredients:
   - 3 mittelgroße Eier (ca 150g)
   - 150g Käse grob gerieben (Almkönig)
   - 120g Vollkornbrösel + einige extra für außen
+  - evtl Sesam in den Teig geben, sollte sehr gut passen
   - Salz, Pfeffer
 
 directions:
