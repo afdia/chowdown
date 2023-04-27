@@ -9,6 +9,8 @@ images:
     description: Germknödel nach 30min Rastzeit und frisch mit Wasser besprüht (unten gut bemehlt damit sie sich leicht lösen)
   - image: ../images/germknoedel_gegangen_45min.webp
     description: Dieselben Knödel nach 45min Rastzeit sind noch größer
+  - image: ../images/germknoedel_oel.webp
+    description: Mit (Oliven)-öl lassen sich die Knödel super vom Backpapier lösen. Im Topf waren sie riesig sind aber dann leider zusammengefallen. Vmtl weil ich den Teilg aufs Öl fallen lies und gefaltet habe. Das Öl hat sich aber schwer verbunden Nächstes Mal öl nur direkt vorm Lösen vom Backpapier runtergegeben. Funktioniert super, sind aber wieder zusammengefallen (beide Öl Versuche waren aber auch mit frischem Germ, evtl liegts daran?)
   - image: ../images/germknoedel_plastikbox.webp
     description: In der Plastikbox vor dem Gehen im Wasserbad
   - image: ../images/germknoedel_plastikbox_gegangen.webp

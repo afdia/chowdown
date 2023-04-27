@@ -19,6 +19,8 @@ images:
     description: Variante mit dunklem Teig (13g Kaokao) und statt Erdbeeren eingelegte Marillen + Marillenmarmelade. War ganz gut aber etwas zuviel Kaokao und Füllung hat nicht ganz gepasst. Evtl besser Butterchreme wie zb bei Tiramisu oder Bananenschnitten machen
   - image: ../images/roulade_heidelbeere.webp
     description: Heidelbeeren statt Erdbeeren schmeckt super. Ohne Marmelade in Füllung war trotzdem recht süß aber etwas Heidelbeermarmelade hätte vmtl gut gepasst
+  - image: ../images/roulade_heidelbeere_v2.webp
+    description: 125g statt 75g Schlagobers probiert. Passt super, macht Füllung fester. 1Pkg Ja! TK Heidelbeeren dazu + 3/4 Glas Darbo Heidelbeermarmelade dazu. Teig nur ca 20sek gerollt und danach sofort gefüllt und wieder zugerollt. Ist nicht gebrochen und Enden haben sich beim Auskühlen gut verbunden. Immer so machen!
   - image: ../images/roulade_obstkuchen.webp
     description: Ein Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
   - image: ../images/roulade_ohne_schnee.webp
@@ -31,7 +33,7 @@ components:
 
 ingredients:
   - 250g Topfen
-  - 75g Schlagobers
+  - 75g (besser 125g) Schlagobers
   - 250g Erdbeeren
   - 1/2 Glas Erdbeermarmelade
 
@@ -41,5 +43,5 @@ directions:
   - Auf verkehrtes Backrohrgitter mit Backpapier kippen und Backpapier welches im Backrohr war abziehen
   - Für Marmeladen-Roulade sofort bestreichen und einrollen (dann hält sie super durch den Dampf)
   - Die Topfen-Füllung kann man super dazuessen (dann evtl weniger Marmelade rein dafür Biskuit bestreichen)
-  - Will man die Topfen-Füllung einfüllen, vorab etwas einrollen und Teig für paar Minuten (ACHTUNG 10min ist zu lang dann bricht er!) "an die Biegung gewöhnen". Ausrollen und (evtl nur halbe) Füllung gleichmäßig darüber verteilen. Erneut einrollen und in gerollter Form auskühlen lassen (damit es die Form behält)
+  - Will man die Topfen-Füllung einfüllen, vorab etwas einrollen und Teig für ca 30sek "an die Biegung gewöhnen". Ausrollen und (evtl nur halbe) Füllung gleichmäßig darüber verteilen. Erneut einrollen und in gerollter Form auskühlen lassen (damit es die Form behält)
 ---

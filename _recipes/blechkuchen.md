@@ -14,7 +14,7 @@ images:
   - image: ../images/blechkuchen_apfel.webp
     description: Variante mit Äpfel, Birnen, Zimt und Mandelsplitter ist auch sehr gut (hier mit 220g Joghurt +20g Milch)
   - image: ../images/blechkuchen_heidelbeeren.webp
-    description: Variante mit Heidelbeeren direkt im Teig (am Ende nach Schnee untergehoben) war auch sehr gut
+    description: Variante mit Heidelbeeren direkt im Teig (am Ende nach Schnee untergehoben) war auch sehr gut. Nächstes Mal Heidelbeeren+Rhabarber oben drauf war auch super!
   - image: ../images/blechkuchen_heidelbeeren_kamut.webp
     description: Frisch gemahlener Kamut passt leider nicht so gut weil er zu körnig ist und den Geschmack der Beeren überlagert
   - image: ../images/blechkuchen_himbeeren.webp

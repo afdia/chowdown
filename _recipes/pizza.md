@@ -14,7 +14,7 @@ images:
   - image: ../images/pizza_margerita.webp
     description: Pizza Margerita mit viel Käse und einem schmalen Rand
   - image: ../images/pizza_spinat.webp
-    description: 2 Knoblauchzehen fein hacken und in etwas Olivenöl anschwitzen. 250g frischen Spinat dazugeben, Deckel drauf und bei Stufe 6 paar Minuten weich werden lassen (ab und zu umrühren). Rausgeben (in Sieb, etwas gegen Wand drücken um Wasser abzugeben), Champignons schneiden und einige Minuten in etwas Öl scharf anbraten. Neben Spinat und Champignons passen auch halbe Cocktailtomaten oder Jalapenoscheiben gut dazu. Ergebnis war extrem gut!
+    description: 2 Knoblauchzehen fein hacken und in etwas Olivenöl anschwitzen. 250g frischen (oder TK) Spinat dazugeben, Deckel drauf und mit etwas Suppenwürze bei Stufe 6 paar Minuten weich werden lassen (ab und zu umrühren). Rausgeben und evtl in Sieb gegen Wand drücken um Wasser abzugeben. Champignons schneiden und draufgeben (optional einige Minuten in Öl anbraten). Halbe Cocktailtomaten oder Jalapenoscheiben passen auch gut dazu. Ergebnis war extrem gut!
   - image: ../images/pizza_hartweizen.webp
     description: ca 80g von den 400g Mehl durch Ja! Hartweizenmehl (Pizza und Pastamehl) ersetzt. Schmeckt super und ist viel rescher als sonst. Eine nette Abwechslung
   - image: ../images/pizza_stangerl.webp

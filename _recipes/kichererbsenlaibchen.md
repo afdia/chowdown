@@ -11,15 +11,17 @@ images:
     description: Versuch mit sehr wenig Fett. 1. Partie war noch gut, bei 2. war nicht mal mehr der Pfannenboden bedeckt weshalb ich die Laibchen zusammendrücken musste. War auch noch gut aber nicht resch. Dafür nachher praktisch kein Fett in Pfanne übrig.
   - image: ../images/kichererbsenlaibchen_rotkraut.webp
     description: Wieder 0,5cm Fett. Schmeckt super auch wenn sie mehr Fett aufsaugen als Gebackenes Gemüse oder Kartoffelpuffer. Rotkraut passt super dazu.
+  - image: ../images/kichererbsenlaibchen_sojabohnen.webp
+    description: 250g TK Sojabohnen 5min aufkochen, dann wie üblich weitermachen (Eier am Schluss dazu damit sie nicht stocken), statt Karotten 1/2 Zucchini genommen. Ergebnis war super und vmtl noch besser als die Kichererbsenvariante. Mehr Mehl genommen und direkt in Pfanne gelegt weil Teig feuchter war. Sauerrahm+Ketchup passt gut dazu ist in Summe aber sehr fettig, besser Kartoffeln, Reis oder Sauerkraut probieren
 
 ingredients:
 - 1 Glas Kichererbsen (220g Abtropfgewicht)
-- 2 Eier
+- 2 Eier (evtl reicht 1 Ei?)
 - 2 Knoblauchzehen
 - 150g Almkönig grob gerieben
 - 2 Karotten grob gerieben (ca 160g)
 - 20g TK Petersilie (oder frisch gehackt)
-- 50g Mehl (im Originalrezept 50g)
+- 50g Mehl
 - 1/2 Sackerl Backpulver (bindet Masse besser, gehen in Pfanne auch etwas auf)
 - 4g Salz
 - Pfeffer
