@@ -22,7 +22,9 @@ images:
   - image: ../images/roulade_heidelbeere_v2.webp
     description: 125g statt 75g Schlagobers probiert. Passt super, macht Füllung fester. 1Pkg Ja! TK Heidelbeeren dazu + 3/4 Glas Darbo Heidelbeermarmelade dazu. Teig nur ca 20sek gerollt und danach sofort gefüllt und wieder zugerollt. Ist nicht gebrochen und Enden haben sich beim Auskühlen gut verbunden. Immer so machen!
   - image: ../images/roulade_obstkuchen.webp
-    description: Ein Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
+    description: Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
+  - image: ../images/roulade_obstkuchen_schlagobers.webp
+    description: Biskuit mit 8g Kaokao, bestrichen mit Erdbeermarmelade 250g geschlagenem Schlagobers und mit vielen Erdbeeren belegt schmeckt ebenfalls super
   - image: ../images/roulade_ohne_schnee.webp
     description: Versuch mit nur 3 Eiern und ohne Schnee separat zu schlagen - Biskuit ist sitzen geblieben und war nicht luftig
   - image: ../images/roulade_flach.webp

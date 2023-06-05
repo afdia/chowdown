@@ -15,6 +15,8 @@ images:
     description: Laibchen vom Vortag passen super in eine Semmel mit Gurkerl, Ketchup, Senf
   - image: ../images/gemueselaibchen_karfiol_letscho.webp
     description: 1 Pkg Letscho, 220g Nudeln, 1 Pkg Iglo Karfiol-Käse Laibchen passt super zusammen (selbstgemachte Laibchen wären sicher noch besser)
+  - image: ../images/gemueselaibchen_karfiol_sesam.webp
+    description: Außen Sesam probiert, hat geschmacklich aber wenig Unterschied gemacht. Evtl mehr nehmen?
 
 components:
   - Kartoffeln

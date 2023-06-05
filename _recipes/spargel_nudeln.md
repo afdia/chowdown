@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/spargel_nudeln_pfanne.webp
     description: Die Spargelsauce in der Pfanne bevor die Nudeln dazugegeben werden
+  - image: ../images/spargel_nudeln_bohnen.webp
+    description: Variante mit Alnatura Baked Beans weiße Bohnen. War ganz gut aber ohne ist besser
 
 ingredients:
   - 500g grüner Spargel

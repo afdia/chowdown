@@ -14,8 +14,9 @@ ingredients:
   - Sesam (weiß und schwarz)
 
 directions:
-  - Ei verquirlen und 80% davon für Teig nutzen, 20% fürs Bestreichen aufheben
-  - Restliche Zutaten (außer Sesam) zum Ei geben und in der Küchenmaschine mit Brotknethaken kneten
+  - Mehl, Zucker, Salz, Germ in Schüssel geben
+  - Ei verquirlen und 80% davon in Schüssel geben, 20% fürs Bestreichen aufheben
+  - Butter in Pfanne schmelzen lassen, dann mit Milch aufgießen (kühlt Butter ab) und alles in der Küchenmaschine mit Brotknethaken kneten
   - In Teigschüssel zugedeckt 40-60min rasten lassen (danach ist der Teig besser formbar)
   - Blech mit leicht bemehltem Backpapier vorbereiten
   - Teig aus Schüssel auf bemehltes Backpapier putzen, in 8 Stücke teilen und Kugeln formen (in Hand rund formen, dann von außen nach innen falten [siehe Video](https://www.youtube.com/watch?v=HuNGR9Oxvug))

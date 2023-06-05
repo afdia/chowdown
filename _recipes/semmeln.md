@@ -47,7 +47,7 @@ directions:
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln [(siehe Ofner Video)](https://www.youtube.com/watch?v=jAFSIyQ_Ppo) bzw nimmt einen Semmel-Stempel.
   - Evtl rollt man sie nochmal gut in Mehl/Stärke damit sie nicht zusammenkleben (getestet - sonst klebt es nach der Rastzeit extrem), dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt rasten.
   - Danach heizt man das Backrohr auf 190°C Ober-/Unterhitze vor, dreht die Semmeln wieder um und besprüht sie mit Wasser.
-  - Danach gibt die Semmeln für ca 23,5min ins Rohr.
+  - Danach gibt die Semmeln für ca 23,5min ins Rohr (EVTL 180°C 25-26min probieren? wobei die jetzige Zeit passt auch).
   - Wenn Semmeln bestreut sind, nach dem Rausnehmen einfach mit Wasser einsprühen, ansonsten mit Glanzstreiche bestreichen und zum Trocknen nochmal für 5min ins abgeschaltene Rohr stellen
 ---
 

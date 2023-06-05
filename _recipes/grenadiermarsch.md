@@ -8,6 +8,8 @@ category: Hauptgericht
 images:
   - image: ../images/grenadiermarsch_ohne_zwiebel.webp
     description: Bratkaroffeln in Pfanne zubereitet, währendessen 120g 1er Nudeln in Mitte gebrochen gekocht, am Schluss 3 Eier dazu (kein Zwiebel). War super Alternative, besser als erwartet!
+  - image: ../images/grenadiermarsch_linsennudeln.webp
+    description: Linsen-Nudeln waren OK aber haben sich nicht gut vermischt und wurden mit jedem Bissen schlechter. Pustasalat passt nicht so gut wie Gurkerl dazu. Besser nicht mehr so machen.
 
 components:
   - Kartoffeln

@@ -5,6 +5,8 @@ image: tiramisu.webp
 category: Süßspeise
 
 images:
+  - image: ../images/tiramisu_schichten.webp
+    description: Mit 1 Packung VK Biskotten sollten sich 3 solche Schichten ausgehen (ganz oben ist -1 Biskotte aber die lässt man rechts weg
   - image: ../images/tiramisu_topfen.webp
     description: 250g Schlagobers aufschlagen, 250g Topfen und 50g Zucker dazu, 1 Packung Maroni mit Löffel zerkleinern und dazu. Diese Masse abwechselnd mit getränkten Biskotten schlichten. Ergebnis war leider nicht gut. Maroni passen nicht und Topfen ist sehr sauer. Evtl könnte es mehr Zucker retten
   - image: ../images/tiramisu_himbeer.webp

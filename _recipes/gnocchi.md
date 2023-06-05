@@ -15,33 +15,36 @@ images:
     description: Alternativ gut bemehlt + etwas Mehl in Box geben und gut schwenken damit sie nicht zusammenkleben. Sie werden dann zwar rundlich aber schmecken hoffentlich gut (noch testen)
   - image: ../images/gnocchi_backrohr.webp
     description: 3 große Kartoffeln waschen, mit Gabel einstechen und für 1h ins auf 200°C Ober/Unterhitze vorgeheizte Backrohr geben. Verlieren viel Wasser werden aber außen zu resch wie man am Bild sieht (daher viel Verlust - zb von 970g auf 570g). Teig war super, formen ging super, daher nur außen Mehl genommen. Hat bis zum ins-Wasser-geben super ausgeschaut, dann sind sie aber total zerfallen. Evtl braucht man doch etwas Mehl, oder das Wasser kochte noch zu stark (wusste nicht dass das nicht sein soll)
+  - image: ../images/gnocchi_neu.webp
+    description: Erster Versuch des neuen Rezepts (oben beschrieben). War sehr gut, wir haben leider Salz im Teig vergessen aber sonst haben sie recht gut gehalten und gut geschmeckt!
 
 components:
   - Kartoffeln
 
 ingredients:
-  - 900g Kartoffeln (ein Rezept empfiehlt festkochende wegen weniger Stärke, andere mehlige)
-  - 50-150g glattes Mehl (nach Bedarf nachgeben)
+  - 450g festkochende Kartoffeln
+  - 75g Hartweizenmehl
   - 1 Ei
-  - 8g Salz
+  - 4g Salz
   - 500g Spargel
   - 1 Mutti Tomatensauce, etwas Chilisauce (die wir immer für Spargelgerichte nehmen)
   - etwas Butter und Frühlingszwiebel zum anrösten
   - Parmesan, Suppenwürze, Pfeffer
 
 directions:
-  - Kartoffeln am Vortag kochen (Achtung einige Rezepte sagen Kartoffeln sollen lieber noch warm sein! also am selben Tag aber 20min auskühlen lassen) damit sie wenig Wasser enthalten, danach schälen und mit Kartoffelpresse pressen (evtl das nächste Mal im Rohr aber in Alufolie eingewickelt damit sie außen nicht resch werden!)
-  - Ei, Mehl (anfangs weniger, bei Bedarf nachgeben), Salz dazugeben und gut vermischen. Achtung nimmt man zuwenig Mehl zerfallen sie beim Kochen.
-  - Vorsichtig auf der Silikonmatte zu einem Teig kneten. Nicht zu fest oder lang kneten sonst wird der Teig zu patzig. Bei Bedarf Mehl ergänzen
-  - Rollen mit 1-2cm Durchmesser formen, nochmal in etwas Mehl wälzen und 1-2cm dicke Gnocchi runterschneiden und auf Backpapier sammeln (bzw später direkt auf Silikonmatte)
-  - Salzwasser aufkochen und auf 7 zurückdrehen (das Wasser darf nicht mehr kochen wenn man die Gnocci reingibt!)
-  - Testweise gleich am Anfang 1 Gnocci reingeben um zu sehen ob sie nicht zerfallen
-  - Danach die Hälfte der Gnocchi darin kochen bis sie aufsteigen. Auf keinen Fall zu lange sonst werden sie matschig. (lt anderem Rezept 2-3min gesamt bzw +2min nach Aufsteigen; 7min versucht > war nur noch Gatsch)
-  - Die andere Hälfte evtl nochmal bemehlen (damit sie nicht zusammenkleben) und in Plastikbox einfrieren
+  - Kartoffeln wie üblich kochen, danach aus Topf leeren und ca 30min auskühlen lassen (sie sollten noch warm sein).
+  - Schälen und währenddessen das Ei + Salz in einem Glas mit dem Mixer fein schlagen. Hartweizenmehl abwiegen und bereit stellen (Achtung nimmt man zuwenig Mehl zerfallen sie beim Kochen)
+  - Kartoffeln mit Kartoffelpresse pressen und zwischendurch immer wieder etwas Mehl dazugießen
+  - Restliches Mehl oben drauf + Ei oben dazu geben und mit Teigkarte etwas vorvermischen.
+  - Vorsichtig auf die Silikonmatte geben und vorsichtig und kurz zu einer länglichen Kugel kneten (nicht zu fest oder lang kneten sonst wird der Teig zu patzig).
+  - Danach in 3 Teile zerteilen und jeden Teil mit 1-2cm Durchmesser ausrollen und 1-2cm dicke Gnocchi runterschneiden.
+  - Salzwasser (ähnlich wie für Nudeln) aufkochen und auf 7 zurückdrehen (das Wasser darf nicht mehr kochen wenn man die Gnocci reingibt!)
+  - Gnocci reingeben und evtl auf Stufe 8 hochdrehen weil das Wasser stark abkühlt. 5min Timer zur Orientierung stellen (es dauert es ca 2-3min bis sie aufsteigen, danach nochmal ca 2min lassen, eines kosten und rausnehmen)
+  - Nicht zu lange lassen und das Wasser nicht kochen lassen (d.h. wieder von 8 auf 7 zurückdrehen sobald es etwas wärmer wird), ansonsten zerfallen sie schnell.
   - Nebenbei Frühlingszwiebel schälen und in Olivenöl anschwitzen.
   - Spargel schälen und in Stücke schneiden und dazugeben (mit etwas Suppenwürze und Pfeffer würzen)
   - Wenn Spargel durch ist, Tomaten- und Chilisaucen dazugeben und fein geriebenen Parmesan dazugeben
-  - Am Schluss die Gnocchi absieben oder direkt aus Wasser heben dazugeben und mit der Spargelsauce vermischen
+  - Am Schluss die Gnocchi direkt aus Wasser heben dazugeben und mit der Spargelsauce vermischen
 ---
 
 Interessante Links über Gnocci:

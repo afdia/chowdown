@@ -9,6 +9,8 @@ images:
     description: Zucchini Cordon Bleu mit Käse in Mitte (Zucchini innen und außen einritzen, Käse in Mitte, dann in Mehl, dann mit Händen vorsichtig in Ei und gut - auch seitlich - mit Brösel bedecken. Hält überraschend gut) und Gebackener Emmentaler (Achtung rinnt evtl aus, daher heißer als üblich machen oder evtl einfrieren)
   - image: ../images/gebackenes_gemuese_brokkoli.webp
     description: Kleine Champignons (als Ganzes) und Brokkoli sind am besten!
+  - image: ../images/gebackenes_gemuese_spargel.webp
+    description: Spargel schälen (mit Schäler der Rillen macht) und wie üblich panieren (nicht vorab blanchieren) wird auch sehr gut aber nicht so gut wie Champignons und Brokkoli. Daneben am Bild gelbe Zucchini die auch sehr gut waren
 
 ingredients:
   - Zucchini, Champignons (große wie Zucchinis in Scheiben), Brokkoli, Kürbis, Karfiol, Karotten (längliche Streifen in Mitte halbiert)
