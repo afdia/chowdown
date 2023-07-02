@@ -9,6 +9,8 @@ images:
     description: Gelbe Fisolen abspitzen, in 1cm lange Scheiben schneiden, 10min in Wasser mit etwas Suppenwürze (oder Salzwasser?) kochen, auskühlen lassen, mit 1 Zwiebel und 1-2 Knoblauchzehen (beides fein gehackt) vermischen, Olivenöl, Balsamico. Fertig marinierten Fisolensalat auf anderen Salat und Kürbiskernöl + Balsamico. Schmeckt super!
   - image: ../images/gemischter_salatteller_kraut_kaeferbohnen.webp
     description: Fertiger Käferbohnensalat und Efko Krautsalat aus dem Glas passen auch super dazu!
+  - image: ../images/gemischter_salatteller_joghurtdressing.webp
+    description: Variante mit Joghurtdressing (250g Joghurt, 1 Messerspitze Senf, 4EL Olivenöl, 2 EL weißer Balsamico, 1/2 Knoblauchzehe, Salz, Pfeffer). Ohne Knoblauch probiert, wäre aber besser mit. Sonst super
 
 ingredients:
   - Eisbergsalat

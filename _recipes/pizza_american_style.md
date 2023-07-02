@@ -9,8 +9,10 @@ images:
     description: Teig nach erster Rast wenn er ins Blech gegeben wurde
   - image: ../images/pizza_american_style_vorm_backen.webp
     description: Mit Belag bevor die Pizzen ins Rohr kommen
+  - image: ../images/pizza_american_style_minimal_vorm_backen.webp
+    description: Minimal Belag mit Tomatensauce+Käse+etwas Oregano ist am Besten! Mozzarella als ganze Kugeln zerfließen perfekt (siehe nächstes Bild)
   - image: ../images/pizza_american_style_minimal.webp
-    description: Minimal Belag mit Tomatensauce+Käse schmeckt auch super
+    description: Minimal Belag mit Tomatensauce+Käse schmeckt auch super. Rezept war normaler Pizzateig den wir dann doch erst am nächsten Tag essen wollten (daher Teig als Kugel in Olivenöl im Kühlschrank aufgehoben)
   - image: ../images/pizza_american_style_champignons.webp
     description: Champignon Pizza. Statt Gouda unten Parmesan+Tomatensauce vermischt ist auch gut aber Parmesan schmeckt zu sehr hervor. Das Bild zeigt auch dass man die Blech etwas stapeln muss damit sie sich im Backrohr ausgehen
   - image: ../images/pizza_american_style_champignons_ohne_oel.webp
@@ -19,20 +21,20 @@ images:
     description: Pizzateig wie in standard Pizza Rezept zubereitet (aber nur 1/4 Sackler Trockengerm), 2 Tage in Schüssel in Kühlschrank gelagert, rausgegeben, zerteilt in 2 mit Backpapier ausgelegte Blech und weitergemacht wie hier beschrieben (1h rasten etc). Rand mit Knoblauchöl. War super!
 
 ingredients:
-  - 350g Weizen-Mehl glatt (beim 1. versuch 50g davon durch Hartweizenmehl ersetzt, macht es das rescher?)
+  - 350g Weizen-Mehl glatt (evtl 50g davon durch Hartweizenmehl ersetzen für rescheren Teig) Letztes Mal normales Pizzarezept gemacht, war beste Pizza! Evtl darauf wechseln?
   - 250ml Wasser, lauwarm
   - 9g Salz
   - 2g Zucker
   - 1/2 Pkg Trockenhefe
   - 125g Mozzarella
-  - 125g Gouda
+  - 125g Gouda bzw Almkönig
   - etwas dickere Tomatensauce zum Bestreichen (zb Denree Tomatenmark mit flüssiger Sauce vermischen)
 
 directions:
   - Hefe, lauwarmes Wasser, Mehl, Salz und Zucker in Schüssel geben
   - Mit Küchenmaschine gut durchkneten (ca 2min Stufe 2, dann Teig in die Mitte putzen, danach 5min Stufe 3)
   - Teig mit Teigkarte in Mitte putzen (evtl testen; außen etwas einölen damit er sich später besser löst?), mit Folie zudecken, 1h draußen gehen lassen, danach 30min im Kühlschrank (beim 2. Versuch waren es 5h im Kühlschrank wodurch er etwas weniger aufgegangen ist aber gut rausgegangen ist und halbiert werden konnte. Daher immer kurz in Kühlschrank am Ende)
-  - Nach Rastzeig 2 kleine Backblech nehmen, 2 Stück Backpapier zerknüllen, wieder ausbreiten und Backblechs gut auslegen
+  - Nach Rastzeit 2 kleine Backblech nehmen, 2 Stück Backpapier zerknüllen, wieder ausbreiten und Backblechs gut auslegen
   - Mit Olivenöl ausstreichen (macht Boden resch) und mit öligen Fingern Teig aus Schüssel putzen (je eine Hälfte davon pro Blech)
   - Bei jedem Blech den Teig über die gesamte Blechgröße ausziehen
   - 1h in Backrohr gehen lassen, danach Käse schneiden und Tomatensauce bzw sonstigen Belag vorbereiten
