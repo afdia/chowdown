@@ -8,15 +8,15 @@ ingredients:
   - 35g Zucker
   - 8,5g Salz
   - 1/2 Germwürfel
-  - 300g Milch
-  - 45g Butter (schmelzen lassen; wenn in Topf dann +5g Verlust einrechnen)
+  - 45g Butter (in Topf schmelzen)
+  - 300g Milch (zur geschmolzenen Butter gießen)
   - 1 großes Ei (ca 20% vom verquirlten Ei wegnehmen für später zum Bestreichen)
   - Sesam (weiß und schwarz)
 
 directions:
   - Mehl, Zucker, Salz, Germ in Schüssel geben
   - Ei verquirlen und 80% davon in Schüssel geben, 20% fürs Bestreichen aufheben
-  - Butter in Pfanne schmelzen lassen, dann mit Milch aufgießen (kühlt Butter ab) und alles in der Küchenmaschine mit Brotknethaken kneten
+  - Butter in Topf schmelzen lassen, dann mit Milch aufgießen (kühlt Butter ab) und alles in der Küchenmaschine mit Brotknethaken kneten
   - In Teigschüssel zugedeckt 40-60min rasten lassen (danach ist der Teig besser formbar)
   - Blech mit leicht bemehltem Backpapier vorbereiten
   - Teig aus Schüssel auf bemehltes Backpapier putzen, in 8 Stücke teilen und Kugeln formen (in Hand rund formen, dann von außen nach innen falten [siehe Video](https://www.youtube.com/watch?v=HuNGR9Oxvug))

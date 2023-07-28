@@ -13,13 +13,15 @@ images:
     description: Ofengemüse gut eingerieben mit Olivenöl, Pfeffer, Salz, Scharfmacher
   - image: ../images/ofengemuese_karfiol.webp
     description: Karfiol in Stücke, mariniert mit Olivenöl, 2Knoblauchzehen gepresst, Salz, Pfeffer, Paprikapulver, mit Handschuhe gut vermischen. Kartoffeln auf Blech auch gut marinieren. 200°C Heißluft vorheizen, Karfiol nach 15min, Kartoffeln nach 20min rausnehmen
+  - image: ../images/ofengemuese_kohlrabi.webp
+    description: Kohlrabi schmeckt auch super
   - image: ../images/ofengemuese_rotkraut.webp
     description: Rotkraut passt sehr gut zu Ofenkartoffeln und Halloumi
   - image: ../images/spaghettikuerbis.webp
     description: Spaghettikürbis schmeckt interessant dazu, sollte aber als eigenes Gericht zu bereitet werden (zb auskratzen, mit Käse und Spinat mischen und wieder einfüllen). Dieses Mal halbiert, Kerne entfernt, verkehr auf mit Olivenöl eingeöltem Backpapier 30-40min backen (letztes Mal 40min, war aber zu gatschig)
 
 ingredients:
-  - Kartoffeln, Süßkartoffeln, Zucchini, Kürbis
+  - Kartoffeln, Süßkartoffeln, Zucchini, Kohlrabi, Kürbis
   - 4 Knoblauchzehen
   - etwas Olivenöl, Salz, Pfeffer
 
