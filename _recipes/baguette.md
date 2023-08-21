@@ -7,6 +7,8 @@ category: BrotGebaeck
 images:
   - image: ../images/baguette_gedreht.webp
     description: Kein Baguetteblech dafür eingedreht damit es die Form behält (270ml Wasser, 220°C 19min)
+  - image: ../images/baguette_gedreht_chia.webp
+    description: Belegt zb mit Chiasamen schmeckt das Baguette auch super (auch eingerollt, aber vmtl 290ml Wasser und 18min 250°C Ober/Unterhitze)
   - image: ../images/baguette_mehlig_eingedreht.webp
     description: Variante mit viel Roggenmehl außen, 220°C Umluft, Wasser auf Blech darunter, nicht angesprüht. Kruste war perfekt, alles beibehalten außer evtl ansprühen weil es recht staubig war
   - image: ../images/baguette_knoblauch.webp

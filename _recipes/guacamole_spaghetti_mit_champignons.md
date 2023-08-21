@@ -16,7 +16,7 @@ ingredients:
   - Suppenwürze
 
 directions:
-  - Guacamole zubereiten (Achtung für dieses Gericht nur sehr kleine oder halbe Zwiebel nehmen!) und Parmesan fein reiben
+  - Guacamole zubereiten (am Besten ohne Zwiebel) und Parmesan fein reiben
   - Champignons in Scheiben schneiden und in etwas Öl scharf anbraten bis das Wasser verdampft ist und sie leicht angeröstet sind
   - Nebenbei Spaghetti zubereiten
   - Wenn Spaghetti fertig sind, gut mit Guacamole und etwas Olivenöl vermischen

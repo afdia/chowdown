@@ -32,9 +32,9 @@ components:
 ingredients:
   - 400g Mehl (ergibt 8 Semmeln)
   - 10g Gerstenmalz
-  - 190ml lauwarmes Wasser
-  - 50ml kalte Milch
-  - 15g warme Butter oder Olivenöl
+  - 150ml lauwarmes Wasser
+  - 90ml kalte Milch (früher war nur 50ml Milch aber ohne Öl besser etwas mehr, auch in anderen Rezepten mehr)
+  - (früher war hier 15g Olivenöl, aber mal ohne probieren)
   - 5g Zucker
   - 8g Salz
   - 1/2 Hefewürfel oder 1 Sackerl Trockengerm
@@ -47,7 +47,7 @@ directions:
   - Macht man Kaisersemmeln, lässt man die Kugeln 15min rasten und drückt sie danach flach und formt Semmeln [(siehe Ofner Video)](https://www.youtube.com/watch?v=jAFSIyQ_Ppo) bzw nimmt einen Semmel-Stempel.
   - Evtl rollt man sie nochmal gut in Mehl/Stärke damit sie nicht zusammenkleben (getestet - sonst klebt es nach der Rastzeit extrem), dreht sie um und lässt sie 25min am Blech mit einem Tuch zugedeckt rasten.
   - Danach heizt man das Backrohr auf 190°C Ober-/Unterhitze vor, dreht die Semmeln wieder um und besprüht sie mit Wasser.
-  - Danach gibt die Semmeln für ca 23,5min ins Rohr (EVTL 180°C 25-26min probieren? wobei die jetzige Zeit passt auch).
+  - Danach gibt die Semmeln für ca 23,5min ins Rohr (180°C 26min war letztens auch gut aber innen noch immer etwas feucht)
   - Wenn Semmeln bestreut sind, nach dem Rausnehmen einfach mit Wasser einsprühen, ansonsten mit Glanzstreiche bestreichen und zum Trocknen nochmal für 5min ins abgeschaltene Rohr stellen
 ---
 

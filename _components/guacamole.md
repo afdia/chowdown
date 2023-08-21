@@ -7,7 +7,7 @@ ingredients:
   - 2 Avocados (reif d.h. etwas weich beim Drücken und dunkle Haut)
   - 1 Zitrone
   - 2 Tomaten
-  - 1 kleine rote Zwiebel
+  - 1 kleine rote Zwiebel (optional, ist auch super ohne)
   - 2 Knoblauchzehen
   - etwas Schärfungssauce wie Tabasco
   - Salz, Pfeffer
