@@ -6,7 +6,7 @@ layout: default
   <!-- call up the image and image credit link -->
   {% for image in page.image %}
   <div class="xs-p2">
-    <a href="#" onclick="document.location=window.location.href.substring(0,window.location.href.indexOf('/recipes'));return false;">
+    <a href="#" onclick="document.location=window.location.href.substring(0,window.location.href.lastIndexOf('/chowdown'))+'/chowdown';return false;">
       <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" />
     </a>
     {% if page.imagecredit %} {% for imagecredit in page.imagecredit %}

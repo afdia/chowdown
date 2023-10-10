@@ -21,14 +21,14 @@ images:
     description: 300g Ur-Roggen frisch gemahlen, 100g Roggen (nicht VK), 200g Wasser, 1Pkg Trockenhefe, 10g Salz, 100g Joghurt, 20g weißer Balsamicoessig, 8g Olivenöl. In Form, Dauer wie im Rezept. Küchenmaschine konnte schwer kneten, dann mehrere Std rasten, ging aber nicht gut auf (vmtl wegen Roggen?). Geschmacklich trotzdem sehr gut. Lt [dieser Seite](https://www.habe-ich-selbstgemacht.de/roggenbrot-mit-hefe-ohne-sauerteig-rezept/) ist Joghurt+Essig ein guter Sauerteigersatz und es hat auch wie Sauerteig geschmeckt!
 
 ingredients:
-  - 250g Vollkornmehl
+  - 250g Kamut frisch gemahlen
   - 150g weißes Mehl
   - 100g Hirse gemahlen (ersatzweise mehr Vollkornmehl-Mehl, Variante mit feuchter Hirse als Bild)
-  - 375ml Wasser (evtl -10ml oder -25ml probieren weil es noch etwas klebrig am Messer war, aber nicht auf Zähnen etc)
+  - 350ml Wasser (früher 375g aber dann ist es etwas klebrig auf dem Messer. 350 sind perfekt)
   - 10g Salz
   - 15g Zucker oder 20g süßlicher Essig oder etwas getrockneter Sauerteig
   - 1 Pkg Trockengerm (oder 1/2 Germwürfel damit es besser aufgeht)
-  - Butter für Brotform (oder Sonnenblumenöl)
+  - Butter für Brotform
   - Chiasamen/Sesam/Sonnenblumenkerne für außen (drinnen nicht so gut)
 
 directions:

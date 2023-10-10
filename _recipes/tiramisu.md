@@ -15,6 +15,8 @@ images:
     description: Wie üblich zubereiten. Statt Rum+Kaffee nimmt man 250g Erdbeeren (auch TK möglich) und püriert sie. Auf das Schlagobers gibt man statt Kaokao zb Heidelbeeren oder weitere Erdbeeren
   - image: ../images/tiramisu_erdbeer.webp
     description: Statt Vanillesauce 150g Schlagobers schlagen, dann 250g Topfen dazugeben und vermischen, dann 80g Joghurt und ca 40g Staubzucker dazugeben und cremig mixen. 300g TK-Erdbeeren pürieren. Biskotten in Erdbeerpüree tunken und abwechselnd mit Creme schickten (unten Creme, oben Creme). Ganz oben halbierte Erdbeeren verteilen. Fazit sehr gut muss aber >1h stehen damit es sich ansaugt
+  - image: ../images/tiramisu_erdbeer2.webp
+    description: Alternativ alles wie im Rezept machen und statt in Kaffee+Rum in 300g pürierte TK-Erdbeeren tunken. Auch gut aber andere Erdbeervariante ist fast besser
 
 ingredients:
   - 200g Vollkorn Biskotten

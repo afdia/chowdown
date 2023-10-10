@@ -24,7 +24,7 @@ images:
 
 ingredients:
   - 500g DM 6-Korn-Mischung, 100g weißes Roggenmehl (wie Bauernbrot)
-  - 400ml lauwarmes Wasser (evtl etwas weniger probieren? oder länger lassen? ist innen zu teigig)
+  - 380ml lauwarmes Wasser (früher 400 aber war innen zu feucht)
   - 12g Salz
   - 1/2 Germwürfel
   - 10g Gerstenmalzmehl
@@ -34,9 +34,9 @@ directions:
   - Körner mahlen und mit anderen Zutaten 6min Stufe 2, 2min Stufe 3 kneten (zwischendurch Teig mit Teigkarte in die Mitte putzen)
   - In Schüssel 30min zugedeckt rasten lassen (vorher mit etwas Mehl bedecken). Danach auf bemehltes Backpapier putzen, oben etwas Mehl draufgeben und zu Kugel drehen. Danach optional in einen bemehlten Gärkorb geben. Küchentuch darauf geben und 30min rasten lassen.
   - Wenn es schnell gehen soll stattdessen gleich auf Backpapier und Gitter 45min rasten lassen, dann ins vorgeheizte Backrohr geben).
-  - Häferl Wasser in Backrohr stellen und bei 240°C Heißluft vorheizen.
-  - Optional vorher Brot mit Messer einschneiden bzw einige Löcher reinstechen (NICHT einsprühen aber evtl nochmal bemehlen), dann Brot für 7min in Ofen geben, danach Backrohrtür ca 15sek lang öffnen und Dampf entweichen lassen und noch 40min bei 180°C weiterbacken. (Früher 8min 250°C vorher, dann wird das Brot aber zu resch)
-  - Auf einem Gitter auskühlen lassen und nach einiger Zeit mit einem Küchentuch abdecken damit die Rinde nicht zu hart ist (vermutlich hilft das)
+  - Häferl Wasser in Backrohr stellen und bei 250°C Heißluft vorheizen.
+  - Optional vorher Brot mit Messer einschneiden bzw einige Löcher reinstechen (NICHT einsprühen aber evtl nochmal bemehlen), dann Brot für 7min in Ofen geben, danach Backrohrtür ca 15sek lang öffnen und Dampf entweichen lassen und noch 40min bei 180°C weiterbacken.
+  - Auf einem Gitter auskühlen lassen und nach einiger Zeit mit einem Küchentuch abdecken damit die Rinde nicht zu hart ist
 ---
 
 Alternative Mischungen:

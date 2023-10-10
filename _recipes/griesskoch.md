@@ -11,8 +11,8 @@ images:
 
 ingredients:
 - 240g Milch
-- 20g Hartweizengrieß
-- 10g Zucker
+- 20g Hartweizengrieß (schaut wenig aus sättigt aber ordentlich)
+- 10g Zucker (Vanillezucker probiert, schmeckt man aber nicht hervor)
 
 directions:
 - Milch aufkochen. Wenn sie kocht Grieß und Zucker einrühren und 5min bei Stufe 6 köcheln lassen während man ständig rührt

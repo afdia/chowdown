@@ -12,7 +12,7 @@ images:
   - image: ../images/endivien_salat.webp
     description: Endiviensalat fein geschnitten nur mit Kürbiskernöl und dunklem Balsamico schmeckt sehr gut (einweichen + das süßliche Öl+Essig verhindern Bitterkeit)
   - image: ../images/senfdressing.webp
-    description: 5EL Olivenöl 2EL weißer Balsamicoessig, 1TL Senf (Stiegl), Kräutersalz, Pfeffer, Gute Laune. Im Original noch etwas Honig, haben wir aber weggelassen weil Senf süßlich ist
+    description: 5EL (32g) Olivenöl 2EL (16g) weißer Balsamicoessig, 1TL (5g) Senf (Stiegl), Kräutersalz, Pfeffer, Gute Laune. Im Original noch etwas Honig, haben wir aber weggelassen weil Senf süßlich ist
 
 components:
   - Kartoffeln

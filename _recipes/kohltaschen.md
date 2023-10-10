@@ -17,6 +17,8 @@ images:
     description: Bratkartoffeln zubereiten (hier violette Kartoffeln), Kohl waschen, in Streifen schneiden und in etwas Salzwasser für einige Minuten weich kochen. Käse grob reiben, dann alles abwechselnd in Auflaufform geben und ca 10-15min bei 200°C Heißluft ins Rohr geben
   - image: ../images/kohltaschen_bohnen_burrata.webp
     description: Statt Zwiebel Lauch, statt Thunfisch weiße Bohnen, statt oben Mozzarella Burrata. Lauch passt sehr gut, Bohnen sind ok aber machen es zu mehlig (speziell mit Reis), Burrata schmilzt eigenartig, sollte man nur kalt essen
+  - image: ../images/kohltaschen_nudeln.webp
+    description: Statt Reis Nudeln dazu. Passt auch sehr gut, aber Reis ist besser
   - image: ../images/kohltaschen_artischoken.webp
     description: Statt Thunfisch ca 1/2 Glas Artischoken genommen. Passt recht gut, aber die Artischoken verteilen ihren Geschmack im ganzen Gericht und überdecken dadurch den Kohl (anders als zb bei Pizza wo man konzentrierte Pkte mit Artischoken hat). Daher eher nicht so gut geeignet
 
