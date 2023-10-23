@@ -21,14 +21,13 @@ images:
     description: Pizzateig wie in standard Pizza Rezept zubereitet (aber nur 1/4 Sackler Trockengerm), 2 Tage in Schüssel in Kühlschrank gelagert, rausgegeben, zerteilt in 2 mit Backpapier ausgelegte Blech und weitergemacht wie hier beschrieben (1h rasten etc). Rand mit Knoblauchöl. War super!
 
 ingredients:
-  - 350g Weizen-Mehl glatt (evtl 50g davon durch Hartweizenmehl ersetzen für rescheren Teig) Letztes Mal normales Pizzarezept gemacht, war beste Pizza! Evtl darauf wechseln?
-  - 250ml Wasser, lauwarm
-  - 9g Salz
-  - 2g Zucker
-  - 1/2 Pkg Trockenhefe
+  - 400g Mehl, glatt
+  - 240ml Wasser, lauwarm
+  - 10g Salz
+  - 1/2 Sackerl Trockengerm
   - 125g Mozzarella
   - 125g Gouda bzw Almkönig
-  - etwas dickere Tomatensauce zum Bestreichen (zb Denree Tomatenmark mit flüssiger Sauce vermischen)
+  - Tomatensauce zum Bestreichen (zb eine dickere wie Denree Tomatenmark mit flüssiger Sauce vermischen oder nur Mutti)
 
 directions:
   - Hefe, lauwarmes Wasser, Mehl, Salz und Zucker in Schüssel geben

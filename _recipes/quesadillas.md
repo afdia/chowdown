@@ -32,7 +32,7 @@ images:
 ingredients:
   - 200g Cheddar (Gouda, Bergbaron oder Butterkäse passen NICHT)
   - "Champignonfüllung: 500g Champigons, 1 Spitzpaprika, 1/2 Glas Mais, einige Zwiebelwürfel, 1Pkg frischen Spinat (wenn TK dann in Wasser kochen und absieben) 1EL Petersilie, Salz, Pfeffer"
-  - "Spinatfüllung: 2Pkg frischer Spinat (wenn TK dann in Wasser kochen und absieben), 1 Glas Mais, 1 Glas rote Bohnen, 1/2 Zwiebel, 1 gr Knoblauchzehe, Salz, Pfeffer"
+  - "Spinatfüllung: 300g (evtl 400 probieren) TK Spinat (vorab in Wasser kochen und absieben), 1-2 Spitzpaprika, 1/2 Glas Mais, 1 Glas Kidney Bohnen, 1/2 Zwiebel, 1 gr Knoblauchzehe, Salz, Pfeffer"
   - "Gemüsefüllung: 1/2 roter Zwiebel, 1 Zucchini, 2-3 Spitzpaprika (oder einige Jalapenos), 1 Dose Bohnen oder 500g Champignons (nicht beides oder 2x Bohnen, sonst schmeckt man nur Bohnen), 1/2 Glas Mais, etwas Petersilie, Salz, Pfeffer"
   - "Mozzarellafüllung: 200g Mozzarella, 50g Gouda, 300g Cocktailtomaten, etwas Basilikum, Olivenöl, Salz, Pfeffer"
   - Olivenöl
