@@ -33,9 +33,8 @@ ingredients:
   - 400g Mehl (ergibt 8 Semmeln)
   - 10g Gerstenmalz
   - 150ml lauwarmes Wasser
-  - 90ml kalte Milch (früher war nur 50ml Milch aber ohne Öl besser etwas mehr, auch in anderen Rezepten mehr)
-  - (früher war hier 15g Olivenöl, aber mal ohne probieren)
-  - 5g Zucker
+  - 90ml kalte Milch (früher 50ml Milch dafür 15g Olivenöl) nächstes Mal 10ml oder 20ml weniger Milch weil leicht feucht innen oder Milch durch Wasser ersetzen weil zu süß
+  - 4g Zucker
   - 8g Salz
   - 1/2 Hefewürfel oder 1 Sackerl Trockengerm
   - Kartoffelstärke

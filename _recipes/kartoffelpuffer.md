@@ -13,6 +13,8 @@ images:
     description: Zum Teig 1 Zucchini dazureiben passt sehr gut, wird aber weniger fest und nimmt etwas mehr Fett auf. Braucht mehr Mehl um zu halten schmeckt aber sehr gut
   - image: ../images/kartoffelpuffer_mit_suesskartoffeln.webp
     description: 50% Kartoffeln 50% Süßkartoffeln, 2 Eier. Saugt viel mehr Fett, braucht mehr Hitze und wird leider nicht resch. Geschmacklick trotzdem recht gut (insbesondere die späteren Durchgänge wenn man einiges an Mehl dazugegeben hat)
+  - image: ../images/kartoffelpuffer_mit_karotte.webp
+    description: Am Schluss 2 Karotten dazugerieben (Kartoffelsorte Glorietta) mit Sauerkraut (recht stark angerösteter Zwiebel). Hat super geschmeckt!
 
 ingredients:
   - 750g Kartoffeln

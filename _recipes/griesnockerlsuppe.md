@@ -7,6 +7,12 @@ category: Hauptgericht
 components:
   - Gemüsebrühe
 
+images:
+  - image: ../images/griesnockerlsuppe_violett.webp
+    description: Nimmt man violette Karotten färbt sich die gesamte Suppe. Die Griesnockerl sind außen eingefärbt aber innen gelb.
+  - image: ../images/griesnockerlsuppe_violett_nudeln.webp
+    description: Die restliche Suppe haben wir eingefrohren und paar Tage später mit Brokkoli und Nudeln aufgekocht. War noch immer super
+
 ingredients:
   - 1 Ei abwiegen [zb 50g]
   - Ei * 0,66g Butter [zb 33g]
