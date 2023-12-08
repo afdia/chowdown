@@ -50,4 +50,6 @@ directions:
   - Wenn Semmeln bestreut sind, nach dem Rausnehmen einfach mit Wasser einsprühen, ansonsten mit Glanzstreiche bestreichen und zum Trocknen nochmal für 5min ins abgeschaltene Rohr stellen
 ---
 
+letzter Versuch statt 90ml Milch 50ml Milch+15g Öl genommen. War zu trocken daher +10ml Milch. Noch immer recht trocken aber nach Backen innen etwas feucht. Daher besser bei 90ml Milch bleiben aber weniger heiß und länger backen
+
 nach 10min auskühlen nochmal ins Rohr geben damit sie rescher werden!

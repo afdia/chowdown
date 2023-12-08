@@ -30,7 +30,7 @@ ingredients:
 
 directions:
   - Die Kartoffeln am Vortag zubereiten damit sie gut getrocknet sind
-  - Backform-Boden mit einer dünnen Schicht Bratöl bedecken
+  - Backform-Boden mit einer dünnen Schicht Bratöl bedecken (alternativ direkt auf Backpapier geben, einölen und Backrohr mit Blech vorheizen und Backpapier mit Kartoffeln wenn vorgeheizt drauflegen)
   - Kartoffeln schälen und in ca 0,5cm dicke Scheiben schneiden und in Backform verteilen
   - Mit Pinsel auch oben mit etwas Bratöl bedecken und für 30min bei 200°C Umluft ins vorgeheizte Backrohr geben
   - Wenn sie fertig sind auf Küchenrolle oder in Sieb absieben und etwas salzen

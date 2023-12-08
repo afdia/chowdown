@@ -10,7 +10,7 @@ images:
 
 ingredients:
   - 350g Weizenmehl
-  - 250g Maismehl
+  - 250g Maismehl (AlNatura)
   - 275g lauwarmes Wasser
   - 150g Joghurt
   - 7,5g Zucker
