@@ -93,6 +93,16 @@ layout: default
       })().catch(e => {
         // Deal with the fact the chain failed
       });
+      // lazy load images when they are scrolled into view (based on https://web.dev/articles/lazy-loading-images?hl=de https://stackoverflow.com/a/71459462)
+      let lazyImgObserver = new IntersectionObserver(function (entries, observer) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.style.backgroundImage = 'url("' + entry.target.dataset.src + '")';
+            lazyImgObserver.unobserve(entry.target); //once img is visible don't listen anymore
+          }
+        });
+      });
+      document.querySelectorAll(".lazy-background").forEach(e => lazyImgObserver.observe(e));
     };
   </script>
 
@@ -107,7 +117,7 @@ layout: default
       {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
         <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="image ratio bg-cover" {% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <div class="image ratio bg-cover lazy-background" {% for image in post.image %} data-src="{{site.baseurl}}/images_resized/{{ image }}" {% endfor %}></div>
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
@@ -117,7 +127,7 @@ layout: default
       {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
         <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="image ratio bg-cover" {% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <div class="image ratio bg-cover lazy-background" {% for image in post.image %} data-src="{{site.baseurl}}/images_resized/{{ image }}" {% endfor %}></div>
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
@@ -127,7 +137,7 @@ layout: default
       {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
         <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="image ratio bg-cover" {% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <div class="image ratio bg-cover lazy-background" {% for image in post.image %} data-src="{{site.baseurl}}/images_resized/{{ image }}" {% endfor %}></div>
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
@@ -137,7 +147,7 @@ layout: default
       {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
         <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="image ratio bg-cover" {% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <div class="image ratio bg-cover lazy-background" {% for image in post.image %} data-src="{{site.baseurl}}/images_resized/{{ image }}" {% endfor %}></div>
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
@@ -146,7 +156,7 @@ layout: default
       {% for post in filtered %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
         <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="image ratio bg-cover" {% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <div class="image ratio bg-cover lazy-background" {% for image in post.image %} data-src="{{site.baseurl}}/images_resized/{{ image }}" {% endfor %}></div>
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
@@ -157,7 +167,7 @@ layout: default
       {% else %}
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
         <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="image ratio bg-cover" {% for image in post.image %} style="background-image:url('{{site.baseurl}}/images_resized/{{ image }}');" {% endfor %}></div>
+          <div class="image ratio bg-cover lazy-background" {% for image in post.image %} data-src="{{site.baseurl}}/images_resized/{{ image }}" {% endfor %}></div>
           <h2 class="title p2 m0 absolute bold white bottom-0 left-0" style="font-size: 2rem">{{ post.title }}</h2>
         </a>
       </div>
