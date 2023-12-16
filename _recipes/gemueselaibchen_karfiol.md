@@ -17,6 +17,8 @@ images:
     description: 1 Pkg Letscho, 220g Nudeln, 1 Pkg Iglo Karfiol-Käse Laibchen passt super zusammen (selbstgemachte Laibchen wären sicher noch besser)
   - image: ../images/gemueselaibchen_karfiol_sesam.webp
     description: Außen Sesam probiert, hat geschmacklich aber wenig Unterschied gemacht. Evtl mehr nehmen?
+  - image: ../images/gemueselaibchen_naechstertag_bratkartoffeln.webp
+    description: Am nächsten Tag für 10min ins Backrohr und sie schmecken fast wie neu. Dazu am Vortag gekochte Kartoffeln in Scheiben geschnitten, auf Backpapier und mit Öl bestrichen (Bratkartoffeln ca 20min, Laibchen nach halber Zeit dazugegeben)
 
 components:
   - Kartoffeln
@@ -32,8 +34,8 @@ ingredients:
 
 directions:
   - Karfiol in Röschen schneiden und kurz in Salzwasser blanchieren (wenns kocht ca 3min)
-  - Inzwischen Käse grob reiben und mit Eiern in Schüssel vermischen
-  - Blanchierten Karfiol mit Zerkleinerer zerkleinern (mehrmals kurz einschalten und schütteln). Alternativ mit Messer fein schneiden (wenige mm³), speziell die Stücke vom Strunk müssen sehr fein sein
+  - Inzwischen Käse grob reiben und mit Eiern in Schüssel vermischen. Dann Masse salzen und pfeffern.
+  - Blanchierten Karfiol 10min auskühlen lassen und danach mit Zerkleinerer zerkleinern (mehrmals kurz einschalten und schütteln)
   - Karfiol mit Ei+Käsemasse vermischen, anschließend Brösel dazugeben und vermischen
   - 20min rasten lassen
   - Etwas Öl in Pfanne geben (Boden bedecken, wie bei Kaspressknödel) und erhitzen

@@ -7,6 +7,10 @@ category: Hauptgericht
 components:
   - Guacamole
 
+images:
+  - image: ../images/guacamole_spaghetti_mit_champignons_paprika.webp
+    description: Statt Tomaten Paprika in Guacamole passt auch gut aber nicht so gut wie mit Tomaten
+
 ingredients:
   - 270g Nudeln
   - 250g Champignons

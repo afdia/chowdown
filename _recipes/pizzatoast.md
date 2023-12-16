@@ -9,6 +9,11 @@ images:
     description: Übrige Sauce passt gut auf TK-Pizza (oder Risi Bisi siehe dortiges Rezept)
   - image: ../images/toast_champignons.webp
     description: Toastbrot, Scheibe Käse, drauf dünne Champignons passt super
+  - image: ../images/pizzatoast_ei.webp
+    description: Oben ein Spiegelei passt gut, allerdings sollte der sonstige Belag flach sein sonst rutscht es runter wie hier. Außerdem evtl nur Käse drunter probieren
+  - image: ../images/pizzatoast_pizza.webp
+    description: Der Pizzatoast Belag passt auch super auf Pizza
+
 ingredients:
   - 8 Scheiben Toast
   - 125g Gouda (kein Mozzarella weil es Toast aufweicht)

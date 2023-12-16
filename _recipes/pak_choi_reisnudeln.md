@@ -9,6 +9,8 @@ images:
     description: Chinakohl passt auch ganz gut. Untere Hälfte früher dazugeben (aber auch nicht zu lang), obere Hälfte erst ganz am Schluss. War am nächsten Tag noch besser + angeröstete Cashew Kerne
   - image: ../images/pak_choi_reisnudeln_curryreis.webp
     description: Curryreis statt Reisnudeln, +Erbsen, +Cashewkerne war in Summe super!
+  - image: ../images/pak_choi_chinakohl_champignons.webp
+    description: Statt Pak Choi Chinakohl genommen; Anfangs Champignons scharf angebraten, rausgegeben; auch Cashewkerne angeröstet. Am Ende beides dazu; passt super! Statt Reisnuden warens Woknudeln aus Hartweizen
 
 ingredients:
 - 2-3 Karotten

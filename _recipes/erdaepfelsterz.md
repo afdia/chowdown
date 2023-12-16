@@ -9,15 +9,17 @@ images:
     description: Eine Hälfte des Teigs füllt die Pfanne ziemlich aus darum muss man es auf 2x machen
   - image: ../images/erdaepfelsterz_violett.webp
     description: Sterz mit violetten Kartoffeln war auch sehr gut
+  - image: ../images/erdaepfelsterz_vortag.webp
+    description: Sterz vom Vortag in Kühlschrank aufgehoben. Schmeckt noch immer super, ist aber etwas weicher als wenn er frisch ist
 
 components:
   - Kartoffeln
 
 ingredients:
   - 550g Kartoffeln
-  - 200g Weizenmehl (kein Vollkorn)
+  - 200g Weizenmehl (kein Vollkorn) (bzw Kartoffelmenge/2,75g)
   - Butterschmalz oder Sonnenblumenöl
-  - 8g Salz
+  - 8g Salz (bzw Kartoffelmenge/68,75g)
 
 directions:
   - Die Kartoffeln am Vortag kochen und im Kühlschrank aufheben.

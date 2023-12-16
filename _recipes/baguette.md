@@ -5,6 +5,8 @@ image: baguette.webp
 category: BrotGebaeck
 
 images:
+  - image: ../images/baguette_blech_oel.webp
+    description: Teig nach 1h nochmal mit Küchenmaschine geknetet (jetzt löst er sich gut), dann nochmal 1-2h rasten lassen. Backrohr vorheizen, dann Baguetteblech ohne Backpapier und ohne Mehl nehmen, Hände einölen, dann mit Händen 3 Teile vom Blech eingeölt und mit öligen Händen Teig direkt aus Schüssel nehmen (nächstes Mal evtl Teig einölen bevor er zur 2. Rast in Schüssel kommt). Dann Teig in 3 Teile teilen und 3 Baguettes backen. Schmeckt super, ist rundherum resch, auch der Boden (der durchs Backpapier sonst zu hell bleibt)
   - image: ../images/baguette_gedreht.webp
     description: Kein Baguetteblech dafür eingedreht damit es die Form behält (270ml Wasser, 220°C 19min)
   - image: ../images/baguette_gedreht_chia.webp
@@ -40,6 +42,7 @@ directions:
   - Dann Teig vorsichtig wieder auf bemehltes Backpapier putzen, evtl darauf etwas Mehl verteilen, in 2 Stücke zerteilen und beide Baguettes langsam länglich ausziehen und spiralförmig drehen (dadurch behalten sie die Form) oder das bemehlte Backpapier auf ein Baguetteblech legen, 3 Baguettes formen und mit Wasser besprühen
   - 10min zugedeckt rasten lassen und nach Rastzeit, Backrohr mit Blech auf mittlerer Schiene vorheizen
   - Wenn Backrohr vorgeheizt, Häferl Wasser ins Rohr stellen, Baguettes mit Wasser besprühen und mit Messer einschneiden (evtl anderes Ende festhalten weil Teig sich beim Schneiden zu einer Seite zieht)
-  - Das Baguetteblech auf das vorheizte Blech im Backrohr geben und ca 18-19min bei 250°C Ober-/Unterhitze backen (evtl zweitunterste schiene probieren weil boden bei mittlerer schiene sehr hell bleibt, evtl nach 10min kurz Tür öffnen um Dampf rauszulassen)
+  - Das Baguetteblech auf das Gitter im Backrohr geben und ca 18-19min bei 250°C Ober-/Unterhitze (zweitunterste Schiene) backen.
+  - Sofort Wasser in Backrohr sprühen (evtl nochmal nach 1-2min) und nach 10min kurz Tür öffnen um Dampf rauszulassen
   - Nach dem Herausnehmen nochmal reichlich mit Wasser besprühen
 ---
