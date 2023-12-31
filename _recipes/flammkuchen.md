@@ -14,6 +14,8 @@ ingredients:
   - Zum Belegen 1 rote Zwiebel, 1 große Dose Thunfisch, 1/2 roter Spitzpaprika, 1/2 Glas Mais
 
 images:
+  - image: ../images/flammkuchen_sauerrahm.webp
+    description: 70g Sauerrahm mit Pfeffer+Salz angerührt und mit Teigkarte dünn aufgestrichen. Passt super und flankt nicht aus weil dünn
   - image: ../images/flammkuchen_vor_backrohr.webp
     description: Verschiedene Beläge bevor er ins Rohr kommt
   - image: ../images/flammkuchen_ohne_hefe.webp

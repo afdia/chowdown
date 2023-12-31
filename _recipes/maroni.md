@@ -17,3 +17,5 @@ directions:
 - Sobald sie nicht mehr heiß sind gehen sie meist nur noch schwer raus, also beeilen!
 
 ---
+
+Evtl statt Backrohr in heißer unbeschichteter Pfanne probieren? Wenn dann alte Pfanne nehmen die hin werden kann

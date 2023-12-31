@@ -6,7 +6,7 @@ category: BrotGebaeck
 
 images:
   - image: ../images/baguette_blech_oel.webp
-    description: Teig nach 1h nochmal mit Küchenmaschine geknetet (jetzt löst er sich gut), dann nochmal 1-2h rasten lassen. Backrohr vorheizen, dann Baguetteblech ohne Backpapier und ohne Mehl nehmen, Hände einölen, dann mit Händen 3 Teile vom Blech eingeölt und mit öligen Händen Teig direkt aus Schüssel nehmen (nächstes Mal evtl Teig einölen bevor er zur 2. Rast in Schüssel kommt). Dann Teig in 3 Teile teilen und 3 Baguettes backen. Schmeckt super, ist rundherum resch, auch der Boden (der durchs Backpapier sonst zu hell bleibt)
+    description: Rezept wie unten als Variante mit Öl beschrieben. Hier sieht man die Behälter für die letzte Teigrast (besser wären 2 Kermaikschüsseln). Dann Hände einölen, mit Händen Blech eingeölt und mit öligen Händen Teig direkt aus Schüssel nehmen. Dann Teig in 2 Teile teilen und 2 Baguettes backen. Schmeckt super, ist rundherum resch, auch der Boden (der durchs Backpapier sonst zu hell bleibt)
   - image: ../images/baguette_gedreht.webp
     description: Kein Baguetteblech dafür eingedreht damit es die Form behält (270ml Wasser, 220°C 19min)
   - image: ../images/baguette_gedreht_chia.webp
@@ -33,16 +33,18 @@ ingredients:
   - 290ml lauwarmes Wasser
   - 9,5g Salz
   - 2g Zucker
-  - 1/4 Hefewürfel (nimmt man 1/2 reicht 1,5h Gehzeit aber es schmeckt etwas nach Hefe)
+  - 1/2 Sackerl Trockenhefe (hat einige Std Zeit reicht auch 1/4 Sackerl)
 
 directions:
   - Hefe, lauwarmes Wasser, Mehl, Salz und Zucker in Schüssel geben
   - Mit Küchenmaschine gut durchkneten (ca 2min Stufe 2, dann Teig in die Mitte putzen, danach 5min Stufe 3)
-  - Teig mit Teigkarte in Mitte putzen und zugedeckt 2h gehen lassen
-  - Dann Teig vorsichtig wieder auf bemehltes Backpapier putzen, evtl darauf etwas Mehl verteilen, in 2 Stücke zerteilen und beide Baguettes langsam länglich ausziehen und spiralförmig drehen (dadurch behalten sie die Form) oder das bemehlte Backpapier auf ein Baguetteblech legen, 3 Baguettes formen und mit Wasser besprühen
-  - 10min zugedeckt rasten lassen und nach Rastzeit, Backrohr mit Blech auf mittlerer Schiene vorheizen
-  - Wenn Backrohr vorgeheizt, Häferl Wasser ins Rohr stellen, Baguettes mit Wasser besprühen und mit Messer einschneiden (evtl anderes Ende festhalten weil Teig sich beim Schneiden zu einer Seite zieht)
-  - Das Baguetteblech auf das Gitter im Backrohr geben und ca 18-19min bei 250°C Ober-/Unterhitze (zweitunterste Schiene) backen.
-  - Sofort Wasser in Backrohr sprühen (evtl nochmal nach 1-2min) und nach 10min kurz Tür öffnen um Dampf rauszulassen
+  - Der Teig bleibt beim Kneten noch in den Ecken kleben, daher mit Teigkarte in Mitte putzen und zugedeckt 1h gehen lassen (Knethaken und Teigkarte säubern)
+  - Dann Teig erneut mit Küchenmaschine Kneten (bis er sich schön löst und kneten lässt). Anschließend nochmal 1h rasten lassen. Den Schritt beliebig oft wiederholen bzw auch länger rasten lassen
+  - "Variante mit Öl: 2 Schüsseln mit Olivenöl vorberreiten und Teig aus Küchenmaschine-Schüssel halbieren und in jede Schüssel putzen. Gut mit Öl bedecken damit der Teig nicht anklebt. Nochmal 1h rasten lassen, danach Baguetteblech mit Öl einfetten und Teig aus Schüsseln länglich ausziehen und drauf geben (möglichst wenig kneten)"
+  - "Variante ohne Öl: Teig vorsichtig wieder auf bemehltes Backpapier putzen, evtl darauf etwas Mehl verteilen, in 2 Stücke zerteilen und beide Baguettes langsam länglich ausziehen und spiralförmig drehen (dadurch behalten sie die Form) oder das bemehlte Backpapier auf ein Baguetteblech legen, 3 Baguettes formen und mit Wasser besprühen. 10min zugedeckt rasten lassen"
+  - Backrohr mit Blech auf mittlerer Schiene vorheizen (oder zweitunterste Schiene wenn Baguetteblech+Backpapier)
+  - Wenn Backrohr vorgeheizt, Baguettes mit Wasser besprühen und mit Messer einschneiden (evtl anderes Ende festhalten weil Teig sich beim Schneiden zu einer Seite zieht)
+  - Das Baguetteblech auf das Gitter im Backrohr geben und ca 18-19min bei 250°C Ober-/Unterhitze (zweitunterste Schiene) backen
+  - Sofort Wasser ins Backrohr sprühen, nochmal nach ca 2min und nach 10min kurz Tür öffnen um Dampf rauszulassen
   - Nach dem Herausnehmen nochmal reichlich mit Wasser besprühen
 ---

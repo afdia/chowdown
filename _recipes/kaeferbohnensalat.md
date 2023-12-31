@@ -9,7 +9,7 @@ images:
     description: Fol Epi dazugeschnitten, Eier, grüner Salat und Schinkenrollen (Rezept siehe Eiaufstrich)
 
 ingredients:
-  - 250g Käferbohnen
+  - 250g Käferbohnen (aber 500g kochen)
   - 1 Zwiebel
   - 1 Paprika
   - 4 Essiggurkerl

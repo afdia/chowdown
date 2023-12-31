@@ -7,7 +7,7 @@ ingredients:
   - 250g Basmatireis (Menge für 2 Personen)
   - 375g Wasser (bei Vollkornreis 500g)
   - 3-3,5g Salz
-  - OPTIONAL 2g Curry für Curryreis
+  - OPTIONAL 2g Curry für Curryreis oder 4g Paprikapulver für Paprikareis
 
 directions:
   - Basmatireis in Sieb geben und waschen, danach in Topf geben (gewaschener Reis wiegt ca 280g, daher hat man in Summe 375+30g Wasser)
