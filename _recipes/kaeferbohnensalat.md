@@ -7,6 +7,8 @@ category: SalatAufstrich
 images:
   - image: ../images/kaeferbohnensalat_schinkenrollen.webp
     description: Fol Epi dazugeschnitten, Eier, grüner Salat und Schinkenrollen (Rezept siehe Eiaufstrich)
+  - image: ../images/kaeferbohnensalat_orsl.webp
+    description: Orsl Stil ohne Zwiebel/Gurkerl. Stattdessen Tomaten, Paprika, Eier, Käse klein geschnitten. Weißer Balsamicoessig (weil sonst nichts saures drinnen), viel Kürbiskernöl und etwas Wasser bis der Salat schön saftig ist +Salz und Pfeffer. Schmeckt super!
 
 ingredients:
   - 250g Käferbohnen (aber 500g kochen)

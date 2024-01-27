@@ -10,12 +10,14 @@ ingredients:
   - 9g Salz
   - 1/4 Germwürfel
   - 20g Olivenöl
-  - 100-125g Clever Creme Fraiche (Sauerrahm würde ausflanken) + Salz, Pfeffer
+  - 70-100g Clever Creme Fraiche (Sauerrahm geht auch aber sehr dünn aufstreichen) + Salz, Pfeffer
   - Zum Belegen 1 rote Zwiebel, 1 große Dose Thunfisch, 1/2 roter Spitzpaprika, 1/2 Glas Mais
 
 images:
   - image: ../images/flammkuchen_sauerrahm.webp
     description: 70g Sauerrahm mit Pfeffer+Salz angerührt und mit Teigkarte dünn aufgestrichen. Passt super und flankt nicht aus weil dünn
+  - image: ../images/flammkuchen_sauerrahm_duenn.webp
+    description: Fertiger Flammkuchen mit Sauerrahm. Sehr dünn und resch!
   - image: ../images/flammkuchen_vor_backrohr.webp
     description: Verschiedene Beläge bevor er ins Rohr kommt
   - image: ../images/flammkuchen_ohne_hefe.webp

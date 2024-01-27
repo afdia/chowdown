@@ -17,6 +17,8 @@ images:
     description: Variante mit 100g VK Dinkel und 400g Weizen und teilweise dunklen Sesam ist auch sehr gut. Ich hab nachträglich Natronlauge drübergeschüttet, dadurch haben sie eine schöne Farbe aber sind am Backpapier angeklebt (daher eher nicht machen)
   - image: ../images/laugenstangerl_kamut.webp
     description: Variante mit 300g VK Kamut frisch gerieben und 200g Weizenmehl. War ziemlich trocken und nicht so gut wie mit nur weißem Mehl. Vmtl passt Natronlauge + VK einfach nicht wirklich zusammen
+  - image: ../images/laugenstangerl_lauge.webp
+    description: Versuch mit Brezenlauge von Ofner. Mit Pinsel 1-2x bestrichen. Wie man sieht leider noch sehr hell aber typischer Laugengeschmack ist da. Evtl eintauchen oder mehr bestreichen? Problem ist Backpapier zersetzt sich wo viel Lauge hinkommt (kleine Löcher sichtbar) daher evtl direkt auf Blech?
 
 ingredients:
   - 500g Mehl

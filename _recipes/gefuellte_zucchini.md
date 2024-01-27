@@ -23,7 +23,7 @@ ingredients:
 
 directions:
   - Zwiebel, Knoblauch in der Pfanne mit etwas Butter anrösten
-  - Das Innere der Zucchini mit Esslöffel auskratzen und mit dem Messer zerkleinern
+  - Das Innere der Zucchini mit kleinem Löffel auskratzen und mit dem Messer zerkleinern
   - Das zerkleinerte Innere der Zucchini in die Pfanne geben und zugedeckt kurz dünsten und mit Salz/Suppenwürze würzen
   - Danach die Tomatensauce dazugeben
   - Die ausgekratzten Zucchini in eine Auflaufform legen, die Sauce einfüllen und den Mozzarella darauf verteilen

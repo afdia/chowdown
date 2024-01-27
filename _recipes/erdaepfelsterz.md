@@ -22,7 +22,7 @@ ingredients:
   - 8g Salz (bzw Kartoffelmenge/68,75g)
 
 directions:
-  - Die Kartoffeln am Vortag kochen und im Kühlschrank aufheben.
+  - Die Kartoffeln am Vortag kochen und im Kühlschrank aufheben oder frisch kochen, schälen und 1-2h ausdampfen lassen.
   - Am nächsten Tag schälen und durch Kartoffelpresse pressen.
   - Mehl und Salz dazugeben und zunächst mit Löffel vermischen, danach mit den Händen gut zu einem bröseligen Teig kneten
   - etwas Öl in die Pfanne geben und ca die Hälfe vom Teig in die Pfanne geben.
