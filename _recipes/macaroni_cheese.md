@@ -34,7 +34,7 @@ directions:
   - Zucchini halb grob, halb fein reiben, dazugeben und mit Pfeffer und Suppenwürze würzen
   - Wenn Zucchini durch ist, Mehl dazugeben, verrühren und Milch sowie etwas Pfeffer dazugeben
   - 3/4 vom Käse in die Sauce einrühren
-  - Am Schluss die fertigen Maccaroni dazugeben
+  - Am Schluss die fertigen Maccaroni dazugeben (evtl einiges an Kochwasser dazugeben damit es cremiger wird!)
   - Alles in eine Auflaufform gießen und den restlichen Käse darüber verteilen
   - Bei 180°C Ober-/Unterhitze für ca 20min ins vorgeheizte Backrohr (2. Schiene von unten) geben
 ---
