@@ -2,7 +2,7 @@
 layout: recipe
 title: "Toastbrot"
 image: toastbrot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/toastbrot_vollkorn.webp

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Pfannen Fladenbrot"
 image: pfannen_fladenbrot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/pfannen_fladenbrot_tomaten_mozzarella.webp

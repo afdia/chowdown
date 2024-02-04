@@ -2,7 +2,7 @@
 layout: recipe
 title: "Baguette Rustikal"
 image: baguette.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/baguette_blech_oel.webp

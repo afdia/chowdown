@@ -2,7 +2,7 @@
 layout: recipe
 title: "Vollkorn Sauerteig Karotten Nuss Brot"
 image: vollkorn_sauerteig_karotten_nuss_brot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/vollkorn_sauerteig_karotten_nuss_brot_vorher.webp

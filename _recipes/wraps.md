@@ -2,7 +2,7 @@
 layout: recipe
 title: "Wraps"
 image: wraps.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/wraps_besteck.webp

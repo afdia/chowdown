@@ -2,7 +2,7 @@
 layout: recipe
 title: "Maisbrot"
 image: maisbrot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/maisbrot_ohne_form.webp

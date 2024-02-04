@@ -2,7 +2,7 @@
 layout: recipe
 title: "Fladenbrot"
 image: fladenbrot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/fladenbrot_bestrichen.webp

@@ -11,6 +11,10 @@ images:
     description: Versuch mit sehr wenig Fett. 1. Partie war noch gut, bei 2. war nicht mal mehr der Pfannenboden bedeckt weshalb ich die Laibchen zusammendrücken musste. War auch noch gut aber nicht resch. Dafür nachher praktisch kein Fett in Pfanne übrig.
   - image: ../images/kichererbsenlaibchen_rotkraut.webp
     description: Wieder 0,5cm Fett. Schmeckt super auch wenn sie mehr Fett aufsaugen als Gebackenes Gemüse oder Kartoffelpuffer. Rotkraut passt super dazu.
+  - image: ../images/kichererbsenlaibchen_zucchini.webp
+    description: Statt Karrotten 1 Zucchini (ca 220g). War recht flüssig daher um einiges mehr Mehl (evtl 50g) und patzigen Teig direkt in Fett getropft
+  - image: ../images/kichererbsenlaibchen_zucchini_fertig.webp
+    description: Die fertigen Laibchen mit dem patzigen Teig waren geschmacklick aber sehr gut. Tsatsiki passt auch sehr gut dazu
   - image: ../images/kichererbsenlaibchen_sojabohnen.webp
     description: 250g TK Sojabohnen 5min aufkochen, dann wie üblich weitermachen (Eier am Schluss dazu damit sie nicht stocken), statt Karotten 1/2 Zucchini genommen. Ergebnis war super und vmtl noch besser als die Kichererbsenvariante. Mehr Mehl genommen und direkt in Pfanne gelegt weil Teig feuchter war. Sauerrahm+Ketchup passt gut dazu ist in Summe aber sehr fettig, besser Kartoffeln, Reis oder Sauerkraut probieren
 

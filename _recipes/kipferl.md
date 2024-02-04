@@ -3,7 +3,7 @@
 layout: recipe
 title: "Kipferl"
 image: kipferl.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/kipferl_vor_backrohr.webp

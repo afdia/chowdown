@@ -2,7 +2,7 @@
 layout: recipe
 title: "Weißbrot"
 image: weissbrot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 ingredients:
 - 500g Mehl

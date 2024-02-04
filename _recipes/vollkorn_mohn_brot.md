@@ -2,7 +2,7 @@
 layout: recipe
 title: "Vollkorn Mohn Brot"
 image: vollkorn_mohn_brot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/vollkorn_mohn_brot_gaehrkorb.webp

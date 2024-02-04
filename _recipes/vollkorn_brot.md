@@ -2,7 +2,7 @@
 layout: recipe
 title: "Vollkorn Brot in Form"
 image: vollkorn_brot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/vollkorn_brot_gehenlassen.webp

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Kartoffelbrot"
 image: kartoffelbrot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/kartoffelbrot_schritte.webp

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Laugenstangerl"
 image: laugenstangerl.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/laugenstangerl_beugel.webp

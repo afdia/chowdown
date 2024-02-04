@@ -2,7 +2,7 @@
 layout: recipe
 title: "Pita Brot"
 image: pita_brot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/pita_brot_ausgerollt1.webp

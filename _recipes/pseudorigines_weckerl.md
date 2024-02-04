@@ -2,7 +2,7 @@
 layout: recipe
 title: "Pseudorigines Weckerl"
 image: pseudorigines_weckerl.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/pseudorigines_weckerl_vor_gehen.webp

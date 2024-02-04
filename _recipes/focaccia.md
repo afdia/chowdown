@@ -2,7 +2,7 @@
 layout: recipe
 title: "Focaccia"
 image: focaccia.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/focaccia_3xfalten.webp
@@ -15,11 +15,13 @@ images:
     description: Teig mit Löchern (evtl hab ich sie zu tief gemacht?)
   - image: ../images/focaccia_fertig.webp
     description: Das fertige Brot bevor wir es aufgeschnitten haben
+  - image: ../images/focaccia_ohne_oel_gaerkorb.webp
+    description: Versuch komplett ohne Öl und in Gärkorb. Sowohl Tuch zum Zudecken als auch Leinentuch im Korb kleben an Brot. Nicht mehr machen! Danach auf Blech ohne Öl geputzt und sofort gebacken. War sehr gut, besser als mit Öl (wobei Ölvariante eigenen Geschmack hat, aber evtl ist frisch Öl tunken besser)
 
 ingredients:
 - 470g Wasser (lauwarm)
 - 12g Salz
-- 7g Olivenöl (+extra auf Backpapier und Hand)
+- 7g Olivenöl (+extra auf Backpapier und Hand) (bei 2. Versuch weggelassen, war auch super)
 - 7g Hefe
 - 560g glattes Mehl (wie für Pizza)
 

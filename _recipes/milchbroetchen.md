@@ -2,7 +2,7 @@
 layout: recipe
 title: "Milchbrötchen"
 image: milchbroetchen.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 ingredients:
   - 25g Butter

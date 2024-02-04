@@ -2,7 +2,7 @@
 layout: recipe
 title: "Semmeln"
 image: semmeln.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/semmeln_eingeschnitten.webp

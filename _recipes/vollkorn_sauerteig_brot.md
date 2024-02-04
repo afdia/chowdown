@@ -2,7 +2,7 @@
 layout: recipe
 title: "Vollkorn Sauerteig Brot"
 image: vollkorn_sauerteig_brot.webp
-category: BrotGebaeck
+category: Brot und Gebäck
 
 images:
   - image: ../images/vollkorn_sauerteig_brot_misch.webp
