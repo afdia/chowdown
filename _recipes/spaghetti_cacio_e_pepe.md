@@ -2,7 +2,7 @@
 layout: recipe
 title: "Spaghetti Cacio e Pepe"
 image: spaghetti_cacio_e_pepe.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/spaghetti_cacio_e_pepe_1_pfeffer.webp

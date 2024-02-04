@@ -3,7 +3,7 @@
 layout: recipe
 title: "Überbackene Krautfleckerl"
 image: ueberbackene_krautfleckerl.webp
-category: Hauptgericht
+category: Nudelgericht
 
 ingredients:
 - 300g Fleckerl oder Hörnchen

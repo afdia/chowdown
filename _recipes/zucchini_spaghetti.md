@@ -2,7 +2,7 @@
 layout: recipe
 title: "Zucchini Spaghetti"
 image: zucchini_spaghetti.webp
-category: Hauptgericht
+category: Nudelgericht
 
 ingredients:
 - 1 Zwiebel

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Spargel Nudeln"
 image: spargel_nudeln.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/spargel_nudeln_pfanne.webp

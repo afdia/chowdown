@@ -2,7 +2,7 @@
 layout: recipe
 title: "Spinat Champignon Penne"
 image: spinat_champignon_penne.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/spinat_champignon_penne_spaghetti.webp

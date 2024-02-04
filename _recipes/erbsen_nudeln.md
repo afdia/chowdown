@@ -2,7 +2,7 @@
 layout: recipe
 title: "Erbsen Nudeln"
 image: erbsen_nudeln.webp
-category: Hauptgericht
+category: Nudelgericht
 
 ingredients:
 - 270g Nudeln

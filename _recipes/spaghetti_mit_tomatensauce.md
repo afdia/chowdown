@@ -2,7 +2,7 @@
 layout: recipe
 title: "Spaghetti mit Tomatensauce"
 image: spaghetti_mit_tomatensauce.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/spaghetti_mit_tomatensauce_in_pfanne1.webp

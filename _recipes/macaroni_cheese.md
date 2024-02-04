@@ -2,7 +2,7 @@
 layout: recipe
 title: "Macaroni Cheese"
 image: macaroni_cheese.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/macaroni_cheese_pur.webp

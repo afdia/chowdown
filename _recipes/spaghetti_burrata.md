@@ -2,7 +2,7 @@
 layout: recipe
 title: "Spaghetti Burrata"
 image: spaghetti_burrata.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/spaghetti_burrata_geoeffnet.webp

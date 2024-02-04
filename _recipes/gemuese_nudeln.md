@@ -2,7 +2,7 @@
 layout: recipe
 title: "Gemüse Nudeln"
 image: gemuese_nudeln.webp
-category: Hauptgericht
+category: Nudelgericht
 
 ingredients:
   - 250g Nudeln

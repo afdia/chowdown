@@ -2,7 +2,7 @@
 layout: recipe
 title: "Melanzani Penne"
 image: melanzani_penne.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/melanzani_penne_aufgeschnitten.webp

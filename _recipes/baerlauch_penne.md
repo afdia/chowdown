@@ -2,7 +2,7 @@
 layout: recipe
 title: "Bärlauch Penne"
 image: baerlauch_penne.webp
-category: Hauptgericht
+category: Nudelgericht
 
 ingredients:
   - 300g Spirelli oder Penne

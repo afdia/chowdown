@@ -2,7 +2,7 @@
 layout: recipe
 title: "Nudeln hausgemacht"
 image: nudeln_hausgemacht.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/nudeln_hausgemacht_ausgerollt.webp

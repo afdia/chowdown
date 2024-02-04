@@ -2,7 +2,7 @@
 layout: recipe
 title: "Guacamole Spaghetti mit Champignons"
 image: guacamole_spaghetti_mit_champignons.webp
-category: Hauptgericht
+category: Nudelgericht
 
 components:
   - Guacamole

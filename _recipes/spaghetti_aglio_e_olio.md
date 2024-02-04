@@ -2,7 +2,7 @@
 layout: recipe
 title: "Spaghetti Aglio e Olio"
 image: spaghetti_aglio_e_olio.webp
-category: Hauptgericht
+category: Nudelgericht
 
 ingredients:
 - 300g Spaghetti (eher dicke raue die stärkehaltig sind)

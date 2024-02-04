@@ -2,7 +2,7 @@
 layout: recipe
 title: "Pesto Spaghetti"
 image: pesto_spaghetti.webp
-category: Hauptgericht
+category: Nudelgericht
 
 ingredients:
 - 90g Olivenöl

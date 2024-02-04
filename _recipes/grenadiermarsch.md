@@ -3,7 +3,7 @@
 layout: recipe
 title: "Grenadiermarsch"
 image: grenadiermarsch.webp
-category: Hauptgericht
+category: Nudelgericht
 
 images:
   - image: ../images/grenadiermarsch_ohne_zwiebel.webp
