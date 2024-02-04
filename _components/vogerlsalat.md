@@ -2,7 +2,7 @@
 layout: recipe
 title: "Vogerlsalat"
 image: vogerlsalat.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 ingredients:
   - 1Pkg Vogerlsalat

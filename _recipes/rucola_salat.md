@@ -2,7 +2,7 @@
 layout: recipe
 title: "Rucola Salat"
 image: rucola_salat.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 ingredients:
   - Rucola Salat

@@ -3,7 +3,7 @@
 layout: recipe
 title: "Schinkenrollen mit Topfen-Kren Füllung"
 image: schinkenrollen_mit_topfenkrenfuellung.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 ingredients:
 - 1 Pkg Ja! Karreeschinken

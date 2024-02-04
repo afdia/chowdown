@@ -2,7 +2,7 @@
 layout: recipe
 title: "Gemischter Salatteller"
 image: gemischter_salatteller.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 images:
   - image: ../images/gemischter_salatteller_fisolen.webp

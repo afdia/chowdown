@@ -112,7 +112,7 @@ layout: default
       {% assign sorted = site.documents | sort:"date" %}
       <!-- where filter see https://stackoverflow.com/questions/24701557/why-doesnt-this-jekyll-liquid-where-filter-filter/24704168#24704168 -->
 
-      {% assign categories = "Hauptgericht,BrotGebaeck,SalatAufstrich,Süßspeise,Snack" | split: ',' %}
+      {% assign categories = "Hauptgericht,BrotGebaeck,Salate und Aufstriche,Süßspeise,Snack" | split: ',' %}
       {% for cat in categories %}
       <h1 class="title xs-px1" style="clear:left">{{cat}}</h1>
       {% assign filtered = sorted | where:"category", {{cat}} %}

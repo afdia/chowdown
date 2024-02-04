@@ -2,7 +2,7 @@
 layout: recipe
 title: "Hummus"
 image: hummus.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 ingredients:
 - 100g Kichererbsen

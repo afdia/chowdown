@@ -2,7 +2,7 @@
 layout: recipe
 title: "Endivien-Kartoffel Salat"
 image: endivien_kartoffel_salat.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 images:
   - image: ../images/kartoffel_salat.webp

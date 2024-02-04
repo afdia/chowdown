@@ -2,7 +2,7 @@
 layout: recipe
 title: "Käferbohnensalat"
 image: kaeferbohnensalat.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 images:
   - image: ../images/kaeferbohnensalat_schinkenrollen.webp

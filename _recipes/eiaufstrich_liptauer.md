@@ -2,7 +2,7 @@
 layout: recipe
 title: "Eiaufstrich/Liptauer"
 image: eiaufstrich_liptauer.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 ingredients:
   - 125g Topfen
@@ -11,7 +11,7 @@ ingredients:
   - 15g Estragon Senf (bei Liptauer evtl 10g)
   - 1 Gurkerl sehr fein geschnitten
   - 1,5g Salz und 1g Pfeffer
-  - "Liptauer: 5g Kotanyi Paprikapulver süß, 1 Knoblauchzehe gepresst, 2 Tropfen End of Sanity Schärfungssauce"
+  - "Liptauer: 5g Kotanyi Paprikapulver süß, 2 Tropfen End of Sanity Schärfungssauce, 1 Knoblauchzehe fein geschnitten (wenn gepresst bleibt lang Knoblauchgeschmack im Mund)"
   - "Eiaufstrich: 3 Eier klein geschnitten,  etwas extra Salz"
 
 directions:

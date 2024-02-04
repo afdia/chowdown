@@ -2,7 +2,7 @@
 layout: recipe
 title: "Nudelsalat"
 image: nudelsalat.webp
-category: SalatAufstrich
+category: Salate und Aufstriche
 
 images:
   - image: ../images/nudelsalat_mayonnaise.webp
