@@ -23,6 +23,7 @@ images:
 components:
   - Kartoffeln
   - Sauerkraut
+  - Rotkraut
 
 ingredients:
   - 400g Karfiol
@@ -42,4 +43,5 @@ directions:
   - Mit Hand ca 12 flache Laibchen formen, (optional in Brösel oder Sesam legen und gut andrücken damit sie nicht abfallen) und in Pfanne geben und bei Stufe 7 beidseitig einige Minuten anbraten bis sie resch sind (Achtung - sollten flach sein damit sie beim Umdrehen nicht zerfallen)
 ---
 
-- Vogerlsalat, Joghurtsauce, Ketchup passen gut dazu. Reis vmtl auch 
+- Vogerlsalat, Joghurtsauce, Ketchup passen gut dazu. Reis vmtl auch
+- evtl 1 Karotte reinreiben damit es leicht süßlich wird

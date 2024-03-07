@@ -6,7 +6,7 @@ category: Süßspeise
 
 images:
   - image: ../images/gugelhupf_walnuss.webp
-    description: -60g Mehl, +120g geriebene Walnüsse, 20g Schokostreusel statt Kakao. Nüsse passen sehr gut aber Schoko nicht. Nächster Versuch nur mit Walnüssen ohne Schoko/Kaokao war super!
+    description: -60g Mehl, +120g geriebene Walnüsse, 20g Schokostreusel statt Kakao. Nüsse passen sehr gut aber zuviel Schoko nicht. Nächster Versuch mit 250g Mehl, 75g Walnüssen, 1 Karotte, etwas Schokostreusel war sehr gut aber Karotte merkt man fast nicht
   - image: ../images/gugelhupf_haselnuss.webp
     description: -75g Mehl, +75g geriebene Haselnüsse, 270g Joghurt statt Milch, keine Schokolade/Kakao - sehr saftig und gut, schmeckt intensiv nach Haselnüssen (nächster Versuch 50g Haselnüsse + Schokoflocken war auch sehr gut aber hat weniger nach Nüssen geschmeckt)
   - image: ../images/gugelhupf_karotten.webp

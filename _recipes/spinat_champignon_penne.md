@@ -7,6 +7,8 @@ category: Nudelgericht
 images:
   - image: ../images/spinat_champignon_penne_spaghetti.webp
     description: Variante mit Spaghetti
+  - image: ../images/spinat_champignon_penne_tomaten.webp
+    description: Ohne Champignons zubereitet, dafür am Ende geschnittene getrocknete Tomaten und Mozzarella dazugegeben
 
 ingredients:
   - 270g Nudeln
