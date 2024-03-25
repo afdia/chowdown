@@ -4,6 +4,10 @@ title: "Eiernockerl"
 image: eiernockerl.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/eiernockerl_schnittlauch.webp
+    description: Schnittlauch passt sehr gut dazu
+
 components:
   - Spaetzle
 

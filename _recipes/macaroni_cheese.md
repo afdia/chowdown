@@ -15,6 +15,8 @@ images:
     description: Lauch statt Zwiebel, ganzer Käse in Sauce (d.h. kein extra Käse oben) war auch super!
   - image: ../images/macaroni_cheese_kidney.webp
     description: 1 Dose Kidney Bohnen untergemischt und die 10g Mehl weggelassen. Ergebnis war gut aber ganz anders. Evtl doch die 10g Mehl nehmen und Bohnen nur oben drauf geben?
+  - image: ../images/macaroni_cheese_karfiol.webp
+    description: Statt Zucchini 1 Karfiol fein runterschneiden (max 1cm³ damit er durch wird) und da wo sonst Zucchini in Pfanne kommt den Karfiol reingegeben. Nach der Milch 1EL Paprikapulver dazu (wir hatten etwas mehr Mehl und Milch). Ganzen Käse direkt rein, dafür am Ende 1 Mozzarella schneiden und draufgeben (wir hatten ihn übrig, eigentlich reicht der Käse wie im Rezept vmtl). Statt Maccaroni Fleckerl mit Ei genommen. Ergebnis war super, speziell Fleckerl und Paprikapulver. Karfiol war aber auch ganz gut nur teilweise zu hart (weil Stücke größer als 1cm³ waren)
 
 ingredients:
   - 250g Maccaroni

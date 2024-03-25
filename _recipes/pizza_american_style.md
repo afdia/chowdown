@@ -5,6 +5,12 @@ image: pizza_american_style.webp
 category: Hauptgericht
 
 images:
+  - image: ../images/pizza_american_style_focaccia1.webp
+    description: 1/3 Teig wie Focaccia (400g Mehl, 335ml Wasser, 7g Germ, 10g Salz) und auf 1 großen Blech. War super, besser als das Rezept hier!
+  - image: ../images/pizza_american_style_focaccia2.webp
+    description: 2/3 Anschließend belegen
+  - image: ../images/pizza_american_style_focaccia3.webp
+    description: 3/3 Die fertige Pizza
   - image: ../images/pizza_american_style_vorm_rasten.webp
     description: Teig nach erster Rast wenn er ins Blech gegeben wurde
   - image: ../images/pizza_american_style_vorm_backen.webp
@@ -42,3 +48,5 @@ directions:
 ---
 
 evtl in 1 oder 2 Teile zerteilt auf großem Blech probieren?
+
+evtl focaccia rezept probieren?

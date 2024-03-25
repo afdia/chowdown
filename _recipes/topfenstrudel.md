@@ -4,6 +4,10 @@ title: "Topfenstrudel"
 image: topfenstrudel.webp
 category: Süßspeise
 
+images:
+  - image: ../images/topfenstrudel_mandelsplitter.webp
+    description: Teig mit Wasser besprüht und Mandelsplitter draufgegeben. Passt zwar gut, wurden aber zu dunkel, daher evtl erst nach halber Zeit draufgeben?
+
 ingredients:
 - 1 Packung Blätterteig
 - 1 Ei

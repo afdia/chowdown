@@ -4,6 +4,10 @@ title: "Bärlauch Penne"
 image: baerlauch_penne.webp
 category: Nudelgericht
 
+images:
+  - image: ../images/baerlauch_penne_nicht_zerkleinert.webp
+    description: Mandelsplitter in Pfanne angeröstet, Parmesan fein gerieben. Nudeln abgesiebt, zurück in Topf und alles zusammengeworfen ohne zerkleinern +Olivenöl. War ganz gut aber Basilikum ist zäh und hängt in Zähnen, den daher auf jeden Fall zerkleinern. Mandelsplitter waren aber gut (nur etwas zuviel und sie werden am Teller weich). Durch die dünnen Nudeln war es auch etwas trocken
+
 ingredients:
   - 300g Spirelli oder Penne
   - 100g Bärlauch (1 Packung aus Geschäft)

@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/gemuese_bohnen_suppe_topf.webp
     description: Der volle Suppentopf
+  - image: ../images/gemuese_bohnen_suppe_tortelini.webp
+    description: Fertig Tortelini passen überraschend gut in die Suppe
 
 ingredients:
   - 3 Karotten

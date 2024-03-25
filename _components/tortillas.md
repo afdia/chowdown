@@ -6,7 +6,7 @@ image: tortillas.webp
 ingredients:
   - 250g weißes glattes Weizenmehl (für 6 Stück) (Ja! Universalmehl war letztens sehr klebrig)
   - 250ml Wasser, kochend
-  - 2,5g Salz
+  - 2,5g Salz (besser 3 oder 3,5g)
   - etwas Mehl zum ausrollen
 
 directions:

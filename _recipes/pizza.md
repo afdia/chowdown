@@ -11,6 +11,8 @@ images:
     description: Nach 15min ist der Rand deutlich aufgegangen und der Teig hat einen dicken Rand
   - image: ../images/pizza_nach_backen.webp
     description: Die fertige Pizza. Wie man sieht ist rechts leider etwas Saft rausgeronnen
+  - image: ../images/pizza_tiefgekuehlt.webp
+    description: Übrige Pizza kann man für einige Tage super tiefkühlen. Zum Auftauen 200°C Heißluft vorheizen und ca 8min ins Rohr (war außen resch genug aber innen leicht kalt, daher 10min probieren)
   - image: ../images/pizza_margerita.webp
     description: Pizza Margerita mit viel Käse und einem schmalen Rand
   - image: ../images/pizza_spinat.webp
