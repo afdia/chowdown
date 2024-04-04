@@ -6,11 +6,11 @@ category: Hauptgericht
 
 images:
   - image: ../images/pizza_american_style_focaccia1.webp
-    description: 1/3 Teig wie Focaccia (400g Mehl, 335ml Wasser, 7g Germ, 10g Salz) und auf 1 großen Blech. War super, besser als das Rezept hier!
+    description: 1/3 Teig wie Focaccia (400g Mehl, 335ml Wasser, 7g Germ, 10g Salz) und auf 1 großen Blech. Paar Mal falten, am Schluss noch 1x falten und ca 10min warten (währendeesen Backpapier mit Olivenöl einreiben, dann Teig rausheben und in Mitte geben. 10min warten (macht Teig wieder formbar) und in die Ecken ziehen damit ca das gesamte Blech bedeckt ist.
   - image: ../images/pizza_american_style_focaccia2.webp
-    description: 2/3 Anschließend belegen
+    description: 2/3 Evtl nochmal 30min rasten lassen, dann belegen und 14min ins vorgeheizte Backrohr (280°C Ober/Unter Hitze) geben. Evtl nach 10min kurz Dampf rauslassen
   - image: ../images/pizza_american_style_focaccia3.webp
-    description: 3/3 Die fertige Pizza
+    description: 3/3 Die fertige Pizza. War super, besser als das Rezept hier!
   - image: ../images/pizza_american_style_vorm_rasten.webp
     description: Teig nach erster Rast wenn er ins Blech gegeben wurde
   - image: ../images/pizza_american_style_vorm_backen.webp
