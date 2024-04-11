@@ -21,6 +21,8 @@ images:
     description: Wie oben aber mit 2 Tage im Kühlschrank gerastetem Pizzabrot. Tastsiki ist auch gut aber braucht man nicht unbedingt dazu
   - image: ../images/antipasti_pesto.webp
     description: Kleine Mozzarella, Tomaten, fein geschnittene Gurken, viel Tomatenpesto und etwas intensiver dunkler Balsamicoessig. Etwas Salz, Pfeffer, Gute Laune etc passt gut dazu
+  - image: ../images/antipasti_salat.webp
+    description: Eisbergsalat Dressing mit Tomatenpesto und dunklem Balsamicoessig
   - image: ../images/antipasti_vogerl_kaeferbohnen.webp
     description: Vogerlsalat, Käferbohnensalat, Eier etc. Pizzabrot passt super dazu, Peppersweet schmecken leider zu sehr nach Schafkäse daher passen sie nicht so gut
 

@@ -11,6 +11,12 @@ images:
     description: 2/3 Evtl nochmal 30min rasten lassen, dann belegen und 14min ins vorgeheizte Backrohr (280°C Ober/Unter Hitze) geben. Evtl nach 10min kurz Dampf rauslassen
   - image: ../images/pizza_american_style_focaccia3.webp
     description: 3/3 Die fertige Pizza. War super, besser als das Rezept hier!
+  - image: ../images/pizza_american_style_focaccia_next_vorher.webp
+    description: Erneuter Versuch (vorm Backen)
+  - image: ../images/pizza_american_style_focaccia_next_nachher.webp
+    description: Und nach dem Backen. Ergebnis war perfekt!
+  - image: ../images/pizza_american_style_focaccia_next_eingefrohren.webp
+    description: Ein übriges Stück kann man einfrieren. 1h bei Zimmertemperatur auftauen lassen, dann bei 200°C Heißluft 10-15min aufbacken
   - image: ../images/pizza_american_style_vorm_rasten.webp
     description: Teig nach erster Rast wenn er ins Blech gegeben wurde
   - image: ../images/pizza_american_style_vorm_backen.webp
@@ -47,6 +53,4 @@ directions:
   - Gitter (nicht das große Blech!) auf unterste Schiene geben und jede Pizza im Blech ca 14-15min ins Rohr geben (die 2 Blech überlappen etwas damit sie sich ausgehen). Das große Blech hat keinen Platz für beide kleinen Blech, außer man gibt es evtl verkehrt rein
 ---
 
-evtl in 1 oder 2 Teile zerteilt auf großem Blech probieren?
-
-evtl focaccia rezept probieren?
+TODO auf focaccia variante ausbessern weil sie viel besser ist

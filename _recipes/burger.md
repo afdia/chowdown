@@ -23,6 +23,8 @@ images:
     description: Die Buns sind etwas mehr als 1h gegangen und deshalb wieder flach geworden. Daher Rastzeit nicht überschreiten!
   - image: ../images/burger_mozzarella.webp
     description: Unten Guacamole, dann pro Burger 1/2 Mozzarella, Tomatenpesto draufstreichen, 2 Gurkenscheiben, Eisbergsalat, Sriracha Sauce. Schmeckt super und sommerlich
+  - image: ../images/burger_mozzarella_italian_style.webp
+    description: Mozzarella, Tomatenpesto, Gurkenscheiben, Tomaten, Ruccola. Schmeckt auch super und leicht
   - image: ../images/burger_riesig.webp
     description: Statt 8 Buns nur 4 gemacht. Waren riesig, daher 2x durchgschnitten mit extra Teigscheibe in Mitte. Problem ist dass er nicht hält und beim Schneiden zerfällt, daher nicht optimal
   - image: ../images/burger_riesig_halbiert.webp
