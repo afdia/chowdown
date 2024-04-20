@@ -29,6 +29,8 @@ images:
     description: 1 Dose San Marzano Tomaten statt Mutti nehmen. Ist ganz ok aber leider zu flüssig und säuerlich, Mozzarella schmilzt dann auch nicht so gut
   - image: ../images/pizza_brot.webp
     description: Pizzateig wie üblich machen aber nur 1/4 Sackerl Hefe, dafür ca 2g Zucker. Wenn Teig fertig, halbieren und jede Hälfte in eine eingeölte Schüssel geben; Teig außen ölig und Schüssel innen ölig (Bild links oben). Dann mit Plastikfolie zudeckt für bis zu 7 Tage im Kühlschrank gehen lassen (Bild links unten). Rausnehmen, mit Unterseite nach oben auf Backpapier geben, Olivenöl oben drauf und Pfeffer bzw Sesam bzw Knoblauchpulver. Dann Backpapier auf Blech welches im 300°C Ofen mit aufgeheizt wurde geben und 8min ins Rohr geben (Bild rechts oben). Ist geschmacklich super, ähnlich Sauerteig. Alternativer Versuch mit Baguetteteig war auch gut aber zu kurz gerastet
+  - image: ../images/pizza_oberhitze.webp
+    description: Wegen Ventilatorproblem von Backrohr getestet nur Grill/Oberhitze zu nehmen + oberste Schiene nutzen. Die Pizza schaut zwar gut aus aber es dauert recht lang und der Boden ist zu weich bzw die Pizza zerreißt beim Rausnehmen. Lieber 300°C Ober Unterhitze mittlere Schiene nehmen
   - image: ../images/pizza_roulade.webp
     description: Pizzaroulade - Tomatensauce mit geschnittenem Gemüse köcheln, verteilen, zusammenrollen, dann bei 250°C 17min ins Rohr. Probleme - beim Rollen wegen warmen Gemüse kleben geblieben, Tomatensauce rinnt raus (evtl weglassen?), am Rand zuviel Teig, oben und unten zu resch (besser zb 200°C 25min?). TODO rechts unten nach 4 Tagen und nicht flach - war gut, dauert 10min, aber flach schmeckts besser!
 

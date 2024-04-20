@@ -18,6 +18,8 @@ images:
     description: 70g Sauerrahm mit Pfeffer+Salz angerührt und mit Teigkarte dünn aufgestrichen. Passt super und flankt nicht aus weil dünn
   - image: ../images/flammkuchen_sauerrahm_duenn.webp
     description: Fertiger Flammkuchen mit Sauerrahm. Sehr dünn und resch!
+  - image: ../images/flammkuchen_tomaten_kaese.webp
+    description: Variante mit dünner Mutti Tomatensauce Schicht und etwas fein geriebenem Almkönig. War auch sehr gut!
   - image: ../images/flammkuchen_vor_backrohr.webp
     description: Verschiedene Beläge bevor er ins Rohr kommt
   - image: ../images/flammkuchen_ohne_hefe.webp
@@ -35,5 +37,5 @@ directions:
   - Teig in 4 Portionen aufteilen und dünn ausrollen
   - Creme Fraiche mit etwas Salz und Pfeffer vermischen und auf den 4 ausgerollten Teigen verteilen
   - Beliebig belegen
-  - Backrohr auf 300°C vorheizen und wenn vorgeheizt, für ca 10min ins Backrohr geben (fertig wenn Rand goldbraun ist, evtl die untere noch länger drinnen lassen)
+  - Backrohr auf 300°C vorheizen und wenn vorgeheizt, ein Blech für ca 8min ins Backrohr geben (fertig wenn Rand goldbraun ist, evtl die untere noch länger drinnen lassen) und anschließend das 2. Blech
 ---
