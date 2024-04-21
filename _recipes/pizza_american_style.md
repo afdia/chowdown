@@ -18,39 +18,33 @@ images:
   - image: ../images/pizza_american_style_focaccia_next_eingefrohren.webp
     description: Ein übriges Stück kann man einfrieren. 1h bei Zimmertemperatur auftauen lassen, dann bei 200°C Heißluft 10-15min aufbacken
   - image: ../images/pizza_american_style_vorm_rasten.webp
-    description: Teig nach erster Rast wenn er ins Blech gegeben wurde
+    description: Altes Rezept - Teig nach erster Rast wenn er ins Blech gegeben wurde
   - image: ../images/pizza_american_style_vorm_backen.webp
-    description: Mit Belag bevor die Pizzen ins Rohr kommen
+    description: Altes Rezept - Mit Belag bevor die Pizzen ins Rohr kommen
   - image: ../images/pizza_american_style_minimal_vorm_backen.webp
-    description: Minimal Belag mit Tomatensauce+Käse+etwas Oregano ist am Besten! Mozzarella als ganze Kugeln zerfließen perfekt (siehe nächstes Bild)
+    description: Altes Rezept - Minimal Belag mit Tomatensauce+Käse+etwas Oregano ist am Besten! Mozzarella als ganze Kugeln zerfließen perfekt (siehe nächstes Bild)
   - image: ../images/pizza_american_style_minimal.webp
-    description: Minimal Belag mit Tomatensauce+Käse schmeckt auch super. Rezept war normaler Pizzateig den wir dann doch erst am nächsten Tag essen wollten (daher Teig als Kugel in Olivenöl im Kühlschrank aufgehoben)
+    description: Altes Rezept - Minimal Belag mit Tomatensauce+Käse schmeckt auch super. Rezept war normaler Pizzateig den wir dann doch erst am nächsten Tag essen wollten (daher Teig als Kugel in Olivenöl im Kühlschrank aufgehoben)
   - image: ../images/pizza_american_style_champignons.webp
-    description: Champignon Pizza. Statt Gouda unten Parmesan+Tomatensauce vermischt ist auch gut aber Parmesan schmeckt zu sehr hervor. Das Bild zeigt auch dass man die Blech etwas stapeln muss damit sie sich im Backrohr ausgehen
+    description: Altes Rezept - Champignon Pizza. Statt Gouda unten Parmesan+Tomatensauce vermischt ist auch gut aber Parmesan schmeckt zu sehr hervor. Das Bild zeigt das alte Rezept mit 2 kleinen Blech die man etwas überlappen muss damit sie sich im Backrohr ausgehen
   - image: ../images/pizza_american_style_champignons_ohne_oel.webp
     description: 250g Mozzarella, ConteDeCesare Tomaten in Stücken in extra dickem Saft, KEIN Öl auf Teig oder Backpapier. Ergebnis war unten trotzdem resch, sehr gut aber leider zu flüssig. Vmtl wegen Champignons + Mozzarella (nicht abgetropft)
-  - image: ../images/pizza_american_style_rasten.webp
-    description: Pizzateig wie in standard Pizza Rezept zubereitet (aber nur 1/4 Sackler Trockengerm), 2 Tage in Schüssel in Kühlschrank gelagert, rausgegeben, zerteilt in 2 mit Backpapier ausgelegte Blech und weitergemacht wie hier beschrieben (1h rasten etc). Rand mit Knoblauchöl. War super!
 
 ingredients:
   - 400g Mehl, glatt
-  - 240ml Wasser, lauwarm
+  - 335ml Wasser, lauwarm
   - 10g Salz
-  - 1/2 Sackerl Trockengerm
+  - 7g Trockenhefe
   - 125g Mozzarella
   - 125g Gouda bzw Almkönig
   - Tomatensauce zum Bestreichen (zb eine dickere wie Denree Tomatenmark mit flüssiger Sauce vermischen oder nur Mutti)
 
 directions:
-  - Hefe, lauwarmes Wasser, Mehl, Salz und Zucker in Schüssel geben
-  - Mit Küchenmaschine gut durchkneten (ca 2min Stufe 2, dann Teig in die Mitte putzen, danach 5min Stufe 3)
-  - Teig mit Teigkarte in Mitte putzen (evtl testen; außen etwas einölen damit er sich später besser löst?), mit Folie zudecken, 1h draußen gehen lassen, danach 30min im Kühlschrank (beim 2. Versuch waren es 5h im Kühlschrank wodurch er etwas weniger aufgegangen ist aber gut rausgegangen ist und halbiert werden konnte. Daher immer kurz in Kühlschrank am Ende)
-  - Nach Rastzeit 2 kleine Backblech nehmen, 2 Stück Backpapier zerknüllen, wieder ausbreiten und Backblechs gut auslegen
-  - Mit Olivenöl ausstreichen (macht Boden resch) und mit öligen Fingern Teig aus Schüssel putzen (je eine Hälfte davon pro Blech)
-  - Bei jedem Blech den Teig über die gesamte Blechgröße ausziehen
-  - 1h in Backrohr gehen lassen, danach Käse schneiden und Tomatensauce bzw sonstigen Belag vorbereiten
-  - Nach Rastzeit mit Tomatensauce und Käse belegen und Backrohr auf 280°C Ober/Unterhitze vorheizen
-  - Gitter (nicht das große Blech!) auf unterste Schiene geben und jede Pizza im Blech ca 14-15min ins Rohr geben (die 2 Blech überlappen etwas damit sie sich ausgehen). Das große Blech hat keinen Platz für beide kleinen Blech, außer man gibt es evtl verkehrt rein
+- Alle Zutaten exkl Mehl in breiter Schüssel vermischen, danach Mehl mit Teigkarte dazumischen.
+- Wenn keine Mehlklumpen mehr sichtbar sind, in Mitte putzen, mit Plastikfolie zudecken und 30min rasten lassen
+- Anschließend 1. "Dehnen+Falten" machen. Hand befeuchten und Teig an einem Eck heben und drüberschlagen, Schlüssel 1/4 drehen und erneut machen etc. Nach 4x ist der gesamte Teig 1x umgefalten und man wartet 30min
+- Danach 2. Dehnen+Falten, 30min warten, 3. Dehnen+Falten, 30min warten, 4. Dehnen+Falten, 30min warten (könnte man noch öfters wiederholen)
+- Der Teig wird jedesmal elastischer. Ab Durchgang 3 muss man beim Hochziehen des Teigs leicht wackeln damit er sich besser falten lässt
+- Nach den 4 Durchgängen noch 1x falten und ca 10min warten (währenddessen Backpapier mit Olivenöl einreiben, dann Teig rausheben und in Mitte geben. 10min warten (macht Teig wieder formbar) und in die Ecken ziehen damit ca das gesamte Blech bedeckt ist.
+- Evtl nochmal 30min rasten lassen, dann belegen und 14min ins vorgeheizte Backrohr (280°C Ober/Unter Hitze) geben. Evtl nach 10min kurz Dampf rauslassen
 ---
-
-TODO auf focaccia variante ausbessern weil sie viel besser ist

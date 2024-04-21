@@ -26,7 +26,7 @@ ingredients:
 - 560g glattes Mehl (wie für Pizza)
 
 directions:
-- Alle Zutatten exkl Mehl in breiter Schüssel vermischen, danach Mehl mit Teigkarte dazumischen.
+- Alle Zutaten exkl Mehl in breiter Schüssel vermischen, danach Mehl mit Teigkarte dazumischen.
 - Wenn keine Mehlklumpen mehr sichtbar sind, in Mitte putzen, mit Plastikfolie zudecken und 30min rasten lassen
 - Anschließend 1. "Dehnen+Falten" machen. Hand befeuchten und Teig an einem Eck heben und drüberschlagen, Schlüssel 1/4 drehen und erneut machen etc. Nach 4x ist der gesamte Teig 1x umgefalten und man wartet 30min
 - Danach 2. Dehnen+Falten, 30min warten, 3. Dehnen+Falten, 30min warten, 4. Dehnen+Falten, 30min warten (könnte man noch öfters wiederholen)
