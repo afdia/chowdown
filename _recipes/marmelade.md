@@ -16,7 +16,7 @@ images:
   - image: ../images/marmelade_erdbeer_zuwenig.webp
     description: So sieht es aus wenn man bei Erdbeermarmelade Schaum einfüllt und die Gläser nicht randvoll macht. Beides verringert die Haltbarkeit!
   - image: ../images/marmelade_erdbeer_kiwi.webp
-    description: "1:3 Zucker + 1kg Erdbeeren + 500g Kiwi schmeckt sehr gut"
+    description: "1:3 Zucker + 1kg Erdbeeren + 500g Kiwi schmeckt sehr gut. 2024 nur 150g Kiwi (1 gelbe Riesenkiwi) und Rest Erdbeeren probiert - schmeckt super, typisch rot und erdbeerig, Kiwi nur dezent"
   - image: ../images/marmelade_kiwi_erdbeer_rhabarber.webp
     description: "Halber 1:3 Zucker, 300g Erdbeeren, 250g Rhabarber, 200g Kiwi - schwer zuzubereiten weil sehr dickflüssig, relativ sauer und Farbe nicht so schön aber geschmacklich säuerlich gut und interessant. Daraus gelernt: Großteil muss Erdbeer sein, dann Kiwi ODER Rhabarber dazu"
   - image: ../images/marmelade_roteribisel_himbeer.webp

@@ -4,6 +4,10 @@ title: "Topfen Hirse Auflauf"
 image: topfen_hirse_auflauf.webp
 category: Süßspeise
 
+images:
+  - image: ../images/topfen_hirse_auflauf_schnee.webp
+    description: 3 mittelgroße Eier, nur Dotter in Hirsemasse gegeben, Eiklar 10min vor Ende der Backzeit mit 20g Staubzucker aufgeschlagen, Form aus Backrohr genommen, Schnee darauf verteilt und die restlichen 5-8min mit dem Schnee fertig backen. War auch super
+
 ingredients:
   - 150g feinkörnige Hirse (Al Natura)
   - 450ml Milch

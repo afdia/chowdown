@@ -32,19 +32,19 @@ ingredients:
   - Parmesan, Suppenwürze, Pfeffer
 
 directions:
-  - Kartoffeln wie üblich kochen, danach aus Topf leeren und ca 30min auskühlen lassen (sie sollten noch warm sein).
-  - Schälen und währenddessen das Ei + Salz in einem Glas mit dem Mixer fein schlagen. Hartweizenmehl abwiegen und bereit stellen (Achtung nimmt man zuwenig Mehl zerfallen sie beim Kochen)
+  - Kartoffeln wie üblich kochen ABER NICHT MIT KALTEM WASSER ABSCHRECKEN! Stattdessen heiß aus Topf leeren und ca 30min auskühlen lassen (sie sollten noch warm sein).
+  - Schälen und währenddessen das Ei in einem Glas mit dem Mixer fein schlagen. Hartweizenmehl gemeinsam mit Salz abwiegen, vermischen und bereit stellen
   - Kartoffeln mit Kartoffelpresse pressen und zwischendurch immer wieder etwas Mehl dazugießen
-  - Restliches Mehl oben drauf + Ei oben dazu geben und mit Teigkarte etwas vorvermischen.
-  - Vorsichtig auf die Silikonmatte geben und vorsichtig und kurz zu einer länglichen Kugel kneten (nicht zu fest oder lang kneten sonst wird der Teig zu patzig).
-  - Danach in 3 Teile zerteilen und jeden Teil mit 1-2cm Durchmesser ausrollen und 1-2cm dicke Gnocchi runterschneiden.
-  - Salzwasser (ähnlich wie für Nudeln) aufkochen und auf 7 zurückdrehen (das Wasser darf nicht mehr kochen wenn man die Gnocci reingibt!)
-  - Gnocci reingeben und evtl auf Stufe 8 hochdrehen weil das Wasser stark abkühlt. 5min Timer zur Orientierung stellen (es dauert es ca 2-3min bis sie aufsteigen, danach nochmal ca 2min lassen, eines kosten und rausnehmen)
-  - Nicht zu lange lassen und das Wasser nicht kochen lassen (d.h. wieder von 8 auf 7 zurückdrehen sobald es etwas wärmer wird), ansonsten zerfallen sie schnell.
+  - Restliches Mehl + Ei oben dazu geben und mit Teigkarte etwas vorvermischen.
+  - Vorsichtig auf die Silikonmatte geben und zu einer länglichen Kugel kneten (nicht zu fest oder lang kneten sonst wird der Teig zu patzig).
+  - In 3 Teile zerteilen und jeden Teil mit 1-2cm Durchmesser ausrollen und 1-2cm dicke Gnocchi runterschneiden (evtl kurz in Hände rollen, dann halten sie besser, werden aber rund)
+  - Salzwasser (ähnlich wie für Nudeln) aufkochen und auf 6-7 zurückdrehen (das Wasser darf nicht mehr kochen wenn man die Gnocci reingibt)
+  - Gnocci reingeben (evtl temporär auf Stufe 8 hochdrehen bis Wasser wieder warm ist). 5min Timer zur Orientierung stellen (es dauert es ca 2-3min bis sie aufsteigen, danach nochmal ca 2min lassen, eines kosten und rausnehmen)
+  - Nicht zu lange lassen und das Wasser nicht kochen lassen, ansonsten zerfallen sie schnell.
   - Nebenbei Frühlingszwiebel schälen und in Olivenöl anschwitzen.
   - Spargel schälen und in Stücke schneiden und dazugeben (mit etwas Suppenwürze und Pfeffer würzen)
   - Wenn Spargel durch ist, Tomaten- und Chilisaucen dazugeben und fein geriebenen Parmesan dazugeben
-  - Am Schluss die Gnocchi direkt aus Wasser heben dazugeben und mit der Spargelsauce vermischen
+  - Am Schluss die Gnocchi direkt aus Wasser auf die Teller heben und mit der Spargelsauce + Parmesan übergießen
 ---
 
 Interessante Links über Gnocci:

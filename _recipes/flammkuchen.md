@@ -10,7 +10,7 @@ ingredients:
   - 9g Salz
   - 1/4 Germwürfel
   - 20g Olivenöl
-  - 70-100g Clever Creme Fraiche (Sauerrahm geht auch aber sehr dünn aufstreichen) + Salz, Pfeffer
+  - 70g Sauerrahm (oder Clever Creme Fraiche) sehr dünn aufstreichen + Salz, Pfeffer
   - Zum Belegen 1 rote Zwiebel, 1 große Dose Thunfisch, 1/2 roter Spitzpaprika, 1/2 Glas Mais
 
 images:
@@ -27,7 +27,7 @@ images:
   - image: ../images/flammkuchen_vor_backrohr_creme_fraiche.webp
     description: 3. Versuch mit Germ und Creme Fraiche. Hier am Bild roh. War sehr gut!
   - image: ../images/flammkuchen_champignons.webp
-    description: Champignons statt Thunfisch passen super, gehen stark zusammen also nicht wundern dass man sehr viele drauflegen muss
+    description: Champignons statt Thunfisch passen super, gehen stark zusammen also viele drauflegen (alternativ zu Zwiebel kann man auch Oliven draufgeben, passt auch super)
   - image: ../images/flammkuchen_speck.webp
     description: Speckstreifen passen sehr gut, allerdings muss man einige mehr nehmen als hier (Speck geht stark zusammen)
 

@@ -7,6 +7,8 @@ category: Nudelgericht
 images:
   - image: ../images/spargel_nudeln_pfanne.webp
     description: Die Spargelsauce in der Pfanne bevor die Nudeln dazugegeben werden
+  - image: ../images/spargel_nudeln_tomatensauce.webp
+    description: Variante mit 1/2 Glas Mutti statt Chilisauce, dafür 1/2 Zucchini am Anfang in Würfeln scharf angebraten (weil wir sie übrig hatten). Am Schluss etwas Schlagobers dazu. War sehr gut (hat uns and die Spargelgnocchi erinnert)
   - image: ../images/spargel_nudeln_bohnen.webp
     description: Variante mit Alnatura Baked Beans weiße Bohnen. War ganz gut aber ohne ist besser
 

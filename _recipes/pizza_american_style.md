@@ -17,14 +17,14 @@ images:
     description: Und nach dem Backen. Ergebnis war perfekt!
   - image: ../images/pizza_american_style_focaccia_next_eingefrohren.webp
     description: Ein übriges Stück kann man einfrieren. 1h bei Zimmertemperatur auftauen lassen, dann bei 200°C Heißluft 10-15min aufbacken
+  - image: ../images/pizza_american_style_kleine_mozz_vor.webp
+    description: Kleine Mozzarellakugeln passen sehr gut (vor dem Backen)
+  - image: ../images/pizza_american_style_kleine_mozz_nach.webp
+    description: Kleine Mozzarellakugeln passen sehr gut (nach dem Backen)
   - image: ../images/pizza_american_style_vorm_rasten.webp
     description: Altes Rezept - Teig nach erster Rast wenn er ins Blech gegeben wurde
   - image: ../images/pizza_american_style_vorm_backen.webp
     description: Altes Rezept - Mit Belag bevor die Pizzen ins Rohr kommen
-  - image: ../images/pizza_american_style_minimal_vorm_backen.webp
-    description: Altes Rezept - Minimal Belag mit Tomatensauce+Käse+etwas Oregano ist am Besten! Mozzarella als ganze Kugeln zerfließen perfekt (siehe nächstes Bild)
-  - image: ../images/pizza_american_style_minimal.webp
-    description: Altes Rezept - Minimal Belag mit Tomatensauce+Käse schmeckt auch super. Rezept war normaler Pizzateig den wir dann doch erst am nächsten Tag essen wollten (daher Teig als Kugel in Olivenöl im Kühlschrank aufgehoben)
   - image: ../images/pizza_american_style_champignons.webp
     description: Altes Rezept - Champignon Pizza. Statt Gouda unten Parmesan+Tomatensauce vermischt ist auch gut aber Parmesan schmeckt zu sehr hervor. Das Bild zeigt das alte Rezept mit 2 kleinen Blech die man etwas überlappen muss damit sie sich im Backrohr ausgehen
   - image: ../images/pizza_american_style_champignons_ohne_oel.webp
@@ -45,6 +45,6 @@ directions:
 - Anschließend 1. "Dehnen+Falten" machen. Hand befeuchten und Teig an einem Eck heben und drüberschlagen, Schlüssel 1/4 drehen und erneut machen etc. Nach 4x ist der gesamte Teig 1x umgefalten und man wartet 30min
 - Danach 2. Dehnen+Falten, 30min warten, 3. Dehnen+Falten, 30min warten, 4. Dehnen+Falten, 30min warten (könnte man noch öfters wiederholen)
 - Der Teig wird jedesmal elastischer. Ab Durchgang 3 muss man beim Hochziehen des Teigs leicht wackeln damit er sich besser falten lässt
-- Nach den 4 Durchgängen noch 1x falten und ca 10min warten (währenddessen Backpapier mit Olivenöl einreiben, dann Teig rausheben und in Mitte geben. 10min warten (macht Teig wieder formbar) und in die Ecken ziehen damit ca das gesamte Blech bedeckt ist.
+- Nach den 4 Durchgängen Backpapier mit Olivenöl einreiben, dann Teig vorsichtig rausheben und in Mitte geben. 10min warten (macht Teig wieder formbar) und in die Ecken ziehen damit ca das gesamte Blech bedeckt ist.
 - Evtl nochmal 30min rasten lassen, dann belegen und 14min ins vorgeheizte Backrohr (280°C Ober/Unter Hitze) geben. Evtl nach 10min kurz Dampf rauslassen
 ---

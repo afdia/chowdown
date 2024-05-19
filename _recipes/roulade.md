@@ -33,6 +33,8 @@ images:
     description: Wie Roulade, aber nicht eingerollt sondern in Mitte halbiert, gestapelt (dazwischen und oben Marmelade). Darauf dann die Topfen/Schlagobers Creme und oben geschmolzene Scholokade. War auch sehr gut
   - image: ../images/roulade_gebackene_erdbeeren.webp
     description: Biskuit wie üblich machen aber Erdbeeren vor Backen auf Biskuitteig auf Blech verteilen. Dann 18min bei 180°C Ober/Unterhitze gebacken. Ergebnis war ... aber evtl etwas heißer bei 200°C dafür kürzer backen weil Teig etwas zu hell war (positiv war dass die Erdbeeren noch saftig frisch geblieben sind). In Summe ist Blechkuchen oder Biskuit mit frischen Erdbeeren (zb Roulade) besser
+  - image: ../images/roulade_backpulver_vergessen.webp
+    description: Ohne Backpulver bricht die Roulade leider schnell und schmeckt teigig und bei weitem nicht so gut
 
 components:
   - Biskuit
