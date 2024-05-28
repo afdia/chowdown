@@ -11,6 +11,8 @@ images:
     description: Variante mit 1/2 Glas Mutti statt Chilisauce, dafür 1/2 Zucchini am Anfang in Würfeln scharf angebraten (weil wir sie übrig hatten). Am Schluss etwas Schlagobers dazu. War sehr gut (hat uns and die Spargelgnocchi erinnert)
   - image: ../images/spargel_nudeln_bohnen.webp
     description: Variante mit Alnatura Baked Beans weiße Bohnen. War ganz gut aber ohne ist besser
+  - image: ../images/spargel_nudeln_brokkoli.webp
+    description: Brokkoli gemeinsam mit Spargel in Pfanne geben und dünsten. Am Schluss mehr Schlagobers und weniger Chilisauce nehmen. Ergebnis war sehr gut. Die Kombination passt ausgezeichnet (war weißer Spargel aber geht vmtl auch mit grünem)
 
 ingredients:
   - 500g grüner Spargel

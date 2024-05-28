@@ -43,3 +43,7 @@ directions:
   - ausgekochte Gläser möglichst bis zum Rand voll machen, zuschrauben und auf den Kopf stellen
   - Falls beim einfüllen Marmelade außen aufs Glas geronnen ist, jetzt mit Küchenrolle abwischen (geht noch leichter solange die Marmelade flüssig ist)
 ---
+
+Weitere Mischungen:
+
+- 300g TK gemischte Beeren, 300g TK Himbeeren, 1100g Erdbeeren. Die Tiefkühlbeeren mischen, paar min aufkochen und zerstampfen und durch Sieb drücken. Nochmal aufkochen, 1 Zitrone dazupressen und nochmal durchs Sieb pressen. Es bleiben ca 400g Masse übrig. Die Erdbeeren zerstampfen, dann mit Stabmixer pürieren und mit Beerensaft vermischen 1:3 Zucker dazugeben, aufkochen und abfüllen
