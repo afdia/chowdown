@@ -20,8 +20,11 @@ directions:
 
 ---
 
+Variante Grüner Tee:
+- Problem war Teesackerl, ich kann den Tee mit dem Metallsieb nicht so intensiv machen. Daher 200g Wasser, Grüner Tee, 10g Honig, 10g Zitrone, 1 Eiswürfelform. 1min ziehen lassen. Ergebnis war gut aber wenig intensiv. Nächstes Mal besser 300g Wasser, 2-3 Eiswürfelformen, Honig gleich in warmen Wasser auflösen, 2min ziehen lassen, dafür wieder kein separates Wasser!
+
 Ergebnis:
-- 3. versuch war noch besser als der 2. -10g Zitrone und Zucker waren hilfreich. Honig passt besser als Ahornsirup (schmeckt nicht hervor). Evtl Zucker probieren?
+- dritter versuch war noch besser als der 2. -10g Zitrone und Zucker waren hilfreich. Honig passt besser als Ahornsirup (schmeckt nicht hervor). Evtl Zucker probieren?
 evt zitronenscheiben reinlegen bzw auf glas geben?
 
 Verbesserungsideen:

@@ -12,6 +12,8 @@ images:
     description: "die übrigen Knödel kann man in einer Box aufheben und in einer Suppe oder mit Ketchup essen"
   - image: ../images/kaspressknoedel_rotkraut.webp
     description: Rotkraut passt auch sehr gut dazu
+  - image: ../images/kaspressknoedel_pueree.webp
+    description: Kartoffelpüree und rote Rüben passen super dazu
 
 ingredients:
   - 250g Semmelwürfel

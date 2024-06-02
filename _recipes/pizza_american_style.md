@@ -31,7 +31,7 @@ images:
     description: 250g Mozzarella, ConteDeCesare Tomaten in Stücken in extra dickem Saft, KEIN Öl auf Teig oder Backpapier. Ergebnis war unten trotzdem resch, sehr gut aber leider zu flüssig. Vmtl wegen Champignons + Mozzarella (nicht abgetropft)
 
 ingredients:
-  - 400g Mehl, glatt
+  - 400g Mehl, glatt (gesiebt)
   - 335ml Wasser, lauwarm
   - 10g Salz
   - 7g Trockenhefe
@@ -40,7 +40,7 @@ ingredients:
   - Tomatensauce zum Bestreichen (zb eine dickere wie Denree Tomatenmark mit flüssiger Sauce vermischen oder nur Mutti)
 
 directions:
-- Alle Zutaten exkl Mehl in breiter Schüssel vermischen, danach Mehl mit Teigkarte dazumischen.
+- Wasser in breite Schüssel geben. Mehl reinsieben, Salz, Hefe drauf und mit Teigkarte gut vermischen.
 - Wenn keine Mehlklumpen mehr sichtbar sind, in Mitte putzen, mit Plastikfolie zudecken und 30min rasten lassen
 - Anschließend 1. "Dehnen+Falten" machen. Hand befeuchten und Teig an einem Eck heben und drüberschlagen, Schlüssel 1/4 drehen und erneut machen etc. Nach 4x ist der gesamte Teig 1x umgefalten und man wartet 30min
 - Danach 2. Dehnen+Falten, 30min warten, 3. Dehnen+Falten, 30min warten, 4. Dehnen+Falten, 30min warten (könnte man noch öfters wiederholen)
