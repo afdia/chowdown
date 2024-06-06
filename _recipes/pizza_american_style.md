@@ -16,7 +16,7 @@ images:
   - image: ../images/pizza_american_style_focaccia_next_nachher.webp
     description: Und nach dem Backen. Ergebnis war perfekt!
   - image: ../images/pizza_american_style_focaccia_next_eingefrohren.webp
-    description: Ein übriges Stück kann man einfrieren. 1h bei Zimmertemperatur auftauen lassen, dann bei 200°C Heißluft 10-15min aufbacken
+    description: Ein übriges Stück kann man einfrieren. 1h bei Zimmertemperatur auftauen lassen, dann bei 200°C Heißluft 10min aufbacken (evtl kürzer)
   - image: ../images/pizza_american_style_kleine_mozz_vor.webp
     description: Kleine Mozzarellakugeln passen sehr gut (vor dem Backen)
   - image: ../images/pizza_american_style_kleine_mozz_nach.webp
@@ -35,8 +35,7 @@ ingredients:
   - 335ml Wasser, lauwarm
   - 10g Salz
   - 7g Trockenhefe
-  - 125g Mozzarella
-  - 125g Gouda bzw Almkönig
+  - 400g Mozzarella (oder 125g Mozzarella + 125g Gouda bzw Almkönig)
   - Tomatensauce zum Bestreichen (zb eine dickere wie Denree Tomatenmark mit flüssiger Sauce vermischen oder nur Mutti)
 
 directions:
