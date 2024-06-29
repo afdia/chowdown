@@ -27,6 +27,8 @@ images:
     description: Schwarze Ribisel mit Gabel abrebeln und mit 1 ausgepressten Zitrone ca 5min aufkochen und währenddessen zerdrücken. Danach durch Sieb in 2. Topf (der auf Waage steht) drücken (man verliert ca 1/3 der Masse an Kernen etc). 50% von der gesiebten Masse kommt als Zucker dazu (davon 20g Vanillezucker) und nochmal 3min aufkochen. Letztes Mal 1 große Zitrone, 820g Ribisel (nach Sieben ca 560g), dazu 260g Zucker + 20g Vanillezucker gegeben. Ergibt 3,5 Gläser. Geschmacklich super (wie Black Sun Cocktail) aber etwas zu flüssig (stört aber nicht). Nächstes Mal evtl Gelierzucker nehmen
   - image: ../images/marmelade_zwetschke.webp
     description: 1:3 Zucker + 1,5kg Zwetschken. Entkernen, mit Stabmixer fein pürieren, dann in Topf mit Zucker aufkochen und wenn die Masse kocht auf Stufe 6 zugedeckt ca 8min köcheln lassen. Anschließend abfüllen
+  - image: ../images/marmelade_heidelbeer_orange.webp
+    description: 500g Heidelbeeren, 100g frisch gespresster Orangensaft, 166g 1:3 Zucker. Heidelbeere im Zerkleinerer püriert, dann in Topf, Orangensaft auspressen und dazu und aufkochen
   - image: ../images/marmelade_kumquat.webp
     description: 110g Kumquat (gewogen nach rollen, Kerne und bitteres Weißes entfernen, in Stücke geschnitten), 58g Zucker + 8g Vanillezucker, 90g Wasser. 5min Stufe 8 Kochen wird sehr Geleeartig (Achtung karamellisiert schnell), am Schluss pürieren, schmeckt sehr orangig durch Schale
 

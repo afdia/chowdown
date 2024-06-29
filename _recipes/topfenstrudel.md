@@ -7,6 +7,8 @@ category: Süßspeise
 images:
   - image: ../images/topfenstrudel_mandelsplitter.webp
     description: Teig mit Wasser besprüht und Mandelsplitter draufgegeben. Passt zwar gut, wurden aber zu dunkel, daher evtl erst nach halber Zeit draufgeben?
+  - image: ../images/topfenstrudel_marille.webp
+    description: Statt Zitronensaft 300g Marillen (gewürfelt) zu Topfen mischen. Im warmen Strudel sehr sauer und nicht so gut wie nur Topfen. Nach 1 Nacht im Kühlschrank ist der Boden stark in der Plastikbox geklebt, aber geschmacklich war der Strudel am nächsten Tag sehr gut
 
 ingredients:
 - 1 Packung Blätterteig
@@ -26,5 +28,5 @@ directions:
 
 ---
 
-Nächstes Mal evtl mehr Füllung (Topfen+Vanillepulver) machen? 1,5pkg Topfen (und rest *1,5) zb
-Schmeckt auch kalt super
+Ideen für Nächstes Mal
+- evtl mehr Füllung (Topfen+Vanillepulver) machen? 1,5pkg Topfen (und rest *1,5) zb
