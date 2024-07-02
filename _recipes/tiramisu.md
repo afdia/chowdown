@@ -15,8 +15,8 @@ images:
     description: Wie üblich zubereiten. Statt Rum+Kaffee nimmt man 250g Erdbeeren (auch TK möglich) und püriert sie. Auf das Schlagobers gibt man statt Kaokao zb Heidelbeeren oder weitere Erdbeeren
   - image: ../images/tiramisu_erdbeer.webp
     description: Statt Vanillesauce 150g Schlagobers schlagen, dann 250g Topfen dazugeben und vermischen, dann 80g Joghurt und ca 40g Staubzucker dazugeben und cremig mixen. 300g TK-Erdbeeren pürieren. Biskotten in Erdbeerpüree tunken und abwechselnd mit Creme schickten (unten Creme, oben Creme). Ganz oben halbierte Erdbeeren verteilen. Fazit sehr gut muss aber >1h stehen damit es sich ansaugt
-  - image: ../images/tiramisu_erdbeer2.webp
-    description: Alternativ alles wie im Rezept machen und statt in Kaffee+Rum in 300g pürierte TK-Erdbeeren tunken. Auch gut aber andere Erdbeervariante ist fast besser
+  - image: ../images/tiramisu_kirsch.webp
+    description: 500g Kirschen (ohne Kerne) im Topf einige Minuten mit Stufe 6 aufkochen bis Wasser austritt und es leicht aufkocht. Dann zerstampfen und in Sieb auf Suppenteller geben. Die Flüssigkeit wird zum Tunken der Biskotten genommen, die Kirschmasse kommt zurück in den Topf um sie später zu schlichten. Außerdem nur 50g Butter, nur 1/2 vom Pudding für Tiramisu genommen, dafür 250g Schlagobers. Ergebnis war ausgezeichnet! Evtl einen Schuss Rum rein oder etwas Zitrone dazu bzw Sauerkirschen nehmen und etwas Zucker in aufgekochte Kirschen geben (es hat etwas Säure gefehlt). Die Pudding Schlagobers Mischung ist für Beeren-Tiramisu vmtl allgemein besser; Auch bei anderen wie Erdbeer probieren!
 
 ingredients:
   - 200g Vollkorn Biskotten

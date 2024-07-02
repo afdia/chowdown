@@ -41,7 +41,7 @@ ingredients:
   - Tomatenscheiben
   - Gurkenscheiben
   - 1 kleine rote Zwiebel in dünne Scheiben geschnitten
-  - 1 Pkg (225g) Haloumi
+  - 1 Pkg (225g) Halloumi
 
 directions:
   - Zwiebel mit etwas Öl für ca 20sek anbraten
