@@ -7,8 +7,6 @@ category: Nudelgericht
 images:
   - image: ../images/kichererbsen_penne_rest.webp
     description: Übrige Nudeln schmecken auch am nächsten Tag kalt noch sehr gut. Vermutlich wären sie auch aufgewärmt sehr gut.
-  - image: ../images/kichererbsen_penne_simpel.webp
-    description: getrockenete Tomaten
 
 ingredients:
 - 300g Penne (evtl nur 250g? dann aber salz+wassermengen reduzieren)
