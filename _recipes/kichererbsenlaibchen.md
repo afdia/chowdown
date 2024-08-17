@@ -17,6 +17,8 @@ images:
     description: Die fertigen Laibchen mit dem patzigen Teig waren geschmacklick aber sehr gut. Tsatsiki passt auch sehr gut dazu
   - image: ../images/kichererbsenlaibchen_sojabohnen.webp
     description: 250g TK Sojabohnen 5min aufkochen, dann wie üblich weitermachen (Eier am Schluss dazu damit sie nicht stocken), statt Karotten 1/2 Zucchini genommen. Ergebnis war super und vmtl noch besser als die Kichererbsenvariante. Mehr Mehl genommen und direkt in Pfanne gelegt weil Teig feuchter war. Sauerrahm+Ketchup passt gut dazu ist in Summe aber sehr fettig, besser Kartoffeln, Reis oder Sauerkraut probieren
+  - image: ../images/kichererbsenlaibchen_erbsen.webp
+    description: 250g Käse (weil wir mehr hatten), nur 1 Ei, 250g TK-Erbsen kurz aufgekocht, gemeinsam mit dunklen Kichererbsen püriert. Teig ist in Pfanne zerfallen und angepickt. Zur Rettung +1 Ei und ca 80g Brösel dazu, danach haben die Laibchen gut gehalten und geschmeckt (allerdings weniger intensiv nach Kichererbsen als beim 1. Durchgang)
 
 ingredients:
 - 1 Glas Kichererbsen (220g Abtropfgewicht)
