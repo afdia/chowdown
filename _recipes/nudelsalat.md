@@ -32,7 +32,7 @@ ingredients:
   - Sonnentor Laune Gut Alles Gut Gewürz
 
 directions:
-  - Nudeln kochen und kurz auskühlen lassen
+  - Nudeln kochen und wenn fertig (mit Olivenöl vermischen und) kurz auskühlen lassen
   - Gurke, Paprika, Tomaten, Gurkerl würfelig schneiden und gemeinsam mit Mais und Nudeln in Schüssel geben
   - Frühlingszwiebel oder Lauch in feine Stücke schneiden und dazugeben
   - Schüssel auf Waage stellen und Ketchup, Mayonnaise, Senf, Essig dazugeben

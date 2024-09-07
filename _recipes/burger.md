@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/burger_speck.webp
     description: Speck passt super dazu
+  - image: ../images/burger_tsatsiki.webp
+    description: Tsatsiki im Burger ist sehr erfrischend aber etwas flüssig. Evtl besser ausdrücken als sonst oder weniger Joghurt nehmen?
   - image: ../images/burger_mit_ei.webp
     description: Variante mit Spiegelei ohne Salat war OK aber Salat fehlt definitiv und Ei ist gut aber nicht unbedingt notwendig
   - image: ../images/burger_buns_gefrohren.webp

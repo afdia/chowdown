@@ -11,7 +11,7 @@ images:
     description: Schwarze Bohnen statt Thunfisch passt super. Zusätzlich mit Küchenmaschine Karotten, Peterwurzen, Zucchini, Paprika gerieben. Oben zusätzlich zum Bechamel Mozzarella-Würfel macht es oben weicher und schmeckt super
 
 ingredients:
-  - 1x Weißkraut (oder Kohl)
+  - 1x Weißkraut (Kohl oder Rotkraut passen auch super)
   - 1 großes Glas (700g) Tomatensauce
   - 1-2 große Dosen Thunfisch
   - 1-2 Zwiebel

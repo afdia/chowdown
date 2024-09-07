@@ -17,31 +17,31 @@ images:
     description: Lässt man ihn über Nacht im Kühschrank in der Form wird das Backpapier ganz feucht. Evtl vorher rausnehmen
 
 ingredients:
+- "Zutaten Kokosmasse:"
 - 1l Milch
-- 200g Kokosflocken
 - 150g Zucker (16g davon Vanillezucker)
 - 100g Hartweizengrieß
-- Ab hier Kaokaoteig
+- 200g Kokosflocken
+- "Ab hier Kakaoteig:"
 - 3 Eier
 - 100g Zucker (8g davon Vanillezucker)
 - 200g Dinkel VK Mehl
 - 200ml Milch
-- 100ml Raps/Sonnenblumenöl
-- 20g Kaokao
+- 80g Raps/Sonnenblumenöl (das erste Mal 40g Butter+60g Öl)
+- 20g Kakao
 - 1 Pkg Backpulver
 
 directions:
-- 1 Liter Milch in einem Topf erwärmen und nebenbei Zucker, Vanillezucker, Grieß vermischen
+- 1 Liter Milch in einem Topf erwärmen. Nebenbei Zucker, Vanillezucker, Grieß in Schüssel vermischen
 - Wenn Milch fast kocht, das Gemisch reingeben und mit Schneebesen umrühren und 1min bei Stufe 6 köcheln lassen (gut rühren damit sich nichts anbrennt)
-- Dann vom Herd nehmen, Kokosflocken unterheben und Topf zur Seite stellen (jetzt macht man die Kaokaomasse
+- Dann vom Herd nehmen, Kokosflocken unterheben und Topf zur Seite stellen. Jetzt macht man die Kakaomasse
 - Große Glasform nehmen und Boden mit zerknülltem Backpapier auslegen
 - Eier trennen, wobei Eiweiß in Küchenmaschine-Schüssel kommt. Zucker+Vanillezucker dazusieben und einige Minuten schlagen bis Baiser-Schaum entsteht
-- Eigelb dazugeben und weitermixen, danach Öl und Milch dazugeben (wir haben ca 40g davon Butter genommen weil das Öl ausgegangen ist)
-- Mehl, Backpulver und Kaokao in Schüssel vermischen und nach und nach dazugeben, während man die Masse mixt.
-- Wenn die Masse fertig ist, ca 400g in Glasform gießen und Form herumdrehen bis der Boden bedeckt ist
+- Eigelb dazugeben und weitermixen, danach Öl und Milch dazugeben
+- Mehl, Backpulver und Kakao in Schüssel vermischen und nach und nach dazugeben, während man die Masse mixt.
+- Wenn die Masse fertig ist, ca 400g (Hälfte) in Glasform gießen und Form herumdrehen bis der Boden bedeckt ist
 - Backrohr bei 180°C Umluft vorheizen und Glasform für 10min reingeben (macht Boden fest, damit Kokosmasse hält)
 - Glasform rausnehmen und Kokosmasse draufputzen, dann den restlichen Teig draufgeben. ACHTUNG die Form ist jetzt heiß also nicht mehr angreifen!
 - Glasform für weitere ca 22min ins Rohr geben (evtl Stäbchenprobe machen)
-- Form rausnehmen, Küchentuch drübergeben und lassen bis der Kuchen ausgekühlt ist
-- Nach dem Rausnehmen Geschirrtuch drüber geben bis er ausgekühlt ist (damit bleibt er saftig). Der Kuchen schmeckt erst richtig gut wenn er vollständig ausgekühlt ist (bzw wenn er einige Zeit im Kühlschrank steht)
+- Form rausnehmen, Geschirrtuch drüber geben bis er ausgekühlt ist (damit bleibt er saftig). Der Kuchen schmeckt erst richtig gut wenn er vollständig ausgekühlt ist (bzw wenn er einige Zeit im Kühlschrank steht)
 ---

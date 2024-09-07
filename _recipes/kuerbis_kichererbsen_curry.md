@@ -10,6 +10,9 @@ components:
 images:
   - image: ../images/kuerbis_kichererbsen_curry_reste.webp
     description: Der Rest kann super aufgehoben und am nächsten Tag kalt gegessen werden. Schmeckt fast noch besser
+  - image: ../images/kuerbis_kichererbsen_curry_karfiol.webp
+    description: Statt Kürbis Karfiol passt auch sehr gut. Am Ende 1 Karotte fein dazugerieben (evtl besser am Anfang anrösten?). Recht viel Wasser und etwas Milch am Ende dazu bis es eine cremige Konsistenz hat
+
 ingredients:
   - 1 kleiner Hokkaido Kürbis (letztes Mal auch 1 Karotte aber hat man nicht gemerkt)
   - 1 Dose Kichererbsen
