@@ -18,7 +18,7 @@ images:
   - image: ../images/gugelhupf_walnuss_heidelbeere.webp
     description: -60g Mehl, +120g geriebene Walnüsse. 200g gefrohrene Heidelbeeren ganz am Schluss unterheben. Ergebnis war anfangs beim Rauskippen zu "flüssig", daher nochmal 10min am Abtropfgitter ins Rohr. Danach gut, speziell am nächsten Tag, wobei Heidelbeeren wenig hervorschmecken.
   - image: ../images/gugelhupf_mandel.webp
-    description: -50g Mehl, +100g Mandeln und Kaokao in gesamten Kuchen. War sehr gut, später etwas trocken aber mit Marillenmarmelade super!
+    description: -50g Mehl, +100g Mandeln und Kakao in gesamten Kuchen. War sehr gut, später etwas trocken aber mit Marillenmarmelade super!
   - image: ../images/muffins.webp
     description: Für Muffins selbes Rezept aber 160°C Umluft (weil 2 Blech), 25min, dann 5-10min im Blech ruhen lassen
   - image: ../images/gugelhupf_fluessig.webp
@@ -32,7 +32,7 @@ ingredients:
   - 2Pkg Vanillezucker
   - 1Pkg Backpulver
   - 200ml Milch (oder 250g Joghurt/Sauerrahm/Topfen. Bei Topfen etwas (50ml?) Milch dazu)
-  - 1EL Kaokaopulver
+  - 1EL Kakaopulver
 
 directions:
   - Gugelhupfform mit Butter ausstreichen (restliche Butter in Waage um auf 120g zu kommen)
@@ -40,7 +40,7 @@ directions:
   - Eidotter mit Butter, Staubzucker, Vanillezucker, Backpulver vermixen
   - Wenn Masse cremig ist, Mehl dazugeben und während Mixen Milch dazugießen
   - Schnee unterheben und 2/3 der Masse in die Gugelhupfform gießen
-  - Mit Sieb Kaokao in restliche Masse sieben und verrühren
+  - Mit Sieb Kakao in restliche Masse sieben und verrühren
   - Restliche Masse in Form gießen und mit Teigkarte etwas vermischen für Marmorierung
   - Bei 180°C Ober-/Unterhitze 40min ins Backrohr
 ---

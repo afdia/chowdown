@@ -12,7 +12,7 @@ images:
   - image: ../images/tiramisu_himbeer.webp
     description: Vanillesauce normal machen (aber nur 40g Zucker und ganzes Schlagobers rein, fest schlagen!), 300g TK-Himbeeren auftauen und pürieren, 50g Rum und 30g Agavendicksaft dazu, in Form abwechseln Biskotten, Himbeer, Vanille. Ergebnis war gut aber zuviel Rum (besser nur 25g nehmen), Himbeersauce zu wenig süß und zu flüssig (evtl 30g Zucker statt Agaven; evtl 100g weggeben und oben drauf damit weniger flüssig). Am nächsten Tag war es aber perfekt, kein Rumgeschmack und nicht mehr flüssig
   - image: ../images/tiramisu_erdbeer_heidelbeere.webp
-    description: Wie üblich zubereiten. Statt Rum+Kaffee nimmt man 250g Erdbeeren (auch TK möglich) und püriert sie. Auf das Schlagobers gibt man statt Kaokao zb Heidelbeeren oder weitere Erdbeeren
+    description: Wie üblich zubereiten. Statt Rum+Kaffee nimmt man 250g Erdbeeren (auch TK möglich) und püriert sie. Auf das Schlagobers gibt man statt Kakao zb Heidelbeeren oder weitere Erdbeeren
   - image: ../images/tiramisu_erdbeer.webp
     description: Statt Vanillesauce 150g Schlagobers schlagen, dann 250g Topfen dazugeben und vermischen, dann 80g Joghurt und ca 40g Staubzucker dazugeben und cremig mixen. 300g TK-Erdbeeren pürieren. Biskotten in Erdbeerpüree tunken und abwechselnd mit Creme schickten (unten Creme, oben Creme). Ganz oben halbierte Erdbeeren verteilen. Fazit sehr gut muss aber >1h stehen damit es sich ansaugt
   - image: ../images/tiramisu_kirsch.webp
@@ -39,6 +39,6 @@ directions:
   - Espresso und Rum vermischen
   - 1 Packung Vollkornbiskotten jeweils kurz in das Rum-Kaffee Gemisch tunken und in eine Form schlichten. Ganz unten Biskotten, darauf Puddinggemisch, 2-3x wiederholen.
   - Mindestens 30-60min in Kühlschrank stellen und danach das restliche Schlagobers (90g) oben auf dem Tiramisu verteilen (macht man es sofort vermischt es sich mit der Puddingcreme)
-  - Darauf Kaokaopulver (oder Schokosplitter) verteilen
+  - Darauf Kakaopulver (oder Schokosplitter) verteilen
   - Mindestens 3h (besser länger) in den Kühlschrank stellen bevor man es isst
 ---

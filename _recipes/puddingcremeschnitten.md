@@ -9,7 +9,7 @@ images:
   - image: ../images/puddingcremeschnitten_form.webp
     description: Die Schnitten in der Form bevor man Stücke rausschneidet
   - image: ../images/puddingcremeschnitten_ohne_form.webp
-    description: Ohne Form rinnt die Creme zu stark auseinander weil sie noch warm ist (kalt darf sie nicht sein damit sie nicht bröckelig ist). Durch den Verlust fehlt Creme oben und ohne Kaokao ist das Biskuit auch nicht so gut
+    description: Ohne Form rinnt die Creme zu stark auseinander weil sie noch warm ist (kalt darf sie nicht sein damit sie nicht bröckelig ist). Durch den Verlust fehlt Creme oben und ohne Kakao ist das Biskuit auch nicht so gut
 
 components:
 - Biskuit
@@ -24,7 +24,7 @@ ingredients:
 - Schokostreusel
 
 directions:
-- Biskuitboden mit 10g Kaokao zubereiten (bis inkl Kippen auf zweites Backpapier)
+- Biskuitboden mit 10g Kakao zubereiten (bis inkl Kippen auf zweites Backpapier)
 - Butter zimmerwarm werden lassen
 - Für Pudding, etwas Milch von den 0,5l wegnehmen und mit Puddingpulver und 50g Zucker vermischen
 - Restliche Milch aufkochen und wenn sie kocht Gemisch dazugeben, dann ca 1min kochen lassen während man umrührt und Pudding auskühlen lassen

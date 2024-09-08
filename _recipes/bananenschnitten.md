@@ -14,8 +14,8 @@ images:
     description: "Die Schokosauce wird gleichmäßig verteilt und einige Zeit im Kühlschrank gehärtet, damit man am Schluss die Ränder abschneiden kann"
   - image: ../images/bananenschnitten_zugeschnitten.webp
     description: "Wenn die Schokoglasur leicht fest ist (ca 15min im Kühlschrank) lässt sie sich gut schneiden"
-  - image: ../images/bananenschnitten_kaokao.webp
-    description: "Variante mit Kaokao im Teig und 'Manner Schokoglasur für Sachertorte' die leider weich geblieben ist (daher nicht geeignet)"
+  - image: ../images/bananenschnitten_kakao.webp
+    description: "Variante mit Kakao im Teig und 'Manner Schokoglasur für Sachertorte' die leider weich geblieben ist (daher nicht geeignet)"
 
 components:
 - Biskuit
