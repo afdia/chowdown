@@ -4,6 +4,10 @@ title: "Kohlrabisauce mit Halloumi&Bratkartoffeln"
 image: kohlrabisauce_mit_halloumi_bratkartoffeln.webp
 category: Hauptgericht
 
+images:
+  - image: ../images/kohlrabisauce_mit_halloumi_kartoffelpueree.webp
+    description: Statt Bratkartoffeln passt auch Püree super!
+
 ingredients:
   - 1 kleine Zwiebel
   - 1-2 Knoblauchzehen

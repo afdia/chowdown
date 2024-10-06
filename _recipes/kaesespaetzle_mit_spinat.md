@@ -18,7 +18,7 @@ ingredients:
   - 1 Zwiebel
   - 4 Knoblauchzehen
   - Suppenwürze
-  - 1/3 Becher Sauerrahm oder Schlagobers
+  - 1/3 Becher Sauerrahm oder Schlagobers (evtl testweise mal weglassen? oder stattdessen bisschen mehr Käse?)
   - 150g Gouda
   - 50g Parmesan
 

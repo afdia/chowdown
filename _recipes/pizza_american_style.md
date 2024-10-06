@@ -6,7 +6,7 @@ category: Hauptgericht
 
 images:
   - image: ../images/pizza_american_style_focaccia1.webp
-    description: 1/3 Teig wie Focaccia (400g Mehl, 335ml Wasser, 7g Germ, 10g Salz) und auf 1 großen Blech. Paar Mal falten, am Schluss noch 1x falten und ca 10min warten (währendeesen Backpapier mit Olivenöl einreiben, dann Teig rausheben und in Mitte geben. 10min warten (macht Teig wieder formbar) und in die Ecken ziehen damit ca das gesamte Blech bedeckt ist.
+    description: 1/3 Erster Versuch neues Rezept wie hier beschrieben
   - image: ../images/pizza_american_style_focaccia2.webp
     description: 2/3 Evtl nochmal 30min rasten lassen, dann belegen und 14min ins vorgeheizte Backrohr (280°C Ober/Unter Hitze) geben. Evtl nach 10min kurz Dampf rauslassen
   - image: ../images/pizza_american_style_focaccia3.webp
@@ -35,7 +35,7 @@ ingredients:
   - 335ml Wasser, lauwarm
   - 10g Salz
   - 7g Trockenhefe
-  - 400g Mozzarella (oder 125g Mozzarella + 125g Gouda bzw Almkönig)
+  - 250g Mozzarella (oder 125g Mozzarella + 125g Gouda bzw Almkönig)
   - Tomatensauce zum Bestreichen (zb eine dickere wie Denree Tomatenmark mit flüssiger Sauce vermischen oder nur Mutti)
 
 directions:

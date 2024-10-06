@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Vollkorn Brot in Form"
+title: "Hirse-Vollkorn Brot in Form"
 image: vollkorn_brot.webp
 category: Brot und Gebäck
 
@@ -8,7 +8,7 @@ images:
   - image: ../images/vollkorn_brot_gehenlassen.webp
     description: Nach 1h gehen lassen sieht das Brot so aus
   - image: ../images/vollkorn_brot_hirse.webp
-    description: Variante mit 125g gekochter Hirse (in Topf abwiegen, waschen indem mit kleinem Sieb Wasser abgegossen wird, wieder auf Waage stellen, Wasser dazugeben bis 375g angezeigt werden (d.h. 250g Wasser inkl was vom Waschen bleibt). Danach 3g Salz dazugeben, zudecken, aufkochen und bei Stufe 3 10min gehen lassen. Wenn die Hirse fertig ist auskühlen lassen und dann mit 250ml Wasser, 375g Weizen oder Dinkel-VK (NICHT frisch gemahlen), 10g Salz, 15g Zucker und Trockengerm 3min kneten. 30min zugedeckt rasten, in mit Backpapier ausgelegte Form putzen, 30min zugedeckt rasten und ins Rohr. Ist kompakt aber schmeckt super!
+    description: Variante mit 125g gekochter Hirse (in Topf abwiegen, waschen indem mit kleinem Sieb Wasser abgegossen wird, wieder auf Waage stellen, Wasser dazugeben bis 375g angezeigt werden (d.h. 250g Wasser inkl was vom Waschen bleibt). Danach 3g Salz dazugeben, zudecken, aufkochen und bei Stufe 3 10min gehen lassen. Wenn die Hirse fertig ist auskühlen lassen (wegen Hefe) und dann mit 250ml Wasser, 375g Dinkel-VK (bzw 275g frisch gemahlener Kamut+100g weißes Weizenmehl passen perfekt), 10g Salz, 15g Zucker und Trockengerm 3min kneten. 30min zugedeckt rasten, in mit Backpapier ausgelegte Form putzen, 30min zugedeckt rasten und 40min bei 200°C Ober-Unterhitze ins Rohr. Ist eher kompakt aber schmeckt super und ist nicht zu feucht innen!
   - image: ../images/vollkorn_brot_hirse2.webp
     description: Wie voriges Brot mit gekochter Hirse aber mit 275g frisch gemahlenen Kamut, 100g Weizenmehl (weiß), Backpapier in Glasform, 35min Rohr unterste Stufe, danach rauskippen und 3min ins Rohr damit es resch wird
   - image: ../images/vollkorn_brot_aussen_nicht_gut.webp
