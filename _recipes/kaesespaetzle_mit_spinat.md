@@ -6,6 +6,7 @@ category: Hauptgericht
 
 components:
   - Spaetzle
+  - Tomatensalat
 
 images:
   - image: ../images/kaesespaetzle_mit_kuerbis.webp
@@ -29,4 +30,5 @@ directions:
   - 2/3 der Spätzle dazugeben und vermischen
   - Die Mischung in eine Auflaufform geben, Käse darüber verteilen, und die restlichen 1/3 Spätzle oben drauf.
   - Backrohr auf 200°C Ober-/Unterhitze vorheizen und Auflaufform 15min ins Backrohr geben
+  - Tomatensalat passt super dazu!
 ---

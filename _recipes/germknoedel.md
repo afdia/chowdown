@@ -22,7 +22,7 @@ images:
 
 ingredients:
   - 250g Weizenmehl
-  - 90g Milch (lauwarm) +25g probieren weil wir 1 Dotter weniger als Ofner haben und Polsen hat auch mehr Milch)
+  - 115g Milch (lauwarm)
   - 25g Butter (zimmertemperatur)
   - 1 Ei
   - 25g Zucker
@@ -34,17 +34,24 @@ directions:
   - Milch in Topf etwas aufwärmen (ca 2min Stufe 6) und Butter reingeben damit sie auch warm wird
   - Alle Zutaten in Schüssel geben (zuerst Mehl damit der Teig nicht an der Form klebt)
   - Mit Küchenmaschine und Brotknethaken 3min auf Stufe 2, danach 5min auf Stufe 3 kneten
-  - Teig in die Mitte der Schüssel putzen und zugedeckt 20min gehen lassen
-  - Teig auf leicht bemehltes (evtl stattdessen Öl testen?) Backpapier fallen lassen, in 2 Teile zerteilen und kugelförmig Rollen bzw Teig nach innen falten (Ziel ist es runde Knödel zu haben) und auf Blech nebeneinander legen.
+  - Teig in die Mitte der Schüssel putzen und zugedeckt mindestens 20min gehen lassen. Danach optional nochmal kurz kneten (wandert allerdings schnell den Haken nach oben) und nochmal 30min oder länger gehen lassen.
+  - Teig auf leicht bemehltes (Ja! Hartweizen-Pizzamehl) Backpapier fallen lassen, in 2 Teile zerteilen und kugelförmig Rollen bzw Teig nach innen falten (Ziel ist es runde Knödel zu haben) und auf Blech nebeneinander legen.
   - "Zwischenschritt falls man sie füllen will: Die 2 Knödel mit Baumwolltuch zugedeckt 15min rasten lassen, danach nochmal rund formen, flach drücken, befüllen und die Enden zusammenklappen und erneut Knödel formen"
   - letztes Mal den Zwischenschritt auch ohne Füllung gemacht weil sie dann lt Polsen nicht zusammenfallen, wobei evtl warens auch die 20 statt 14min - nochmal beides separat testen
-  - Backrohr 100°C ohne Schnellvorheizen 1min aufheizen damit es ca 40°C hat. Knödel in der Hand mit Wasser besprühen (damit nicht das Backpapier auf dem sie liegen zu nass wird) und 30-45min (je nach gewünschter Größe, aber nicht länger sonst werden sie flach und man muss sie erneut formen) im Rohr gehen lassen (zwischendurch 1-2x erneut mit Wasser besprühen)
+  - Backrohr 100°C ohne Schnellvorheizen 1min aufheizen damit es ca 40°C hat und 30-45min (je nach gewünschter Größe, aber nicht länger sonst werden sie flach) im Rohr gehen lassen
   - in 2 Töpfe ca 2cm hoch leicht gesalzenes Wasser aufkochen, danach auf Stufe 5 (evtl die ersten 3min 6 lassen?) zurückdrehen und in jeden Topf ein Knödel geben. Zugedeckt 14min (letztes Mal 20min wie in anderen Rezepten; sind dann evtl weniger zusammengegangen) köcheln lassen. ACHTUNG Deckel darf nicht zu tief runtergehen sonst klebt ein Teil des Knödels daran (passiert zb beim zweitkleinsten Topf+Deckel; perfekt passen die 2 alten Töpfe + Glasdeckel)
   - Knödel auf Teller servieren, etwas Butter zergehen lassen und Mohn-Zucker Gemisch (beides in Plastikbox geben und schütteln) darauf verteilen. Marmelade passt auch sehr gut dazu.
 ---
 
 Einfrierversuch 1:
 
+- evtl doppelte Menge machen und Rest einfrieren?
 - halbe Größe machen und direkt in Plastikboxen gehen lassen (Boden STARK bemehlen weil sie sonst ankleben und Deckel draugelegt damit sie nicht austrocknen, dafür nur 1x anfangs bewässern und Boxen in warmes Wasserbad in Abwasch geben), nach Gehzeit einfrieren
 - beim Zubereiten aus Plastikbox nehmen und 16min bei Stufe 5 in kochendes Wasser geben.
 - Ergebnis war geschmacklich gut aber Knödel sind in Boxen geklebt, daher STARK bemehlen damit sie nicht ankleben
+
+Einfrierversuch 2:
+- doppelte Menge Teig und 4 Knödel (statt 2) formen
+- alles wie üblich bis man 2 Knödel davon in die Töpfe gibt, die anderen 2 Knödel gibt man in eine Plastikbox (ich besprüh sie nicht mehr mit Wasser weshalb sie auch nicht so in der Box kleben sollten)
+- Box in Tiefkühler stellen und nach 1h nochmal kurz durchschütteln damit sie wirklich nicht am Boden ankleben)
+- TODO schreiben ob sie gut geworden sind!

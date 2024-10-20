@@ -15,7 +15,7 @@ components:
 
 ingredients:
   - Blätterteig
-  - ca 700g Kartoffeln
+  - ca 800g Kartoffeln
   - ca 500g Spinat (10-11 Stk bei TK-Spinat)
   - 1 Ei
   - paar Stangen Frühlingszwiebel

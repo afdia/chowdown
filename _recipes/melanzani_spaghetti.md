@@ -11,6 +11,8 @@ images:
     description: Zucchini würfelig und scharf angebraten (also alles wie hier nur mit Zucchini statt Melanzani) schmeckt auch super!
   - image: ../images/melanzani_spaghetti_zucchini_karotten.webp
     description: Statt Penne Spaghetti, Zucchini und Karotten gemeinsam scharf angebraten, sonst wie hier beschrieben. Ergebnis war auch sehr gut!
+  - image: ../images/melanzani_spaghetti_mozzarella.webp
+    description: Statt Parmesan 1 Maxi-Mozzarella in kleine Stücke geschnitten, breit in Pfanne auf Sauce verteilt (damit es nicht verklumpt), Nudeln darauf und vermischt. War sehr gut und cremig.
 
 ingredients:
   - 1 Melanzani

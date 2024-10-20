@@ -15,7 +15,7 @@ ingredients:
 
 directions:
   - Dressing aus Öl, Essig, Honig, Salz, Pfeffer in Schüssel anrühren und gut vermischen (mit Schneebesen?)
-  - Zwiebel so fein wie möglich schneiden und dazumischen
+  - Zwiebel so fein wie möglich schneiden (zb hauchdünne Halb-Ringe) und dazumischen
   - Tomaten in Stücke schneiden und Basilikum zerreißen und dazugeben
   - Alles gut aber vorsichtig vermischen (damit Tomaten nicht zerdrückt werden) und servieren
 ---

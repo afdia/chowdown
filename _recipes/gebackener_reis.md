@@ -25,8 +25,8 @@ directions:
   - Butter scheibenweise hinzufügen und verrühren.
   - Anschließend Eier aufschlagen und Eigelb zum Milchreis geben
   - Alles in eine Form geben und 25min bei 200° Ober-/Unterhitze ins vorgeheizte Backrohr geben
-  - Ca nach 15min anfangen das Eiweis mit 20g Zucker vermischen und festen Schnee schlagen (d.h. nach 20min kommt Schnee dazu)
-  - Form rausnehmen, Schnee drauf verteilen und nochmal 5min ins Backrohr geben (sind in Summe 25min)
+  - Ca nach 15min anfangen das Eiweis mit 20g (besser 30g) Zucker vermischen und festen Schnee schlagen (d.h. nach 20min kommt Schnee dazu)
+  - Form rausnehmen (evtl auf 220°C erhöhen damit Schnee innen nicht austrocknet), Schnee drauf verteilen und nochmal 5min ins Backrohr geben (sind in Summe 25min)
 ---
 
 Verbesserungsideen:
