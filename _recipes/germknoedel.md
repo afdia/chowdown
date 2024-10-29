@@ -12,11 +12,11 @@ images:
   - image: ../images/germknoedel_oel.webp
     description: Mit (Oliven)-öl lassen sich die Knödel super vom Backpapier lösen. Im Topf waren sie riesig sind aber dann leider zusammengefallen. Vmtl weil ich den Teilg aufs Öl fallen lies und gefaltet habe. Das Öl hat sich aber schwer verbunden Beim nächsten Mal Öl nur direkt vorm Lösen vom Backpapier runtergegeben. Hat super funktioniert, sind aber wieder zusammengefallen (beide Öl Versuche waren aber auch mit frischem Germ, evtl liegts daran?)
   - image: ../images/germknoedel_plastikbox.webp
-    description: In der Plastikbox vor dem Gehen im Wasserbad
-  - image: ../images/germknoedel_plastikbox_gegangen.webp
-    description: Und nach dem Gehen. So wird die Box direkt eingefrohren
+    description: Die Germknödel wie üblich gehen lassen und die fertig aufgegangenen Knödel in einer Plastikbox einfrieren. Nach 30min nochmal kurz durchrütteln, dann frieren sie garantiert nirgendwo am Rand der Box an. Das Bild zeigt sie wie wir sie nach paar Tagen aus dem Tiefkühler rausgenommen haben
+  - image: ../images/germknoedel_plastikbox_zusammengefallen.webp
+    description: Auftauversuch - Topf vorheizen, auf Stufe 6 zurückdrehen, Knödel rein, nach 1-2min auf Stufe 5 reduzieren und in Summe 18min im Topf lassen. Schaut am Ende noch gut aus solang Deckel oben ist, aber wenn man den abnimmt fällts sofort zusammen. Geschmacklich war es zwar gut aber innen zu kompakt und evtl nicht ganz durch
   - image: ../images/germknoedel_vier.webp
-    description: Man kann auch 4 Stück formen, dann sollte man 2 davon evtl einfrieren
+    description: Man kann aus dem Teig auch 4  kleinere Knödel formen
   - image: ../images/germknoedel_vier_fertig.webp
     description: Macht man dann 2 Knödel in jeweils 2 Töpfen gehen sie nicht gut auf (beide am Teller waren in 1 Topf), daher besser nur 2 Stück formen wenn man alle sofort isst
 
@@ -28,7 +28,8 @@ ingredients:
   - 25g Zucker
   - 3g Salz
   - 1/2 Sackerl Trockenhefe (früher 15g frische Hefe)
-  - Für Mohnzucker zum Bestreuen ca 40g gemahlener Mohn und 16g Zucker (gesiebt) vermischen (Verhältnis 5 zu 2)
+  - "Mohnzucker: 40g gemahlener Mohn + 16g gesiebter Staubzucker vermischen (Verhältnis 5:2)"
+  - IDEE - alternativ Bröselzucker probieren?
 
 directions:
   - Milch in Topf etwas aufwärmen (ca 2min Stufe 6) und Butter reingeben damit sie auch warm wird
@@ -55,3 +56,5 @@ Einfrierversuch 2:
 - alles wie üblich bis man 2 Knödel davon in die Töpfe gibt, die anderen 2 Knödel gibt man in eine Plastikbox (ich besprüh sie nicht mehr mit Wasser weshalb sie auch nicht so in der Box kleben sollten)
 - Box in Tiefkühler stellen und nach 1h nochmal kurz durchschütteln damit sie wirklich nicht am Boden ankleben)
 - TODO schreiben ob sie gut geworden sind!
+- erstes Knödel gemacht - topf vorheizen, auf stufe 6 zurückdrehen, knödel rein, nach 1-2min auf stufe 5 reduzieren und in summe 18min im topf lassen. schaut am ende noch gut aus solang deckel oben ist, aber wenn man den abnimmt fällts sofort zusammen. geschmacklich war es zwar gut aber innen zu kompakt und vmtl nicht ganz durch
+- zweites knödel vorschlag - manche frieren fertig gekochte ein, würd ich aber nicht. stattdessen mindestens 35min im topf lassen, dann müssten sie komplett fertig sein (angeblich gibts kein zu lange, also auch 1h is kein problem)

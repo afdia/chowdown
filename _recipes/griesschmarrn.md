@@ -7,6 +7,8 @@ category: Süßspeise
 images:
   - image: ../images/griesschmarrn_teig.webp
     description: Der Teig nach dem Rasten (sollte jetzt etwas bröckelig sein weil sich der Grieß angesaugt hat)
+  - image: ../images/griesschmarrn_nockerlgries.webp
+    description: Das Bild zeigt 2 verschieden Hartweizengrieß Packungen. Der linke ist viel zu fein, der rechte ist perfekt für Griesschmarrn + Griesnockerl und viel gröber.
   - image: ../images/griesschmarrn_selbst_gemahlen.webp
     description: Selbstgeriebener Dinkel ist gut aber es geht damit in Richtung Kaiserschmarrn (190g Dinkel frisch gemahlen, 500ml Milch, 40g Butter, 10g Staubzucker, 8g (1Pkg) Vanillezucker, 2 Eier, etwas Butter für Pfanne)
   - image: ../images/griesschmarrn_dinkelvk.webp
@@ -20,7 +22,7 @@ ingredients:
   - 2 Eier
   - 0,2g Salz (ganz wenig)
   - 40g Zucker (evtl ein Teil davon Vanillezucker)
-  - 300g Grieß
+  - 300g Hartweizen Nockerlgrieß
 
 directions:
   - Eiklar und Dotter trennen

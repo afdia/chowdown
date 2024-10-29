@@ -5,24 +5,28 @@ image: letscho.webp
 category: Salate und Aufstriche
 
 images:
+  - image: ../images/letscho_eingefrohren.webp
+    description: Wenn man die doppelte Menge macht, lässt sich der Rest super einfrieren
+  - image: ../images/letscho_fruehlingsrollen.webp
+    description: Reis und Frühlingsrollen passen super dazu. In dem Fall haben wir statt 3 Spitzpaprika 6Stk runde genommen (doppelte Menge Letscho). War auch gut aber anfangs recht wässrig. Das Letscho muss länger kochen bzw stärker gewürzt werden bis es passt (mindestens 30-45min köcheln)
   - image: ../images/letscho_kraut.webp
     description: nur 1 Paprika dafür Kraut dazugeschnitten. Ergebnis war leider auch sehr sauer. Geschmacklich OK, besser nur Paprika
-
 ingredients:
 - 1 Zwiebel
 - etwas Olivenöl
 - 3 Spitzpaprika
-- 1 Dose Mutti San Marzano Tomaten (evtl andere probieren?)
+- 1 Dose Mutti San Marzano Tomaten (am Teller zerschneiden, evtl andere probieren?)
 - 2 Knoblauchzehen
-- 1EL Paprikapulver
-- etwas Spar Tomatensalsa Sauce bzw Ketchup
-- Salz, Pfeffer
+- 1 TL Paprikapulver
+- 1 TL Zucker (nach kosten evtl mehr bzw Akazienhonig)
+- Evtl etwas Ketchup wenn es zu wenig Geschmack hat
+- bisschen Suppenwürze, Salz, Pfeffer
 
 directions:
-- Zwiebel klein würfelig schneiden und Paprika in 1cm² Würfel schneiden. Beides gemeinsam in einer Pfanne mit Öl 2min scharf anbraten (Stufe 8-9) bis es glasig ist
-- Anschließend die Dose Tomaten und den gepressten Knoblauch dazugeben und mit Tomatensalsa bzw Ketchup und Schärfungssauche abschmecken
-- Im Anschluss mit Salz, Pfeffer, Paprikapulver dazugeben
-- Dann bei Stufe 5 (Anfangs evtl 6) 20min einkochen bzw dünsten lassen (sollte etwas dickflüssiger werden und weniger wässrig)
+- Zwiebel klein würfelig schneiden, Knoblauch klein schneiden und beides in Öl kurz glasig dünsten.
+- Währenddessen Paprika in 1cm² Würfel scheiden und dazugeben. Umrühren und 1-2min köcheln lassen
+- Anschließend die Dose Tomaten dazugeben und mit Paprikapulver, Zucker, Suppenwürze bzw Salz, Pfeffer und Schärfungssauche abschmecken
+- Dann bei Stufe 5 (Anfangs evtl 6) mindestens 20-30min zugedeckt (nach ca 10min den Deckel abnehmen damit es sich etwas einkocht) leicht köcheln lassen, zwischendurch hin und wieder umrühren (sollte etwas dickflüssiger werden und weniger wässrig)
 
 ---
 
