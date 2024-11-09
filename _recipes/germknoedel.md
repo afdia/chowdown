@@ -58,3 +58,4 @@ Einfrierversuch 2:
 - TODO schreiben ob sie gut geworden sind!
 - erstes Knödel gemacht - topf vorheizen, auf stufe 6 zurückdrehen, knödel rein, nach 1-2min auf stufe 5 reduzieren und in summe 18min im topf lassen. schaut am ende noch gut aus solang deckel oben ist, aber wenn man den abnimmt fällts sofort zusammen. geschmacklich war es zwar gut aber innen zu kompakt und vmtl nicht ganz durch
 - zweites knödel vorschlag - manche frieren fertig gekochte ein, würd ich aber nicht. stattdessen mindestens 35min im topf lassen, dann müssten sie komplett fertig sein (angeblich gibts kein zu lange, also auch 1h is kein problem)
+- Versuch nach 35min Kochzeit war genauso wie der vorherige (ganz gut aber kompakt, zusammengefallen). Evtl muss man es doch vorkochen

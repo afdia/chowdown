@@ -7,6 +7,9 @@ category: Salate und Aufstriche
 images:
   - image: ../images/eiaufstrich_liptauer_kraeuter_topfen.webp
     description: Statt Liptauer (weil wir keinen Knoblauch hatten) Dille+Schnittlauch aber keine Gurkerl in zweite Hälfe gegeben. Außerdem keine Butter dafür 5g Olivenöl - war sehr gut, evtl etwas mehr Olivenöl und Petersilie probieren?. Den Eiaufstrich haben wir 1zu1 gemacht aber ohne Butter und ohne Olivenöl, die hat dort schon gefehlt)
+  - image: ../images/eingelegte_rote_zwiebel_brot.webp
+    description: 60g Sauerrahm, 110g Cottage Cheese, 1 Knoblauchzehe fein geschnitten, etwas Senf und Currypulver, Salz, Pfeffer, Dille
+
 
 ingredients:
   - 125g Topfen

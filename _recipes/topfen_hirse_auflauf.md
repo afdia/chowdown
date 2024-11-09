@@ -6,7 +6,7 @@ category: Süßspeise
 
 images:
   - image: ../images/topfen_hirse_auflauf_schnee.webp
-    description: 3 mittelgroße Eier, nur Dotter in Hirsemasse gegeben, Eiklar 10min vor Ende der Backzeit mit 20g Staubzucker aufgeschlagen, Form aus Backrohr genommen, Schnee darauf verteilt und die restlichen 5-8min mit dem Schnee fertig backen. War auch super
+    description: Will man Schnee haben, 3 (stat 2) mittelgroße Eier, nur Dotter in Hirsemasse gegeben, Eiklar 5min vor Ende der Backzeit mit 30g Staubzucker aufgeschlagen, auf 220°C erhöhen, Form aus Backrohr genommen, Schnee darauf verteilt und die restlichen 5min mit dem Schnee fertig backen. Schmeckt super!
 
 ingredients:
   - 150g feinkörnige Hirse (Al Natura)

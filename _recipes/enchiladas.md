@@ -10,7 +10,7 @@ images:
   - image: ../images/enchiladas_vor_backrohr.webp
     description: Enchiladas fertig fürs Backrohr
   - image: ../images/enchiladas_mehr_bohnen.webp
-    description: Variante ohne Kraut, dafür 2 Dosen Bohnen (1x Kidney, 1x Schwarz) war auch super. Dazu passt Tsatsiki
+    description: Man sollte sie in ein Marmelade-Glas geben, in einem flachen Behälter kann man sie nicht gut in Essig untertauchen 
 
 components:
   - Tortillas

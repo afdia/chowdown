@@ -27,5 +27,3 @@ directions:
 - Für 15min bei ca 200°C Ober/Unterhitze ins Backrohr geben
 
 ---
-
-Das Rezept ergibt 2 Lasagnen, eine zum Sofortessen, die zweite für den nächsten Tag
