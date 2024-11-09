@@ -31,6 +31,7 @@ layout: default
         resultsContainer: document.getElementById('results-container'),
         json: searchJson,
         limit: 9999,
+        debounceTime: 200,
         sortMiddleware: function (a, b) {
           let searchValue = document.getElementById('search-input').value.toLowerCase();
           let inf = 1000000;
