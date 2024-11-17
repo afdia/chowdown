@@ -13,7 +13,7 @@ images:
 ingredients:
   - 5EL (32g) Olivenöl
   - 2EL (16g) weißer Balsamicoessig
-  - 5g Senf (Estragon)
+  - 5g Estragon Senf (kann man auch weglassen, Honig alleine ist auch sehr gut zb in Tomatensalat)
   - 5g Akazienhonig (kann man weglassen wenn Senf süß ist wie der Stiegl Senf)
   - Kräutersalz
   - Pfeffer

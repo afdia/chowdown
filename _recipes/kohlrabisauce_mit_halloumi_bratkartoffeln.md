@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/kohlrabisauce_mit_halloumi_kartoffelpueree.webp
     description: Statt Bratkartoffeln passt auch Püree super!
+  - image: ../images/kohlrabisauce_lauch.webp
+    description: Lauch passt nicht zu Kohlrabi weil es den Geschmack überlagert
 
 ingredients:
   - 1 kleine Zwiebel

@@ -14,6 +14,8 @@ images:
     description: Passt super auf Tramezzini (1 Tag nach dem Einlegen)
   - image: ../images/eingelegte_rote_zwiebel_brot.webp
     description: Passt auch super auf Eiaufstrich-Brote (4 Tage nach dem Einlegen)
+  - image: ../images/eingelegte_rote_zwiebel_rest.webp
+    description: Man kann restlichen Zwiebel auch gut einlegen, dann nimmt man ein kleines Gefäß (Zutaten sollte man aber trotzdem gut abwiegen, ich hab zB zuviel Essig erwischt)
 
 ingredients:
 - 1 rote Zwiebel (geschält ca 120g)
