@@ -8,6 +8,8 @@ category: Süßspeise
 images:
   - image: ../images/palatschinken_kamut_frisch.webp
     description: Versuch mit frisch gemahlenem Kamut war nicht so gut. +150ml Milch genommen weil zu patzig in Pfanne. Trotzdem musste man sie viel dicker machen damit sie nicht brechen. War mehr wie ein Griesschmarrn
+  - image: ../images/palatschinken_weisses_mehl.webp
+    description: Mit weißem Mehl haben sie viel weniger Geschmack (praktisch nur die Füllung), aber für Frittatensuppe sind nicht-Vollkorn Palatschinken besser
 
 ingredients:
 - 250g Dinkelvollkornmehl

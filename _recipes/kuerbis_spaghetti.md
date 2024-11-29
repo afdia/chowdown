@@ -6,7 +6,7 @@ category: Nudelgericht
 
 images:
   - image: ../images/kuerbis_spaghetti_backrohr1.webp
-    description: Der Kürbis nach dem Backen. Man sieht einige dunkle Stellen, evtl ist da der Pfeffer verbrannt?
+    description: Alte Variante im Backrohr - Der Kürbis nach dem Backen. Man sieht einige dunkle Stellen, evtl ist da der Pfeffer verbrannt?
   - image: ../images/kuerbis_spaghetti_backrohr2.webp
     description: Man putzt alles in einen Topf und püriert den Kürbis gemeinsam mit Nudelwasser
   - image: ../images/kuerbis_spaghetti_topf.webp
@@ -20,18 +20,17 @@ ingredients:
   - Salz, Pfeffer, Olivenöl
 
 directions:
-  - Kürbis waschen und in Scheiben schneiden
-  - Backrohr auf 180°C Umluft vorheizen, Scheiben auf ein mit Backpapier belegtes Blech geben, die 2 Knoblauchzehen schälen und auch dazugeben, etwas Olivenöl drübergießen
-  - Danach ca 15-20min ins Rohr geben bis der Kürbis weich ist
-  - Währenddessen Kochwasser für Nudeln aufstellen
-  - Wenn Kürbis fertig ist, Inhalt vom Backpapier in einen Topf schütten, etwas Nudelwasser dazugeben und mit Stabmixer pürieren. Man braucht recht viel Nudelwasser aber kann es nach und nach dazugeben
-  - Parmesan reiben und ebenfalls unterheben
+  - Kürbis waschen und in Stücke schneiden
+  - In großen Topf mit Olivenöl geben, kurz anschwitzen, dann mit etwas Wasser aufgießen, zudecken und bei Stufe 6 stehen lassen
+  - 2 Knoblauchzehen schälen, klein schneiden und dazugeben, etwas Olivenöl drübergießen
+  - Das Kochwasser einschalten und wenn es kocht die Nudeln reingeben (dauert ca 7min bis es kocht und 10min für die Nudeln)
+  - 2min bevor die Nudeln fertig sind, den Kürbis zur Seite geben und mit Stabmixer zerkleinern. Immer wieder etwas Nudelwasser oder Wasser dazugeben dass es cremig bleibt
+  - Parmesan reiben und ebenfalls unterheben und mit Salz, Pfeffer, Olivenöl abschmecken
   - Wenn die Nudeln fertig sind, mit dem Kürbismus vermischen und servieren
 
 ---
 
-War ganz gut aber nicht so gut wie erhofft. War auch etwas bitter (vmtl Röstaromen vom Backen)
+War ganz gut aber nicht so gut wie erhofft aber im Topf besser als im Backrohr
 
 Verbesserungsvorschläge:
-- im Originalrezept wurde Kürbis geschält, evtl hilft das gegen den leicht bitteren Geschmack den wir hatten
-- und/oder statt im Backrohr den Kürbis in der Pfanne (evtl gewürfelt) vorkochen, damit sich weniger Röstaromen bilden
+- evtl schon anfangs Suppenwürze dazugeben, weil der Kürbis nicht all zu viel Geschmack hatte

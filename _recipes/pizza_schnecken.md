@@ -15,6 +15,8 @@ images:
     description: Dasselbe nach ca 18min im Rohr
   - image: ../images/pizza_schnecken_ausgelaufen.webp
     description: Hier sieht man die 3. Rolle wo der Käse stark ausgelaufen ist. Vmtl wars zuviel Käse (oder zuviel Mozzarella, Feuchtigkeit weils der Rest vom Käseteller war mit mehr Flüssigkeit als vorher). Geschmacklich schon gut aber eben nicht mehr schön. Die Pizzastangerl waren OK aber trocken, die muss man wie Pizza bei 300°C machen damit sie nicht so hart werden
+  - image: ../images/pizza_schnecken_blaetterteig.webp
+    description: Variante mit Blätterteig, etwas Mutti und ca 120g Käse (war 3 Käse Mischung Schnittkäse). 180°C Umluft vorheizen und ca 18min ins Rohr. Waren auch ganz gut aber zu fettig. Besser Hefeteig machen!
 
 ingredients:
   - Pizzateig (siehe Pizza Rezept)
@@ -34,6 +36,8 @@ directions:
 
 ---
 
-Ergebnis war frisch aus dem Backrohr nicht so gut wie erhofft und Käse ist stark ausgeronnen.
-Ausgekühlt waren sie geschmacklich dann viel besser! Daher gutes Gericht zum Vorbereiten.
-Evtl keinen Mozzarella nehmen weil der ausrinnt? Oder probieren die Schnecken und Muffinformen zu geben, dann können sie nicht ausrinnen
+- Ergebnis war frisch aus dem Backrohr nicht so gut wie erhofft und Käse ist stark ausgeronnen.
+- Ausgekühlt waren sie geschmacklich dann viel besser! Daher gutes Gericht zum Vorbereiten.
+- Evtl keinen Mozzarella nehmen weil der ausrinnt? Oder probieren die Schnecken und Muffinformen zu geben, dann können sie nicht ausrinnen
+- Evtl Schnecken in Backform schlichten, dann kann der Käse auch nicht so stark ausrinnen
+- Evtl mit Küchengarn von unten reinfahren, oben überkreuzen und anziehen. Sollte schneiden ohne zu drücken (siehe Sally Video. evtl auch wie dort 180° Ober Unterhitze 30min ins Rohr geben)
