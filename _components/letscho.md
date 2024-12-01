@@ -7,6 +7,10 @@ category: Salate und Aufstriche
 images:
   - image: ../images/letscho_eingefrohren.webp
     description: Wenn man die doppelte Menge macht, lässt sich der Rest super einfrieren
+  - image: ../images/letscho_aufgetaut.webp
+    description: Letscho paar Wochen später aufgetaut. War geschmacklich sehr gut!
+  - image: ../images/letscho_gemuesestangerl.webp
+    description: Aufgetautes Letscho, Reis und Iglo Gemüsestangerl passen recht gut, wobei de Gemüsestangerl ziemlich süß und vmtl nicht mehr so gut wie früher waren
   - image: ../images/letscho_fruehlingsrollen.webp
     description: Reis und Frühlingsrollen passen super dazu. In dem Fall haben wir statt 3 Spitzpaprika 6Stk runde genommen (doppelte Menge Letscho). War auch gut aber anfangs recht wässrig. Das Letscho muss länger kochen bzw stärker gewürzt werden bis es passt (mindestens 30-45min köcheln)
   - image: ../images/letscho_kraut.webp

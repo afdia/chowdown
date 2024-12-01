@@ -17,6 +17,8 @@ images:
     description: 300g Kamut, 150g 6-Korn, 150g Weizenmehl, 120g weniger Wasser dafür Joghurt. Geschmack super aber Kruste sehr matt. Blech im Rohr aufgeheizt, dann Backpapier mit Brot draufgegeben (evtl dadurch zuviel Hitze verloren?), nur beim Reingeben und Rausnehmen besprüht (evtl darum zu wenig Dampf?)
   - image: ../images/vollkorn_mohn_brot_leinsamen.webp
     description: 400g frischer Kamut, 200g Weizenmehl, Leinsamen und Sonnenblumenkerne drinnen, außen Leinsamen. Ergebnis war perfekt, das beste Brot seit langem.
+  - image: ../images/vollkorn_mohn_brot_walnuesse_sesam.webp
+    description: Rezept wie oben aber ca 150g Kamut durch 3-Korn-Mischung ersetzt und Walnüss-Stücke reingegeben (außen Sesam). Rastzeiten waren aber viel höher; ca 2h in Schüssel dann 1h in Gärkorb. War sehr gut (speziell innen nicht klebrig) aber Rinde war zu hell. Ich habs sofort nach dem Vorheizen reingegeben, evtl sollte man noch kurz warten bis das Rohr komplett warm ist? Oder +5°C?
 
 components:
   - Glanzstreiche
@@ -29,7 +31,7 @@ ingredients:
   - 12g Salz
   - 6g Gerstenmalzmehl
   - 15g Dinkel-Trocken-Sauerteig oder 10g Essig
-  - 60g Graumohn
+  - 60g Graumohn (oder Glanzstreiche bzw andere Körner)
   - etwas mehr Graumohn für Rinde
 
 directions:
@@ -43,9 +45,5 @@ directions:
   - Auf 185°C ändern und für ca 7min ins Rohr geben
   - Danach auf Ober/Unterhitze ändern, 5sek die Backrohrtür öffnen, Wasser reinsprühen (nächstes Mal weglassen weil bei Brot nur am Anfang und beim Rausnehmen nötig), schließen und 30min weiterbacken.
   - Anschließend auf 170°C reduzieren und nochmal 10min backen (evtl kurz besprühen). Evtl danach nochmal 5min backen (in Summe also 7+30+10+5min)
-  - Wenn es fertig ist klopfen (sollte hohl sein), mit etwas Wasser besprühen und auf Gitter auskühlen lassen
+  - Wenn es fertig ist klopfen (sollte hohl sein), mit etwas Wasser besprühen und auf Gitter auskühlen lassen (wenns innen weich ist lt ofner 5-10min länger ins rohr aber -10°C probieren)
 ---
-
-wenns innen weich ist lt ofner 5-10min länger ins rohr aber -10°C probieren
-
-Statt Mohn etc außen Glanzstreiche probieren (siehe Komponente)

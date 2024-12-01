@@ -7,6 +7,8 @@ category: Nudelgericht
 images:
   - image: ../images/spaghetti_mit_brokkoli_sauce.webp
     description: Durch das längere langsame Kochen + Olivenöl und Kochwasser wird der Brokkoli eine recht cremige Sauce
+  - image: ../images/spaghetti_mit_brokkoli_romanesco.webp
+    description: Gleiches Rezept aber mit Romanesco statt Brokkoli. Ergebnis war zwar gut aber es wird nicht so cremig/gut wie mit Brokkoli. Geschmacklich ist der Romanesco ähnliche Brokkoli, aber die Konsistenz/Mundgefühl ist näher am Karfiol.
 
 ingredients:
   - 1 Brokkoli

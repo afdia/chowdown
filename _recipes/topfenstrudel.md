@@ -9,6 +9,8 @@ images:
     description: Teig mit Wasser besprüht und Mandelsplitter draufgegeben. Passt zwar gut, wurden aber zu dunkel, daher evtl erst nach halber Zeit draufgeben?
   - image: ../images/topfenstrudel_marille.webp
     description: Statt Zitronensaft 300g Marillen (gewürfelt) zu Topfen mischen. Im warmen Strudel sehr sauer und nicht so gut wie nur Topfen. Nach 1 Nacht im Kühlschrank ist der Boden stark in der Plastikbox geklebt, aber geschmacklich war der Strudel am nächsten Tag sehr gut
+  - image: ../images/topfenstrudel_tascherl.webp
+    description: Der Blätterteig kann auch einfach in kleine Ecken geschnitten, mit Marmelade oder Haselnusscreme gefüllt werden und lt Packungsbeilage im Backrohr rausgebacken werden. Tascherl schmecken sehr gut, sollten aber auskühlen bevor man sie isst (dann schmecken sie auch besser)
 
 ingredients:
 - 1 Packung Blätterteig
