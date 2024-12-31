@@ -9,6 +9,8 @@ images:
     description: Versuch 1 (beidseitig Mehl, Pfeffer, Salz; zu kalte Pfanne, zu oft gewendet) hatte verklumptes Mehl und war wässrig und nicht resch. Fisch hat zwar gut geschmeckt aber Mundgefühl war nicht besonders. Evtl hat der Pfeffer leicht verbrannt hervorgeschmeckt, daher pfeffern wir jetzt erst am Teller. Salz muss aber vorher auf den Fisch, dadurch wird er rescher und schmeckt besser!
   - image: ../images/zanderfilet_unterseite.webp
     description: Versuch 2 hatte eine resche Unterseite wie man hier sieht (passt zu Haupt-Bild von Rezept)
+  - image: ../images/goldbrasse.webp
+    description: Versuch 3 mit Goldbrasse. Genauso wie Zander gemacht aber ca 1min pro Seite länger gelassen. Ergebnis war außen sehr knusprig, innen aber schön weich. Evtl 1min kürzer lassen? Fisch ist fettiger (und geschmacklich intensiver) als Zander daher vmtl knuspriger. Dazu hatten wir Reis mit Zitrone + Tomatensalat
 
 ingredients:
   - Zanderfilets

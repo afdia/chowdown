@@ -31,6 +31,6 @@ directions:
   - Spinat dazugeben und solange dünsten bis er weich ist
   - Kartoffeln schälen und durch Presse pressen
   - Ei und Spinatmasse dazugeben, Salzen und Pfeffern
-  - Blätterteig ausrollen und mit Masse füllen und für 20min bei 200°C Ober/Unterhitze (OFT STEHT 220°C Ober/Unter - NÄCHSTES MAL PROBIEREN!) ins Backrohr geben
+  - Blätterteig ausrollen und mit Masse füllen und lt Packung zubereiten (Ja! Teig sagt zb für 20min bei 200°C Ober/Unterhitze ins Backrohr geben)
   - Schnittlauch schneiden und mit Joghurt vermischen (als Sauce zum dazuessen)
 ---

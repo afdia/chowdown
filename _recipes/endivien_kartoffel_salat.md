@@ -37,3 +37,11 @@ directions:
   - Salzen, Pfeffern, umrühren und Endiviensalat dazugeben
   - Abschmecken und für 10min ziehen lassen (Dressing sollte cremig sein)
 ---
+
+Neue Kartoffelsalat Variante inspiriert von https://www.derstandard.at/story/3000000238429:
+- 750g Kartoffeln
+- 100g Suppe aufkochen und mit
+- 50g weißer Balsamicoessig, 8g Salz, 7g Honig, 8g Senf gut vermischen und zu geschnittenen Kartoffeln geben
+- 1 kleine Zwiebel fein gehackt
+- 40g Olivenöl (später dazu)
+- Ergebnis war sehr gut aber leicht säuerlich. Evtl etwas weniger Essig und etwas weniger Öl

@@ -12,6 +12,8 @@ images:
     description: "die übrigen Knödel kann man in einer Box aufheben und in einer Suppe oder mit Ketchup essen"
   - image: ../images/kaspressknoedel_rotkraut.webp
     description: Rotkraut passt auch sehr gut dazu
+  - image: ../images/kaspressknoedel_sauerkraut.webp
+    description: Sauerkraut + Kartoffeln ebenfalls. Am Bild ist der Rest vom Vortag. Sauerkraut+Kartoffeln im Topf vermischen (damit Kratoffeln nicht braun werden) und im Kühlschrank aufheben. Kaspressknödel in separater Box aufheben
   - image: ../images/kaspressknoedel_pueree.webp
     description: Kartoffelpüree und rote Rüben passen super dazu
 
