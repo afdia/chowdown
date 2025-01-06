@@ -15,6 +15,7 @@ images:
     description: Reis und Frühlingsrollen passen super dazu. In dem Fall haben wir statt 3 Spitzpaprika 6Stk runde genommen (doppelte Menge Letscho). War auch gut aber anfangs recht wässrig. Das Letscho muss länger kochen bzw stärker gewürzt werden bis es passt (mindestens 30-45min köcheln)
   - image: ../images/letscho_kraut.webp
     description: nur 1 Paprika dafür Kraut dazugeschnitten. Ergebnis war leider auch sehr sauer. Geschmacklich OK, besser nur Paprika
+
 ingredients:
 - 1 Zwiebel
 - etwas Olivenöl

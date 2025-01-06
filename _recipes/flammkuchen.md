@@ -30,6 +30,8 @@ images:
     description: Champignons statt Thunfisch passen super, gehen stark zusammen also viele drauflegen (alternativ zu Zwiebel kann man auch Oliven draufgeben, passt auch super)
   - image: ../images/flammkuchen_speck.webp
     description: Speckstreifen passen sehr gut, allerdings muss man einige mehr nehmen als hier (Speck geht stark zusammen)
+  - image: ../images/flammkuchen_pizzabelag.webp
+    description: Reste vom Pizza-Toast-Belag passen auch super auf den Flammkuchen
 
 directions:
   - Mehl, Wasser, Salz, Germ, Öl in Schüssel geben und in der Küchenmaschine kneten (7-8min) damit Teig elastisch wird

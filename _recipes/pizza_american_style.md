@@ -21,6 +21,10 @@ images:
     description: Kleine Mozzarellakugeln passen sehr gut (vor dem Backen)
   - image: ../images/pizza_american_style_kleine_mozz_nach.webp
     description: Kleine Mozzarellakugeln passen sehr gut (nach dem Backen)
+  - image: ../images/pizza_american_style_kleine_mozz_thun_vor.webp
+    description: Kleine Mozzarellakugeln passen auch mit Thunfisch (vor dem Backen)
+  - image: ../images/pizza_american_style_kleine_mozz_thun_nach.webp
+    description: Kleine Mozzarellakugeln passen auch mit Thunfisch (nach dem Backen)
   - image: ../images/pizza_american_style_vorm_rasten.webp
     description: Altes Rezept - Teig nach erster Rast wenn er ins Blech gegeben wurde
   - image: ../images/pizza_american_style_vorm_backen.webp
