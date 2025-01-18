@@ -12,6 +12,8 @@ images:
     description: 70% Lindt Schoko schmelzen und dünne Fäden drüber geben. Links einige nur mit Marmelade. nach Kühlschrank sind Schokokekse sehr gut aber ohne sind sie trotzdem besser (evtl weniger bittere Schoko nehmen weil sie stark hervorschmeckt?)
   - image: ../images/weihnachtskekse_haselnuss.webp
     description: Variante mit 225g Dinkel-VK und 75g geriebene Haselnüsse ist auch gut aber Teig reißt beim Ausrollen. Geschmack ist leicht nussig aber recht ähnlich zu purem Dinkel-VK
+  - image: ../images/weihnachtskekse_linzeraugen.webp
+    description: Linzeraugen kann man damit auch machen indem man mit einer kleineren Form innerhalb ein Lock reinmacht (nebenbei hat man so paar kleine Kekse). Schmeckt auch sehr gut aber wenn man sie in eine Box mit anderen Keksen gibt, werden die anderen Kekse zu weich, also besser separat aufbewahren
 
 ingredients:
 - 300g Dinkel-Vollkornmehl

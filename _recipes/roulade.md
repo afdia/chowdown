@@ -30,7 +30,7 @@ images:
   - image: ../images/roulade_ohne_schnee.webp
     description: Versuch mit nur 3 Eiern und ohne Schnee separat zu schlagen - Biskuit ist sitzen geblieben und war nicht luftig
   - image: ../images/roulade_flach.webp
-    description: Wie Roulade, aber nicht eingerollt sondern in Mitte halbiert, gestapelt (dazwischen und oben Marmelade). Darauf dann die Topfen/Schlagobers Creme und oben geschmolzene Scholokade. War auch sehr gut
+    description: Wie Roulade, aber nicht eingerollt sondern in Mitte halbiert, gestapelt (dazwischen und oben Marmelade). Darauf dann die Topfen/Schlagobers Creme und oben geschmolzene Scholokade (Lindt mild&cremig 50% dunkle Schokolade passt super). War auch sehr gut
   - image: ../images/roulade_gebackene_erdbeeren.webp
     description: Biskuit wie üblich machen aber Erdbeeren vor Backen auf Biskuitteig auf Blech verteilen. Dann 18min bei 180°C Ober/Unterhitze gebacken. Ergebnis war ... aber evtl etwas heißer bei 200°C dafür kürzer backen weil Teig etwas zu hell war (positiv war dass die Erdbeeren noch saftig frisch geblieben sind). In Summe ist Blechkuchen oder Biskuit mit frischen Erdbeeren (zb Roulade) besser
   - image: ../images/roulade_backpulver_vergessen.webp
