@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/pizza_american_style_focaccia1.webp
     description: 1/3 Erster Versuch neues Rezept wie hier beschrieben
+  - image: ../images/pizza_american_style_focaccia1_gitter.webp
+    description: Nutzt man statt dem Blech das Gitter wird die Pizza unten vmtl etwas rescher aber der Teig rutscht seitlich vom Gitter daher eher nicht machen
   - image: ../images/pizza_american_style_focaccia2.webp
     description: 2/3 Evtl nochmal 30min rasten lassen, dann belegen und 14min ins vorgeheizte Backrohr (280°C Ober/Unter Hitze) geben. Evtl nach 10min kurz Dampf rauslassen
   - image: ../images/pizza_american_style_focaccia3.webp

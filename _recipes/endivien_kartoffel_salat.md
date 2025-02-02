@@ -5,8 +5,6 @@ image: endivien_kartoffel_salat.webp
 category: Salate und Aufstriche
 
 images:
-  - image: ../images/kartoffel_salat.webp
-    description: Normaler Kartoffelsalat mit Schnittlauch. Perfekte Kartoffelsorte "Bernina" vom Biohof Anzböck GmbH (gekauft beim Spar). War noch besser als Ditta
   - image: ../images/endivien_salat_joghurt.webp
     description: Endiviensalat fein geschnitten, 200g Joghurt, 15g Olivenöl, 15g weißer Balsamicoessig, 1 Knoblauchzehe fein geschnitten. Passt super als Beilage zb zu Enchiladas
   - image: ../images/endivien_salat.webp
@@ -37,11 +35,3 @@ directions:
   - Salzen, Pfeffern, umrühren und Endiviensalat dazugeben
   - Abschmecken und für 10min ziehen lassen (Dressing sollte cremig sein)
 ---
-
-Neue Kartoffelsalat Variante inspiriert von https://www.derstandard.at/story/3000000238429:
-- 750g Kartoffeln
-- 100g Suppe aufkochen und mit
-- 50g weißer Balsamicoessig, 8g Salz, 7g Honig, 8g Senf gut vermischen und zu geschnittenen Kartoffeln geben
-- 1 kleine Zwiebel fein gehackt
-- 40g Olivenöl (später dazu)
-- Ergebnis war sehr gut aber leicht säuerlich. Evtl etwas weniger Essig und etwas weniger Öl

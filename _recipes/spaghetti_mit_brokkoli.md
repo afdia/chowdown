@@ -19,7 +19,7 @@ ingredients:
   - Salz, Pfeffer
 
 directions:
-  - Nudelwasser aufstellen, Brokkoli klein schneiden und in Nudelwasser ca 5min kochen
+  - Nudelwasser aufstellen, Brokkoli klein schneiden und in Nudelwasser (sobald es wieder kocht) ca 5min kochen
   - Nebenbei in Pfanne reichlich Olivenöl reingießen und Knoblauchzehen reinpressen
   - Knoblauch kurz (ca 20-30sek) anschwitzen (evtl 1EL Wasser dazu damit er nicht verbrennt) danach den Brokkoli mit Lochkelle aus Wasser direkt in Pfanne rüberheben
   - Dann Nudeln in Wasser geben und währenddessen Brokkoli auf kleiner Stufe (6 bzw später 5) köcheln lassen damit er cremiger wird

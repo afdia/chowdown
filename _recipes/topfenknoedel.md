@@ -16,8 +16,8 @@ images:
 
 ingredients:
   - 250g Topfen
-  - 80g Nockerlgries (von Recheis)
-  - 2 Eier (bzw 1 großes Ei)
+  - 80g Hartweizen Nockerlgries
+  - 1 Ei (man kann auch 2 nehmen, dann sind die Knödel sehr locker und schwerer formbar, evtl mehr Gries nehmen)
   - 2EL Butter und Vollkornbrösel
 
 directions:

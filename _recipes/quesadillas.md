@@ -15,6 +15,8 @@ components:
 images:
   - image: ../images/quesadillas_mozzarella.webp
     description: Mozzarella-Tomaten Füllung war sehr gut, Spar Chili Salsa passt dazu
+  - image: ../images/quesadillas_bohnen.webp
+    description: Gemüse+Bohnenfüllung ist auch super
   - image: ../images/quesadillas_zubereitung1.webp
     description: Champignonfüllung und Fladenzubereitung mit Pfannenwender um Druck auf Tortilla auszuüben
   - image: ../images/quesadillas_zubereitung2.webp
