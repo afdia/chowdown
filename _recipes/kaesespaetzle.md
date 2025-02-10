@@ -16,7 +16,7 @@ ingredients:
   - ca 150g Bergbaron oder ähnlicher Käse
 
 directions:
-  - Wenn gewünscht Röstzwiebel oder andere Beilagen vorbereiten
+  - Wenn gewünscht Röstzwiebel oder andere Beilagen vorbereiten bevor mit den Spätzle begonnen wird
   - Käse grob reiben
   - Spätzle zubereiten, Pfanne mit etwas Butter vorheizen und wenn Spätzle oben aufschwimmen mit Lochschöpfer direkt in Pfanne heben und gut in Butter schwenken
   - Etwas pfeffern und salzen und 2-3min bei Stufe 8 anröstern

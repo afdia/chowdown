@@ -7,6 +7,8 @@ category: Süßspeise
 images:
   - image: ../images/topfen_hirse_auflauf_schnee.webp
     description: Will man Schnee haben, 3 (stat 2) mittelgroße Eier, nur Dotter in Hirsemasse gegeben, Eiklar 5min vor Ende der Backzeit mit 30g Staubzucker aufgeschlagen, auf 220°C erhöhen, Form aus Backrohr genommen, Schnee darauf verteilt und die restlichen 5min mit dem Schnee fertig backen. Schmeckt super!
+  - image: ../images/topfen_hirse_auflauf_birne.webp
+    description: 1 große Birne statt der Äpfel schmeckt super! Sie war vorher zwar zu hart um sie roh zu essen aber im Auflauf ist sie sehr saftig und schmeckt perfekt
 
 ingredients:
   - 150g feinkörnige Hirse (Al Natura)

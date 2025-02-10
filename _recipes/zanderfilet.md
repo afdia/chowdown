@@ -13,6 +13,8 @@ images:
     description: Versuch 3 war perfekt und das Filet lies sich super mit der Gabel zerteilen. Am Bild ist der 2. Fisch umgedreht damit man sie wie resch er ist. Wichtig ist vmtl jede Seite des Filets nur 1x zu braten (am Schluss evtl nochmal umdrehen und in Butteröl schwenken aber nicht mehr wirklich braten)
   - image: ../images/goldbrasse.webp
     description: Versuch mit Goldbrasse (zwischen Zander v2 und v3 probiert). Genauso wie Zander gemacht aber ca 1min pro Seite länger gelassen. Ergebnis war außen sehr knusprig, innen aber schön weich. Evtl 1min kürzer lassen? Fisch ist fettiger (und geschmacklich intensiver) als Zander daher vmtl knuspriger. Dazu hatten wir Reis mit Zitrone + Tomatensalat
+  - image: ../images/wolfsbarsch.webp
+    description: Versuch mit Wolfsbarsch war sehr ähnlich wie Goldbrasse, auch fettinger als der Zander aber sehr gut.
 
 ingredients:
   - Zanderfilets

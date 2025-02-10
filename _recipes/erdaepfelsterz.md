@@ -9,6 +9,8 @@ images:
     description: Eine Hälfte des Teigs füllt die Pfanne ziemlich aus darum muss man es auf 2x machen
   - image: ../images/erdaepfelsterz_violett.webp
     description: Sterz mit violetten Kartoffeln war auch sehr gut
+  - image: ../images/erdaepfelsterz_sauerkraut.webp
+    description: Sterz mit Sauerkraut schmeckt super!
   - image: ../images/erdaepfelsterz_vortag.webp
     description: Sterz vom Vortag in Kühlschrank aufgehoben. Schmeckt noch immer super, ist aber etwas weicher als wenn er frisch ist
 

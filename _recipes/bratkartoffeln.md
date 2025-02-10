@@ -10,7 +10,7 @@ images:
   - image: ../images/bratkartoffeln_fertig.webp
     description: Erster Versuch war sehr gut aber ziemlich fettig
   - image: ../images/bratkartoffeln_roh.webp
-    description: Variante mit rohen, dünn geschnittenen Kartoffeln wird auch sehr gut. Auch hier etwas zuviel Öl
+    description: Variante mit rohen, dünn geschnittenen Kartoffeln wird auch gut (aber nicht so gut wie mit vorgekochten). Auch hier etwas zuviel Öl
   - image: ../images/bratkartoffeln_pfanne.webp
     description: 2 Tage alte Kartoffeln aus dem Kühlschrank, dünn geschnitten in der Pfanne in etwas Öl anbraten schmeckt ebenfalls super
   - image: ../images/bratkartoffeln_pfanne_grosse_stuecke.webp
