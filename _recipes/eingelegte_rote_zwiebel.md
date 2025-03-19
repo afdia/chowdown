@@ -30,3 +30,5 @@ directions:
 - 24h in Kühlschrank stehen lassen, danach ca 2 Wochen im Kühlschrank haltbar. Schmeckt am Besten nach paar Tagen
 
 ---
+
+Evtl einfach in Schüssel für 30min in Zitronen/Limettensaft einlegen wie hier https://youtu.be/8t25sypmQxU?t=808

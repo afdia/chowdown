@@ -9,6 +9,8 @@ images:
     description: Wraps gefalten, dann mit Falte nach unten auf Teller gelegt. Lassen sich super mit Besteck essen
   - image: ../images/tortillas_weizenmehl_trocknen.webp
     description: Zum Trocknen auf Gitter legen (bis nächste Flade in Pfanne fertig ist, danach auf Teller stapeln)
+  - image: ../images/tortillas_weizenmehl_kraut.webp
+    description: fein geschnittenes Weißkraut (vmtl auch Rotkraut) bzw auch etwas Kimchi passen super dazu. Ist schön knackig und erfrischend
   - image: ../images/tortillas_weizenmehl_mozzarella.webp
     description: Erfrischende Variante mit Guacamole, Mozzarella, Paprikastücken, Rucola, paar Tropfen Spar Chilisauce
 

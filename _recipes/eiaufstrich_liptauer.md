@@ -14,12 +14,13 @@ images:
 ingredients:
   - 125g Topfen
   - 15g Butter (zimmerwarm)
+  - Evtl 1EL Sauerrahm oder Mayonnaise
   - 1/2 Bund Schnittlauch (am besten Frisch geschnitten) oder ca 5g Dille
   - 15g Estragon Senf (bei Liptauer evtl 10g)
   - 1 Gurkerl sehr fein geschnitten
   - 1,5g Salz und 1g Pfeffer
-  - "Liptauer: 5g Kotanyi Paprikapulver süß, 2 Tropfen End of Sanity Schärfungssauce, 1 Knoblauchzehe fein geschnitten (wenn gepresst bleibt lang Knoblauchgeschmack im Mund)"
-  - "Eiaufstrich: 3 Eier klein geschnitten,  etwas extra Salz"
+  - "Liptauer: 5g Kotanyi Paprikapulver süß, 2 Tropfen End of Sanity Schärfungssauce, 0,5-1 Spitzpaprika sehr fein geschnitten, 1 Knoblauchzehe fein geschnitten (wenn gepresst bleibt lang Knoblauchgeschmack im Mund)"
+  - "Eiaufstrich: 3 Eier klein geschnitten, etwas extra Salz, PROBIEREN: ein Schuss Essig bzw Zitronensaft und/oder 1TL Currypulver"
 
 directions:
   - Butter einige Stunden draußen stehen lassen damit sie warm ist, dann mit den restlichen Zustaten vermischen

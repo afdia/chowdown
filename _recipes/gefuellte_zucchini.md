@@ -27,7 +27,7 @@ directions:
   - Das zerkleinerte Innere der Zucchini in die Pfanne geben und zugedeckt kurz dünsten und mit Salz/Suppenwürze würzen
   - Danach die Tomatensauce dazugeben
   - Die ausgekratzten Zucchini in eine Auflaufform legen, die Sauce einfüllen und den Mozzarella darauf verteilen
-  - 25min ins 200°C Ober/Unterhitze vorgeheizte Backrohr geben (letzter Versuch 200°C Heißluft 2. Schiene von unten Käse war nach 18min schon braun, Zucchini noch etwas resch. Evtl 180° Umluft 25min probieren?)
+  - 25min ins 180°C Umluft vorgeheizte Backrohr geben 
 ---
 
-Quelle: https://www.netdoktor.at/gesundheit/rezepte/zucchini-gefuellt-hirse-rezept-6907724
+Rezept war ursprünglich Zucchini gefüllt mit Hirse

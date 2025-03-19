@@ -18,7 +18,7 @@ images:
   - image: ../images/gugelhupf_walnuss_heidelbeere.webp
     description: -60g Mehl, +120g geriebene Walnüsse. 200g gefrohrene Heidelbeeren ganz am Schluss unterheben. Ergebnis war anfangs beim Rauskippen zu "flüssig", daher nochmal 10min am Abtropfgitter ins Rohr. Danach gut, speziell am nächsten Tag, wobei Heidelbeeren wenig hervorschmecken.
   - image: ../images/gugelhupf_kastenform.webp
-    description: In der Kastenform wird der Kuchen auch super (ca gleiche Zeit+Temperatur). Hier haben wir paar Walnüsse gerieben und übrigen (zu feinen) Hartweizengries statt Mehl genommen. War auch sehr gut
+    description: In der Kastenform wird der Kuchen auch super (ca gleiche Zeit+Temperatur). Hier haben wir paar Walnüsse gerieben und übrigen (zu feinen) Hartweizengries statt Mehl genommen. War auch sehr gut. Ein späterer Versuch mit Kastenform (mit ca 20g mehr Milch als sonst) war nach 35min 190°C (unabsichtlich statt 180) dunkel genug. Beim Rauskippen ist in der Mitte Teig rausgeronnen. Danach nochmal zurück und 15min 150°C damit er durch wird. Danach war er aber sehr gut (außen aber etwas zu resch und dunkel) 
   - image: ../images/gugelhupf_mandel.webp
     description: -50g Mehl, +100g Mandeln und Kakao in gesamten Kuchen. War sehr gut, später etwas trocken aber mit Marillenmarmelade super!
   - image: ../images/muffins.webp

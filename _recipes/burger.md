@@ -31,6 +31,8 @@ images:
     description: Statt 8 Buns nur 4 gemacht. Waren riesig, daher 2x durchgschnitten mit extra Teigscheibe in Mitte. Problem ist dass er nicht hält und beim Schneiden zerfällt, daher nicht optimal
   - image: ../images/burger_riesig_halbiert.webp
     description: Die anderen 4 Riesenbuns haben wir testweise wie Brot belegt (Chinakohlsalat mit Senfdressing). War auch sehr gut und saftig
+  - image: ../images/burger_naechster_tag.webp
+    description: Halbierte Burger belegt (oben Salatblatt damit sie halten). 1 Hälfe in Schüssel + Plastikfolie im Kühlschrank für nächsten Tag aufgehoben. Schmeckt noch immer super nur ist Teig+Halloumi etwas trocken
   - image: ../images/burger_gekauft.webp
     description: Erster Versuch mit gekauften Burger Buns
 

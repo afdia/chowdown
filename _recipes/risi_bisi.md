@@ -16,6 +16,10 @@ images:
     description: Schwarze Bohnen passen sehr gut dazu, aber machen es etwas zu mehlig
   - image: ../images/risi_bisi_letscho.webp
     description: Letscho passt auch sehr gut dazu
+  - image: ../images/risi_bisi_karotten.webp
+    description: Gedünstete Karotten passen auch super dazu
+  - image: ../images/risi_bisi_huehner_nuggets.webp
+    description: Risi Bisi ist eine super Beilage zu Hühner Nuggets (die von Iglo sind ganz gut)
 
 ingredients:
   - 250g TK-Erbsen

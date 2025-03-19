@@ -14,14 +14,15 @@ images:
 
 ingredients:
   - 1 kleine Zwiebel
-  - 2EL Mehl
+  - 3EL Mehl
   - 1TL Paprikapulver (evtl weniger oder keines probieren?)
   - Öl zum Rausbraten
 
 directions:
-  - Zwiebel in Ringe schneiden (dünne werden rescher dafür dunkler)
-  - Mehl und Paprikapulver auf Teller geben und mit Finger vermischen
+  - Zwiebel in gleichmäßige Ringe schneiden (dünne werden rescher dafür dunkler)
+  - Ausreichend Mehl und Paprikapulver auf Teller geben und mit Finger vermischen
   - Zwiebelringe darin schwenken bis sie beidseitig bedeckt sind
   - Boden einer Pfanne mit Öl bedecken und wenn es warm ist Ringe reingeben
-  - Anfangs Stufe 8, dann 7 oder 6 (das nächste Mal evtl nur Stufe 5-7 weil sie etwas zu dunkel geworden sind) 2-3min rausbacken bis sie goldbraun sind
+  - Anfangs Stufe 8-9, dann 6-7 für 2-3min rausbacken bis sie goldbraun sind
+  - Zunächst evtl in Sieb gießen, danach auf jeden Fall auf Küchenrolle kippen, damit sie weniger fettig sind
 ---

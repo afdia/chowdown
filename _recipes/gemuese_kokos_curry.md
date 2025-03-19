@@ -25,9 +25,9 @@ ingredients:
 
 directions:
   - Zwiebel fein schneiden und in etwas Öl paar min dünsten, danach Knoblauch schälen und reinpressen
-  - Gemüse (exkl Tomaten) in Würfel schneiden und dazugeben (Paprika paar Minuten später). Danach Kichererbsen absieben und dazugeben.
+  - Kichererbsen absieben und dazugeben. Gemüse (exkl Tomaten) in Würfel schneiden und dazugeben (Paprika paar Minuten später). Evtl Brokkkoli erst noch später dazugeben.
   - Mit 2EL Curry und 1,5EL Suppenwürze, Chilisauce und Pfeffer würzen, etwas Wasser dazugeben und zugedeckt ca 5-10min dünsten
-  - 1 Dose Kokosmilch dazuleeren, umrühren und nochmal 15min bei mittlerer Hitze köcheln lassen
+  - 1 Dose Kokosmilch dazuleeren, umrühren und nochmal 10min zugedeckt, dann 5min ohne Deckel bei mittlerer Hitze köcheln lassen
   - 3EL Tomatenmark und evtl etwas Ketchup dazugeben und abschmecken bis alles passt
   - Optional am Schluss ein paar halbierte Cocktailtomaten unterheben (nicht früher sonst zerfallen sie komplett)
   - Evtl etwas Sesam in kleiner Pfanne ohne Fett anrösten (Anfangs Stufe 8-9 und oft schwenken, sobald sie leicht bräunlich werden zurückdrehen)

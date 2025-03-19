@@ -21,7 +21,7 @@ ingredients:
   - Salz, Öl, Butter
 
 directions:
-  - Tiefgekühlte Filets am Vortag (oder paar Std vorher) im Kühlschrank antauen lassen
+  - Tiefgekühlte Filets am Vortag im Kühlschrank antauen lassen (5h Kühlschrank sind zu wenig, wenns schneller gehen soll lieber draußen auftauen lassen)
   - Trockenen Teller vorbereiten und mit Sieb etwas Mehl darauf verteilen
   - Wenn sie in Plastik eingeschweißt sind, jetzt entfernen und vor der Zubereitung abwaschen, in Hand mit Küchenrolle beidseitig abtupfen und mit Haut nach unten auf den bemehlten Teller geben.
   - Salzen und leicht pfeffern und währenddessen beschichtete Pfanne auf Stufe 9 vorheizen (muss heiß sein damit der Fisch knusprig wird) und Boden mit Öl und etwas Butter bedecken

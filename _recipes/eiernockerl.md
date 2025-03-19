@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/eiernockerl_schnittlauch.webp
     description: Schnittlauch passt sehr gut dazu
+  - image: ../images/eiernockerl_kaese.webp
+    description: Wir hatten nur 2 statt 3 Eier, statt dem fehlenden Ei haben wir paar Blätter Käse direkt in die Pfanne gegeben und schmelzen lassen. Schmeckt auch super!
 
 components:
   - Spaetzle

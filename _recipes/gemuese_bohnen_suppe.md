@@ -9,6 +9,8 @@ images:
     description: Der volle Suppentopf
   - image: ../images/gemuese_bohnen_suppe_tortelini.webp
     description: Fertig Tortelini passen überraschend gut in die Suppe
+  - image: ../images/gemuese_bohnen_suppe_eingefroren.webp
+    description: Übrig gebliebene Suppe lässt sich super einfrieren. Karfiol löst sich aber ziemlich auf und Kartoffeln sind angeblich nicht gut zum Einfrieren.
 
 ingredients:
   - 3 Karotten
