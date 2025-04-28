@@ -15,6 +15,8 @@ images:
     description: Versuch mit Goldbrasse (zwischen Zander v2 und v3 probiert). Genauso wie Zander gemacht aber ca 1min pro Seite länger gelassen. Ergebnis war außen sehr knusprig, innen aber schön weich. Evtl 1min kürzer lassen? Fisch ist fettiger (und geschmacklich intensiver) als Zander daher vmtl knuspriger. Dazu hatten wir Reis mit Zitrone + Tomatensalat
   - image: ../images/wolfsbarsch.webp
     description: Versuch mit Wolfsbarsch war sehr ähnlich wie Goldbrasse, auch fettinger als der Zander aber sehr gut.
+  - image: ../images/kabeljau.webp
+    description: Kabeljau Filets von Iglo sind recht dick. Wie hier beschrieben gemacht aber zuerst 4min dann nochmal 4min. War außen schon zu resch dafür innen noch nicht ganz durch. Danach 5min zugedeckt bei Stufe 6 lassen, danach war er ganz gut aber außen zu resch. Schmeckt auch zu sehr nach Fischstäbchen also nicht mehr kaufen. Wenn schon dann lieber etwas kürzer braten und länger mit Deckel nachdünsten damit er innen durch wird.
 
 ingredients:
   - Zanderfilets

@@ -10,18 +10,21 @@ components:
 ingredients:
   - 500g weißer Spargel
   - 500g Kartoffeln
-  - 250g Mozzarella
-  - 1/3 Flasche Quality First Curry Sauce (oder 50g Schlagobers und 4g Curry)
-  - 3 Stück Frühlingszwiebel
-  - Butter
+  - 250g Mozzarella (oder 200g Mozz und 50g Parmesan)
+  - 50g Schlagobers
+  - 4g Curry
+  - 1 Zwiebel
+  - 1-2 Knoblauchzehen
+  - Olivenöl
   - Pfeffer
   - Suppenwürze
 
 directions:
-  - Kartoffeln kochen. Spargel schälen und in 1cm Stücke schneiden.
-  - Frühlingszwiebel fein schneiden und in Butter anbraten.
+  - Kartoffeln kochen. Spargel schälen und in 1,5cm Stücke schneiden.
+  - Zwiebel und Knoblauch fein schneiden und in Butter anbraten.
   - Danach Spargelstücke dazu und weich kochen.
-  - Danach Currysauce, etwas Suppenwürze, viel Pfeffer dazu.
+  - Danach Curry, etwas Suppenwürze, viel Pfeffer dazu.
+  - Wenn Spargel fast durch ist Schlagobers dazu geben.
   - Die Kartoffeln und den Mozzarella in Scheiben schneiden.
-  - Alles in eine Auflaufform schichten (Kartoffeln, Spargelsauce, Moz, Kartoffeln) und für 10min ins Backrohr (vorgeheizt 200°C Ober/Unterhitze) stellen
+  - Alles in eine Auflaufform schichten (Kartoffeln, Spargelsauce, Moz, Kartoffeln) und für 10-15min ins Backrohr (vorgeheizt 200°C Heißluft) stellen
 ---

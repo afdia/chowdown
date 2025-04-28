@@ -9,6 +9,8 @@ images:
     description: Fol Epi dazugeschnitten, Eier, grüner Salat und Schinkenrollen (Rezept siehe Eiaufstrich)
   - image: ../images/kaeferbohnensalat_orsl.webp
     description: Orsl Stil ohne Zwiebel/Gurkerl. Stattdessen Tomaten, Paprika, Eier, Käse klein geschnitten. Weißer Balsamicoessig (weil sonst nichts saures drinnen), viel Kürbiskernöl und etwas Wasser bis der Salat schön saftig ist +Salz und Pfeffer. Schmeckt super!
+  - image: ../images/kichererbsen.webp
+    description: Kichererbsen soll man mindestens 12h einweichen (ich hab sie 18h eingeweicht), dann Wasser weg und genauso wie Käferbohnen kochen. Ergebnis war sehr weich und gut
 
 ingredients:
   - 250g Käferbohnen (aber 500g kochen)

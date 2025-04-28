@@ -4,6 +4,10 @@ title: "Tomatensalat"
 image: tomatensalat.webp
 category: Salate und Aufstriche
 
+images:
+  - image: ../images/tomatensalat_gruener_salt.webp
+    description: Statt der Zwiebel und Basilikum passt grüner Häuptelsalat gut dazu
+
 ingredients:
   - 25g Olivenöl
   - 13g weißer Balsamicoessig
