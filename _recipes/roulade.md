@@ -11,6 +11,8 @@ images:
     description: Schokolade (hier Vollmilch, Bitter passt vmtl besser) langsam in Wasserbad schmelzen (geringe Temperatur!), dann mit Teigkarte auf Roulade putzen und vorsichtig verstreichen. Dann auf Balkon/Kühlschrank fest werden lassen. Schmeckt super!
   - image: ../images/roulade_marmelade_schokolade_kuehlschrank.webp
     description: Das Gitter geht sich im Kühschrank gerade aus (man darf allerdings keine hohen Milchpakerl etc auf der Seite haben). Mandelsplitter passen super auf die Schokolade
+  - image: ../images/roulade_erdbeer_weiße_schoko_hase.webp
+    description: Schokohasen (weiße Schoko+Erdbeerstücke) geschmolzen und außen drauf. Innen geschnittene Erdbeeren + Erdbeermarmelade. War super!
   - image: ../images/roulade_vorgerollt.webp
     description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
   - image: ../images/roulade_fuellung_passt.webp
@@ -25,6 +27,8 @@ images:
     description: 125g statt 75g Schlagobers probiert. Topfen wie üblich. Passt super, macht Füllung fester. 1Pkg Ja! TK Heidelbeeren dazu + 3/4 Glas Darbo Heidelbeermarmelade dazu. Teig nur ca 20sek gerollt und danach sofort gefüllt und wieder zugerollt. Ist nicht gebrochen und Enden haben sich beim Auskühlen gut verbunden. Immer so machen!
   - image: ../images/roulade_obstkuchen.webp
     description: Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
+  - image: ../images/roulade_obstkuchen2.webp
+    description: Wie zuvor aber Enden weggeschnitten und in Glasform geschlichtet. Saugt sich am nächsten Tag gut an ist aber sonst sehr ähnlich
   - image: ../images/roulade_obstkuchen_schlagobers.webp
     description: Biskuit mit 8g Kakao, bestrichen mit Erdbeermarmelade 250g geschlagenem Schlagobers und mit vielen Erdbeeren belegt schmeckt ebenfalls super
   - image: ../images/roulade_ohne_schnee.webp

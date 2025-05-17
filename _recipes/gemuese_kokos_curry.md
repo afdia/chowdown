@@ -7,6 +7,10 @@ category: Hauptgericht
 components:
   - Basmatireis
 
+images:
+  - image: ../images/gemuese_kokos_curry_kohlrabi.webp
+    description: Kohlrabi statt Brokkoli passt auch super. Am Ende etwas Sojasauce dazugegeben zum Abschmecken!
+
 ingredients:
   - 1 Zwiebel
   - 2-3 Knoblauchzehen
@@ -17,9 +21,10 @@ ingredients:
   - 1 Dose Kichererbsen
   - 2EL Curry
   - Chilisauce, Pfeffer
-  - 1,5EL Suppenwürze
+  - 1,5 EL Suppenwürze
   - 1 große Dose Kokosmilch (400ml)
   - 3EL Tomatenmark, evtl ein Schuss Ketchup
+  - evtl etwas Sojasauce am Ende zum Abschmecken
   - Einige Cocktailtomaten
   - Evtl Sesam anrösten
 

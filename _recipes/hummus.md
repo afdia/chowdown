@@ -5,19 +5,26 @@ image: hummus.webp
 category: Salate und Aufstriche
 
 ingredients:
-- 100g Kichererbsen
-- 37g Erdnussmuß (eigentlich Tahin und etwas Kreuzkümmel)
-- 37ml Kaltes Wasser (bei Erdnussmuß braucht man mehr)
-- 1/3 Knoblauchzehe
-- Saft von 1/3 Zitrone
-- Salz, Pfeffer, Paprikapulver
+- 240g Kichererbsen
+- 60g Tahin
+- 80ml Eiskaltes Wasser (evtl 10-20g mehr nehmen damit er flüssiger ist?)
+- 1 große oder 2 kleine Knoblauchzehen (ca 3,5g glaube ich)
+- Saft von 1 kleinen bzw 1/2 großen Zitrone (ca 22g)
+- 0,5g Kreukümmel (das nächste Mal 0,3g probieren oder Baharatgewürz oder Ras El Hanout nehmen wenn wir so eine Mischung haben)
+- 1,5g Curry
+- 2,5g Salz
+- Pfeffer
+- evtl etwas Honig dazugeben? 
 
 directions:
-- "Tahin: Sesam in Pfanne (ohne Öl) anrösten (besser nicht schwenken sondern mit Kochlöffel umrühren damit nichts rausfliegt). Wenn der Sesam duftet, klebriger wird und leicht braun wird ist er fertig. Danach mit Zerkleinerer jeweils ca 10sek zerkleinern, in die Mitte putzen, wieder zerkleinern etc bis es eine cremige Masse ist. Evtl ca 15% des Sesamgewichts als Sonnenblumenöl (Olivenöl wird durch Mixerhitze bitter) dazugeben damit es cremiger wird; siehe auch [Link](https://www.smarticular.net/tahin-selber-machen-tahina-tahini-sesammus-nussmus-mixer/)"
-- Alternativ Erdnussmuß nehmen, dann aber etwas mehr Wasser (genaue Mengen aufschreiben)
-- Knoblauch pressen und dazugeben und kurz weiter mixen
-- Kichererbsen, Wasser, Zitrone, Salz, Paprikapulver dazugeben und mixen bis Hummus fertig ist.
+- Knoblauch, Zitronensaft, Wasserin Mixer geben und zerkleinern (Stabmixer macht Hummus Cremiger als Zerkleinerer aber in Stabmixer-Glas ist es mühsam; evtl Stabmixer mit anderem Behälter probieren?)
+- Danach Tahin, Wasser, Salz, Pfeffer, Kreuzkümmel, Curry dazugeben und gut durchmixen
+- Kichererbsen dazugeben und mixen bis Hummus fertig ist (lt manchen Rezepten einige Minuten lang)
 - Anfangs weniger Zitrone und Salz neben und bei Bedarf nachgeben und erneut mixen
 - Dünn geschnittener Paprika oder Gurkerl passen gut dazu
 
 ---
+
+https://www.schuesselglueck.de/perfekten-hummus-selber-machen/ nimmt viel mehr Tahin und Wasser. Wirkt für mich zu flüssig
+
+https://biancazapatka.com/de/hummus-selber-machen/comment-page-2/#comment-44958 meint dass Tahin aus ungeschältem Sesam sein sollte damit es nicht bitter ist und sie geben etwas Honig/Zucker dazu. Der Tipp mit Baharatgewürz oder Ras El Hanout ist auch von hier

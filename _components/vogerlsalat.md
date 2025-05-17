@@ -8,7 +8,7 @@ ingredients:
   - 1Pkg Vogerlsalat
   - Tomaten
   - Hart gekochte Eier
-  - Kürbiskernöl
+  - Olivenöl oder Kürbiskernöl
   - Dunkler Balsamicoessig
 
 directions:

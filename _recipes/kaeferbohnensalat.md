@@ -11,6 +11,8 @@ images:
     description: Orsl Stil ohne Zwiebel/Gurkerl. Stattdessen Tomaten, Paprika, Eier, Käse klein geschnitten. Weißer Balsamicoessig (weil sonst nichts saures drinnen), viel Kürbiskernöl und etwas Wasser bis der Salat schön saftig ist +Salz und Pfeffer. Schmeckt super!
   - image: ../images/kichererbsen.webp
     description: Kichererbsen soll man mindestens 12h einweichen (ich hab sie 18h eingeweicht), dann Wasser weg und genauso wie Käferbohnen kochen. Ergebnis war sehr weich und gut
+  - image: ../images/kichererbsensalat.webp
+    description: Aus den Kichererbsen kann man Salat machen, allerdings schmeckt er mit Käferbohnen besser
 
 ingredients:
   - 250g Käferbohnen (aber 500g kochen)
