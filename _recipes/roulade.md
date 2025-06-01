@@ -9,6 +9,8 @@ images:
     description: Roulade mit 1 Glas Marillenmarmelade kann enger gerollt werden (man kann auch frische Marillen zerkleinern, mit etwas Zucker und Marillenmarmelade mischen und reinstreichen. Ist sehr erfrischend und fruchtig)
   - image: ../images/roulade_marmelade_schokolade.webp
     description: Schokolade (hier Vollmilch, Bitter passt vmtl besser) langsam in Wasserbad schmelzen (geringe Temperatur!), dann mit Teigkarte auf Roulade putzen und vorsichtig verstreichen. Dann auf Balkon/Kühlschrank fest werden lassen. Schmeckt super!
+  - image: ../images/roulade_kamut_schokolade.webp
+    description: Kamut 2x hintereinander mahlen damit er fein genug ist + Reinsieben. Ersetzt Dinkel sonst alles wie üblich machen. Bestrichen mit 50% schwarze Ribisel Marmelade 50% Erdbeer, darauf Erdbeerstücke und einrollen. Oben mit Schokolade bestreichen. Schmecker super! Kamut statt Dinkel war ausgezeichnet und vmtl durch 2x mahlen auch nicht zu grob
   - image: ../images/roulade_marmelade_schokolade_kuehlschrank.webp
     description: Das Gitter geht sich im Kühschrank gerade aus (man darf allerdings keine hohen Milchpakerl etc auf der Seite haben). Mandelsplitter passen super auf die Schokolade
   - image: ../images/roulade_erdbeer_weiße_schoko_hase.webp

@@ -10,7 +10,7 @@ images:
   - image: ../images/marmelade_erdbeer.webp
     description: "Nur Erdbeer + 1 Zitrone und 1:3 Zucker. Bewusst nur zerstampft aber nicht püriert oder zerkleinert. Ergebnis ist gute nicht zu feine Marmelade aber beim Einfüllen patzt man alles an"
   - image: ../images/marmelade_erdbeer_rhabarber.webp
-    description: "Erdbeer Rhabarber Marmelade - Rhabarber schälen, in kleine Stücke schneiden und mit Erdbeeren im Topf mit Pürierstab zerkleinern. +1 Sackerl Vanillezucker und 1:2 Zucker nehmen. Nächstes Mal ohne Vanillezucker und mit 1:3 testen weil sehr süß. Nächster Versuch ca 450g Rhabarber + 1050g Erdbeeren und 1:3 war super"
+    description: "Erdbeer Rhabarber Marmelade - ca 450g Rhabarber schälen, in kleine Stücke schneiden und mit ca 1050g Erdbeeren im Topf mit Pürierstab zerkleinern. 1:3 Zucker dazugeben und aufkochen - war super!"
   - image: ../images/marmelade_erdbeer_rhabarber_himbeer.webp
     description: "1:3 Zucker + 1 Sackerl Vanillezucker + 1100g Erdbeeren + 200g Himbeeren (tiefgekühlt) + 200g Rhabarber (vorgeschnitten aus TK). Zuerst Himbeeren auftauen und gut zerkleinern damit keine Kerne spürbar sind, danach Rhabarba dazu und zerkleinern, dann Erdbeeren und zerkleinern, dann aufkochen. Schmeckt super und fast noch besser als Erdbeer+Rhabarber"
   - image: ../images/marmelade_erdbeer_zuwenig.webp
@@ -49,3 +49,4 @@ directions:
 Weitere Mischungen:
 
 - 300g TK gemischte Beeren, 300g TK Himbeeren, 1100g Erdbeeren. Die Tiefkühlbeeren mischen, paar min aufkochen und zerstampfen und durch Sieb drücken. Nochmal aufkochen, 1 Zitrone dazupressen und nochmal durchs Sieb pressen. Es bleiben ca 400g Masse übrig. Die Erdbeeren zerstampfen, dann mit Stabmixer pürieren und mit Beerensaft vermischen 1:3 Zucker dazugeben, aufkochen und abfüllen
+- 333g 3:1 Zucker, 500g Mango, 500g Erdbeeren ... Mango schälen und in Stücke schneiden, Erdbeeren waschen und schneiden. Beides gemeinsam roh mit Pürierstab fein pürieren, Zucker dazu und aufkochen. War sehr gut aber Mango geht geschmacklich etwas unter
