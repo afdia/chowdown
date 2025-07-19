@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Rote Rüben Thunfischsalat"
+title: "Thunfischsalat mit/ohne Rote Rüben"
 image: rote_rueben_thunfisch_salat.webp
 category: Salate und Aufstriche
 

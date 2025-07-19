@@ -7,10 +7,10 @@ ingredients:
   - 500g Mehl
   - 35g Zucker
   - 8,5g Salz
-  - 1/2 Germwürfel
-  - 45g Butter (in Topf schmelzen)
+  - 1 Pkg Trockengerm
+  - 45g Butter (in Topf schmelzen) - stattdessen evtl 40g Rapsöl nehmen (45g getestet aber Teig war zu feucht)
   - 300g Milch (zur geschmolzenen Butter gießen)
-  - 1 großes Ei (ca 20% vom verquirlten Ei wegnehmen für später zum Bestreichen)
+  - 1 Ei (ca 20% vom verquirlten Ei wegnehmen für später zum Bestreichen)
   - Sesam (weiß und schwarz)
 
 directions:
@@ -19,8 +19,8 @@ directions:
   - Butter in Topf schmelzen lassen, dann mit Milch aufgießen (kühlt Butter ab) und alles in der Küchenmaschine mit Brotknethaken kneten
   - In Teigschüssel zugedeckt 40-60min rasten lassen (danach ist der Teig besser formbar)
   - Blech mit leicht bemehltem Backpapier vorbereiten
-  - Teig aus Schüssel auf bemehltes Backpapier putzen, in 8 Stücke teilen und Kugeln formen (in Hand rund formen, dann von außen nach innen falten [siehe Video](https://www.youtube.com/watch?v=HuNGR9Oxvug))
+  - Teig aus Schüssel auf bemehltes Backpapier putzen, in 8 oder 12 Stücke teilen und Kugeln formen (in Hand rund formen, dann von außen nach innen falten [siehe Video](https://www.youtube.com/watch?v=HuNGR9Oxvug))
   - Die Teigkugeln mit einem Tuch abdecken und 40min gehen lassen (nicht viel länger sonst werden sie flach)
   - Den Rest vom verquirlten Ei mit etwas Milch vermischen und auf Brötchen streichen und Sesam darauf verteilen
-  - Ofen auf 190°C Ober-Unterhitze vorheizen und ca 15min backen (bis Goldbraun). Danach 4 der 8 Brötchen einfrieren.
+  - Ofen auf 190°C Ober-Unterhitze vorheizen und ca 15min backen (bis Goldbraun). Danach die Hälfte oder alle Buns einfrieren
 ---

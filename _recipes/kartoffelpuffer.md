@@ -10,7 +10,7 @@ images:
   - image: ../images/kartoffelpuffer_mit_tsatsiki.webp
     description: "Tsatsiki passt perfekt zu Kartoffelpuffer. Alternativ: Karottensalat"
   - image: ../images/kartoffelpuffer_mit_zucchini.webp
-    description: Zum Teig 1 Zucchini dazureiben passt sehr gut, wird aber weniger fest und nimmt etwas mehr Fett auf. Braucht mehr Mehl um zu halten schmeckt aber sehr gut
+    description: Zum Teig 1 Zucchini dazureiben passt sehr gut, wird aber weniger fest und nimmt etwas mehr Fett auf (außerdem bei Stufe 8 statt 7 machen). Braucht mehr Mehl um zu halten schmeckt aber sehr gut
   - image: ../images/kartoffelpuffer_mit_suesskartoffeln.webp
     description: 50% Kartoffeln 50% Süßkartoffeln, 2 Eier. Saugt viel mehr Fett, braucht mehr Hitze und wird leider nicht resch. Geschmacklick trotzdem recht gut (insbesondere die späteren Durchgänge wenn man einiges an Mehl dazugegeben hat)
   - image: ../images/kartoffelpuffer_mit_karotte.webp

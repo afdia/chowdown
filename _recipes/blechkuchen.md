@@ -25,9 +25,11 @@ images:
     description: Ähnlich wie vorher, aber Topfenflecken mit 250g Topfen, 12g Flana Vanillepuddingpulver, 25g Zucker. Topfen ist zwar eher süß aber passt gut zu sauren Marillen. Sehr gut!
   - image: ../images/blechkuchen_apfel_heidelbeere.webp
     description: Variante halb Apfelscheiben, halb Heidelbeeren. Statt Milch 250g Topfen genommen, war aber sehr trocken daher noch (ca 50g?) Milch nachgegeben
+  - image: ../images/blechkuchen_oel.webp
+    description: Versuch mit 100g Rapsöl ohne Butter war auch sehr gut, rinnt etwas mehr und klebt etwas mehr am Backpapier an. Geschmacklick war er aber sehr gut
 
 ingredients:
-  - 130g Butter
+  - 130g Butter (alternativ 70g Butter + 50g Rapsöl dann ist er weniger Kompakt oder nur 100g Rapsöl ohne Butter, dann rinnt er etwas mehr aber schmeckt super)
   - 100g Zucker
   - 4 Eier
   - 1 Pkg Vanillezucker

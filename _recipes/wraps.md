@@ -13,8 +13,10 @@ images:
     description: fein geschnittenes Weißkraut (vmtl auch Rotkraut) bzw auch etwas Kimchi passen super dazu. Ist schön knackig und erfrischend
   - image: ../images/tortillas_weizenmehl_mozzarella.webp
     description: Erfrischende Variante mit Guacamole, Mozzarella, Paprikastücken, Rucola, paar Tropfen Spar Chilisauce
+  - image: ../images/wraps_naechster_tag.webp
+    description: Wraps schmecken auch am nächsten Tag noch super wenn man sie im Kühlschrank aufhebt. Allerdings war dieser mit Tsatsiki der die Unterseite des Teigs stark aufgeweicht hat weshalb er am Teller geklebt hat.
   - image: ../images/tortillas_taco_shells.webp
-    description: Mais-Taco-Shells sind eine nette Abwechslung aber schwer zu essen. Unten Spar Tomatensalsa, Karotten, Paprika, Tomaten, Eisbergsalat, Mais, Bohnen und oben Joghurtsauce (125g Joghurt, 30g Zitronensaft, Salz, Pfeffer, Gute Laune, 2,5g Dille, 1g Petersilie, 5g Honig). Kombination hat super gepasst, evtl auch bei Wraps testen!
+    description: Mais-Taco-Shells sind eine nette Abwechslung aber schwer zu essen. Unten Spar Tomatensalsa, Karotten, Paprika, Tomaten, Eisbergsalat, Mais, Bohnen und oben Joghurtsauce (125g Joghurt, 25g Zitronensaft, Salz, Pfeffer, Gute Laune, 2,5g Dille, 1g Petersilie, 5g Honig). Kombination hat super gepasst, evtl auch bei Wraps testen!
 
 components:
   - Tortillas

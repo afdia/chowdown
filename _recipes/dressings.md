@@ -8,9 +8,9 @@ images:
   - image: ../images/dressings_joghurt.webp
     description: Variante mit Joghurtdressing (250g Joghurt, 1 Messerspitze Senf, 4EL Olivenöl, 2 EL weißer Balsamico, 1/2 Knoblauchzehe, Salz, Pfeffer). Ohne Knoblauch probiert, wäre aber besser mit. Sonst super
   - image: ../images/dressings_joghurt_2.webp
-    description: Getestet bei Mais-Taco-Shells. 125g Joghurt, 30g Zitronensaft, Salz, Pfeffer, Gute Laune, 2,5g Dille, 1g Petersilie, 5g Honig
+    description: 125g Joghurt, 25g Zitronensaft, Salz, Pfeffer, Gute Laune, 2,5g Dille, 1g Petersilie, 5g Honig. Getestet bei Mais-Taco-Shells und Buddha Bowl
   - image: ../images/dressings_caesars.webp
-    description: Caesars Salat Dressing ohne Ei (50g Milch, 15g heller Balsamico, 10g (1TL) Senf, 1 Knoblauchzehe gepresst, 25g Parmesan fein, 15g Olivenöl, 25g (1EL) Joghurt, Salz+Pfeffer). War super, evtl nächstes Mal mit Zerkleinerer pürieren damit es feiner ist, evtl etwas mehr Milch bzw Parmesan bzw Joghurt? War auf Salatteller mit Thunfisch und hat super geschmeckt!
+    description: Caesars Salat Dressing ohne Ei (50g Milch, 15g heller Balsamico, 10g (1TL) Senf, 1 Knoblauchzehe gepresst, 25g Parmesan fein, 15g Olivenöl, 25g (1EL) Joghurt, Salz+Pfeffer). War super, evtl nächstes Mal +5g Parmesan und +5-10g Joghurt? War auf Salatteller mit Thunfisch und hat super geschmeckt! Ich hab auch versucht es mit dem Pürierstab zu zerkleinern aber dann wird es mehlig und nicht so gut.
 
 ingredients:
   - 5EL (32g) Olivenöl

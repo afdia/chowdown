@@ -29,6 +29,12 @@ images:
     description: 1:3 Zucker + 1,5kg Zwetschken. Entkernen, mit Stabmixer fein pürieren, dann in Topf mit Zucker aufkochen und wenn die Masse kocht auf Stufe 6 zugedeckt ca 8min köcheln lassen. Anschließend abfüllen
   - image: ../images/marmelade_heidelbeer_orange.webp
     description: 500g Heidelbeeren, 100g frisch gespresster Orangensaft, 166g 1:3 Zucker. Heidelbeere im Zerkleinerer püriert, dann in Topf, Orangensaft auspressen und dazu und aufkochen
+  - image: ../images/marmelade_papaya_ananas.webp
+    description: 500g papaya (1/2 Stk) + 150g frisch gepresster Orangensaft (2 Stk) + 135g Ananas (kleine Dose Abtropfgewicht) zusammengeben und mit Pürierstab fein pürieren + 266g 1:3 Zucker. Schmeckt sehr exotisch und gut, allerdings großteils nach Ananas
+  - image: ../images/marmelade_kirsche.webp
+    description: 400g Kirschen (Gewicht nach Entkernen; mehr einplanen falls wurmige dabei sind) mit Pürierstab fein pürieren + 133g 1:3 Zucker. Schmeckt leider wenig nach Kirsche aber trotzdem ganz gut
+  - image: ../images/marmelade_marille_pfirsich.webp
+    description: 500g Marillen, 500g Pfirsich, 500g 1:2 Zucker (es gab keinen 1:3). Ergebnis ist leider etwas süß und stark geliert. Die normale Marillenmarmelade schmeckt besser
   - image: ../images/marmelade_kumquat.webp
     description: 110g Kumquat (gewogen nach rollen, Kerne und bitteres Weißes entfernen, in Stücke geschnitten), 58g Zucker + 8g Vanillezucker, 90g Wasser. 5min Stufe 8 Kochen wird sehr Geleeartig (Achtung karamellisiert schnell), am Schluss pürieren, schmeckt sehr orangig durch Schale
 

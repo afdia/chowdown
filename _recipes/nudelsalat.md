@@ -13,6 +13,8 @@ images:
     description: Rote Linsenspirella passen auch sehr gut. Solang Salat warm war haben sie mehlig hervorgeschmeckt, aber kalt + Mozzarella im Salat war das Ergebnis sehr gut
   - image: ../images/nudelsalat_spargel.webp
     description: Zwiebel in Olivenöl anbraten, Spargel schälen und in Stücken geschnitten dazugeben bis er weich ist (etwas Suppenwürze und Pfeffer dazu). Wenn Spargel fertig ist mit restlichen Zutaten vermischen. War super!
+  - image: ../images/nudelsalat_papaya.webp
+    description: 1/2 Stk Papaya in Würfeln dazuschneiden + Paprika, Tomaten, Gurke, getrockenete Tomaten. Dressing ohne Senf+Ketchup+Essig, stattdessen 35g Olivenöl, 1 Zitrone auspressen, Granatapfelsirup, Dille, Gute Laune, Salz, Pfeffer. War auch sehr gut aber Papaya sollte sehr reif sein (war grün mit etwas gelb und das war zu wenig reif)
 
 ingredients:
   - 200g Nudeln (zb Penne)
