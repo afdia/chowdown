@@ -29,7 +29,7 @@ images:
     description: Versuch mit 100g Rapsöl ohne Butter war auch sehr gut, rinnt etwas mehr und klebt etwas mehr am Backpapier an. Geschmacklick war er aber sehr gut
 
 ingredients:
-  - 130g Butter (alternativ 70g Butter + 50g Rapsöl dann ist er weniger Kompakt oder nur 100g Rapsöl ohne Butter, dann rinnt er etwas mehr aber schmeckt super)
+  - 130g Butter (alternativ 70g Butter + 40g Rapsöl dann ist er weniger Kompakt oder nur 100g Rapsöl ohne Butter, dann rinnt er etwas mehr aber schmeckt super)
   - 100g Zucker
   - 4 Eier
   - 1 Pkg Vanillezucker

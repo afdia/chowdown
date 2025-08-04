@@ -11,6 +11,8 @@ images:
     description: Nach einigen Minuten Kochzeit inkl Basilium
   - image: ../images/spaghetti_mit_tomatensauce_in_pfanne3.webp
     description: Nach 10min wenn die Spaghetti dazukommen
+  - image: ../images/spaghetti_mit_tomatensauce_zerkleinert.webp
+    description: Zwiebel anschwitzen, Knoblauch dazu, 2 Karotten und 2 Stk Stangensellerie mit Zerkleinerer zerkleinern und dazugeben, bisschen dünsten und nebenbei einige Tomaten zerkleinern und dazugießen. Dann ca 15min köcheln lassen bis der Großteil vom Wasser weg ist. Mit Salz, Pfeffer, etwas Ketchup abschmecken und am Schluss 1 Dose Dosentomaten dazugeben (ohne die war es nicht tomatig genug). Ergebnis war sehr gute Sauce die durch die zerkleinerten Karotten bisschen an Bolognese erinnert hat!
 
 ingredients:
   - 1kg Tomaten
