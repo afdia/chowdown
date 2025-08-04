@@ -4,6 +4,10 @@ title: "Hummus"
 image: hummus.webp
 category: Salate und Aufstriche
 
+images:
+  - image: ../images/hummus_tramezzini.webp
+    description: Der Hummus passt super auf Tramezzini + Mozzarella und Tomaten
+
 ingredients:
 - 240g Kichererbsen
 - 60g Tahin
