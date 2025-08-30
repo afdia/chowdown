@@ -10,11 +10,11 @@ images:
 
 ingredients:
   - 25g Olivenöl
-  - 13g weißer Balsamicoessig
+  - 13g Balsamicoessig (dunkler passt etwas besser aber weiß ist auch sehr gut)
   - 5g Honig
   - Salz, Pfeffer
   - 500g Tomaten
-  - 1/2 kleine Zwiebel
+  - 1/2 kleine Zwiebel (optional, passen aber gut)
   - Einige Basilikumblätter (alternativ Petersilie probieren)
 
 directions:
