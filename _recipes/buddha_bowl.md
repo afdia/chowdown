@@ -7,15 +7,19 @@ category: Hauptgericht
 components:
   - Basmatireis
 
+images:
+  - image: ../images/buddha_bowl_fisolen.webp
+    description: Das geschnittene Chiabatta, Bruschetta und der Toaster
+
 ingredients:
-  - Reis (auch Vollkornreis bzw Wildreis passt sehr gut)
+  - 150g Reis (auch Vollkornreis bzw Wildreis passt sehr gut, dort aber 2x statt 1,5x Wasser nehmen)
   - 1/2 Packung TK Sojabohnen
   - Paprika, Tomaten, Gurke, Mais
   - Brokkoli gedünstet
   - Karotten fein gerieben
   - etwas Rucola
   - Salz, Pfeffer, Gute Laune
-  - Dressing (wir haben ein Jogurt Dressing gemacht - 125g Joghurt, 25g Zitronensaft, Salz, Pfeffer, Gute Laune, 2,5g Dille, 1g Petersilie, 5g Honig)
+  - Dressing (wir haben ein Jogurt Dressing gemacht - 150g Joghurt, 30g Zitronensaft, Salz, Pfeffer, Gute Laune, 3g Dille, 1,25g Petersilie, 6,25g Honig)
   - evtl noch etwas Olivenöl + dickflüssiger Balsamicoessig (weil uns das andere Dressing ausgegangen ist)
 
 directions:

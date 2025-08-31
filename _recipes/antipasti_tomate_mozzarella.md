@@ -27,6 +27,8 @@ images:
     description: Vogerlsalat, Käferbohnensalat, Eier etc. Pizzabrot passt super dazu, Peppersweet schmecken leider zu sehr nach Schafkäse daher passen sie nicht so gut
   - image: ../images/antipasti_broetchen.webp
     description: Hirsebrot mit Billa Bio Tomatenaufstrich, darüber Mozzarella Scheiben, etwas dickflüssiger Balsamico, etwas Olivenöl und Gute Laune bzw Pizzagewürz. Schmeckt super
+  - image: ../images/antipasti_papaya.webp
+    description: Statt Tomaten Papayascheiben, Dressing aus Zitronensaft, Olivenöl, etwas Curry und Honig. Ergebnis war leider nicht gut. Papaya bitter, zu sauer von Zitrone etc. Eigentlich sollte Limette rein und vmtl war die Papaya bitter weil überreif und weil Mozzarella ein Milchprodukt ist. Daher nicht mehr machen
 
 ingredients:
   - 2 große und 1 kleine Packung Mozzarella

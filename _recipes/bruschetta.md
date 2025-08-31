@@ -23,6 +23,6 @@ directions:
   - Darauf Knoblauch pressen und reichlich Olivenöl drübergießen
   - Salzen, gut vermischen und mindestens 15min stehen lassen
   - Chiabatta in Scheiben schneiden und toasten (bei kleinen Scheiben gehen sich 4 Stk im Toaster aus)
-  - Jedesmal wenn die Scheiben fertig getoastet sind sofort auf den Teller geben, Bruschetta verteilen und mit Tomatensaft der sich in der Schüssel abgesetzt hat übergießen
+  - Jedesmal wenn die Scheiben fertig getoastet sind sofort auf den Teller geben, Tomatengemisch darauf verteilen und mit Tomatensaft der sich in der Schüssel abgesetzt hat übergießen
 
 ---
