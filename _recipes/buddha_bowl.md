@@ -9,7 +9,7 @@ components:
 
 images:
   - image: ../images/buddha_bowl_fisolen.webp
-    description: Das geschnittene Chiabatta, Bruschetta und der Toaster
+    description: Alternativfüllung mit gekochten, gesalzenen Fisolen, Gurkenscheiben, Tomatensalsa und Paprikastreifen
 
 ingredients:
   - 150g Reis (auch Vollkornreis bzw Wildreis passt sehr gut, dort aber 2x statt 1,5x Wasser nehmen)

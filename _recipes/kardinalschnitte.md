@@ -19,8 +19,8 @@ images:
     description: Nachdem man beide Hälften mit Marmelade bestrichen hat und Schlagobers darauf verteilt hat, klappt man sie zusammen
 
 ingredients:
-- "Baiser: 6 Eiklar, 120g Zucker (nächstes Mal 170g probieren damit der Schnee besser hält), etwas Salz"
-- "Biskuitt: 6 Eidotter, 1 Ei, 50g Zucker (davon ca 8g Vanillezucker), 70g Mehl, etwas Salz"
+- "Baiser: 6 Eiklar, 120g Zucker (nächstes Mal 170g probieren damit der Schnee besser hält, dafür evtl weniger Marmelade oder Zucker im Biskuit. Bzw Eiklar abwiegen und als Multiplikator aufschreiben weil Ei-Gewicht oft schwankt), etwas Salz"
+- "Biskuit: 6 Eidotter, 1 Ei, 50g Zucker (davon ca 8g Vanillezucker), 70g Mehl, etwas Salz"
 - "Füllung: ca 150g Ribiselmarmelade, 250g Schlagobers"
 
 directions:
@@ -45,3 +45,5 @@ directions:
 
 Erster Versuch hatte gutes Biskuit aber irgendwann zwischen 15 und 20min im Backrohr ist der Basier zusammengefallen > nachforschen warum! siehe https://www.chefkoch.de/forum/2,35,448269/Kardinalschnitte-Ein-kleines-Problem-beim-Boden-Deckel.html
 evtl falsche Backzeit? aber eher zu wenig Zucker im Baiser!
+
+evtl kleinere Schnitte machen indem man alle Angaben halbiert (für 2 Leute)
