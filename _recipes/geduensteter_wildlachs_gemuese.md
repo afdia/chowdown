@@ -11,6 +11,8 @@ images:
     description: Mit der Zeit wurde es mehr weshalb wir auf Stufe 6 reduziert haben
   - image: ../images/geduensteter_wildlachs_gemuese_eiweis3.webp
     description: Leider war die Pfanne zu heiß weshalb mehr Eiweis ausgetreten ist. Wir haben danach auf 5 reduziert
+  - image: ../images/geduensteter_wildlachs_spinat.webp
+    description: TK-Spinat mit Karotten passt auch sehr gut als Unterlage vom Fisch in der Pfanne. Aufpassen dass nicht zu wenig Wasser in der Pfanne ist und der Fisch gut dünstet.
   - image: ../images/geduensteter_wildlachs_spargel.webp
     description: Hier haben wir Spargel dazugegeben und einen Aquakultur Iglo Atlantiklachs genommen. Fisch bei Herd-Stufe 6 reingegeben und nach 3min auf 5 zurückgedreht. Nach ca 10min war die Kerntemp noch keine 55°C  (weil wir den Fisch leider nicht antauen haben lassen). Also noch paar min bei Stufe 6 bis er innen überall 60°C hatte (also etwas zuviel). In Summe war er sehr gut aber innen etwas zu trocken und der Spargel durch die lange Dauer zu weich. Besser auftauen lassen und günstiges, festes Gemüse nehmen (den Spargel merkt man eher wenig raus und dafür ist er zu teuer)
 

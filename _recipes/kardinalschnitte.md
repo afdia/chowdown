@@ -17,6 +17,8 @@ images:
     description: Das Backpapier ist leider recht stark angeklebt. Hier sieht man die Rückseite der Schnitten-Teile
   - image: ../images/kardinalschnitte_schritt6.webp
     description: Nachdem man beide Hälften mit Marmelade bestrichen hat und Schlagobers darauf verteilt hat, klappt man sie zusammen
+  - image: ../images/kardinalschnitte_fertig.webp
+    description: Bei der fertigen Kardinalschnitte ist beim 1. Versuch leider der Schnee/Baiser zusammengefallen. Sonst war sie aber sehr gut
 
 ingredients:
 - "Baiser: 6 Eiklar, 120g Zucker (nächstes Mal 170g probieren damit der Schnee besser hält, dafür evtl weniger Marmelade oder Zucker im Biskuit. Bzw Eiklar abwiegen und als Multiplikator aufschreiben weil Ei-Gewicht oft schwankt), etwas Salz"
