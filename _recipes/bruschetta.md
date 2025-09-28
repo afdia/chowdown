@@ -11,6 +11,8 @@ images:
     description: Der Saft schmeckt ausgezeichnet (nach paar Durchgängen sammelt sich auch genug davon am Teller)
   - image: ../images/bruschetta_dunkles_brot.webp
     description: Dunkles Brot passt zwar auch, überdeckt aber den Tomatengeschmack etwas, daher ist Weißbrot besser
+  - image: ../images/bruschetta_grosse_tomaten.webp
+    description: Mit großen Tomaten im Herbst fehlt leider das intensive Tomaten-Aroma. Ist zwar OK aber bei weitem nicht so gut wie im Sommer mit Cherrytomaten
 
 ingredients:
   - Chiabatta, Baguette oder Weißbrot (am Besten schon etwas älter damit es resch wird)

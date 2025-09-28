@@ -21,6 +21,6 @@ ingredients:
 directions:
   - Zutaten in eine Schüssel geben und mit Küchenmaschine ca 1min Stufe 2, dann 4min Stufe 3 verkneten
   - Etwas in die Mitte putzen und 1h zugedeckt in Schüssel rasten lassen
-  - Form mit Butter ausfetten, Teig nochmal ca 1min Stufe 2 bzw 3 durchkneten und in die Form putzen
+  - Form mit Butter ausfetten (oder mit zerdrücktem Backpapier auslegen), Teig nochmal ca 1min Stufe 2 bzw 3 durchkneten und in die Form putzen
   - 30min zugedeckt in Form rasten lassen, danach mit etwas Wasser besprühen und bei 200°C Ober/Unterhitze im vorgeheizten Backrohr ca 30min backen
 ---

@@ -17,6 +17,8 @@ images:
     description: Versuch mit Wolfsbarsch war sehr ähnlich wie Goldbrasse, auch fettinger als der Zander aber sehr gut.
   - image: ../images/kabeljau.webp
     description: Kabeljau Filets von Iglo sind recht dick. Wie hier beschrieben gemacht aber zuerst 4min dann nochmal 4min. War außen schon zu resch dafür innen noch nicht ganz durch. Danach 5min zugedeckt bei Stufe 6 lassen, danach war er ganz gut aber außen zu resch. Schmeckt auch zu sehr nach Fischstäbchen also nicht mehr kaufen. Wenn schon dann lieber etwas kürzer braten und länger mit Deckel nachdünsten damit er innen durch wird.
+  - image: ../images/zanderfilet_ohne_mehl.webp
+    description: Ohne Mehl funktionierts auch, hat sich aber mehr in der Pfanne angelegt bzw mehr Öl gespritzt. Unterteil vom Zander war weniger resch, dafür besser essbar. Coleslaw passt auch recht gut dazu
 
 ingredients:
   - Zanderfilets

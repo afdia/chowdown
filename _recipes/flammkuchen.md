@@ -30,6 +30,8 @@ images:
     description: Champignons statt Thunfisch passen super, gehen stark zusammen also viele drauflegen (alternativ zu Zwiebel kann man auch Oliven draufgeben, passt auch super)
   - image: ../images/flammkuchen_speck.webp
     description: Speckstreifen passen sehr gut, allerdings muss man einige mehr nehmen als hier (Speck geht stark zusammen)
+  - image: ../images/flammkuchen_salami.webp
+    description: Salami passt auch sehr gut als Belag
   - image: ../images/flammkuchen_kuehlschrank.webp
     description: Bleibt ein Flammkuchen übrig kann man ihn super im Kühlschrank aufheben und am nächsten Tag kurz im Backrohr aufbacken
   - image: ../images/flammkuchen_pizzabelag.webp

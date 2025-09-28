@@ -46,7 +46,7 @@ directions:
   - Kohlblätter zu einer Tasche formen und mit Pfannenwender von Brett in eine große Glasform heben (dabei umdrehen, damit der Käse oben ist)
   - Solange wiederholen bis die gesamte Auflaufform mit Kohltaschen befüllt ist (bei einem großen Kohl sollten sich 12 Taschen ausgehen)
   - Die restliche Tomatensauce und Käse über den Kohltaschen verteilen
-  - 25min ins 200°C vorgeheizte Backrohr geben (Ober/Unterhitze)
+  - 25min ins 180°C Heißluft vorgeheizte Backrohr geben - evtl 190 probieren? (früher 200°C Ober/Unterhitze)
   - In der Zwischenzeit Basmatireis als Beilage zubereiten
 ---
 

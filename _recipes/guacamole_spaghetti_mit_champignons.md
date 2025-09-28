@@ -15,7 +15,7 @@ ingredients:
   - 270g Nudeln
   - 250g Champignons
   - Olivenöl
-  - Parmesan
+  - Parmesan (alternativ geröstete Pinienkerne passen auch super)
   - Pfeffer
   - Suppenwürze
 

@@ -7,6 +7,8 @@ category: Salate und Aufstriche
 images:
   - image: ../images/gemischter_salatteller_fisolen.webp
     description: Gelbe Fisolen abspitzen, in 1cm lange Scheiben schneiden, 10min in Wasser mit etwas Suppenwürze (oder Salzwasser?) kochen, auskühlen lassen, mit 1 Zwiebel und 1-2 Knoblauchzehen (beides fein gehackt) vermischen, Olivenöl, Balsamico. Fertig marinierten Fisolensalat auf anderen Salat und Kürbiskernöl + Balsamico. Schmeckt super!
+  - image: ../images/gemischter_salatteller_fisolen_tiefkuehler.webp
+    description: Fisolen zubereitet, dann eingefrohren. Nach 2-3 Wochen leider schon sehr matschig und nicht mehr besonders gut. Daher eher nicht einfrieren.
   - image: ../images/gemischter_salatteller_kraut_kaeferbohnen.webp
     description: Fertiger Käferbohnensalat und Efko Krautsalat aus dem Glas passen auch super dazu!
 

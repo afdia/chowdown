@@ -34,7 +34,7 @@ directions:
 - Danach Knoblauch pressen und gemeinsam mit ca 2EL Wasser (damit er nicht verbrennt) dazugeben
 - Zudecken und nochmal 2-3 Minuten köcheln lassen und danach die Dose Tomaten (evtl vorher am Brett kurz klein schneiden) oder 2/3 Mutti dazugeben
 - Dann die nicht zerkleinerten Kichererbsen dazugeben und Pfeffern (Salz kommt nachher dazu)
-- Dann 250g Nudeln und 7,5g Salz dazugeben (evtl ist es zu wenig Salz, dann korrekte Menge notieren)
+- Dann 250g Nudeln und ca 8g Salz dazugeben (wenn es zu wenig wäre, später nachsalzen)
 - 700g Wasser in Messbecher geben und ca 1/3 dazugeben (evtl damit Dose ausschwemmen). Den Rest wie bei Risotto nach und nach dazugeben (je nach Nudelart und Tomaten mehr oder weniger nötig) und in Summe 1-2 Minuten länger als die auf der Nudel-Packung angegebene Dauer zugedeckt auf Stufe 7 kochen. Immer wieder rühren.
 - Danach Lorbeerblätter entfernen und die pürierten Kichererbsen dazugeben
 - Je nach Bedarf Wasser (nach und nach) dazugeben während es nochmal paar Minuten auf Stufe 7 köchelt (ist am Anfang eher flüssig aber dickt durch das Kochen des Kichererbsenpürree mit der Zeit ein. Ziel ist eine cremige Sauce)
