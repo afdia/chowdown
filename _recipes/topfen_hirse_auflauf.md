@@ -14,7 +14,7 @@ ingredients:
   - 150g feinkörnige Hirse (Al Natura)
   - 450ml Milch
   - 2 Eier
-  - 250g Topfen
+  - 250g Topfen (notfalls reichen auch 125g, dann etwas Milch dazugeben)
   - 25g Butter
   - 45g Zucker
   - 0,2g Salz
