@@ -46,7 +46,7 @@ directions:
   - "Champigononfüllung: in Scheiben geschnitten in etwas vorher stark erhitztem Sonnenblumenöl stark anrösten (Stufe 9 dann 8). Wenn der starke Dampf nachlässt sind sie relativ klein geworden und leicht braun, dann Zwiebel mitrösten und den Rest dazugeben und mit Salz und Pfeffer abschmecken"
   - "Gemüsefüllung: muss etwas länger in der Pfanne sein bis die Zucchini weich ist, die restlichen Zutaten danach dazugeben, mit Salz und Pfeffer abschmecken und kurz dünsten."
   - Cheddar Käse grob reiben und zur Füllung dazugeben wenn diese etwas ausgekühlt ist
-  - Tortilla normal zubereiten (beidseitig anbraten) anfangs Stufe 9, dann 7. Dann 1/6 der Füllung auf eine Seite geben, Tortilla zusammenklappen und mit etwas Druck (von Pfannenwender) bei Stufe 3-4 1-2min anbraten. Anschließend umdrehen und nochmal 1-2min anbraten, danach auf Teller servieren und wieder auf Stufe 7 drehen. Die nächsten 5 Fladen funktionieren genauso.
+  - Tortilla normal zubereiten (beidseitig anbraten) anfangs Stufe 9, dann 7. Dann 1/6 der Füllung auf eine Seite geben, Tortilla zusammenklappen und mit etwas Druck (von Pfannenwender) bei Stufe 3-4 1-2min anbraten. Anschließend umdrehen und nochmal 1-2min anbraten, danach auf Teller servieren und wieder auf Stufe 7 drehen. Die nächsten 5 Fladen funktionieren genauso. Man kann die Tortillas auch vorbereiten und nur kurz zum Füllen+Anbraten in die Pfanne geben. Dadurch sind sie schneller fertig aber man kann nicht neben der Zubereitung essen
 ---
 
 Verbesserungsvorschläge:

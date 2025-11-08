@@ -20,11 +20,11 @@ images:
   - image: ../images/blechkuchen_himbeeren.webp
     description: Variante mit Himbeeren oben aufgelegt war sehr gut nur Kerne sind etwas störend
   - image: ../images/blechkuchen_zwetschke_topfen.webp
-    description: Zwischen Zwetschken sind Topfenflecken (250g Topfen, 1Pkg Vanillezucker, 1 Ei, evtl etwas Zitrone) - schmeckt super; wie Topfenstrudel Füllung
-  - image: ../images/blechkuchen_marillen_topfen.webp
-    description: Ähnlich wie vorher, aber Topfenflecken mit 250g Topfen, 12g Flana Vanillepuddingpulver, 25g Zucker. Topfen ist zwar eher süß aber passt gut zu sauren Marillen. Sehr gut!
+    description: Zwischen Zwetschken sind Topfenflecken (250g Topfen, 1Pkg Vanillezucker, 1 Ei, etwas Zitrone) - schmeckt super. Nimmt man saure Marillen geht auch 250g Topfen, 12g Flana Vanillepuddingpulver, 25g Zucker für etwas süßere Topfenflecken
   - image: ../images/blechkuchen_apfel_heidelbeere.webp
     description: Variante halb Apfelscheiben, halb Heidelbeeren. Statt Milch 250g Topfen genommen, war aber sehr trocken daher noch (ca 50g?) Milch nachgegeben
+  - image: ../images/blechkuchen_kirschen.webp
+    description: Auch Kirschen passen super in den Kuchen
   - image: ../images/blechkuchen_oel.webp
     description: Versuch mit 100g Rapsöl ohne Butter war auch sehr gut, rinnt etwas mehr und klebt etwas mehr am Backpapier an. Geschmacklick war er aber sehr gut
 

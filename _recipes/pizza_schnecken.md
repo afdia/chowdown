@@ -11,6 +11,8 @@ images:
     description: Mit dem Backpapier kann man die Rolle sehr gut einrollen (hier hat es noch weniger geklebt, erst bei der Silikonmatte war es dann ungut klebrig)
   - image: ../images/pizza_schnecken_vor_dem_backen.webp
     description: Eines der 2 Blech vor dem Backen
+  - image: ../images/pizza_schnecken_im_backrohr.webp
+    description: Mit der Teigmenge kann man 2 Blech machen. Zuerst das Gitter rein, dann das Blech
   - image: ../images/pizza_schnecken_nach_dem_backen.webp
     description: Dasselbe nach ca 18min im Rohr
   - image: ../images/pizza_schnecken_ausgelaufen.webp
@@ -33,8 +35,8 @@ directions:
   - Dann jeden Teig breit ausrollen, mit Mutti Tomatensauce bestreichen (kann ruhig mehr sein, dann schmecken die Schnecken schön tomatig, aber es rinnt beim Zusammenrollen etwas aus) und mit Käse bzw anderem Belag belegen
   - Von unten nach oben einrollen (geht mit Backpapier einfacher, aber ist auch auf Silikonmatte möglich). Achtung man sollte sich nicht zuviel Zeit lassen, je länger der Teig ausgerollt liegt desto mehr pickt und lässt sich schwerer einrollen
   - Eingerollten Teig mit Faden (von unten reinfahren, oben überkreuzen und anziehen) in ca 1,5cm breite Rollen schneiden (mit dem Messer/der Teigkarte bekommt man keine schöne Schnittfläche).
-  - Schnecken auf 2 Backblech verteilen und für ca 18-20min ins 200°C Umluft vorgeheizte Backrohr geben. Nach 10 und 15min kurz die Tür öffnen und Dampf raulassen
+  - Schnecken auf 2 Backblech verteilen und für ca 16-18min ins 200°C Umluft vorgeheizte Backrohr geben (Gitter zuerst rein, braucht eher 18min, Blech danach braucht ca 16min). Nach 10 und 15min kurz die Tür öffnen und Dampf raulassen
 
 ---
 
-- Die Schnecken schmecken sehr gut, aber kalt sogar noch besser
+- Die Schnecken schmecken warm sehr gut, aber kalt sogar noch besser

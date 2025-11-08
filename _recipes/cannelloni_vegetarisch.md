@@ -12,18 +12,18 @@ images:
 
 ingredients:
   - 900g TK Blattspinat
-  - 4 Packungen (500g) Mozzarella (oder 2 Packungen + 250g Ricotta)
+  - 500g (4 Packungen) Mozzarella (oder 2 Packungen + 250g Ricotta)
+  - 70g Parmesan
   - 250g Barilla Cannelloni
   - 700g Tomatensauce
-  - 150g Schlagobers (oder Creme Fraiche)
+  - 150g Schlagobers - letztes Mal nur 70g war auch ausreichend
   - 1 mittelgroße Zwiebel
   - 3 Knoblauchzehen
-  - ca 70g Parmesan zum bestreuen (genaue Menge notieren!)
   - etwas Olivenöl
   - Salz, Pfeffer
 
 directions:
-  - Zwiebel und Knoblauch schneiden und in etwas Olivenöl anbraten
+  - Zwiebel und Knoblauch schneiden und in etwas Olivenöl anbraten (bisschen Knoblauch zur Seite geben und später mit Knoblauchpresse zu Spinatfüllung geben)
   - Tomatensauce dazugießen, schärfen oder etwas Ketchup dazugeben und wenn sie erhitzt ist mit Schlagobers bzw Creme Fraiche vermischen und mit Pfeffer würzen
   - Währenddessen Mozzarella schneiden und abtropfen lassen
   - Parmesan fein reiben

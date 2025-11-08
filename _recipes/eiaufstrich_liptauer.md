@@ -20,7 +20,7 @@ ingredients:
   - 1 Gurkerl sehr fein geschnitten (beim Thunfisch optional weglassen)
   - 1,5g Salz und 1g Pfeffer
   - "Liptauer: 15g zimmerwarme Butter (TODO evtl 30g oder 50g nehmen!), 5g Kotanyi Paprikapulver süß, 2 Tropfen End of Sanity Schärfungssauce, 0,5-1 Spitzpaprika sehr fein geschnitten, 1 Knoblauchzehe fein geschnitten (wenn gepresst bleibt lang Knoblauchgeschmack im Mund)"
-  - "Eiaufstrich: 15g zimmerwarme Butter, 3 Eier klein geschnitten, etwas extra Salz, PROBIEREN: ein Schuss Essig bzw Zitronensaft und/oder 1TL Currypulver"
+  - "Eiaufstrich: 15g zimmerwarme Butter, 4 Eier klein geschnitten, etwas extra Salz, optional: 10g Mayonnaise oder etwas Sauerrahm ODER ein Schuss Essig bzw Zitronensaft und/oder 1TL Currypulver"
   - "Thunfisch: 1 kleine Dose Thunfisch, 1/2 kleiner roter Zwiebel ganz fein geschnitten (das letzte Mal statt dem  Gurkerl aber vmtl passt auch beides), bisschen San Chon Schärfungssauce, wenn nachher zu fest einen Schuss Milch dazugeben"
 
 directions:

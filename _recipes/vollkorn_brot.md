@@ -21,6 +21,8 @@ images:
     description: Kastenform funktioniert auch, man darf Brot aber nur ca 15min darin rasten lassen. Bei 30 min + weiteres Gehen in den ersten Backminuten ist es seitlich stark übergelaufen. Die Backzeit ist auch ca 5-10min kürzer (noch genau ermitteln), geschmacklich war es sehr gut
   - image: ../images/vollkorn_brot_roggen.webp
     description: 300g Ur-Roggen frisch gemahlen, 100g Roggen (nicht VK), 200g Wasser, 1Pkg Trockenhefe, 10g Salz, 100g Joghurt, 20g weißer Balsamicoessig, 8g Olivenöl. In Form, Dauer wie im Rezept. Küchenmaschine konnte schwer kneten, dann mehrere Std rasten, ging aber nicht gut auf (vmtl wegen Roggen?). Geschmacklich trotzdem sehr gut. Lt [dieser Seite](https://www.habe-ich-selbstgemacht.de/roggenbrot-mit-hefe-ohne-sauerteig-rezept/) ist Joghurt+Essig ein guter Sauerteigersatz und es hat auch wie Sauerteig geschmeckt!
+  - image: ../images/vollkorn_brot_kichererbsen_couscous.webp
+    description: Wie im Rezept aber statt 100g Hirse 50g Kichererbsen Couscous + 50g Hartweizengries und mit Backpapier in Brotform gebacken. Ergebnis war super, innen perfekt, außen schön resch
 
 ingredients:
   - 250g Kamut frisch gemahlen
@@ -28,7 +30,7 @@ ingredients:
   - 100g Hirse gemahlen (ersatzweise mehr Vollkornmehl-Mehl, Variante mit feuchter Hirse als Bild)
   - 350ml Wasser (früher 375g aber dann ist es etwas klebrig auf dem Messer. 350 sind perfekt)
   - 10g Salz
-  - 15g Zucker oder 20g süßlicher Essig oder etwas getrockneter Sauerteig
+  - 15g Honig oder Zucker (oder 20g süßlicher Essig oder etwas getrockneter Sauerteig)
   - 1 Pkg Trockengerm (oder 1/2 Germwürfel damit es besser aufgeht)
   - Butter für Brotform
   - Chiasamen/Sesam/Sonnenblumenkerne für außen (drinnen nicht so gut)

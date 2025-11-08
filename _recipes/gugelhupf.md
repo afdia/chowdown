@@ -21,10 +21,12 @@ images:
     description: In der Kastenform wird der Kuchen auch super (ca gleiche Zeit+Temperatur). Hier haben wir paar Walnüsse gerieben und übrigen (zu feinen) Hartweizengries statt Mehl genommen. War auch sehr gut. Ein späterer Versuch mit Kastenform (mit ca 20g mehr Milch als sonst) war nach 35min 190°C (unabsichtlich statt 180) dunkel genug. Beim Rauskippen ist in der Mitte Teig rausgeronnen. Danach nochmal zurück und 15min 150°C damit er durch wird. Danach war er aber sehr gut (außen aber etwas zu resch und dunkel) 
   - image: ../images/gugelhupf_mandel.webp
     description: -50g Mehl, +100g Mandeln und Kakao in gesamten Kuchen. War sehr gut, später etwas trocken aber mit Marillenmarmelade super!
-  - image: ../images/muffins.webp
-    description: Für Muffins selbes Rezept aber 160°C Umluft (weil 2 Blech), 25min, dann 5-10min im Blech ruhen lassen
   - image: ../images/gugelhupf_fluessig.webp
     description: Versuch in flacher Springform + oben Topfen und gefrohrene Früchte war Müll. Idee wie Blechkuchen aber dafür ist Teig zu dick und bleibt darunter flüssig (evtl auch wegen gefrohrenen Früchten). Außerdem sinkt Belag ein. Rettunsversuch nach Springform nochmal auf Backpapier ins Rohr, hat aber nichts geholfen; war schlechtester Kuchen den wir je hatten.
+  - image: ../images/muffins.webp
+    description: Für Muffins selbes Rezept aber 160°C Umluft (weil 2 Blech), 25min, dann 5-10min im Blech ruhen lassen
+  - image: ../images/muffins_zitronenguss.webp
+    description: Oben passt Zitronenguss gut drauf. Ca 1/2 Zitrone (15g) + ca 3fache Menge Zucker vermischen bis es eine Dickflüssige Konsistenz ist. Dann drauf verteilen
 
 ingredients:
   - 250g Dinkelvollkornmehl

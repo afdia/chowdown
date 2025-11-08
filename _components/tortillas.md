@@ -4,9 +4,9 @@ title: "Tortillas"
 image: tortillas.webp
 
 ingredients:
-  - 250g weißes glattes Weizenmehl (für 6 Stück) (Ja! Universalmehl war letztens sehr klebrig)
-  - 250ml Wasser, kochend
-  - 2,5g Salz (besser 3 oder 3,5g weil dem Teig etwas Salz fehlt wenn man ihn pur isst)
+  - 250g weißes glattes Weizenmehl (für 6 Stück)
+  - 250ml Wasser, kochend - letztes Mal nur 220g war besser aber noch immer etwas zu feucht. Evtl 220g Wasser + 280g Mehl probieren?
+  - 3,5g Salz
   - etwas Mehl zum ausrollen
 
 directions:
@@ -14,5 +14,6 @@ directions:
   - Mehl und Salz in Schüssel geben und kochendes Wasser darauf leeren
   - In Küchenmaschine mixen bis es ein weicher Teig ist und in 6 Teigkugel zerteilen (auf leicht bemehlten Teller legen)
   - Jede Teigkugel mit ausreichend Mehl auf Arbeitsfläche ausrollen und auf Teller sammeln bis alle fertig sind
-  - Die Fladen in Pfanne ohne Fett ca 1min je Seite bei Stufe 7 braten (anfangs eher Stufe 8-9 bis die Pfanne heiß ist)
+  - Die Fladen in schwerer Pfanne (die Hitze gut hält) ohne Fett ca 1min je Seite bei Stufe 7 braten (anfangs eher Stufe 8-9 bis die Pfanne heiß ist)
+  - Fertige Fladen auf Teller geben und mit Alufolie oder feuchtem Küchentuch zudecken (damit sie durch den Dampf weich und warm bleiben)
 ---

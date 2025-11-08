@@ -35,6 +35,8 @@ images:
     description: Halbierte Burger belegt (oben Salatblatt damit sie halten). 1 Hälfe in Schüssel + Plastikfolie im Kühlschrank für nächsten Tag aufgehoben. Schmeckt noch immer super nur ist Teig+Halloumi etwas trocken
   - image: ../images/burger_12stk.webp
     description: Teig auf 12Stk aufgeteilt für kleinere Burger. War auch super
+  - image: ../images/burger_klein_coleslaw.webp
+    description: Coleslaw passt super in die Burger (hier 12 kleine Buns)
   - image: ../images/burger_gekauft.webp
     description: Erster Versuch mit gekauften Burger Buns
 
