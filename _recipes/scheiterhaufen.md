@@ -6,7 +6,7 @@ category: Süßspeise
 
 images:
   - image: ../images/scheiterhaufen_striezel.webp
-    description: Ein Striezel vom Ströck passt gut, aber Striezel vom Felber war besser (Ströck hatte irgendeinen Beigeschmack der gestört hat. Ölz 900g Faschingstriezel war auch ganz gut, besser als Ströck, schlechter als Felber)
+    description: Dieser Ströck Striezel war nicht sehr gut (hatte Beigeschmack). Besser ist Ölz 900g Faschingsstriezel und noch besser ist der von Felber oder der Thurner Butterzopf
   - image: ../images/scheiterhaufen_masse.webp
     description: Die Milchmasse und die eingebutterte Form
   - image: ../images/scheiterhaufen_form.webp

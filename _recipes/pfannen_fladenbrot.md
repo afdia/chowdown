@@ -21,6 +21,8 @@ images:
     description: Flade mit Eiaufstrich gefüllt und danach oben mit Knoblauchöl bestrichten. Schmeckt super!
   - image: ../images/pfannen_fladenbrot_eierspeise.webp
     description: Übrige Fladenbrote vom Vortag kann man mit Eierspeise und Paprikastücken füllen. Oder man friert sie ein. Später kurz auftauen lassen und evtl kurz im Rohr leicht resch backen. Schmeckt wie frische Fladen.
+  - image: ../images/pfannen_fladenbrot_ueberbacken.webp
+    description: Man kann sie auch einfrieren. Später im Backrohr für 5min 100°C Umluft kurz backen. Währenddessen Tomate+Mozzarella in Stücke schneiden, rausnehmen, belegen und nochmal für 10min 200°C Umluft ins Rohr geben. Schmeckt super, wie überbackenes Pitabrot.
 
 ingredients:
   - 450g Mehl
