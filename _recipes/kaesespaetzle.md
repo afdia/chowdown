@@ -17,7 +17,7 @@ ingredients:
 
 directions:
   - Wenn gewünscht Röstzwiebel oder andere Beilagen vorbereiten bevor mit den Spätzle begonnen wird
-  - Käse grob reiben
+  - Käse grob reiben oder wenn es Scheiben sind in Würfel schneiden
   - Spätzle zubereiten, Pfanne mit etwas Butter vorheizen und wenn Spätzle oben aufschwimmen mit Lochschöpfer direkt in Pfanne heben und gut in Butter schwenken
   - Etwas pfeffern und salzen und 2-3min bei Stufe 8 anröstern
   - Den grob geriebenen Käse oben auf Spätzle geben und nach und nach unterheben bis die Spätzle und er Käse sich gut vermischt haben. Danach anrichten
