@@ -4,6 +4,10 @@ title: "Tsatsiki"
 image: tsatsiki.webp
 category: Salate und Aufstriche
 
+images:
+  - image: ../images/tsatsiki_gruener_salat.webp
+    description: Bild vom Wrenkh der Tsatsiki auf grünem Salat serviert hat. War sehr gut
+
 ingredients:
   - 1 Gurke
   - 200-300g Joghurt (je nachdem wie groß die Gurke ist bzw cremig der Salat werden soll)

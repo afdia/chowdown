@@ -9,7 +9,7 @@ images:
   - image: ../images/eingelegte_rote_zwiebel_schneiden.webp
     description: Die Zwiebeln sollten der Länge nach geschnitten werden damit weniger Zellen beschädigt werden
   - image: ../images/eingelegte_rote_zwiebel_behaelter.webp
-    description: Fertig Tortelini passen überraschend gut in die Suppe
+    description: Versuch in einer flachen Form einzulegen, besser gleich ins Glas geben!
   - image: ../images/eingelegte_rote_zwiebel_tramezzini.webp
     description: Passt super auf Tramezzini (1 Tag nach dem Einlegen)
   - image: ../images/eingelegte_rote_zwiebel_brot.webp

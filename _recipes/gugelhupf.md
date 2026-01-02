@@ -23,6 +23,8 @@ images:
     description: -50g Mehl, +100g Mandeln und Kakao in gesamten Kuchen. War sehr gut, später etwas trocken aber mit Marillenmarmelade super!
   - image: ../images/gugelhupf_fluessig.webp
     description: Versuch in flacher Springform + oben Topfen und gefrohrene Früchte war Müll. Idee wie Blechkuchen aber dafür ist Teig zu dick und bleibt darunter flüssig (evtl auch wegen gefrohrenen Früchten). Außerdem sinkt Belag ein. Rettunsversuch nach Springform nochmal auf Backpapier ins Rohr, hat aber nichts geholfen; war schlechtester Kuchen den wir je hatten.
+  - image: ../images/gugelhupf_maroni.webp
+    description: 270g eingefrohrenes Maronipürree auftauen lassen und mit Dotter, Zucker und Butter mitmixen (-25g Butter und -30g Zucker weil das eh im Pürree ist). Sonst wie üblich machen aber +5min im Rohr lassen (vmtl unnötig). War etwas zu wenig süß; evtl Zucker doch nicht oder nur um 10g reduzieren. Wenig Maronigeschmack aber in Summe ganz gut
   - image: ../images/muffins.webp
     description: Für Muffins selbes Rezept aber 160°C Umluft (weil 2 Blech), 25min, dann 5-10min im Blech ruhen lassen
   - image: ../images/muffins_zitronenguss.webp

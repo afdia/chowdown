@@ -17,7 +17,7 @@ images:
 
 ingredients:
 - Eiklar von 2 Eiern
-- Gramm von Eiklar als Staubzucker (evtl 8g davon Vanille-Staubzucker nehmen) - evtl das nächste Mal weniger probieren?
+- Gramm von Eiklar * 0,85 als Staubzucker (davon 8g Vanille-Staubzucker)
 - 100g Pekannüsse
 
 directions:
@@ -30,4 +30,8 @@ directions:
 
 ---
 
-Geschmacklich sehr gut, schön brüchig aber sehr süß. Evtl weniger Zucker probieren?
+Erster Versuch war gleiche Menge Ei+Zucker. War aber etwas zu süß daher weniger probiert.
+
+Zweiter Versuch mit 0,85-facher Menge war besser aber nach Trocknezeit noch leicht feucht. Haben danach geknackt und sind fertig getrocknet, waren dann so trocken wie die mit *1g
+
+Dritter Versuch wieder mit 0,85-facher Menge war sofort trocken und sehr gut. Evtl nächstes Mal noch weniger Zucker probieren? Evtl auch kürzer aber heißer ins Rohr geben? Aber nicht alles auf einmal ändern

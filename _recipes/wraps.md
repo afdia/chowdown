@@ -23,6 +23,7 @@ components:
   - Guacamole
 
 ingredients:
+  - Die fertigen Tortillas mit Alufolie zudecken damit sie warm bleiben und der Dampf sie besser rollbar macht
   - Rucola oder Eisbergsalat, Mais, geriebene Karotten, Tomaten-, Paprika-, Gurken-, Mozzarellawürfel, Thunfisch, gebratener Halloumi
 
 directions:

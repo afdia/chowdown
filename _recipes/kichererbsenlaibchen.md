@@ -12,7 +12,7 @@ images:
   - image: ../images/kichererbsenlaibchen_rotkraut.webp
     description: Wieder 0,5cm Fett. Schmeckt super auch wenn sie mehr Fett aufsaugen als Gebackenes Gemüse oder Kartoffelpuffer. Rotkraut passt super dazu.
   - image: ../images/kichererbsenlaibchen_zucchini.webp
-    description: Statt Karrotten 1 Zucchini (ca 220g). War recht flüssig daher um einiges mehr Mehl (evtl 50g) und patzigen Teig direkt in Fett getropft
+    description: Statt Karotten 1 Zucchini (ca 220g). War recht flüssig daher um einiges mehr Mehl (evtl 50g) und patzigen Teig direkt in Fett getropft
   - image: ../images/kichererbsenlaibchen_zucchini_fertig.webp
     description: Die fertigen Laibchen mit dem patzigen Teig waren geschmacklick aber sehr gut. Tsatsiki passt auch sehr gut dazu
   - image: ../images/kichererbsenlaibchen_sojabohnen.webp
