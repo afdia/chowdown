@@ -4,10 +4,10 @@ title: "Burger Sauce"
 image: burger_sauce.webp
 
 ingredients:
-- 140g Sauerrahm (nächstes Mal zb nur 120g nehmen)
-- 70g Gurkerl in feine Würfel geschnitten
+- 110g Sauerrahm
+- 60g (2-3) Gurkerl in feine Würfel geschnitten
 - 20g Senf
-- 20g Ketchup (nächstes Mal zb 30g nehmen)
+- 25g Ketchup (nächstes Mal evtl 30g nehmen)
 - 1g Paprikapulver
 - etwas Schärfungssauce
 - nächstes Mal evtl 1 kleine Knoblauchzehe reinpressen

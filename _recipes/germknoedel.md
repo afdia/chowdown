@@ -13,6 +13,10 @@ images:
     description: Mit (Oliven)-öl lassen sich die Knödel super vom Backpapier lösen. Im Topf waren sie riesig sind aber dann leider zusammengefallen. Vmtl weil ich den Teilg aufs Öl fallen lies und gefaltet habe. Das Öl hat sich aber schwer verbunden Beim nächsten Mal Öl nur direkt vorm Lösen vom Backpapier runtergegeben. Hat super funktioniert, sind aber wieder zusammengefallen (beide Öl Versuche waren aber auch mit frischem Germ, evtl liegts daran?)
   - image: ../images/germknoedel_plastikbox.webp
     description: Die Germknödel wie üblich gehen lassen und die fertig aufgegangenen Knödel in einer Plastikbox einfrieren. Nach 30min nochmal kurz durchrütteln, dann frieren sie garantiert nirgendwo am Rand der Box an. Das Bild zeigt sie wie wir sie nach paar Tagen aus dem Tiefkühler rausgenommen haben
+  - image: ../images/germknoedel_sieb.webp
+    description: Hier sieht man wie man ein Knödel mit einem Sieb im Dampf zubereiten kann anstatt es direkt ins Wasser zu legen
+  - image: ../images/germknoedel_sieb2.webp
+    description: Das linke Knödel im Wasser gekocht, das rechte im Sieb im Topf (also nur Dampf). Das Dampfknödel ist nicht zusammengefallen war aber außen etwas trockener. Man sieht rechts dass es etwas im Sieb festgeklebt ist
   - image: ../images/germknoedel_plastikbox_zusammengefallen.webp
     description: Auftauversuch - Topf vorheizen, auf Stufe 6 zurückdrehen, Knödel rein, nach 1-2min auf Stufe 5 reduzieren und in Summe 18min im Topf lassen. Schaut am Ende noch gut aus solang Deckel oben ist, aber wenn man den abnimmt fällts sofort zusammen. Geschmacklich war es zwar gut aber innen zu kompakt und evtl nicht ganz durch
   - image: ../images/germknoedel_vier.webp

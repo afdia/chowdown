@@ -13,7 +13,9 @@ images:
   - image: ../images/gemuese_kokos_curry_sellerie.webp
     description: Stangensellerie, 1 Packung Suppengemüse (Karotten, Peterwurzen, Knollensellerie, Lauch), 1 Kohlrabi, 2 Knoblauchzehen, Ingwer. Sonst wie in diesem Rezept zubereitet, war ausgezeichnet!
   - image: ../images/gemuese_kokos_bratkartoffeln.webp
-    description: Statt Reis passen Bratkartoffeln (oder wie hier Ofenkartoffeln wie beim Ofengemüse Rezept zubereitet) sehr gut. In dem Fall statt Kokosmilch etwas Schlagobers genommen, ist auch sehr gut!
+    description: Statt Reis passen Bratkartoffeln (oder wie hier Ofenkartoffeln wie beim Ofengemüse Rezept zubereitet) sehr gut. In dem Fall statt Kokosmilch etwas Schlagobers genommen, ist auch sehr gut! Gemüse war Brokkoli, Kohlrabi, Karotte, Lauch. Sesam kurz bei Stufe 7-8 angeröstet und am Schluss drübergegeben. Passt super!
+  - image: ../images/gemuese_kokos_bratkartoffeln_wrenkh.webp
+    description: Gemüsecurry von Wrenkh. Deshalb haben wir auch Bratkartoffeln probiert
 
 ingredients:
   - 1 Zwiebel

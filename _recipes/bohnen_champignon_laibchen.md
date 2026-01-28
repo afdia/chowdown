@@ -12,7 +12,13 @@ images:
   - image: ../images/bohnen_champignon_laibchen_pfanne.webp
     description: Die Laibchen in der Pfanne (wurden paar mal gewendet, man sieht wie resche Teile abbröckeln)
   - image: ../images/bohnen_champignon_laibchen_eingefrohren.webp
-    description: Die anderen 4 Laibchen haben wir eingefrohren. TODO schreiben wie sie schmecken
+    description: Die anderen 4 Laibchen haben wir eingefrohren
+  - image: ../images/bohnen_champignon_laibchen_eingefrohren_zubereitet_vorher.webp
+    description: Nach dem Auftauen war recht viel Eis oben. Haben wir abgekratzt. Ölmenge wie am Bild in Pfanne gegeben und auf Stufe 9 gut vorgeheizt
+  - image: ../images/bohnen_champignon_laibchen_eingefrohren_zubereitet_nachher.webp
+    description: Bei heißer Pfanne paar Minuten pro Seite scharf anbraten damit sie resch werden bevor sie zerfallen (Achtung durch das Eis spritzt es etwas!)
+  - image: ../images/bohnen_champignon_laibchen_eingefrohren_zubereitet_fertig.webp
+    description: Wir haben sie wieder im Burger gegessen. Unten Chinakohl in Scheiben und die Burgersauce aus dem anderen Rezept. War sehr gut nur wieder etwas brüchig
   - image: ../images/bohnen_champignon_laibchen_kaese.webp
     description: Nachdem wir die Laibchen in Burger geben wollten haben wir am Schluss 1 Blatt Käse drübergegeben, Herd abgedreht und zugedeckt stehen lassen bis der Käse geschmolzen ist
   - image: ../images/bohnen_champignon_laibchen_burger.webp

@@ -5,6 +5,8 @@ image: dressings_senf.webp
 category: Salate und Aufstriche
 
 images:
+  - image: ../images/dressings_limette.webp
+    description: Statt weißem Balsamicoessig kann man auch Zitrone oder Limette nehmen. Nur Honig dazu (kein Senf) und es ergibt ein fruchtiges sehr gutes Dressing. Hier zu Mischsalat vom Hofer gegeben, vermischt, auf Teller verteilt, darauf Mozzarella und Tomaten, etwas dickflüssiger Balsamico und Guacamole auf den Mozzarella. War extrem gut (süß sauer fruchtig) 
   - image: ../images/dressings_joghurt.webp
     description: Variante mit Joghurtdressing (250g Joghurt, 1 Messerspitze Senf, 4EL Olivenöl, 2 EL weißer Balsamico, 1/2 Knoblauchzehe, Salz, Pfeffer). Ohne Knoblauch probiert, wäre aber besser mit. Sonst super
   - image: ../images/dressings_joghurt_2.webp

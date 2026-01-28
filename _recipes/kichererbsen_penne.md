@@ -23,7 +23,7 @@ ingredients:
 - 1 Dose Tomaten
 - 250g Penne
 - ca 700g Wasser
-- 7,5g Salz
+- 8g Salz
 - Pfeffer
 - Parmesan
 
