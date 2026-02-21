@@ -15,7 +15,7 @@ images:
 ingredients:
   - 1 kleine Zwiebel
   - 3EL Mehl
-  - 1TL Paprikapulver (evtl weniger oder keines probieren?)
+  - optional 1TL Paprikapulver (ist auch ohne gut, speziell bei rotem Zwiebel)
   - Öl zum Rausbraten
 
 directions:

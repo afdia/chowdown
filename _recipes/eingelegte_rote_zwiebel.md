@@ -18,15 +18,16 @@ images:
     description: Man kann restlichen Zwiebel auch gut einlegen, dann nimmt man ein kleines Gefäß (Zutaten sollte man aber trotzdem gut abwiegen, ich hab zB zuviel Essig erwischt)
 
 ingredients:
-- 1 rote Zwiebel (geschält ca 120g)
-- 170ml Weißweinessig (kein weißer Balsamico weil der zuviel Eigengeschmack hat)
-- 4g Zucker
+- 1 rote Zwiebel (geschält ca 120g). Letztes Mal geschält 92g
+- 170ml Weißweinessig (kein weißer Balsamico weil der zuviel Eigengeschmack hat). Letztes Mal 70g 5% Apfelessig + 70g Warmes Leitungswasser
+- 4g Zucker. Letztes Mal 5g Honig
 - 1g Salz
 
 directions:
 - Sehr dünn schneiden, Wurzel zu Stamm, sozusagen rundherum schneiden
 - Essig, Zucker, Salz in großes Marmeladenglas geben und umrühren bzw kurz warten bis sich alles aufgelöst hat.
-- Dnach Zwiebelscheiben dazugeben und immer wieder mit einem Löffel nach unten drücken.
+- Danach Zwiebelscheiben dazugeben und immer wieder mit einem Löffel nach unten drücken.
+- Alternativ Zwiebel und alles in Glas geben, Deckel drauf und gut durchschütteln
 - 24h in Kühlschrank stehen lassen, danach ca 2 Wochen im Kühlschrank haltbar. Schmeckt am Besten nach paar Tagen
 
 ---

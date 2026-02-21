@@ -32,8 +32,10 @@ images:
     description: Speckstreifen passen sehr gut, allerdings muss man einige mehr nehmen als hier (Speck geht stark zusammen)
   - image: ../images/flammkuchen_salami.webp
     description: Salami passt auch sehr gut als Belag
+  - image: ../images/flammkuchen_spinat.webp
+    description: Spinat passt ebenfalls sehr gut
   - image: ../images/flammkuchen_kuehlschrank.webp
-    description: Bleibt ein Flammkuchen übrig kann man ihn super im Kühlschrank aufheben und am nächsten Tag kurz im Backrohr aufbacken
+    description: Bleibt ein Flammkuchen übrig kann man ihn super im Kühlschrank aufheben und am nächsten Tag kurz im Backrohr aufbacken oder direkt essen (beides probiert; beides super)
   - image: ../images/flammkuchen_pizzabelag.webp
     description: Reste vom Pizza-Toast-Belag passen auch super auf den Flammkuchen
 

@@ -11,6 +11,8 @@ images:
     description: Schwarze Bohnen statt Thunfisch passt super. Zusätzlich mit Küchenmaschine Karotten, Peterwurzen, Zucchini, Paprika gerieben. Oben zusätzlich zum Bechamel Mozzarella-Würfel macht es oben weicher und schmeckt super
   - image: ../images/gemuese_lasagne_rotkraut.webp
     description: Rotkraut passt auch super als Alternative
+  - image: ../images/gemuese_lasagne_melanzani.webp
+    description: Melanzani wie bei Melanzani-Spaghetti zubereiten, dann 1 Karotte, 1 Peterwurze 1 Stangensellerie, Lauch, 3 Knoblauchzehen, 1 Paprika dazu. 1 Dose Tomaten + 1/2 Glas Mutti dazu und italienische Gewürze und etwas Ketchup dazu. War die beste Lasagne seit langem!
 
 ingredients:
   - 1 kleines Weißkraut (alternativ Kohl bzw Rotkraut. Optional zusätzlich Karotten und Peterwurzen)

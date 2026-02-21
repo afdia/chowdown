@@ -33,3 +33,5 @@ directions:
 
 nächstes mal evtl paar erbsen aufheben und am schluss dazugeben (aber alle pürieren war auch super!)
 evtl 250g erbsen nehmen und die 50g aufheben?
+
+evtl auch das Rezept von https://www.pasta-garofalo.com/de/rezept/garofalo-penne-in-erbsensauce-mit-ziegenkase-und-pinienkernen-und-cherrytomaten/ probieren?

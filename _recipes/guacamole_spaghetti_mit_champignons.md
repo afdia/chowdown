@@ -10,6 +10,8 @@ components:
 images:
   - image: ../images/guacamole_spaghetti_mit_champignons_paprika.webp
     description: Statt Tomaten Paprika in Guacamole passt auch gut aber nicht so gut wie mit Tomaten
+  - image: ../images/guacamole_spaghetti_mit_champignons_pinienkerne.webp
+    description: Einige geröstete Pinienkerne passen auch super dazu
 
 ingredients:
   - 270g Nudeln
