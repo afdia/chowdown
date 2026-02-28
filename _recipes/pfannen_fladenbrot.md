@@ -36,7 +36,7 @@ ingredients:
 directions:
   - Alle Zutaten in Schüssel geben und 2min Stufe 2, dann 5min Stufe 3 Kneten
   - Ca 30min gehen lassen bis Teig doppelte Größe hat
-  - Rausputzen und in 8 Teile zerteilen (TODO evtl kleinere Fladen machen damit sich mehr Luft sammelt), danach jeden Teil zu einer Kugel formen (in Mitte falten und rollen)
+  - Rausputzen und in 10 Teile zerteilen (früher 8 waren etwas zu groß), danach jeden Teil zu einer Kugel formen (in Mitte falten und rollen)
   - 15min zugedeckt rasten lassen
   - Etwas Mehl auf die Arbeitsfläche geben und dünn ausrollen (Ziel sind ca 1-2mm dicke Fladen)
   - Pfanne vorheizen, auf Stufe 7 (nach 2-3 Fladen Stufe 6) zurückdrehen und Teig reingeben.

@@ -28,6 +28,6 @@ directions:
 - Teig kurz rauslegen und danach ausrollen.
 - Für die Füllung alle Zutaten mischen und am Schluss die flüssige Butter unterrühren.
 - Die Fülle in der Mitte des Teigs verteilen und den Strudel schließen.
-- Im vorgeheizten Backrohr bei 200°C Ober-/Unterhitze ca 27min backen.
+- Im vorgeheizten Backrohr bei 200°C Ober-/Unterhitze ca 22-27min backen.
 
 ---

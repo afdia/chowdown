@@ -23,6 +23,6 @@ directions:
   - Ausreichend Mehl und Paprikapulver auf Teller geben und mit Finger vermischen
   - Zwiebelringe darin schwenken bis sie beidseitig bedeckt sind
   - Boden einer Pfanne mit Öl bedecken und wenn es warm ist Ringe reingeben
-  - Anfangs Stufe 8-9, dann 6-7 für 2-3min rausbacken bis sie goldbraun sind
+  - Anfangs ca 2min Stufe 9, dann ca 3min Stufe 7 rausbacken bis sie goldbraun sind
   - Zunächst evtl in Sieb gießen, danach auf jeden Fall auf Küchenrolle kippen, damit sie weniger fettig sind
 ---
