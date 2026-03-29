@@ -13,20 +13,18 @@ images:
     description: Variante mit Spiegelei ohne Salat war OK aber Salat fehlt definitiv und Ei ist gut aber nicht unbedingt notwendig
   - image: ../images/burger_buns_gefrohren.webp
     description: 4 der 8 selbstgemachten Buns kann man fertig einfrieren. Später auftauen lassen und für 10min ohne Vorheizen bei 100°C ins Rohr geben damit sie etwas warm sind
-  - image: ../images/burger_buns_sandwitchlike.webp
-    description: Ohne Ei werden die Buns eher weißbrotartig, ist aber auch gut (vorige Revision von Burger Buns Komponente)
   - image: ../images/burger_guacamole.webp
     description: Guacamole passt super (aus 2 Avocados), Senf lieber weglassen, Ketchup passt aber gut dazu. Hier Envidiensalat probiert, ist OK aber besser Eisberg
   - image: ../images/burger_kaspressknoedel.webp
     description: Kaspressknoedel passen super, sind aber etwas klein und man muss mehr Sauce dazugeben (weil sie sonst recht trocken sind)
   - image: ../images/burger_suesskartoffeln.webp
     description: Iglo Süßkartoffellaichen mit Rucola und angebratenen Champignons waren überraschend gut (Champignons hat man aber fast nicht gemerkt)
-  - image: ../images/burger_zu_lang_gegangen.webp
-    description: Die Buns sind etwas mehr als 1h gegangen und deshalb wieder flach geworden. Daher Rastzeit nicht überschreiten!
   - image: ../images/burger_mozzarella.webp
     description: Unten Guacamole, dann pro Burger 1/2 Mozzarella, Tomatenpesto draufstreichen, 2 Gurkenscheiben, Eisbergsalat, Sriracha Sauce. Schmeckt super und sommerlich
   - image: ../images/burger_mozzarella_italian_style.webp
     description: Mozzarella, Tomatenpesto, Gurkenscheiben, Tomaten, Ruccola. Schmeckt auch super und leicht
+  - image: ../images/burger_kimchi.webp
+    description: Kimchi, kleine Gurke, glasige Scharlottenzwiebel, Vogerlsalat, Ketchup Senf, Kren passen super in den Burger
   - image: ../images/burger_riesig.webp
     description: Statt 8 Buns nur 4 gemacht. Waren riesig, daher 2x durchgschnitten mit extra Teigscheibe in Mitte. Problem ist dass er nicht hält und beim Schneiden zerfällt, daher nicht optimal
   - image: ../images/burger_riesig_halbiert.webp
@@ -37,6 +35,10 @@ images:
     description: Teig auf 12Stk aufgeteilt für kleinere Burger. War auch super
   - image: ../images/burger_klein_coleslaw.webp
     description: Coleslaw passt super in die Burger (hier 12 kleine Buns)
+  - image: ../images/burger_zu_lang_gegangen.webp
+    description: Die Buns sind etwas mehr als 1h gegangen und deshalb wieder flach geworden. Daher Rastzeit nicht überschreiten!
+  - image: ../images/burger_buns_sandwitchlike.webp
+    description: Ohne Ei werden die Buns eher weißbrotartig, ist aber auch gut (vorige Revision von Burger Buns Komponente)
   - image: ../images/burger_gekauft.webp
     description: Erster Versuch mit gekauften Burger Buns
 

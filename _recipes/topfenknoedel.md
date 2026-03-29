@@ -15,6 +15,8 @@ images:
     description: Marillen kann man (optional vorher entkernen und) einfrieren. Die Menge reicht für 1x Knödel (letztes Mal sogar 1 Marille zuviel)
   - image: ../images/topfenknoedel_erdbeeren_eingefrohren.webp
     description: Erdbeeren kann man auch einfrieren. Die Menge reicht für 1x Knödel
+  - image: ../images/topfenknoedel_selbstgemachte_broesel.webp
+    description: Für die Brösel Semmelwürfel im Zerkleinerer zerkleinern. Hier haben wir den Rest genommen der teilweise größere teilweise kleinere Bröseln hatte. Hat super geschmeckt! Besser als die Pakerlbröseln
 
 ingredients:
   - 250g Topfen

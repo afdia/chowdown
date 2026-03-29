@@ -10,7 +10,7 @@ images:
   - image: ../images/enchiladas_vor_backrohr.webp
     description: Enchiladas fertig fürs Backrohr
   - image: ../images/enchiladas_mehr_bohnen.webp
-    description: Man sollte sie in ein Marmelade-Glas geben, in einem flachen Behälter kann man sie nicht gut in Essig untertauchen 
+    description: Tsatsiki passt gut dazu
 
 components:
   - Tortillas

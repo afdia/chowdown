@@ -21,7 +21,7 @@ ingredients:
 directions:
 - Eier aufschlagen und gemeinsam mit Dotter schaumig schlagen
 - Mehl, Milch, Mineralwasser dazu, weitermixen
-- Vor jeder Palatschinke etwas Butter in die Pfanne geben und etwas Teig reingießen
-- Auf Stufe 8 (am Anfang 9 bis Pfanne warm) einige Minuten stehen lassen. Anschließend wenden und nochmal kurz stehen lassen.
+- Vor jeder Palatschinke etwas Butter in die Pfanne geben und etwas Teig reingießen und Pfanne schwenken bis der Boden überall leicht bedeckt ist (auf keinen Fall zuviel Teig nehmen!)
+- Auf Stufe 7-8 (am Anfang 9 bis Pfanne warm) einige Minuten stehen lassen. Anschließend wenden und nochmal kurz stehen lassen.
 
 ---

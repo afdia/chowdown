@@ -45,4 +45,5 @@ directions:
   - Etwas Rapsöl in Pfanne geben und rausbraten (wir hatten zuviel Öl und sie haben sich angesaugt). Am Besten nur 1x wenden (d.h. jede Seite nur 1x anbraten) weil sie beim Wenden etwas zerfallen. Evtl in gut vorgeheizter (Leidenfrost-Effekt damit sie nicht anpicken) Edelstahlpfanne testen? Dann werden sie rescher
 ---
 
-- Ergebnis war gut aber Konsistenz ist verbesserungswürdig. Kein Gegenbiss und nicht resch (evtl hilfts die nicht so oft umzudrehen; für bessere Konsistenz Bohnen evtl nur zerstampfen und nicht pürieren oder Ei/Käse dazugeben siehe Kichererbsen-Laibchen Rezept die wir auch schon mit Sojabohnen gemacht haben)
+- Ergebnis war gut aber Konsistenz ist verbesserungswürdig. Kein Gegenbiss und nicht resch (evtl hilfts die nicht so oft umzudrehen; für bessere Konsistenz Bohnen evtl nur zerstampfen und nicht pürieren unbd 1 Ei dazugeben (evtl auch etwas Käse?) siehe Kichererbsen-Laibchen Rezept die wir auch schon mit Sojabohnen gemacht haben)
+- auch https://www.chefkoch.de/rezepte/2309341368523661/Bohnen-Pilz-Burger.html zerstampft die Laibchen nur

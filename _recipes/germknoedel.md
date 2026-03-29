@@ -16,7 +16,7 @@ images:
   - image: ../images/germknoedel_sieb.webp
     description: Hier sieht man wie man ein Knödel mit einem Sieb im Dampf zubereiten kann anstatt es direkt ins Wasser zu legen
   - image: ../images/germknoedel_sieb2.webp
-    description: Das linke Knödel im Wasser gekocht, das rechte im Sieb im Topf (also nur Dampf). Das Dampfknödel ist nicht zusammengefallen war aber außen etwas trockener. Man sieht rechts dass es etwas im Sieb festgeklebt ist
+    description: Das linke Knödel im Wasser gekocht, das rechte im Sieb im Topf (also nur Dampf für ca 20min). Das Dampfknödel ist nicht zusammengefallen war aber außen etwas trockener. Man sieht rechts dass es etwas im Sieb festgeklebt ist. Evtl Sieb etwas einfetten/buttern
   - image: ../images/germknoedel_plastikbox_zusammengefallen.webp
     description: Auftauversuch - Topf vorheizen, auf Stufe 6 zurückdrehen, Knödel rein, nach 1-2min auf Stufe 5 reduzieren und in Summe 18min im Topf lassen. Schaut am Ende noch gut aus solang Deckel oben ist, aber wenn man den abnimmt fällts sofort zusammen. Geschmacklich war es zwar gut aber innen zu kompakt und evtl nicht ganz durch
   - image: ../images/germknoedel_vier.webp

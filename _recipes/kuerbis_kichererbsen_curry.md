@@ -12,6 +12,8 @@ images:
     description: Der Rest kann super aufgehoben und am nächsten Tag kalt gegessen werden. Schmeckt fast noch besser
   - image: ../images/kuerbis_kichererbsen_curry_karfiol.webp
     description: Statt Kürbis Karfiol passt auch sehr gut. Am Ende 1 Karotte fein dazugerieben (evtl besser am Anfang anrösten?). Hier ohne Kokosmilch daher recht viel Wasser und etwas Milch am Ende dazu bis es eine cremige Konsistenz hat
+  - image: ../images/kuerbis_kichererbsen_curry_karfiol_dunkel.webp
+    description: Dunkle Kichererbsen passen auch sehr gut. Hier wie im Originalrezept mit Kokosmilch und zusätzlich 2 Karotten und 1 Peterwurzen
   - image: ../images/kuerbis_kichererbsen_curry_kokosmilch.webp
     description: Erster Versuch mit Kokosmilch + Mutti Tomatensauce war sehr gut, die Kokosmilch rundet die Tomatensauce gut ab. Statt Curry/Paprikapulver haben wir 'Sonnentor Shantis Tandoori Masala' genommen was auch sehr gut gepasst hat
 
