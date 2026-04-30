@@ -15,6 +15,8 @@ images:
     description: TK-Spinat mit Karotten passt auch sehr gut als Unterlage vom Fisch in der Pfanne. Aufpassen dass nicht zu wenig Wasser in der Pfanne ist und der Fisch gut dünstet.
   - image: ../images/geduensteter_wildlachs_spargel.webp
     description: Hier haben wir Spargel dazugegeben und einen Aquakultur Iglo Atlantiklachs genommen. Fisch bei Herd-Stufe 6 reingegeben und nach 3min auf 5 zurückgedreht. Nach ca 10min war die Kerntemp noch keine 55°C  (weil wir den Fisch leider nicht antauen haben lassen). Also noch paar min bei Stufe 6 bis er innen überall 60°C hatte (also etwas zuviel). In Summe war er sehr gut aber innen etwas zu trocken und der Spargel durch die lange Dauer zu weich. Besser auftauen lassen und günstiges, festes Gemüse nehmen (den Spargel merkt man eher wenig raus und dafür ist er zu teuer)
+  - image: ../images/geduensteter_wildlachs_spargel2.webp
+    description: Fisch 1h vorher in kaltes Wasserbad legen zum Auftauen. Gemüse wie üblich zubereiten, Spargel geschält in Stücken dazu, kurz warm werden lassen, dann Fische drauflegen und bei Stufe 6 (später nur 5) ca 8-9min zugedeckt dünsten. Spargel war gerade richtig durch, Fisch hatte aber schon zu hohe Kerntemperatur (ca 70-75°C) und war etwas trocken. In Summe aber sehr gut!
 
 
 components:
