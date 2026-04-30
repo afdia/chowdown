@@ -3,7 +3,7 @@
 layout: recipe
 title: "Frittatensuppe"
 image: frittatensuppe.webp
-category: Hauptgericht
+category: Suppe
 
 images:
   - image: ../images/frittatensuppe_geschnitten.webp

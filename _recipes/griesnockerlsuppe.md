@@ -2,7 +2,7 @@
 layout: recipe
 title: "Griesnockerlsuppe"
 image: griesnockerlsuppe.webp
-category: Hauptgericht
+category: Suppe
 
 components:
   - Gemüsebrühe

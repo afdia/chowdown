@@ -2,7 +2,7 @@
 layout: recipe
 title: "Kohlsuppe"
 image: kohlsuppe.webp
-category: Hauptgericht
+category: Suppe
 
 ingredients:
   - 1/2 Kohlkopf

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Quesadillas"
 image: quesadillas.webp
-category: Brot und Gebäck
+category: Hauptgericht
 
 components:
   - Tortillas
