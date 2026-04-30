@@ -2,7 +2,7 @@
 layout: recipe
 title: "Kürbiscremesuppe"
 image: kuerbiscremesuppe.webp
-category: Hauptgericht
+category: Suppe
 
 images:
   - image: ../images/kuerbiscremesuppe_vor_puerieren.webp

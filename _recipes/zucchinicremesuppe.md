@@ -2,7 +2,7 @@
 layout: recipe
 title: "Zucchinicremesuppe"
 image: zucchinicremesuppe.webp
-category: Hauptgericht
+category: Suppe
 
 ingredients:
   - 1 mittelgroße Zwiebel

@@ -22,7 +22,9 @@ images:
   - image: ../images/pfannen_fladenbrot_eierspeise.webp
     description: Übrige Fladenbrote vom Vortag kann man mit Eierspeise und Paprikastücken füllen. Oder man friert sie ein. Später kurz auftauen lassen und evtl kurz im Rohr leicht resch backen. Schmeckt wie frische Fladen.
   - image: ../images/pfannen_fladenbrot_ueberbacken.webp
-    description: Man kann sie auch einfrieren. Später im Backrohr für 5min 100°C Umluft kurz backen. Währenddessen Tomate+Mozzarella in Stücke schneiden, rausnehmen, belegen und nochmal für 10min 200°C Umluft ins Rohr geben. Schmeckt super, wie überbackenes Pitabrot.
+    description: Man kann sie auch einfrieren. Später im Backrohr für 5min 100°C Umluft kurz backen. Währenddessen Tomate+Mozzarella in Stücke schneiden (optional Basilikum und Tomatenpesto dazumischen), rausnehmen, belegen und nochmal für 10min 200°C Umluft ins Rohr geben. Schmeckt super, wie überbackenes Pitabrot.
+  - image: ../images/pfannen_fladenbrot_ratatouille.webp
+    description: Zucchini in kleine Würfel schneiden, in etwas Öl scharf anbraten, Spitzpaprika in kleine Stücke schneiden und dazugeben. Knoblauch fein würfeln und dazugeben. Fladen in Mitte auseinander schneiden und jede Hälfte mit der Masse belegen. Einen gewürfelten Mozzarella darauf verteilen
 
 ingredients:
   - 450g Mehl

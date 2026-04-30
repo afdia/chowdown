@@ -2,7 +2,7 @@
 layout: recipe
 title: "Gemüse Bohnen Suppe"
 image: gemuese_bohnen_suppe.webp
-category: Hauptgericht
+category: Suppe
 
 images:
   - image: ../images/gemuese_bohnen_suppe_topf.webp

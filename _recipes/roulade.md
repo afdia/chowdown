@@ -15,6 +15,8 @@ images:
     description: Das Gitter geht sich im Kühschrank gerade aus (man darf allerdings keine hohen Milchpakerl etc auf der Seite haben). Mandelsplitter passen super auf die Schokolade
   - image: ../images/roulade_erdbeer_weiße_schoko_hase.webp
     description: Schokohasen (weiße Schoko+Erdbeerstücke) geschmolzen und außen drauf. Innen geschnittene Erdbeeren + Erdbeermarmelade. War super!
+  - image: ../images/roulade_weiße_schoko_hase.webp
+    description: Schokohasen (weiße Schoko) geschmolzen und außen drauf. Darüber Schokostreusel verteilt und innen Erdbeermarmelade. War super aber für Dagmar außen etwas zu süß!
   - image: ../images/roulade_vorgerollt.webp
     description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
   - image: ../images/roulade_fuellung_passt.webp

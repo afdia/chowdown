@@ -12,6 +12,8 @@ images:
     description: Roh schaut der Kohl nach viel aus, er geht aber schnell zusammen
   - image: ../images/gruenkohl_mit_kartoffeln_und_spiegelei_pfanne.webp
     description: In der Pfanne ist er schon viel kompakter
+  - image: ../images/gruenkohl_mit_kartoffeln_und_spiegelei_spinat.webp
+    description: Variante mit 400g (8 Stk TK) Spinat. Sonst genauso zubereiten nur zusätzlich Champignons anbraten (werden leider kalt bis man alles andere fertig hat, daher nicht unbedingt nötig)
 
 ingredients:
 - 1 Pkg Grünkohl

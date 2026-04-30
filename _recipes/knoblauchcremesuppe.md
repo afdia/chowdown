@@ -2,7 +2,7 @@
 layout: recipe
 title: "Knoblauchcremesuppe"
 image: knoblauchcremesuppe.webp
-category: Hauptgericht
+category: Suppe
 
 ingredients:
   - 5 Knoblauchzehen (ca 25g)
