@@ -35,6 +35,8 @@ images:
     description: 400g Kirschen (Gewicht nach Entkernen; mehr einplanen falls wurmige dabei sind) mit Pürierstab fein pürieren + 133g 1:3 Zucker. Schmeckt leider wenig nach Kirsche aber trotzdem ganz gut
   - image: ../images/marmelade_marille_pfirsich.webp
     description: 500g Marillen, 500g Pfirsich, 500g 1:2 Zucker (es gab keinen 1:3). Ergebnis ist leider etwas süß und stark geliert. Die normale Marillenmarmelade schmeckt besser
+  - image: ../images/marmelade_erdbeer_ananas.webp
+    description: Rechts 280g Ananas (2 kleine Ananasdosen) + 720g Erdbeeren pürieren, dann 1 Zitrone dazupressen und mit 333g 1:3 Zucker vermischen. Sehr gut aber schmeckt großteils nach Erdbeeren. Links ca 700g (2 gr Dosen) Ananas + 800g Erdbeeren + 1 Zitrone. Nicht so schöne Farbe aber geschmacklick auch sehr gut und etwas mehr nach Ananas.
   - image: ../images/marmelade_kumquat.webp
     description: 110g Kumquat (gewogen nach rollen, Kerne und bitteres Weißes entfernen, in Stücke geschnitten), 58g Zucker + 8g Vanillezucker, 90g Wasser. 5min Stufe 8 Kochen wird sehr Geleeartig (Achtung karamellisiert schnell), am Schluss pürieren, schmeckt sehr orangig durch Schale
 

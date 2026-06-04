@@ -7,6 +7,8 @@ category: Salate und Aufstriche
 images:
   - image: ../images/thunfisch_salat.webp
     description: Variante ohne rote Rüben. 20g Olivenöl, 12g Balsamico, 3g Honig, Salz, Pfeffer anrühren. 1 kleine rote Zwiebel in Scheiben dazu, 1 kleine Dose Thunfisch, etwas Mais und Kidneybohnen aus dem Glas dazu. Schmeckt auch super!
+  - image: ../images/thunfisch_salat_rote_rueben_kaeferbohnen.webp
+    description: Kein Thunfisch, Käferbohnen statt weißen Bohnen. War auch sehr gut
   - image: ../images/thunfisch_salat_guacamole.webp
     description: Einige Edamame Sojabohnen, 1 kleine Dose Thunfisch, einige Tomaten, etwas Guacamole mit Olivenöl, Essig, Honig, Salz, Pfeffer, Gute Laune vermischen als Dressing. Der Großteil der Guacmole wird auf ein Laugenstangerl gestrichen und darauf Mozzarella + Gute Laune und Kräutersalz verteilt
 
