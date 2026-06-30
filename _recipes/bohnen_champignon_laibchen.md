@@ -20,7 +20,7 @@ images:
   - image: ../images/bohnen_champignon_laibchen_eingefrohren_zubereitet_vorher.webp
     description: Nach dem Auftauen war recht viel Eis oben. Haben wir abgekratzt. Ölmenge wie am Bild in Pfanne gegeben und auf Stufe 9 gut vorgeheizt
   - image: ../images/bohnen_champignon_laibchen_eingefrohren_zubereitet_nachher.webp
-    description: Bei heißer Pfanne paar Minuten pro Seite scharf anbraten damit sie resch werden (Achtung durch das Eis spritzt es etwas!). Ohne Ei zerbrösen sie leider auch nach dem Auftauen
+    description: Bei heißer Pfanne paar Minuten pro Seite scharf anbraten damit sie resch werden (Achtung durch das Eis spritzt es etwas!). War der 1. Versuch ohne Ei daher zerbrösen sie auch nach dem Auftauen
   - image: ../images/bohnen_champignon_laibchen_burger.webp
     description: Die Burger hatten unten das Laibchen+Käse drauf, darauf 1 Scheibe Tomaten, Ketchup, Rucola und nochmal Ketchup+Senf bzw Majonaise
   - image: ../images/bohnen_champignon_laibchen_eingefrohren_zubereitet_fertig.webp

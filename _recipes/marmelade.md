@@ -22,7 +22,7 @@ images:
   - image: ../images/marmelade_roteribisel_himbeer.webp
     description: Rote Ribisel&Himbeeren - Rote Ribisel (mit Gabel abrebeln) und Himbeeren zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. (Ergebnis war sehr Gelee-artig, besser mit Heidelbeeren weil die flüssiger sind)
   - image: ../images/marmelade_schwarzeribisel_heidelbeer.webp
-    description: Schwarze Ribisel&Heidelbeeren - Schwarze Ribisel (mit Gabel abrebeln) zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. Heidelbeeren zerkleinern und direkt dazu
+    description: Schwarze Ribisel&Heidelbeeren - Schwarze Ribisel (mit Gabel abrebeln) zerkleinern und Masse aufkochen (damit flüssiger; sonst bleibt alles im Sieb), dann absieben. Heidelbeeren zerkleinern und direkt dazu. Ein anderes Mal ca 10g Zitrone, 400g Ribisel, 400g Erdbeeren, 250g Heidelbeeren war auch super. Ribisel waren eingefrohren darum wenig rausgegangen, beim 2. Aufkochen etwas Wasser dazugegeben. War auch super Ergebnis!
   - image: ../images/marmelade_schwarzeribisel.webp
     description: Schwarze Ribisel mit Gabel abrebeln und mit 1 ausgepressten Zitrone ca 5min aufkochen und währenddessen zerdrücken. Danach durch Sieb in 2. Topf (der auf Waage steht) drücken (man verliert ca 1/3 der Masse an Kernen etc). 50% von der gesiebten Masse kommt als Zucker dazu (davon 20g Vanillezucker) und nochmal 3min aufkochen. Letztes Mal 1 große Zitrone, 820g Ribisel (nach Sieben ca 560g), dazu 260g Zucker + 20g Vanillezucker gegeben. Ergibt 3,5 Gläser. Geschmacklich super (wie Black Sun Cocktail) aber etwas zu flüssig (stört aber nicht). Nächstes Mal evtl Gelierzucker nehmen
   - image: ../images/marmelade_zwetschke.webp

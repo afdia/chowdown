@@ -17,12 +17,8 @@ images:
     description: Schokohasen (weiße Schoko+Erdbeerstücke) geschmolzen und außen drauf. Innen geschnittene Erdbeeren + Erdbeermarmelade. War super!
   - image: ../images/roulade_weiße_schoko_hase.webp
     description: Schokohasen (weiße Schoko) geschmolzen und außen drauf. Darüber Schokostreusel verteilt und innen Erdbeermarmelade. War super aber für Dagmar außen etwas zu süß!
-  - image: ../images/roulade_vorgerollt.webp
-    description: Der Teig wurde vor dem Bestreichen "vorgerollt". Hier mit überschüssigem Schaum von Erdbeermarmelade bestrichen. Evtl Biskuitteig etwas weiter zum Rand streichen als hier.
   - image: ../images/roulade_fuellung_passt.webp
-    description: Bei Topfenroulade mit Erdbeeren streicht man die Füllung wie hier besser nur in ein Eck damit sie nicht herausrinnt beim einrollen
-  - image: ../images/roulade_gebrochen.webp
-    description: Wenn der Teig zu dick ist bzw evtl wenn man darunter Marmelade streicht (wird rutschig) schiebt sich die Füllung raus und die Rolle geht auf
+    description: Bei Topfenroulade mit Erdbeeren streicht man die Füllung wie hier besser nur in ein Eck damit sie nicht herausrinnt beim einrollen. Darunter keine Marmelade geben, sonst rutscht die Erdbeermasse beim Einrollen raus.
   - image: ../images/roulade_kakao.webp
     description: Variante mit dunklem Teig (13g Kakao) und statt Erdbeeren eingelegte Marillen + Marillenmarmelade. War ganz gut aber etwas zuviel Kakao und Füllung hat nicht ganz gepasst. Evtl besser Butterchreme wie zb bei Tiramisu oder Bananenschnitten machen
   - image: ../images/roulade_heidelbeere.webp
@@ -31,12 +27,12 @@ images:
     description: 125g statt 75g Schlagobers probiert. Topfen wie üblich. Passt super, macht Füllung fester. 1Pkg Ja! TK Heidelbeeren dazu + 3/4 Glas Darbo Heidelbeermarmelade dazu. Teig nur ca 20sek gerollt und danach sofort gefüllt und wieder zugerollt. Ist nicht gebrochen und Enden haben sich beim Auskühlen gut verbunden. Immer so machen!
   - image: ../images/roulade_obstkuchen.webp
     description: Biskuit bestrichen mit Erdbeermarmelade und mit vielen Erdbeeren belegt schmeckt super
+  - image: ../images/roulade_obstkuchen_tortengelee.webp
+    description: 12g weißes Tortengeleepulver, 20g Staubzucker, 250g Wasser 1min schwach kochen dann 10min auskühlen lassen (wie auf Packungsbeilage), dann schnell darauf verteilen sonst stockt es im Topf. Passt sehr gut, Dagmar mags aber nicht so gern
   - image: ../images/roulade_obstkuchen2.webp
     description: Wie zuvor aber Enden weggeschnitten und in Glasform geschlichtet. Saugt sich am nächsten Tag gut an ist aber sonst sehr ähnlich
   - image: ../images/roulade_obstkuchen_schlagobers.webp
     description: Biskuit mit 8g Kakao, bestrichen mit Erdbeermarmelade 250g geschlagenem Schlagobers und mit vielen Erdbeeren belegt schmeckt ebenfalls super
-  - image: ../images/roulade_ohne_schnee.webp
-    description: Versuch mit nur 3 Eiern und ohne Schnee separat zu schlagen - Biskuit ist sitzen geblieben und war nicht luftig
   - image: ../images/roulade_flach.webp
     description: Wie Roulade, aber nicht eingerollt sondern in Mitte halbiert, gestapelt (dazwischen und oben Marmelade). Darauf dann die Topfen/Schlagobers Creme und oben geschmolzene Scholokade (Lindt mild&cremig 50% dunkle Schokolade passt super). War auch sehr gut
   - image: ../images/roulade_gebackene_erdbeeren.webp
