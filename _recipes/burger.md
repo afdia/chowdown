@@ -25,6 +25,8 @@ images:
     description: Mozzarella, Tomatenpesto, Gurkenscheiben, Tomaten, Ruccola. Schmeckt auch super und leicht
   - image: ../images/burger_kimchi.webp
     description: Kimchi, kleine Gurke, glasige Scharlottenzwiebel, Vogerlsalat, Ketchup Senf, Kren passen super in den Burger
+  - image: ../images/burger_tofu.webp
+    description: Mit dem Waldviertler Kräutertofu schmeckt der Burger auch sehr gut (aber nicht so gut wie mit Halloumi). Tofu in 4 dünne Scheiben schneiden und in etwas Rapsöl scharf anbraten
   - image: ../images/burger_riesig.webp
     description: Statt 8 Buns nur 4 gemacht. Waren riesig, daher 2x durchgschnitten mit extra Teigscheibe in Mitte. Problem ist dass er nicht hält und beim Schneiden zerfällt, daher nicht optimal
   - image: ../images/burger_riesig_halbiert.webp

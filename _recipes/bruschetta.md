@@ -9,6 +9,8 @@ images:
     description: Das geschnittene Chiabatta, Bruschetta und der Toaster
   - image: ../images/bruschetta_saft.webp
     description: Der Saft schmeckt ausgezeichnet (nach paar Durchgängen sammelt sich auch genug davon am Teller)
+  - image: ../images/bruschetta_aufbackbroetchen.webp
+    description: Abgepackte Aufbackbrötchen vorher in der Mitte aufschneiden und erst danach ins Backrohr geben. Passt überraschend gut und schmeckt super!
   - image: ../images/bruschetta_dunkles_brot.webp
     description: Dunkles Brot passt zwar auch, überdeckt aber den Tomatengeschmack etwas, daher ist Weißbrot besser
   - image: ../images/bruschetta_grosse_tomaten.webp

@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/kohlrabisauce_mit_halloumi_kartoffelpueree.webp
     description: Statt Bratkartoffeln passt auch Püree super!
+  - image: ../images/kohlrabisauce_mit_halloumi_fisolen.webp
+    description: Statt Kohlrabi, Fisolen in 1cm Stücke schneiden. Zwiebel und Knoblauch kurz andünsten, dann Fisolen dazu und mit Suppenwürze und Pfeffer würzen. Mindestens 10min zugedeckt dünsten und am Schluss ein Schuss Schlagobers dazugeben. Schmeckt auch super!
   - image: ../images/kohlrabisauce_lauch.webp
     description: Lauch passt nicht zu Kohlrabi weil es den Geschmack überlagert
 

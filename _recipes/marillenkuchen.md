@@ -24,6 +24,6 @@ directions:
   - Danach Mehl, Backpulver und Marillenpüree dazugeben und weiter mixen
   - Am Schluss Schnee unterheben und in ausgefettete Springform geben
   - restliche Marillen entkernen, achteln und kreisförmig oben auf Teig verteilen
-  - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchen für 30-35 Minuten backen (letztes Mal 45min weil er noch sehr hell war)
+  - Ofen auf 180°C Ober-Unterhitze vorheizen und Kuchenform auf Blech in mittlerer Schiene für 45 Minuten backen
 ---
 Schmeckt super und saftig, ganz anders als Blechkuchen

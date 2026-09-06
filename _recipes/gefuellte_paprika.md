@@ -31,7 +31,7 @@ ingredients:
   - 3 Knoblauchzehen
   - 1 Dose Kidneybohnen
   - 1/2 Glas Mais
-  - 200g Quinoa + 300ml Wasser
+  - 200g Quinoa + 300ml Wasser (die letzten 2x mussten wir Wasser nachgeben. Evtl neue Quiona Marke die mehr Wasser braucht?)
   - 200g Mozzarella
   - Suppenwürze, Pfeffer
 
