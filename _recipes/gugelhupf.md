@@ -7,6 +7,8 @@ category: Süßspeise
 images:
   - image: ../images/gugelhupf_walnuss.webp
     description: -60g Mehl, +120g geriebene Walnüsse, 20g Schokostreusel statt Kakao. Nüsse passen sehr gut; zuviel Schoko nicht. Nächster Versuch 250g Mehl, 75g grob gehackte Walnüssen, 100g fein geriebene Karotten war sehr gut (Nüsse und Karotten erst vor Schnee dazumischen). Karotte merkt man fast nicht, macht den Kuchen vmtl über die nächsten Tage saftiger
+  - image: ../images/gugelhupf_mandel_schoko.webp
+    description: Schokostreusel passt sehr gut rein, Die Auflaufform eingefettet und dann Mandelsplitter drauf (restliche Splitter in Teig). War auch sehr gut!
   - image: ../images/gugelhupf_haselnuss.webp
     description: -75g Mehl, +75g geriebene Haselnüsse, 270g Joghurt statt Milch, keine Schokolade/Kakao - sehr saftig und gut, schmeckt intensiv nach Haselnüssen (nächster Versuch 50g Haselnüsse + Schokoflocken war auch sehr gut aber hat weniger nach Nüssen geschmeckt)
   - image: ../images/gugelhupf_karotten.webp

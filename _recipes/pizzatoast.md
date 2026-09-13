@@ -7,6 +7,8 @@ category: Hauptgericht
 images:
   - image: ../images/pizzatoast_auf_tk_pizza.webp
     description: Übrige Sauce passt gut auf TK-Pizza (oder Risi Bisi siehe dortiges Rezept)
+  - image: ../images/pizzatoast_aufbackbroetchen.webp
+    description: Aufbackbrötchen sind eine gute Alternative zu Toasts, wenn man sie vor dem Aufbacken horizontal in 3 Scheiben durchschneidet (die hinteren am Bild sind Aufbackbrötchen, die vorderen Toasts)
   - image: ../images/toast_champignons.webp
     description: Toastbrot, Scheibe Käse, drauf dünne Champignons passt super
   - image: ../images/toast_paprika.webp

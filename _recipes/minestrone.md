@@ -3,7 +3,7 @@
 layout: recipe
 title: "Minestrone"
 image: minestrone.webp
-category: Hauptgericht
+category: Suppe
 
 ingredients:
 - 1 kleine Zwiebel
